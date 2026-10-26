@@ -270,8 +270,9 @@
    "liga": "Malta: Premier League",
    "local": "Mosta",
    "visitante": "Hibernians",
-   "tendencia": "★★★ Hibernians o empate · cuota ~1,30",
-   "inicio": "2026-10-26T19:30:00+00:00"
+   "tendencia": "★★★ Hibernians o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-26T19:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Mexico: Liga MX",
@@ -450,8 +451,9 @@
    "liga": "Chile: Primera División",
    "local": "Universidad de Chile",
    "visitante": "Everton de Vina",
-   "tendencia": "★★★ Gana Universidad de Chile · cuota 1,65",
-   "inicio": "2026-10-26T21:00:00+00:00"
+   "tendencia": "★★★ Gana Universidad de Chile · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-26T21:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Colombia: Primera A",
@@ -637,8 +639,9 @@
    "liga": "Portugal: Segunda Liga",
    "local": "Torreense",
    "visitante": "Amarante",
-   "tendencia": "★★★ Torreense o empate · cuota ~1,10",
-   "inicio": "2026-10-26T20:45:00+00:00"
+   "tendencia": "★★★ Torreense o empate · cuota ~1,10 · ✓ acertado",
+   "inicio": "2026-10-26T20:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Romania: Liga II",
