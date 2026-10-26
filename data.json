@@ -108,7 +108,7 @@
    "liga": "Armenia: Premier League",
    "local": "Ararat-Armenia",
    "visitante": "FC Noah",
-   "tendencia": "★★★ FC Noah o empate · cuota ~1,28",
+   "tendencia": "★★★ FC Noah o empate · cuota ~1,28 · ✗ fallado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "2 - 1"
   },
@@ -131,7 +131,7 @@
    "liga": "Bulgaria: First League",
    "local": "Lokomotiv Plovdiv",
    "visitante": "Slavia Sofia",
-   "tendencia": "★★★ Lokomotiv Plovdiv o empate · cuota ~1,25",
+   "tendencia": "★★★ Lokomotiv Plovdiv o empate · cuota ~1,25 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "0 - 0"
   },
@@ -161,8 +161,9 @@
    "liga": "Cyprus: 1. Division",
    "local": "Nea Salamis",
    "visitante": "Pafos",
-   "tendencia": "★★★ Gana Pafos · cuota 1,60",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Gana Pafos · cuota 1,60 · ✗ fallado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Cyprus: 1. Division",
@@ -189,7 +190,7 @@
    "liga": "Georgia: Erovnuli Liga",
    "local": "FC Iberia 1999",
    "visitante": "Torpedo Kutaisi",
-   "tendencia": "★★★ Gana FC Iberia 1999 · cuota 1,60",
+   "tendencia": "★★★ Gana FC Iberia 1999 · cuota 1,60 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "3 - 2"
   },
@@ -237,8 +238,9 @@
    "liga": "Latvia: Virsliga",
    "local": "Grobiņa",
    "visitante": "Riga",
-   "tendencia": "★★★ Gana Riga · cuota 1,18",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Gana Riga · cuota 1,18 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Lithuania: A Lyga",
@@ -310,15 +312,17 @@
    "liga": "Turkey: Süper Lig",
    "local": "Beşiktaş",
    "visitante": "Başakşehir",
-   "tendencia": "★★★ Gana Beşiktaş · cuota 1,36",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Gana Beşiktaş · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Turkey: Süper Lig",
    "local": "Rizespor",
    "visitante": "Trabzonspor",
-   "tendencia": "★★★ Trabzonspor o empate · cuota ~1,24",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Trabzonspor o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "3 - 4"
   },
   {
    "liga": "Turkey: Süper Lig",
@@ -355,15 +359,17 @@
    "liga": "AFC Champions League Elite",
    "local": "Al-Ahli Jeddah",
    "visitante": "Al-Gharafa",
-   "tendencia": "★★★ Gana Al-Ahli Jeddah · cuota 1,22",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Gana Al-Ahli Jeddah · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "AFC Champions League Elite",
    "local": "Al Ain",
    "visitante": "Tractor Sazi",
-   "tendencia": "★★★ Gana Al Ain · cuota 1,40",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Gana Al Ain · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "AFC Champions League Elite",
@@ -390,8 +396,9 @@
    "liga": "Argentina: Primera Nacional",
    "local": "Nueva Chicago",
    "visitante": "San Martin S.J.",
-   "tendencia": "★★★ Nueva Chicago o empate · cuota ~1,28",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Nueva Chicago o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Armenia: Cup",
@@ -511,7 +518,7 @@
    "liga": "Israel: State Cup",
    "local": "Hapoel Acre",
    "visitante": "Tira",
-   "tendencia": "★★★ Tira o empate · cuota ~1,38",
+   "tendencia": "★★★ Tira o empate · cuota ~1,38 · ✗ fallado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "5 - 0"
   },
@@ -519,7 +526,7 @@
    "liga": "Israel: State Cup",
    "local": "Kafr Qasim",
    "visitante": "Beitar Petah Tikva",
-   "tendencia": "★★★ Gana Kafr Qasim · cuota 1,17",
+   "tendencia": "★★★ Gana Kafr Qasim · cuota 1,17 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "5 - 2"
   },
@@ -527,7 +534,7 @@
    "liga": "Israel: State Cup",
    "local": "Beitar Nahariya",
    "visitante": "Hapoel Afula",
-   "tendencia": "★★★ Hapoel Afula o empate · cuota ~1,26",
+   "tendencia": "★★★ Hapoel Afula o empate · cuota ~1,26 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "1 - 3"
   },
@@ -535,7 +542,7 @@
    "liga": "Israel: State Cup",
    "local": "Hapoel Sderot",
    "visitante": "Maccabi Ahi Nazareth",
-   "tendencia": "★★★ Maccabi Ahi Nazareth o empate · cuota ~1,35",
+   "tendencia": "★★★ Maccabi Ahi Nazareth o empate · cuota ~1,35 · ✓ acertado",
    "inicio": "2026-10-26T15:30:00+00:00",
    "resultado": "2 - 3"
   },
@@ -543,7 +550,7 @@
    "liga": "Israel: State Cup",
    "local": "Dimona",
    "visitante": "Hapoel Rishon LeZion",
-   "tendencia": "★★★ Hapoel Rishon LeZion o empate · cuota ~1,25",
+   "tendencia": "★★★ Hapoel Rishon LeZion o empate · cuota ~1,25 · ✓ acertado",
    "inicio": "2026-10-26T15:30:00+00:00",
    "resultado": "2 - 3"
   },
@@ -601,8 +608,9 @@
    "liga": "Peru: Segunda División",
    "local": "Molinos El Pirata",
    "visitante": "Union Comercio",
-   "tendencia": "★★★ Union Comercio o empate · cuota ~1,29",
-   "inicio": "2026-10-26T16:00:00+00:00"
+   "tendencia": "★★★ Union Comercio o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-26T16:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Portugal: Segunda Liga",
@@ -615,7 +623,7 @@
    "liga": "Romania: Liga II",
    "local": "Metaloglobus",
    "visitante": "CSM Ramnicu Valcea",
-   "tendencia": "★★★ Metaloglobus o empate · cuota ~1,32",
+   "tendencia": "★★★ Metaloglobus o empate · cuota ~1,32 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "2 - 0"
   },
@@ -623,7 +631,7 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Bukayriyah",
    "visitante": "Hajer",
-   "tendencia": "★★★ Al Bukayriyah o empate · cuota ~1,25",
+   "tendencia": "★★★ Al Bukayriyah o empate · cuota ~1,25 · ✓ acertado",
    "inicio": "2026-10-26T15:00:00+00:00",
    "resultado": "2 - 1"
   },
