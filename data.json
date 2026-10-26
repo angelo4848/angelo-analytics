@@ -160,7 +160,7 @@
    "liga": "India: Indian Super League",
    "local": "ATK Mohun Bagan",
    "visitante": "Chennaiyin",
-   "tendencia": "★★★ Gana ATK Mohun Bagan · cuota 1,22 · ✓ acertado",
+   "tendencia": "★★★ Gana ATK Mohun Bagan · cuota 1,22",
    "inicio": "2026-10-26T14:01:41+00:00",
    "pick": true,
    "resultado": "1 - 0"
@@ -302,15 +302,17 @@
    "liga": "Uzbekistan: Super League",
    "local": "Xorazm",
    "visitante": "Navbahor",
-   "tendencia": "★★★ Gana Navbahor · cuota 1,53",
-   "inicio": "2026-10-26T13:50:41+00:00"
+   "tendencia": "★★★ Gana Navbahor · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-26T13:50:41+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "AFC Champions League Elite",
    "local": "Neftchi",
    "visitante": "Al-Ittihad FC",
    "tendencia": "★★★ Al-Ittihad FC o empate · cuota ~1,18",
-   "inicio": "2026-10-26T13:37:41+00:00"
+   "inicio": "2026-10-26T13:37:41+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "AFC Champions League Elite",
@@ -402,8 +404,9 @@
    "liga": "Croatia: First NL",
    "local": "Mladost Ždralovi",
    "visitante": "Jadran LP",
-   "tendencia": "★★★ Mladost Ždralovi o empate · cuota ~1,32",
-   "inicio": "2026-10-26T13:20:41+00:00"
+   "tendencia": "★★★ Mladost Ždralovi o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-26T13:20:41+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Ethiopia: Premier League",
@@ -439,8 +442,9 @@
    "liga": "Greece: Super League 2",
    "local": "Zakynthos",
    "visitante": "Pyrgos 1968",
-   "tendencia": "★★★ Zakynthos o empate · cuota ~1,27",
-   "inicio": "2026-10-26T13:07:41+00:00"
+   "tendencia": "★★★ Zakynthos o empate · cuota ~1,27 · ✗ fallado",
+   "inicio": "2026-10-26T13:07:41+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Iran: Azadegan League",
@@ -613,36 +617,41 @@
    "liga": "Tunisia: Ligue 2",
    "local": "Kerkennah",
    "visitante": "BS Bouhajla",
-   "tendencia": "★★★ Kerkennah o empate · cuota ~1,22",
-   "inicio": "2026-10-26T13:37:41+00:00"
+   "tendencia": "★★★ Kerkennah o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-26T13:37:41+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Tunisia: Ligue 2",
    "local": "AS Soliman",
    "visitante": "CS Chebba",
-   "tendencia": "★★★ AS Soliman o empate · cuota ~1,15",
-   "inicio": "2026-10-26T13:37:41+00:00"
+   "tendencia": "★★★ AS Soliman o empate · cuota ~1,15 · ✓ acertado",
+   "inicio": "2026-10-26T13:37:41+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Tunisia: Ligue 2",
    "local": "Sporting Ben Arous",
    "visitante": "Mégrine",
-   "tendencia": "★★★ Sporting Ben Arous o empate · cuota ~1,22",
-   "inicio": "2026-10-26T13:50:41+00:00"
+   "tendencia": "★★★ Sporting Ben Arous o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-26T13:50:41+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Tunisia: Ligue 2",
    "local": "Stade Soussien",
    "visitante": "Sfax Railways",
-   "tendencia": "★★★ Sfax Railways o empate · cuota ~1,30",
-   "inicio": "2026-10-26T13:50:41+00:00"
+   "tendencia": "★★★ Sfax Railways o empate · cuota ~1,30 · ✗ fallado",
+   "inicio": "2026-10-26T13:50:41+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Tunisia: Ligue 2",
    "local": "Bouchamma",
    "visitante": "Kalaâ Sport",
    "tendencia": "★★★ Bouchamma o empate · cuota ~1,22",
-   "inicio": "2026-10-26T13:37:41+00:00"
+   "inicio": "2026-10-26T13:37:41+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Turkey: 1. Lig",
@@ -667,5 +676,6 @@
    "inicio": "2026-10-26T00:00:00+00:00",
    "resultado": "2 - 2"
   }
- ]
+ ],
+ "historial_pronosticos": []
 }
