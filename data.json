@@ -139,8 +139,9 @@
    "liga": "Bulgaria: First League",
    "local": "CSKA Sofia",
    "visitante": "Ludogorets",
-   "tendencia": "★★★ CSKA Sofia o empate · cuota ~1,37",
-   "inicio": "2026-10-26T17:30:00+00:00"
+   "tendencia": "★★★ CSKA Sofia o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-26T17:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Costa-Rica: Primera División",
@@ -154,8 +155,9 @@
    "liga": "Croatia: HNL",
    "local": "Istra 1961",
    "visitante": "HNK Hajduk Split",
-   "tendencia": "★★★ Gana HNK Hajduk Split · cuota 1,65",
-   "inicio": "2026-10-26T17:00:00+00:00"
+   "tendencia": "★★★ Gana HNK Hajduk Split · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-10-26T17:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Cyprus: 1. Division",
@@ -169,15 +171,17 @@
    "liga": "Cyprus: 1. Division",
    "local": "AEK Larnaca",
    "visitante": "Omonia Nicosia",
-   "tendencia": "★★★ Omonia Nicosia o empate · cuota ~1,30",
-   "inicio": "2026-10-26T17:00:00+00:00"
+   "tendencia": "★★★ Omonia Nicosia o empate · cuota ~1,30 · ✗ fallado",
+   "inicio": "2026-10-26T17:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Denmark: Superliga",
    "local": "FC Copenhagen",
    "visitante": "Odense",
-   "tendencia": "★★★ Gana FC Copenhagen · cuota 1,45",
-   "inicio": "2026-10-26T18:00:00+00:00"
+   "tendencia": "★★★ Gana FC Copenhagen · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-26T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "England: League Two",
@@ -231,8 +235,9 @@
    "liga": "Israel: Ligat Ha'al",
    "local": "Maccabi Haifa",
    "visitante": "Hapoel Beer Sheva",
-   "tendencia": "★★★ Maccabi Haifa o empate · cuota ~1,33",
-   "inicio": "2026-10-26T17:00:00+00:00"
+   "tendencia": "★★★ Maccabi Haifa o empate · cuota ~1,33 · ✗ fallado",
+   "inicio": "2026-10-26T17:00:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Latvia: Virsliga",
@@ -246,15 +251,17 @@
    "liga": "Lithuania: A Lyga",
    "local": "Kauno Žalgiris",
    "visitante": "FK Zalgiris Vilnius",
-   "tendencia": "★★★ Kauno Žalgiris o empate · cuota ~1,24",
-   "inicio": "2026-10-26T16:45:00+00:00"
+   "tendencia": "★★★ Kauno Žalgiris o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-26T16:45:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Malta: Premier League",
    "local": "Floriana",
    "visitante": "Zabbar St. Patrick",
-   "tendencia": "★★★ Gana Floriana · cuota 1,45",
-   "inicio": "2026-10-26T17:00:00+00:00"
+   "tendencia": "★★★ Gana Floriana · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-26T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Malta: Premier League",
@@ -292,21 +299,24 @@
    "local": "Santa Clara",
    "visitante": "Benfica",
    "tendencia": "★★★ Gana Benfica · cuota 1,36",
-   "inicio": "2026-10-26T18:45:00+00:00"
+   "inicio": "2026-10-26T18:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Romania: Liga I",
    "local": "Sepsi OSK Sfantu Gheorghe",
    "visitante": "Universitatea Craiova",
-   "tendencia": "★★★ Gana Universitatea Craiova · cuota 1,48",
-   "inicio": "2026-10-26T18:00:00+00:00"
+   "tendencia": "★★★ Gana Universitatea Craiova · cuota 1,48 · ✓ acertado",
+   "inicio": "2026-10-26T18:00:00+00:00",
+   "resultado": "0 - 5"
   },
   {
    "liga": "Sweden: Superettan",
    "local": "Orebro SK",
    "visitante": "Falkenbergs FF",
-   "tendencia": "★★★ Falkenbergs FF o empate · cuota ~1,33",
-   "inicio": "2026-10-26T18:05:00+00:00"
+   "tendencia": "★★★ Falkenbergs FF o empate · cuota ~1,33 · ✗ fallado",
+   "inicio": "2026-10-26T18:05:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Turkey: Süper Lig",
@@ -329,7 +339,8 @@
    "local": "Galatasaray",
    "visitante": "Fenerbahçe",
    "tendencia": "★★★ Galatasaray o empate · cuota ~1,31",
-   "inicio": "2026-10-26T18:30:00+00:00"
+   "inicio": "2026-10-26T18:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -376,21 +387,24 @@
    "local": "Al-Qadisiyah FC",
    "visitante": "Al Sadd",
    "tendencia": "★★★ Gana Al-Qadisiyah FC · cuota 1,50",
-   "inicio": "2026-10-26T18:15:00+00:00"
+   "inicio": "2026-10-26T18:15:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "AFC Champions League Elite",
    "local": "Al Quwa Al Jawiya",
    "visitante": "Pakhtakor",
    "tendencia": "★★★ Pakhtakor o empate · cuota ~1,20",
-   "inicio": "2026-10-26T18:15:00+00:00"
+   "inicio": "2026-10-26T18:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Argentina: Primera B Metropolitana",
    "local": "UAI Urquiza",
    "visitante": "Villa San Carlos",
-   "tendencia": "★★★ Gana UAI Urquiza · cuota 1,62",
-   "inicio": "2026-10-26T18:00:00+00:00"
+   "tendencia": "★★★ Gana UAI Urquiza · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-26T18:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Argentina: Primera Nacional",
@@ -496,7 +510,7 @@
    "visitante": "Havadar",
    "tendencia": "★★★ Fard Alborz o empate · cuota ~1,27 · ✓ acertado",
    "inicio": "2026-10-26T00:00:00+00:00",
-   "resultado": "0 - 0"
+   "resultado": "2 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
@@ -639,8 +653,9 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Ula",
    "visitante": "Al Orubah",
-   "tendencia": "★★★ Gana Al Ula · cuota 1,38",
-   "inicio": "2026-10-26T16:45:00+00:00"
+   "tendencia": "★★★ Gana Al Ula · cuota 1,38 · ✓ acertado",
+   "inicio": "2026-10-26T16:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Singapore: Premier League",
@@ -709,8 +724,9 @@
    "liga": "Turkey: 1. Lig",
    "local": "Mardin 1969",
    "visitante": "Manisa F.K.",
-   "tendencia": "★★★ Gana Mardin 1969 · cuota 1,62",
-   "inicio": "2026-10-26T17:00:00+00:00"
+   "tendencia": "★★★ Gana Mardin 1969 · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-26T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Uzbekistan: Pro League A",
