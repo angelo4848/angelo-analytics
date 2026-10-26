@@ -144,7 +144,7 @@ nav button[aria-current="page"]{color:var(--win);background:rgba(34,197,94,.08)}
   <section class="view" id="inicio">
     <div class="hello">
       <div class="eyebrow" id="today"></div>
-      <h1>Partidos de hoy</h1>
+      <h1>Partidos</h1>
     </div>
     <div class="search">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
@@ -256,7 +256,7 @@ nav button[aria-current="page"]{color:var(--win);background:rgba(34,197,94,.08)}
     let html='',lg='';
     list.forEach(m=>{
       if(m.liga!==lg){lg=m.liga;html+=`<div class="league">${esc(lg)}</div>`}
-      const stTxt=m.st==='live'?'<small class="st-live"><span class="blink"></span>VIVO</small>':m.st==='end'?'<small class="st-end">FINAL</small>':'<small class="st-next">HOY</small>';
+      const stTxt=m.st==='live'?'<small class="st-live"><span class="blink"></span>VIVO</small>':m.st==='end'?'<small class="st-end">FINAL</small>':('<small class="st-next">'+(new Date(m.inicio).toDateString()===new Date().toDateString()?'HOY':'MAÑANA')+'</small>');
       const sc=m.resultado||m.marcador||'';
       const link='https://www.sofascore.com/search?q='+encodeURIComponent(m.local);
       html+=`<div class="mrow ${m.st==='live'?'live':''}">
@@ -288,13 +288,16 @@ nav button[aria-current="page"]{color:var(--win);background:rgba(34,197,94,.08)}
     const picks=[...(d.picks||[])].sort((a,b)=>b.fecha.localeCompare(a.fecha));
     $('#upd').textContent=d.actualizado?'Actualizado '+fdate(d.actualizado):'';
     $('#today').textContent=new Date().toLocaleDateString('es-ES',{weekday:'long',day:'numeric',month:'long'});
-    const top=picks[0];
-    if(top){
-      $('#pickTitle').textContent=top.titulo||'Pick del día';
-      $('#pickSub').textContent=fdate(top.fecha)+' · horas de Portugal';
-      $('#pickSlip').innerHTML=slip(top);
-      $('#pickTeaser').innerHTML=`<button class="pickCard" id="toPick"><span class="k">${esc(top.titulo||'Pick del día')} · <span class="pill ${top.estado}" style="font-size:10px">${top.estado}</span></span><span class="t">${esc(top.patas.map(l=>l.partido).join(' + '))}</span><span class="go">Ver análisis completo ›</span><span class="o">${fmt(top.cuota_total)}</span></button>`;
-      $('#toPick').addEventListener('click',()=>show('pick'));
+    const tISO=new Date().toLocaleDateString('sv-SE');
+    const act=picks.filter(p=>p.fecha>=tISO).sort((a,b)=>a.fecha.localeCompare(b.fecha));
+    const shown=act.length?act:picks.slice(0,1);
+    if(shown.length){
+      const lbl=p=>p.fecha===tISO?'Hoy':(p.fecha>tISO?'Mañana':fdate(p.fecha));
+      $('#pickTitle').textContent=shown.length>1?'Picks del día':(shown[0].titulo||'Pick del día');
+      $('#pickSub').textContent='Horas de Portugal';
+      $('#pickSlip').innerHTML=shown.map(p=>`<h2>${lbl(p)} · ${fdate(p.fecha)}</h2>`+slip(p)).join('');
+      $('#pickTeaser').innerHTML=shown.map(p=>`<button class="pickCard" data-tp="1"><span class="k">${esc(p.titulo||'Pick del día')} · ${lbl(p)} · <span class="pill ${p.estado}" style="font-size:10px">${p.estado}</span></span><span class="t">${esc(p.patas.map(l=>l.partido).join(' + '))}</span><span class="go">Ver análisis completo ›</span><span class="o">${fmt(p.cuota_total)}</span></button>`).join('');
+      document.querySelectorAll('[data-tp]').forEach(b=>b.addEventListener('click',()=>show('pick')));
     }else{
       $('#pickSub').textContent='Todavía no hay pick publicado hoy. Vuelve más tarde o sigue el canal de Telegram.';
     }
