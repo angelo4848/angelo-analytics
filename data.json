@@ -15,12 +15,13 @@
      "partido": "Mohun Bagan vs Chennaiyin",
      "mercado": "Mohun Bagan o empate + menos de 4,5 goles",
      "cuota": 1.24,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Primer partido en casa del Mohun Bagan, con la plantilla completa",
       "Chennaiyin lleva 7 jornadas sin ganar y llega con bajas en defensa",
       "Duelo de pocos goles: 1,75 de media en sus enfrentamientos"
-     ]
+     ],
+     "resultado": "1 - 0"
     },
     {
      "liga": "Brasileirão Série A",
@@ -159,9 +160,10 @@
    "liga": "India: Indian Super League",
    "local": "ATK Mohun Bagan",
    "visitante": "Chennaiyin",
-   "tendencia": "★★★ Gana ATK Mohun Bagan · cuota 1,22",
+   "tendencia": "★★★ Gana ATK Mohun Bagan · cuota 1,22 · ✓ acertado",
    "inicio": "2026-10-26T14:01:41+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "1 - 0"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -666,4 +668,4 @@
    "resultado": "2 - 2"
   }
  ]
-  }
+}
