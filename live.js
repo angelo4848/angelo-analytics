@@ -46,6 +46,7 @@ function apply(){
   document.querySelectorAll('.mrow').forEach(function(row){
     var t=row.querySelector('.teams');if(!t||!t.firstChild)return;
     var p=t.firstChild.textContent.split(' – ');if(p.length<2)return;
+    var td=row.querySelector('.tend');if(td&&!row.querySelector('.resb')){var ok=/✓/.test(td.textContent),ko=/✗/.test(td.textContent);if(ok||ko){var b=document.createElement('span');b.className='resb';b.textContent=ok?'GANADA':'PERDIDA';b.style.cssText='display:inline-block;font-size:10px;font-weight:800;letter-spacing:.08em;padding:2px 7px;border-radius:6px;margin-left:6px;vertical-align:middle;background:'+(ok?'rgba(34,197,94,.18);color:#22c55e':'rgba(240,90,90,.18);color:#f05a5a');t.appendChild(b)}}
     var link=row.querySelector('.side a');if(link&&link.textContent.indexOf('Ver partido')<0){link.textContent='Ver partido ›';link.removeAttribute('href');link.removeAttribute('target');link.setAttribute('role','button')}
     var ev=find(p[0],p[1]);
     if(!ev||ev.st==='pre')return;
