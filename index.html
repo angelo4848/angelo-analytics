@@ -173,9 +173,13 @@ nav button[aria-current="page"]{color:var(--win);background:rgba(34,197,94,.08)}
 
   <section class="view" id="stats" hidden>
     <h1>Rendimiento</h1>
-    <p class="sub" id="statsSub">Stake fijo por pick.</p>
+    <p class="sub" id="statsSub">Resultados de nuestra combinada del día.</p>
     <div class="stats" id="statsGrid"></div>
-    <p class="note">Solo cuentan los picks ya resueltos. Beneficio calculado con el stake fijo indicado.</p>
+    <p class="note">Solo cuentan los picks ya resueltos.</p>
+    <h2>Pronósticos ★★★</h2>
+    <p class="sub">Todos los partidos que analizamos cada día, no solo la combinada.</p>
+    <div class="stats" id="predGrid"></div>
+    <div class="list" id="predList" style="margin-top:10px"></div>
   </section>
 
   <p class="disc">+18. Apuesta con responsabilidad. Los pronósticos son análisis, no garantías.</p>
@@ -299,15 +303,21 @@ nav button[aria-current="page"]{color:var(--win);background:rgba(34,197,94,.08)}
     const st=d.stake||10, res=picks.filter(p=>p.estado==='ganada'||p.estado==='perdida');
     const w=res.filter(p=>p.estado==='ganada'), prof=res.reduce((s,p)=>s+(p.estado==='ganada'?st*(p.cuota_total-1):-st),0);
     const avg=picks.length?picks.reduce((s,p)=>s+p.cuota_total,0)/picks.length:0;
-    $('#statsSub').textContent='Stake fijo de '+st+' € por pick.';
+    $('#statsSub').textContent='Resultados de nuestra combinada del día.';
     const cell=(k,v,c)=>`<div class="stat"><div class="k">${k}</div><div class="v" style="color:${c||'var(--ink)'}">${v}</div></div>`;
     $('#statsGrid').innerHTML=
       cell('Picks resueltos',res.length)+
       cell('Acierto',res.length?Math.round(w.length/res.length*100)+' %':'—','var(--win)')+
-      cell('Beneficio',res.length?(prof>=0?'+':'')+fmt(prof)+' €':'—',prof>=0?'var(--win)':'var(--loss)')+
-      cell('ROI',res.length?(prof>=0?'+':'')+Math.round(prof/(res.length*st)*100)+' %':'—')+
-      cell('Cuota media',avg?fmt(avg):'—')+
+      cell('Ganadas',w.length,'var(--win)')+
+      cell('Perdidas',res.length-w.length,'var(--loss)')+
+            cell('Cuota media',avg?fmt(avg):'—')+
       cell('Pendientes',picks.filter(p=>p.estado==='pendiente').length,'var(--pend)');
+    const hist=(d.historial_pronosticos||[]).filter(x=>x.fecha!==d.actualizado);
+    const ps=d.partidos||[];const tw=ps.filter(m=>/✓/.test(m.tendencia||'')).length,tl=ps.filter(m=>/✗/.test(m.tendencia||'')).length;
+    const days=[{fecha:d.actualizado||'',ok:tw,ko:tl,hoy:true}].concat(hist).filter(x=>x.ok+x.ko>0);
+    const TO=days.reduce((s,x)=>s+x.ok,0),TK=days.reduce((s,x)=>s+x.ko,0);
+    $('#predGrid').innerHTML=cell('Acierto',TO+TK?Math.round(TO/(TO+TK)*100)+' %':'—','var(--win)')+cell('Pronósticos',TO+TK)+cell('Acertados',TO,'var(--win)')+cell('Fallados',TK,'var(--loss)');
+    $('#predList').innerHTML=days.length?days.map(x=>`<div class="row"><div class="d">${fdate(x.fecha)}${x.hoy?' · hoy':''}</div><div class="o">${Math.round(x.ok/(x.ok+x.ko)*100)} %<small>${x.ok} ✓ · ${x.ko} ✗</small></div><div class="t">${x.ok+x.ko} pronósticos resueltos</div></div>`).join(''):'<div class="empty">Todavía no hay pronósticos resueltos.</div>';
     if(d.telegram){$('#tgBtn').href=d.telegram}else{$('#tgBox').hidden=true}
     drawMatches();
   }
