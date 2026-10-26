@@ -78,15 +78,17 @@
    "liga": "France: Ligue 1",
    "local": "Paris Saint Germain",
    "visitante": "Lyon",
-   "tendencia": "★★★ Gana Paris Saint Germain · cuota 1,36",
-   "inicio": "2026-10-26T19:30:00+00:00"
+   "tendencia": "★★★ Gana Paris Saint Germain · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-26T19:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Spain: La Liga",
    "local": "Sevilla",
    "visitante": "Osasuna",
-   "tendencia": "★★★ Sevilla o empate · cuota ~1,22",
-   "inicio": "2026-10-26T20:00:00+00:00"
+   "tendencia": "★★★ Sevilla o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-26T20:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -187,8 +189,9 @@
    "liga": "England: League Two",
    "local": "Walsall",
    "visitante": "Salford City",
-   "tendencia": "★★★ Salford City o empate · cuota ~1,32",
-   "inicio": "2026-10-26T20:00:00+00:00"
+   "tendencia": "★★★ Salford City o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-26T20:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Georgia: Erovnuli Liga",
@@ -298,7 +301,7 @@
    "liga": "Portugal: Primeira Liga",
    "local": "Santa Clara",
    "visitante": "Benfica",
-   "tendencia": "★★★ Gana Benfica · cuota 1,36",
+   "tendencia": "★★★ Gana Benfica · cuota 1,36 · ✓ acertado",
    "inicio": "2026-10-26T18:45:00+00:00",
    "resultado": "1 - 2"
   },
@@ -338,7 +341,7 @@
    "liga": "Turkey: Süper Lig",
    "local": "Galatasaray",
    "visitante": "Fenerbahçe",
-   "tendencia": "★★★ Galatasaray o empate · cuota ~1,31",
+   "tendencia": "★★★ Galatasaray o empate · cuota ~1,31 · ✓ acertado",
    "inicio": "2026-10-26T18:30:00+00:00",
    "resultado": "2 - 1"
   },
@@ -386,7 +389,7 @@
    "liga": "AFC Champions League Elite",
    "local": "Al-Qadisiyah FC",
    "visitante": "Al Sadd",
-   "tendencia": "★★★ Gana Al-Qadisiyah FC · cuota 1,50",
+   "tendencia": "★★★ Gana Al-Qadisiyah FC · cuota 1,50 · ✗ fallado",
    "inicio": "2026-10-26T18:15:00+00:00",
    "resultado": "1 - 1"
   },
@@ -394,7 +397,7 @@
    "liga": "AFC Champions League Elite",
    "local": "Al Quwa Al Jawiya",
    "visitante": "Pakhtakor",
-   "tendencia": "★★★ Pakhtakor o empate · cuota ~1,20",
+   "tendencia": "★★★ Pakhtakor o empate · cuota ~1,20 · ✗ fallado",
    "inicio": "2026-10-26T18:15:00+00:00",
    "resultado": "1 - 0"
   },
@@ -486,15 +489,17 @@
    "liga": "France: Ligue 2",
    "local": "Boulogne",
    "visitante": "Reims",
-   "tendencia": "★★★ Reims o empate · cuota ~1,23",
-   "inicio": "2026-10-26T19:45:00+00:00"
+   "tendencia": "★★★ Reims o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-26T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "France: Ligue 2",
    "local": "Montpellier",
    "visitante": "RED Star FC 93",
-   "tendencia": "★★★ Montpellier o empate · cuota ~1,30",
-   "inicio": "2026-10-26T19:45:00+00:00"
+   "tendencia": "★★★ Montpellier o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-26T19:45:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Greece: Super League 2",
@@ -572,15 +577,17 @@
    "liga": "Italy: Serie C - Girone C",
    "local": "Crotone",
    "visitante": "Casarano",
-   "tendencia": "★★★ Crotone o empate · cuota ~1,25",
-   "inicio": "2026-10-26T19:30:00+00:00"
+   "tendencia": "★★★ Crotone o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-26T19:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Italy: Serie C - Girone C",
    "local": "AZ Picerno",
    "visitante": "Salernitana",
-   "tendencia": "★★★ Salernitana o empate · cuota ~1,24",
-   "inicio": "2026-10-26T19:30:00+00:00"
+   "tendencia": "★★★ Salernitana o empate · cuota ~1,24 · ✗ fallado",
+   "inicio": "2026-10-26T19:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Jamaica: Premier League",
@@ -669,8 +676,9 @@
    "liga": "Spain: Segunda División",
    "local": "FC Andorra",
    "visitante": "Burgos",
-   "tendencia": "★★★ FC Andorra o empate · cuota ~1,28",
-   "inicio": "2026-10-26T19:30:00+00:00"
+   "tendencia": "★★★ FC Andorra o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-10-26T19:30:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Thailand: Thai League 2",
