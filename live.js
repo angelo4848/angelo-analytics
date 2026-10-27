@@ -30,7 +30,7 @@ document.head.appendChild(css);
 
 function today(){var d=new Date();return d.getFullYear()+String(d.getMonth()+1).padStart(2,'0')+String(d.getDate()).padStart(2,'0')}
 function load(){
-  fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?dates='+today()).then(function(r){return r.json()}).then(function(j){
+  fetch('https://site.api.espn.com/apis/site/v2/sports/soccer/all/scoreboard?limit=500&dates='+today()).then(function(r){return r.json()}).then(function(j){
     EV=(j.events||[]).map(function(e){var c=e.competitions[0],cs=c.competitors;
       var h=cs.filter(function(x){return x.homeAway==='home'})[0]||cs[0],a=cs.filter(function(x){return x.homeAway==='away'})[0]||cs[1];
       function stats(x){var o={};(x.statistics||[]).forEach(function(s){o[s.name]=parseFloat(s.displayValue)});return o}
