@@ -42,7 +42,7 @@
   {
    "fecha": "2026-10-27",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "ganada",
    "cuota_total": 1.92,
    "patas": [
     {
@@ -51,12 +51,13 @@
      "partido": "AS Roma vs Cagliari",
      "mercado": "Victoria AS Roma",
      "cuota": 1.33,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Roma, 3.ª en Serie A, invicta en liga esta temporada (5V 3E)",
       "Ha ganado los últimos 5 partidos en casa contra el Cagliari",
       "Cagliari sufre fuera de casa y encaja en casi todos sus partidos"
-     ]
+     ],
+     "resultado": "4 - 2"
     },
     {
      "liga": "League One",
@@ -64,12 +65,13 @@
      "partido": "Leicester vs Wigan",
      "mercado": "Victoria Leicester",
      "cuota": 1.44,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Leicester juega en casa contra el colista de la liga",
       "Wigan solo ha ganado 1 de sus últimos 5 partidos",
       "Wigan marca muy poco: 5 goles en sus primeras 7 jornadas"
-     ]
+     ],
+     "resultado": "3 - 0"
     }
    ]
   }
@@ -408,43 +410,49 @@
    "liga": "Italy: Serie B",
    "local": "Ascoli",
    "visitante": "Sampdoria",
-   "tendencia": "★★★ Ascoli o empate · cuota ~1,32",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Ascoli o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Cesena",
    "visitante": "Empoli",
-   "tendencia": "★★★ Cesena o empate · cuota ~1,29",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Cesena o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Virtus Entella",
    "visitante": "Avellino",
-   "tendencia": "★★★ Virtus Entella o empate · cuota ~1,26",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Virtus Entella o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Vicenza Virtus",
    "visitante": "Modena",
-   "tendencia": "★★★ Modena o empate · cuota ~1,32",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Modena o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Mantova",
    "visitante": "Cremonese",
-   "tendencia": "★★★ Mantova o empate · cuota ~1,39",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Mantova o empate · cuota ~1,39 · ✗ fallado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Padova",
    "visitante": "Sudtirol",
-   "tendencia": "★★★ Padova o empate · cuota ~1,38",
-   "inicio": "2026-10-27T19:00:00+00:00"
+   "tendencia": "★★★ Padova o empate · cuota ~1,38 · ✓ acertado",
+   "inicio": "2026-10-27T19:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Russia: Cup",
