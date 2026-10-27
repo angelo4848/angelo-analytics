@@ -89,16 +89,18 @@
    "liga": "Italy: Serie A",
    "local": "AS Roma",
    "visitante": "Cagliari",
-   "tendencia": "★★★ Gana AS Roma · cuota 1,33",
+   "tendencia": "★★★ Gana AS Roma · cuota 1,33 · ✓ acertado",
    "inicio": "2026-10-27T19:45:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "4 - 2"
   },
   {
    "liga": "Italy: Serie A",
    "local": "Torino",
    "visitante": "Como",
-   "tendencia": "★★★ Como o empate · cuota ~1,17",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Como o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -142,37 +144,42 @@
    "liga": "England: League One",
    "local": "Leicester",
    "visitante": "Wigan",
-   "tendencia": "★★★ Gana Leicester · cuota 1,44",
+   "tendencia": "★★★ Gana Leicester · cuota 1,44 · ✓ acertado",
    "inicio": "2026-10-27T19:45:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "3 - 0"
   },
   {
    "liga": "England: League One",
    "local": "Milton Keynes Dons",
    "visitante": "Bromley",
-   "tendencia": "★★★ Gana Milton Keynes Dons · cuota 1,65",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Milton Keynes Dons · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "England: League One",
    "local": "Luton",
    "visitante": "Doncaster",
-   "tendencia": "★★★ Luton o empate · cuota ~1,25",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Luton o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "England: League One",
    "local": "Oxford United",
    "visitante": "Stockport County",
-   "tendencia": "★★★ Stockport County o empate · cuota ~1,26",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Stockport County o empate · cuota ~1,26 · ✗ fallado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "England: League One",
    "local": "Sheffield Wednesday",
    "visitante": "Cambridge United",
-   "tendencia": "★★★ Sheffield Wednesday o empate · cuota ~1,28",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Sheffield Wednesday o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
@@ -202,8 +209,9 @@
    "liga": "Northern-Ireland: Premiership",
    "local": "Larne",
    "visitante": "Limavady United",
-   "tendencia": "★★★ Gana Larne · cuota 1,20",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Larne · cuota 1,20 · ✗ fallado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Panama: Liga Panameña de Fútbol",
@@ -216,15 +224,17 @@
    "liga": "Scotland: Championship",
    "local": "Stenhousemuir",
    "visitante": "Dunfermline",
-   "tendencia": "★★★ Dunfermline o empate · cuota ~1,18",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Dunfermline o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Scotland: League One",
    "local": "Ross County",
    "visitante": "Hamilton Academical",
-   "tendencia": "★★★ Ross County o empate · cuota ~1,18",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Ross County o empate · cuota ~1,18 · ✗ fallado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Slovenia: 1. SNL",
@@ -275,36 +285,41 @@
    "liga": "England: League Cup",
    "local": "Bradford",
    "visitante": "Peterborough",
-   "tendencia": "★★★ Gana Bradford · cuota 1,67",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Bradford · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: League Cup",
    "local": "Fleetwood Town",
    "visitante": "Arsenal",
-   "tendencia": "★★★ Gana Arsenal · cuota 1,08",
-   "inicio": "2026-10-27T20:00:00+00:00"
+   "tendencia": "★★★ Gana Arsenal · cuota 1,08 · ✗ fallado",
+   "inicio": "2026-10-27T20:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "England: National League",
    "local": "AFC Fylde",
    "visitante": "Hartlepool",
-   "tendencia": "★★★ Gana AFC Fylde · cuota 1,65",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana AFC Fylde · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "England: National League",
    "local": "Boston United",
    "visitante": "Gateshead",
-   "tendencia": "★★★ Gana Boston United · cuota 1,48",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Boston United · cuota 1,48 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "England: National League",
    "local": "AFC Hornchurch",
    "visitante": "Yeovil Town",
-   "tendencia": "★★★ Yeovil Town o empate · cuota ~1,30",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Yeovil Town o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
@@ -342,29 +357,33 @@
    "liga": "Germany: DFB Pokal",
    "local": "Borussia Mönchengladbach",
    "visitante": "Karlsruher SC",
-   "tendencia": "★★★ Gana Borussia Mönchengladbach · cuota 1,33",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Borussia Mönchengladbach · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Borussia Dortmund",
    "visitante": "Werder Bremen",
-   "tendencia": "★★★ Gana Borussia Dortmund · cuota 1,33",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Borussia Dortmund · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "SV Elversberg",
    "visitante": "SV Darmstadt 98",
-   "tendencia": "★★★ Gana SV Elversberg · cuota 1,42",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana SV Elversberg · cuota 1,42 · ✗ fallado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "1. FC Köln",
    "visitante": "Union Berlin",
-   "tendencia": "★★★ 1. FC Köln o empate · cuota ~1,17",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ 1. FC Köln o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "5 - 0"
   },
   {
    "liga": "Greece: Cup",
@@ -482,8 +501,9 @@
    "liga": "Scotland: FA Cup",
    "local": "Penicuik Athletic",
    "visitante": "Clyde",
-   "tendencia": "★★★ Gana Clyde · cuota 1,30",
-   "inicio": "2026-10-27T19:45:00+00:00"
+   "tendencia": "★★★ Gana Clyde · cuota 1,30 · ✗ fallado",
+   "inicio": "2026-10-27T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Ukraine: Cup",
