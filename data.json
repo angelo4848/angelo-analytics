@@ -79,8 +79,9 @@
    "liga": "Italy: Serie A",
    "local": "Sassuolo",
    "visitante": "Lazio",
-   "tendencia": "★★★ Lazio o empate · cuota ~1,31",
-   "inicio": "2026-10-27T17:30:00+00:00"
+   "tendencia": "★★★ Lazio o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-27T17:30:00+00:00",
+   "resultado": "2 - 6"
   },
   {
    "liga": "Italy: Serie A",
@@ -115,22 +116,25 @@
    "liga": "Bulgaria: First League",
    "local": "Cherno More Varna",
    "visitante": "Septemvri Sofia",
-   "tendencia": "★★★ Gana Cherno More Varna · cuota 1,67",
-   "inicio": "2026-10-27T15:00:00+00:00"
+   "tendencia": "★★★ Gana Cherno More Varna · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-27T15:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Bulgaria: First League",
    "local": "Arda Kardzhali",
    "visitante": "Levski Sofia",
-   "tendencia": "★★★ Gana Levski Sofia · cuota 1,67",
-   "inicio": "2026-10-27T17:30:00+00:00"
+   "tendencia": "★★★ Gana Levski Sofia · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-27T17:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Croatia: HNL",
    "local": "Dinamo Zagreb",
    "visitante": "HNK Rijeka",
-   "tendencia": "★★★ Gana Dinamo Zagreb · cuota 1,62",
-   "inicio": "2026-10-27T17:00:00+00:00"
+   "tendencia": "★★★ Gana Dinamo Zagreb · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-27T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "England: League One",
@@ -172,22 +176,25 @@
    "liga": "Estonia: Meistriliiga",
    "local": "FC Levadia Tallinn",
    "visitante": "Tammeka",
-   "tendencia": "★★★ Gana FC Levadia Tallinn · cuota 1,17",
-   "inicio": "2026-10-27T16:00:00+00:00"
+   "tendencia": "★★★ Gana FC Levadia Tallinn · cuota 1,17 · ✓ acertado",
+   "inicio": "2026-10-27T16:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
    "local": "Trans Narva",
    "visitante": "Nõmme United",
-   "tendencia": "★★★ Nõmme United o empate · cuota ~1,42",
-   "inicio": "2026-10-27T16:00:00+00:00"
+   "tendencia": "★★★ Nõmme United o empate · cuota ~1,42 · ✓ acertado",
+   "inicio": "2026-10-27T16:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "PSS Sleman",
    "visitante": "Pusamania Borneo",
-   "tendencia": "★★★ Pusamania Borneo o empate · cuota ~1,36",
-   "inicio": "2026-10-27T08:30:00+00:00"
+   "tendencia": "★★★ Pusamania Borneo o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-27T08:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Northern-Ireland: Premiership",
@@ -221,22 +228,25 @@
    "liga": "Slovenia: 1. SNL",
    "local": "Radomlje",
    "visitante": "Mura",
-   "tendencia": "★★★ Mura o empate · cuota ~1,34",
-   "inicio": "2026-10-27T16:00:00+00:00"
+   "tendencia": "★★★ Mura o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-27T16:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Sweden: Allsvenskan",
    "local": "AIK Stockholm",
    "visitante": "IF Elfsborg",
-   "tendencia": "★★★ IF Elfsborg o empate · cuota ~1,37",
-   "inicio": "2026-10-27T18:00:00+00:00"
+   "tendencia": "★★★ IF Elfsborg o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-27T18:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Sweden: Superettan",
    "local": "Landskrona BoIS",
    "visitante": "Varbergs BoIS FC",
-   "tendencia": "★★★ Landskrona BoIS o empate · cuota ~1,31",
-   "inicio": "2026-10-27T18:00:00+00:00"
+   "tendencia": "★★★ Landskrona BoIS o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-27T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Brazil: Serie B",
@@ -298,29 +308,33 @@
    "liga": "Germany: DFB Pokal",
    "local": "VfL Bochum",
    "visitante": "FSV Mainz 05",
-   "tendencia": "★★★ Gana FSV Mainz 05 · cuota 1,67",
-   "inicio": "2026-10-27T17:00:00+00:00"
+   "tendencia": "★★★ Gana FSV Mainz 05 · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-27T17:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "SG Sonnenhof Grossaspach",
    "visitante": "FC Augsburg",
-   "tendencia": "★★★ Gana FC Augsburg · cuota 1,33",
-   "inicio": "2026-10-27T17:00:00+00:00"
+   "tendencia": "★★★ Gana FC Augsburg · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-27T17:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Hamburger SV",
    "visitante": "Eintracht Frankfurt",
-   "tendencia": "★★★ Eintracht Frankfurt o empate · cuota ~1,35",
-   "inicio": "2026-10-27T17:00:00+00:00"
+   "tendencia": "★★★ Eintracht Frankfurt o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-27T17:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Rot-Weiß Essen",
    "visitante": "RB Leipzig",
-   "tendencia": "★★★ Gana RB Leipzig · cuota 1,20",
-   "inicio": "2026-10-27T17:00:00+00:00"
+   "tendencia": "★★★ Gana RB Leipzig · cuota 1,20 · ✓ acertado",
+   "inicio": "2026-10-27T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
@@ -354,36 +368,41 @@
    "liga": "Greece: Cup",
    "local": "Panserraikos",
    "visitante": "Niki Volos",
-   "tendencia": "★★★ Panserraikos o empate · cuota ~1,24",
-   "inicio": "2026-10-27T14:00:00+00:00"
+   "tendencia": "★★★ Panserraikos o empate · cuota ~1,24 · ✗ fallado",
+   "inicio": "2026-10-27T14:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Greece: Cup",
    "local": "Asteras Tripolis",
    "visitante": "Kifisia",
-   "tendencia": "★★★ Asteras Tripolis o empate · cuota ~1,35",
-   "inicio": "2026-10-27T15:30:00+00:00"
+   "tendencia": "★★★ Asteras Tripolis o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-27T15:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Iran: Azadegan League",
    "local": "Saipa",
    "visitante": "Naft Gachsaran",
-   "tendencia": "★★★ Saipa o empate · cuota ~1,12",
-   "inicio": "2026-10-27T12:00:00+00:00"
+   "tendencia": "★★★ Saipa o empate · cuota ~1,12 · ✗ fallado",
+   "inicio": "2026-10-27T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Iran: Azadegan League",
    "local": "Naft Bandar Abbas",
    "visitante": "Mes Rafsanjan",
-   "tendencia": "★★★ Mes Rafsanjan o empate · cuota ~1,25",
-   "inicio": "2026-10-27T14:00:00+00:00"
+   "tendencia": "★★★ Mes Rafsanjan o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-27T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie B",
    "local": "Benevento",
    "visitante": "Catanzaro",
-   "tendencia": "★★★ Benevento o empate · cuota ~1,22",
-   "inicio": "2026-10-27T18:00:00+00:00"
+   "tendencia": "★★★ Benevento o empate · cuota ~1,22 · ✗ fallado",
+   "inicio": "2026-10-27T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Italy: Serie B",
@@ -431,22 +450,25 @@
    "liga": "Russia: Cup",
    "local": "Fakel",
    "visitante": "Akhmat",
-   "tendencia": "★★★ Akhmat o empate · cuota ~1,41",
-   "inicio": "2026-10-27T15:00:00+00:00"
+   "tendencia": "★★★ Akhmat o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-27T15:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Russia: Cup",
    "local": "FC Krasnodar",
    "visitante": "Dynamo",
-   "tendencia": "★★★ FC Krasnodar o empate · cuota ~1,34",
-   "inicio": "2026-10-27T17:30:00+00:00"
+   "tendencia": "★★★ FC Krasnodar o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-27T17:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Saudi-Arabia: Pro League",
    "local": "Abha",
    "visitante": "Al-Faisaly FC",
-   "tendencia": "★★★ Abha o empate · cuota ~1,32",
-   "inicio": "2026-10-27T12:40:00+00:00"
+   "tendencia": "★★★ Abha o empate · cuota ~1,32 · ✗ fallado",
+   "inicio": "2026-10-27T12:40:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Scotland: FA Cup",
@@ -459,8 +481,9 @@
    "liga": "Ukraine: Cup",
    "local": "Shakhtar Donetsk",
    "visitante": "Dynamo Kyiv",
-   "tendencia": "★★★ Shakhtar Donetsk o empate · cuota ~1,23",
-   "inicio": "2026-10-27T16:00:00+00:00"
+   "tendencia": "★★★ Shakhtar Donetsk o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-27T16:00:00+00:00",
+   "resultado": "3 - 0"
   }
  ],
  "historial_pronosticos": [
