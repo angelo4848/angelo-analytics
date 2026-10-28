@@ -316,8 +316,9 @@
    "liga": "Morocco: Botola Pro",
    "local": "Raja Casablanca",
    "visitante": "Hassania Agadir",
-   "tendencia": "★★★ Gana Raja Casablanca · cuota 1,57",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Gana Raja Casablanca · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -405,8 +406,9 @@
    "liga": "Sweden: Allsvenskan",
    "local": "IF Brommapojkarna",
    "visitante": "BK Hacken",
-   "tendencia": "★★★ BK Hacken o empate · cuota ~1,19",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ BK Hacken o empate · cuota ~1,19 · ✗ fallado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "",
@@ -419,15 +421,17 @@
    "liga": "Sweden: Allsvenskan",
    "local": "IFK Goteborg",
    "visitante": "Djurgardens IF",
-   "tendencia": "★★★ Djurgardens IF o empate · cuota ~1,30",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Djurgardens IF o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Sweden: Allsvenskan",
    "local": "Halmstad",
    "visitante": "Malmo FF",
-   "tendencia": "★★★ Malmo FF o empate · cuota ~1,19",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Malmo FF o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -933,8 +937,9 @@
    "liga": "Hungary: Magyar Kupa",
    "local": "Zalaegerszegi TE",
    "visitante": "Gyori ETO FC",
-   "tendencia": "★★★ Gyori ETO FC o empate · cuota ~1,29",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Gyori ETO FC o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Italy: Coppa Italia Serie C",
@@ -1032,8 +1037,9 @@
    "liga": "",
    "local": "Pisa",
    "visitante": "Palermo",
-   "tendencia": "★★★ Pisa o empate · cuota ~1,36",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Pisa o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Italy: Serie B",
@@ -1110,8 +1116,9 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "Sparta Rotterdam",
    "visitante": "Fortuna Sittard",
-   "tendencia": "★★★ Sparta Rotterdam o empate · cuota ~1,26",
-   "inicio": "2026-10-28T17:45:00+00:00"
+   "tendencia": "★★★ Sparta Rotterdam o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-28T17:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -1254,8 +1261,9 @@
    "liga": "Norway: NM Cupen",
    "local": "Tromso",
    "visitante": "Haugesund",
-   "tendencia": "★★★ Gana Tromso · cuota 1,14",
-   "inicio": "2026-10-28T18:00:00+00:00"
+   "tendencia": "★★★ Gana Tromso · cuota 1,14 · ✓ acertado",
+   "inicio": "2026-10-28T18:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Peru: Primera División",
@@ -1269,8 +1277,9 @@
    "liga": "Peru: Primera División",
    "local": "FC Cajamarca",
    "visitante": "UTC Cajamarca",
-   "tendencia": "★★★ FC Cajamarca o empate · cuota ~1,20",
-   "inicio": "2026-10-28T18:15:00+00:00"
+   "tendencia": "★★★ FC Cajamarca o empate · cuota ~1,20 · ✗ fallado",
+   "inicio": "2026-10-28T18:15:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Peru: Primera División",
@@ -1315,8 +1324,9 @@
    "liga": "Poland: Cup",
    "local": "Tychy 71",
    "visitante": "Pogoń Siedlce",
-   "tendencia": "★★★ Tychy 71 o empate · cuota ~1,32",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ Tychy 71 o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Poland: Cup",
