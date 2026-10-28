@@ -188,15 +188,17 @@
    "liga": "Italy: Serie A",
    "local": "Genoa",
    "visitante": "Juventus",
-   "tendencia": "★★★ Juventus o empate · cuota ~1,15",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Juventus o empate · cuota ~1,15 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Serie A",
    "local": "Monza",
    "visitante": "Napoli",
-   "tendencia": "★★★ Napoli o empate · cuota ~1,21",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Napoli o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Albania: Superliga",
@@ -365,29 +367,33 @@
    "liga": "Scotland: Premiership",
    "local": "Aberdeen",
    "visitante": "Falkirk",
-   "tendencia": "★★★ Aberdeen o empate · cuota ~1,28",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Aberdeen o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Scotland: Premiership",
    "local": "Celtic",
    "visitante": "Dundee Utd",
-   "tendencia": "★★★ Gana Celtic · cuota 1,25",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Celtic · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Scotland: Premiership",
    "local": "Dundee",
    "visitante": "Kilmarnock",
-   "tendencia": "★★★ Dundee o empate · cuota ~1,26",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Dundee o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Scotland: Premiership",
    "local": "ST Mirren",
    "visitante": "Hibernian",
-   "tendencia": "★★★ Hibernian o empate · cuota ~1,31",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Hibernian o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Scotland: Premiership",
@@ -617,8 +623,9 @@
    "liga": "Bosnia: Cup",
    "local": "GOŠK Gabela",
    "visitante": "Siroki Brijeg",
-   "tendencia": "★★★ Siroki Brijeg o empate · cuota ~1,19",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Siroki Brijeg o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Bulgaria: Second League",
@@ -747,36 +754,41 @@
    "liga": "Denmark: DBU Pokalen",
    "local": "Roskilde",
    "visitante": "Aarhus",
-   "tendencia": "★★★ Gana Aarhus · cuota 1,40",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Aarhus · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "England: League Cup",
    "local": "Manchester City",
    "visitante": "Brighton",
-   "tendencia": "★★★ Gana Manchester City · cuota 1,65",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Gana Manchester City · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "England: League Cup",
    "local": "Bournemouth",
    "visitante": "Aston Villa",
-   "tendencia": "★★★ Bournemouth o empate · cuota ~1,37",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Bournemouth o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "England: League Cup",
    "local": "Fulham",
    "visitante": "Crystal Palace",
-   "tendencia": "★★★ Fulham o empate · cuota ~1,23",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Fulham o empate · cuota ~1,23 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "England: League Cup",
    "local": "Sunderland",
    "visitante": "Brentford",
-   "tendencia": "★★★ Brentford o empate · cuota ~1,29",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Brentford o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "England: League Cup",
@@ -789,29 +801,33 @@
    "liga": "England: National League",
    "local": "Carlisle",
    "visitante": "Harrogate Town",
-   "tendencia": "★★★ Carlisle o empate · cuota ~1,29",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Carlisle o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "England: National League",
    "local": "Forest Green",
    "visitante": "Eastleigh",
-   "tendencia": "★★★ Gana Forest Green · cuota 1,53",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Forest Green · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: National League",
    "local": "Sutton Utd",
    "visitante": "Aldershot Town",
-   "tendencia": "★★★ Sutton Utd o empate · cuota ~1,21",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Sutton Utd o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: National League - South",
    "local": "Farnborough",
    "visitante": "Weston-super-Mare",
-   "tendencia": "★★★ Weston-super-Mare o empate · cuota ~1,35",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Weston-super-Mare o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Georgia: David Kipiani Cup",
@@ -857,22 +873,25 @@
    "liga": "Germany: DFB Pokal",
    "local": "Bayer Leverkusen",
    "visitante": "1. FC Nürnberg",
-   "tendencia": "★★★ Gana Bayer Leverkusen · cuota 1,14",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Bayer Leverkusen · cuota 1,14 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Bayern München",
    "visitante": "1. FC Magdeburg",
-   "tendencia": "★★★ Gana Bayern München · cuota 1,04",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Bayern München · cuota 1,04 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "6 - 1"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Hannover 96",
    "visitante": "1. FC Kaiserslautern",
-   "tendencia": "★★★ Hannover 96 o empate · cuota ~1,38",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Hannover 96 o empate · cuota ~1,38 · ✗ fallado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
@@ -987,15 +1006,17 @@
    "liga": "Italy: Coppa Italia Serie C",
    "local": "Athletic Carpi",
    "visitante": "Ravenna",
-   "tendencia": "★★★ Ravenna o empate · cuota ~1,25",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Ravenna o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Italy: Coppa Italia Serie C",
    "local": "Campobasso FC",
    "visitante": "Latina",
-   "tendencia": "★★★ Campobasso FC o empate · cuota ~1,35",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Campobasso FC o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
@@ -1057,15 +1078,17 @@
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Villa Valle",
    "visitante": "Brusaporto",
-   "tendencia": "★★★ Villa Valle o empate · cuota ~1,24",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Villa Valle o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Fidelis Andria",
    "visitante": "Virtus Francavilla",
-   "tendencia": "★★★ Fidelis Andria o empate · cuota ~1,32",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Fidelis Andria o empate · cuota ~1,32 · ✗ fallado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "",
@@ -1079,8 +1102,9 @@
    "liga": "Italy: Serie B",
    "local": "Carrarese",
    "visitante": "Arezzo",
-   "tendencia": "★★★ Carrarese o empate · cuota ~1,29",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Carrarese o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Italy: Serie D - Girone I",
@@ -1158,43 +1182,49 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "SC Genemuiden",
    "visitante": "Dordrecht",
-   "tendencia": "★★★ Gana Dordrecht · cuota 1,33",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Dordrecht · cuota 1,33 · ✗ fallado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Netherlands: KNVB Beker",
    "local": "MVV",
    "visitante": "Excelsior",
-   "tendencia": "★★★ Gana Excelsior · cuota 1,40",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Excelsior · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Netherlands: KNVB Beker",
    "local": "Quick Boys",
    "visitante": "Eemdijk",
-   "tendencia": "★★★ Gana Quick Boys · cuota 1,18",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Quick Boys · cuota 1,18 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Netherlands: KNVB Beker",
    "local": "VVV Venlo",
    "visitante": "Vitesse",
-   "tendencia": "★★★ VVV Venlo o empate · cuota ~1,26",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ VVV Venlo o empate · cuota ~1,26 · ✗ fallado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Netherlands: KNVB Beker",
    "local": "Vvsb",
    "visitante": "EVV",
-   "tendencia": "★★★ Gana Vvsb · cuota 1,44",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Vvsb · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Netherlands: KNVB Beker",
    "local": "PEC Zwolle",
    "visitante": "FC OSS",
-   "tendencia": "★★★ Gana PEC Zwolle · cuota 1,30",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana PEC Zwolle · cuota 1,30 · ✗ fallado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -1366,8 +1396,9 @@
    "liga": "Poland: Cup",
    "local": "Lechia Gdansk",
    "visitante": "Jagiellonia",
-   "tendencia": "★★★ Gana Jagiellonia · cuota 1,60",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Gana Jagiellonia · cuota 1,60 · ✓ acertado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "0 - 6"
   },
   {
    "liga": "Portugal: Taça da Liga",
@@ -1413,8 +1444,9 @@
    "liga": "Romania: Cupa României",
    "local": "CFR 1907 Cluj",
    "visitante": "Universitatea Cluj",
-   "tendencia": "★★★ Universitatea Cluj o empate · cuota ~1,16",
-   "inicio": "2026-10-28T19:30:00+00:00"
+   "tendencia": "★★★ Universitatea Cluj o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-28T19:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Russia: Cup",
@@ -1444,22 +1476,25 @@
    "liga": "San-Marino: Coppa Titano",
    "local": "Faetano",
    "visitante": "Domagnano",
-   "tendencia": "★★★ Domagnano o empate · cuota ~1,19",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Domagnano o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "San-Marino: Coppa Titano",
    "local": "Tre Fiori",
    "visitante": "Fiorentino",
-   "tendencia": "★★★ Gana Tre Fiori · cuota 1,44",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Tre Fiori · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "5 - 0"
   },
   {
    "liga": "San-Marino: Coppa Titano",
    "local": "Virtus",
    "visitante": "Murata",
-   "tendencia": "★★★ Gana Virtus · cuota 1,10",
-   "inicio": "2026-10-28T19:45:00+00:00"
+   "tendencia": "★★★ Gana Virtus · cuota 1,10 · ✓ acertado",
+   "inicio": "2026-10-28T19:45:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 1",
@@ -1620,8 +1655,9 @@
    "liga": "Uruguay: Copa Uruguay",
    "local": "Nacional Florida",
    "visitante": "Juventud",
-   "tendencia": "★★★ Gana Juventud · cuota 1,28",
-   "inicio": "2026-10-28T19:00:00+00:00"
+   "tendencia": "★★★ Gana Juventud · cuota 1,28 · ✓ acertado",
+   "inicio": "2026-10-28T19:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "AFC Champions League Two",
