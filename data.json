@@ -523,8 +523,9 @@
    "liga": "Azerbaijan: Cup",
    "local": "Kapaz",
    "visitante": "Baku Sportinq",
-   "tendencia": "★★★ Gana Kapaz · cuota 1,06",
-   "inicio": "2026-10-28T15:00:00+00:00"
+   "tendencia": "★★★ Gana Kapaz · cuota 1,06 · ✓ acertado",
+   "inicio": "2026-10-28T15:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Bosnia: Cup",
@@ -617,8 +618,9 @@
    "liga": "Cyprus: Cup",
    "local": "Omonia Aradippou",
    "visitante": "Digenis Morphou",
-   "tendencia": "★★★ Gana Omonia Aradippou · cuota 1,36",
-   "inicio": "2026-10-28T15:00:00+00:00"
+   "tendencia": "★★★ Gana Omonia Aradippou · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-28T15:00:00+00:00",
+   "resultado": "6 - 3"
   },
   {
    "liga": "Cyprus: Cup",
@@ -655,8 +657,9 @@
    "liga": "Czech-Republic: Cup",
    "local": "Slovácko",
    "visitante": "Pardubice",
-   "tendencia": "★★★ Pardubice o empate · cuota ~1,36",
-   "inicio": "2026-10-28T15:30:00+00:00"
+   "tendencia": "★★★ Pardubice o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-28T15:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Czech-Republic: Cup",
@@ -840,8 +843,9 @@
    "liga": "Greece: Cup",
    "local": "Panathinaikos",
    "visitante": "Aris Thessalonikis",
-   "tendencia": "★★★ Panathinaikos o empate · cuota ~1,14",
-   "inicio": "2026-10-28T15:30:00+00:00"
+   "tendencia": "★★★ Panathinaikos o empate · cuota ~1,14 · ✓ acertado",
+   "inicio": "2026-10-28T15:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Greece: Cup",
@@ -1332,8 +1336,9 @@
    "liga": "Russia: Cup",
    "local": "FC Rostov",
    "visitante": "Akron",
-   "tendencia": "★★★ FC Rostov o empate · cuota ~1,23",
-   "inicio": "2026-10-28T15:15:00+00:00"
+   "tendencia": "★★★ FC Rostov o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-28T15:15:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Russia: Cup",
@@ -1375,15 +1380,17 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Jabalain",
    "visitante": "Al-Raed",
-   "tendencia": "★★★ Al Jabalain o empate · cuota ~1,19",
-   "inicio": "2026-10-28T15:05:00+00:00"
+   "tendencia": "★★★ Al Jabalain o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T15:05:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Najma",
    "visitante": "Al Zulfi",
-   "tendencia": "★★★ Al Najma o empate · cuota ~1,25",
-   "inicio": "2026-10-28T15:05:00+00:00"
+   "tendencia": "★★★ Al Najma o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-28T15:05:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 2",
