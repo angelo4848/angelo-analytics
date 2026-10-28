@@ -109,6 +109,40 @@
      ]
     }
    ]
+  },
+  {
+   "fecha": "2026-10-29",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.73,
+   "patas": [
+    {
+     "liga": "Saudi Pro League",
+     "hora": "18:00",
+     "partido": "Al-Nassr vs Al Kholood",
+     "mercado": "Al-Nassr o empate + menos de 5,5 goles",
+     "cuota": 1.2,
+     "estado": "pendiente",
+     "analisis": [
+      "Al-Nassr, 3.º clasificado, juega en casa ante el 9.º",
+      "Al Kholood llega con 3 derrotas seguidas, la última 0-3 en casa",
+      "Al-Nassr ganó los dos últimos duelos sin encajar (2-0 y 3-0)"
+     ]
+    },
+    {
+     "liga": "Taça da Liga",
+     "hora": "20:45",
+     "partido": "Benfica vs Gil Vicente",
+     "mercado": "Benfica o empate + menos de 4,5 goles",
+     "cuota": 1.44,
+     "estado": "pendiente",
+     "analisis": [
+      "Benfica suma 4 victorias seguidas y juega en la Luz",
+      "Ha ganado los últimos 9 enfrentamientos ante el Gil Vicente",
+      "La doble oportunidad cubre el riesgo de rotaciones en copa"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
