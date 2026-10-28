@@ -252,8 +252,9 @@
    "liga": "India: Indian Super League",
    "local": "Goa",
    "visitante": "SC Delhi",
-   "tendencia": "★★★ Gana Goa · cuota 1,53",
-   "inicio": "2026-10-28T14:00:00+00:00"
+   "tendencia": "★★★ Gana Goa · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-10-28T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -354,8 +355,9 @@
    "liga": "Serbia: Super Liga",
    "local": "Radnicki 1923",
    "visitante": "Železničar Pančevo",
-   "tendencia": "★★★ Radnicki 1923 o empate · cuota ~1,37",
-   "inicio": "2026-10-28T14:00:00+00:00"
+   "tendencia": "★★★ Radnicki 1923 o empate · cuota ~1,37 · ✗ fallado",
+   "inicio": "2026-10-28T14:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Serbia: Super Liga",
@@ -1539,15 +1541,17 @@
    "liga": "AFC Champions League Two",
    "local": "Gol Gohar",
    "visitante": "Arkadag",
-   "tendencia": "★★★ Gana Gol Gohar · cuota 1,57",
-   "inicio": "2026-10-28T13:45:00+00:00"
+   "tendencia": "★★★ Gana Gol Gohar · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-10-28T13:45:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "AFC Champions League Two",
    "local": "Nasaf",
    "visitante": "Al Kuwait",
-   "tendencia": "★★★ Nasaf o empate · cuota ~1,20",
-   "inicio": "2026-10-28T13:45:00+00:00"
+   "tendencia": "★★★ Nasaf o empate · cuota ~1,20 · ✗ fallado",
+   "inicio": "2026-10-28T13:45:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "AFC Champions League Two",
