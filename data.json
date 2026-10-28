@@ -78,7 +78,7 @@
   {
    "fecha": "2026-10-28",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "ganada",
    "cuota_total": 1.81,
    "patas": [
     {
@@ -101,12 +101,13 @@
      "partido": "FC Porto vs Academico Viseu",
      "mercado": "Victoria FC Porto",
      "cuota": 1.33,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Porto juega en el Dragão, donde es de los equipos más fuertes de Portugal",
       "Académico Viseu acaba de subir a Primera",
       "Ojo: es copa y Porto puede rotar, pero incluso con suplentes es claro favorito"
-     ]
+     ],
+     "resultado": "1 - 0"
     }
    ]
   },
