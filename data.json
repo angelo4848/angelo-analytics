@@ -165,8 +165,9 @@
    "liga": "Albania: Superliga",
    "local": "Vora",
    "visitante": "Vllaznia Shkodër",
-   "tendencia": "★★★ Vora o empate · cuota ~1,30",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Vora o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Albania: Superliga",
@@ -194,8 +195,9 @@
    "liga": "Belarus: Premier League",
    "local": "FC Isloch Minsk R.",
    "visitante": "ML Vitebsk",
-   "tendencia": "★★★ ML Vitebsk o empate · cuota ~1,20",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ ML Vitebsk o empate · cuota ~1,20 · ✗ fallado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Brazil: Serie A",
@@ -280,15 +282,17 @@
    "liga": "Kenya: FKF Premier League",
    "local": "KCB",
    "visitante": "Mombasa Elite",
-   "tendencia": "★★★ KCB o empate · cuota ~1,16",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ KCB o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Montenegro: First League",
    "local": "Arsenal Tivat",
    "visitante": "Bokelj",
-   "tendencia": "★★★ Bokelj o empate · cuota ~1,27",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ Bokelj o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Montenegro: First League",
@@ -464,29 +468,33 @@
    "liga": "Albania: 1st Division",
    "local": "Besëlidhja Lezhë",
    "visitante": "Sopoti Librazhd",
-   "tendencia": "★★★ Gana Besëlidhja Lezhë · cuota 1,45",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana Besëlidhja Lezhë · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "Albania: 1st Division",
    "local": "Korabi Peshkopi",
    "visitante": "Burreli",
-   "tendencia": "★★★ Korabi Peshkopi o empate · cuota ~1,14",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Korabi Peshkopi o empate · cuota ~1,14 · ✓ acertado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Albania: 1st Division",
    "local": "FK Kukesi",
    "visitante": "Kastrioti Krujë",
-   "tendencia": "★★★ Gana FK Kukesi · cuota 1,57",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana FK Kukesi · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Albania: 1st Division",
    "local": "Pogradeci",
    "visitante": "Oriku",
-   "tendencia": "★★★ Gana Pogradeci · cuota 1,09",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana Pogradeci · cuota 1,09 · ✗ fallado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Austria: Cup",
@@ -520,22 +528,25 @@
    "liga": "Bosnia: Cup",
    "local": "Ilidza",
    "visitante": "Leotar",
-   "tendencia": "★★★ Leotar o empate · cuota ~1,25",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ Leotar o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Bosnia: Cup",
    "local": "FK Romanija Pale",
    "visitante": "Sloga Doboj",
-   "tendencia": "★★★ Sloga Doboj o empate · cuota ~1,26",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ Sloga Doboj o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Bosnia: Cup",
    "local": "TOŠK Tešanj",
    "visitante": "Rudar Prijedor",
-   "tendencia": "★★★ Gana TOŠK Tešanj · cuota 1,50",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ Gana TOŠK Tešanj · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "Bosnia: Cup",
@@ -625,8 +636,9 @@
    "liga": "Czech-Republic: Cup",
    "local": "Prostějov",
    "visitante": "Hradec Králové",
-   "tendencia": "★★★ Gana Hradec Králové · cuota 1,42",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Gana Hradec Králové · cuota 1,42 · ✓ acertado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Czech-Republic: Cup",
@@ -842,22 +854,25 @@
    "liga": "Hungary: Magyar Kupa",
    "local": "Bicskei",
    "visitante": "Ferencvarosi TC",
-   "tendencia": "★★★ Gana Ferencvarosi TC · cuota 1,05",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Gana Ferencvarosi TC · cuota 1,05 · ✓ acertado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Hungary: Magyar Kupa",
    "local": "Cigand SE",
    "visitante": "Paks",
-   "tendencia": "★★★ Gana Paks · cuota 1,11",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Gana Paks · cuota 1,11 · ✓ acertado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Hungary: Magyar Kupa",
    "local": "Szentlőrinc SE",
    "visitante": "Vasas",
-   "tendencia": "★★★ Gana Vasas · cuota 1,25",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Gana Vasas · cuota 1,25 · ✓ acertado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "3 - 4"
   },
   {
    "liga": "Hungary: Magyar Kupa",
@@ -1027,15 +1042,17 @@
    "liga": "Macedonia: Cup",
    "local": "FK Rabotnicki",
    "visitante": "Sasa",
-   "tendencia": "★★★ Gana FK Rabotnicki · cuota 1,33",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana FK Rabotnicki · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Macedonia: Cup",
    "local": "Vardar Skopje",
    "visitante": "Tikveš",
-   "tendencia": "★★★ Gana Vardar Skopje · cuota 1,62",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana Vardar Skopje · cuota 1,62 · ✗ fallado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -1202,15 +1219,17 @@
    "liga": "Poland: Cup",
    "local": "Sokół Kleczew",
    "visitante": "Podhale Nowy Targ",
-   "tendencia": "★★★ Podhale Nowy Targ o empate · cuota ~1,35",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Podhale Nowy Targ o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Poland: Cup",
    "local": "Siarka Tarnobrzeg",
    "visitante": "Lech Poznan",
-   "tendencia": "★★★ Gana Lech Poznan · cuota 1,14",
-   "inicio": "2026-10-28T11:30:00+00:00"
+   "tendencia": "★★★ Gana Lech Poznan · cuota 1,14 · ✗ fallado",
+   "inicio": "2026-10-28T11:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Poland: Cup",
@@ -1484,15 +1503,17 @@
    "liga": "AFC Champions League Two",
    "local": "Viettel",
    "visitante": "FC Seoul",
-   "tendencia": "★★★ FC Seoul o empate · cuota ~1,19",
-   "inicio": "2026-10-28T12:15:00+00:00"
+   "tendencia": "★★★ FC Seoul o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T12:15:00+00:00",
+   "resultado": "0 - 5"
   },
   {
    "liga": "AFC Champions League Two",
    "local": "Persib Bandung",
    "visitante": "Melbourne Victory",
-   "tendencia": "★★★ Persib Bandung o empate · cuota ~1,28",
-   "inicio": "2026-10-28T12:15:00+00:00"
+   "tendencia": "★★★ Persib Bandung o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-28T12:15:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "AFC Champions League Two",
