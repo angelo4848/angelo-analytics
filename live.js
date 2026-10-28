@@ -25,6 +25,7 @@ var css=document.createElement('style');css.textContent=
 '#sheet .st{margin:10px 0}#sheet .st .lb{display:flex;justify-content:space-between;font-size:13px;color:var(--soft);font-variant-numeric:tabular-nums}'+
 '#sheet .st .tr{display:flex;gap:4px;height:6px;margin-top:5px}#sheet .st .tr i{display:block;border-radius:3px}'+
 '#sheet .note2{color:var(--mute);font-size:13px;margin-top:16px}'+
+'#sheet .tend2 .aaa svg{width:16px;height:16px}'+
 '#sheet .tend2{margin-top:14px;background:rgba(34,197,94,.08);border:1px solid rgba(34,197,94,.3);border-radius:14px;padding:12px 14px;font-size:14px}';
 document.head.appendChild(css);
 
@@ -82,7 +83,7 @@ function drawSheet(){
     html+='<div class="board"><div class="tm">'+esc(o.h)+'</div><div class="big" style="font-size:40px">'+esc(o.score||o.time||'vs')+'</div><div class="tm">'+esc(o.a)+'</div></div>';
     html+='<div class="note2">'+(ev?'El partido todavía no ha empezado. El marcador aparecerá aquí en cuanto ruede el balón.':'El marcador en directo no está disponible para esta liga.')+'</div>';
   }
-  if(o.tend)html+='<div class="tend2">'+esc(o.tend)+'</div>';
+  if(o.tend)html+='<div class="tend2">'+o.tend+'</div>';
   html+='</div>';
   s.innerHTML=html;
   document.getElementById('sheetX').onclick=close;
@@ -94,7 +95,7 @@ document.addEventListener('click',function(e){
   var t=row.querySelector('.teams');var p=t.firstChild.textContent.split(' – ');
   var lgEl=row.previousElementSibling;while(lgEl&&!lgEl.classList.contains('league'))lgEl=lgEl.previousElementSibling;
   var sc=row.querySelector('.score');var tm=row.querySelector('.time');
-  OPEN={h:p[0],a:p[1],lg:lgEl?lgEl.textContent:'',tend:(row.querySelector('.tend')||{}).textContent,score:sc?sc.textContent:'',time:tm&&tm.firstChild?tm.firstChild.textContent:''};
+  OPEN={h:p[0],a:p[1],lg:lgEl?lgEl.textContent:'',tend:(row.querySelector('.tend')||{}).innerHTML,score:sc?sc.textContent:'',time:tm&&tm.firstChild?tm.firstChild.textContent:''};
   var s=document.createElement('div');s.id='sheet';s.addEventListener('click',function(ev){if(ev.target===s)close()});document.body.appendChild(s);drawSheet();
 },true);
 document.addEventListener('keydown',function(e){if(e.key==='Escape')close()});
