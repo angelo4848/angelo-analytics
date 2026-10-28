@@ -231,8 +231,9 @@
    "liga": "Estonia: Meistriliiga",
    "local": "Vaprus",
    "visitante": "Kuressaare",
-   "tendencia": "★★★ Vaprus o empate · cuota ~1,35",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Vaprus o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
@@ -245,8 +246,9 @@
    "liga": "Finland: Veikkausliiga",
    "local": "AC Oulu",
    "visitante": "VPS",
-   "tendencia": "★★★ AC Oulu o empate · cuota ~1,36",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ AC Oulu o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "India: Indian Super League",
@@ -299,8 +301,9 @@
    "liga": "Montenegro: First League",
    "local": "Petrovac",
    "visitante": "Mladost DG",
-   "tendencia": "★★★ Petrovac o empate · cuota ~1,20",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Petrovac o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -363,8 +366,9 @@
    "liga": "Serbia: Super Liga",
    "local": "Radnicki NIS",
    "visitante": "FK Partizan",
-   "tendencia": "★★★ FK Partizan o empate · cuota ~1,20",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ FK Partizan o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Slovakia: Super Liga",
@@ -384,8 +388,9 @@
    "liga": "Slovenia: 1. SNL",
    "local": "Nafta",
    "visitante": "Aluminij",
-   "tendencia": "★★★ Nafta o empate · cuota ~1,39",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Nafta o empate · cuota ~1,39 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Sweden: Allsvenskan",
@@ -569,8 +574,9 @@
    "liga": "Bulgaria: Second League",
    "local": "Fratria",
    "visitante": "Montana",
-   "tendencia": "★★★ Gana Fratria · cuota 1,27",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Gana Fratria · cuota 1,27 · ✗ fallado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Bulgaria: Third League - Southwest",
@@ -611,8 +617,9 @@
    "liga": "Croatia: Cup",
    "local": "NK Varazdin",
    "visitante": "NK Lokomotiva Zagreb",
-   "tendencia": "★★★ NK Varazdin o empate · cuota ~1,17",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ NK Varazdin o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Cyprus: Cup",
@@ -626,8 +633,9 @@
    "liga": "Cyprus: Cup",
    "local": "Apoel Nicosia",
    "visitante": "Halkanoras",
-   "tendencia": "★★★ Gana Apoel Nicosia · cuota 1,18",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Gana Apoel Nicosia · cuota 1,18 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL B",
@@ -680,8 +688,9 @@
    "liga": "Denmark: DBU Pokalen",
    "local": "Esbjerg",
    "visitante": "FC Nordsjaelland",
-   "tendencia": "★★★ Gana FC Nordsjaelland · cuota 1,40",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Gana FC Nordsjaelland · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Denmark: DBU Pokalen",
@@ -757,8 +766,9 @@
    "liga": "Georgia: David Kipiani Cup",
    "local": "Dinamo Batumi",
    "visitante": "Dila",
-   "tendencia": "★★★ Dinamo Batumi o empate · cuota ~1,20",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Dinamo Batumi o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Germany: DFB Pokal",
@@ -889,8 +899,9 @@
    "liga": "Hungary: Magyar Kupa",
    "local": "Kozarmisleny FC",
    "visitante": "Soroksar",
-   "tendencia": "★★★ Soroksar o empate · cuota ~1,15",
-   "inicio": "2026-10-28T16:30:00+00:00"
+   "tendencia": "★★★ Soroksar o empate · cuota ~1,15 · ✗ fallado",
+   "inicio": "2026-10-28T16:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Hungary: Magyar Kupa",
@@ -1133,8 +1144,9 @@
    "liga": "Norway: NM Cupen",
    "local": "Tromsdalen Uil",
    "visitante": "Lyn",
-   "tendencia": "★★★ Tromsdalen Uil o empate · cuota ~1,35",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Tromsdalen Uil o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Norway: NM Cupen",
@@ -1217,8 +1229,9 @@
    "liga": "Peru: Primera División",
    "local": "ADT",
    "visitante": "UCV Moquegua",
-   "tendencia": "★★★ Gana ADT · cuota 1,62",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Gana ADT · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Peru: Primera División",
@@ -1254,8 +1267,9 @@
    "liga": "Poland: Cup",
    "local": "Znicz Pruszków",
    "visitante": "Ruch Chorzów",
-   "tendencia": "★★★ Ruch Chorzów o empate · cuota ~1,31",
-   "inicio": "2026-10-28T16:30:00+00:00"
+   "tendencia": "★★★ Ruch Chorzów o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-28T16:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Poland: Cup",
@@ -1290,8 +1304,9 @@
    "liga": "Qatar: Second Division",
    "local": "Al-Khor",
    "visitante": "Al-Gharafa B",
-   "tendencia": "★★★ Gana Al-Khor · cuota 1,40",
-   "inicio": "2026-10-28T16:30:00+00:00"
+   "tendencia": "★★★ Gana Al-Khor · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-28T16:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Romania: Cupa României",
@@ -1338,7 +1353,7 @@
    "visitante": "Akron",
    "tendencia": "★★★ FC Rostov o empate · cuota ~1,23 · ✓ acertado",
    "inicio": "2026-10-28T15:15:00+00:00",
-   "resultado": "5 - 1"
+   "resultado": "6 - 1"
   },
   {
    "liga": "Russia: Cup",
@@ -1396,8 +1411,9 @@
    "liga": "Saudi-Arabia: Division 2",
    "local": "Al Qwarah",
    "visitante": "Al Safa",
-   "tendencia": "★★★ Al Qwarah o empate · cuota ~1,33",
-   "inicio": "2026-10-28T12:25:00+00:00"
+   "tendencia": "★★★ Al Qwarah o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-28T12:25:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Scotland: Football League - Lowland League",
@@ -1426,8 +1442,9 @@
    "liga": "Slovenia: 2. SNL",
    "local": "Krško",
    "visitante": "Dravinja",
-   "tendencia": "★★★ Krško o empate · cuota ~1,40",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Krško o empate · cuota ~1,40 · ✗ fallado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "0 - 6"
   },
   {
    "liga": "Slovenia: 3. SNL - East",
@@ -1564,8 +1581,9 @@
    "liga": "AFC Champions League Two",
    "local": "Al-Nahda",
    "visitante": "Al-Rayyan SC",
-   "tendencia": "★★★ Gana Al-Rayyan SC · cuota 1,62",
-   "inicio": "2026-10-28T16:00:00+00:00"
+   "tendencia": "★★★ Gana Al-Rayyan SC · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-28T16:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "CONCACAF Central American Cup",
