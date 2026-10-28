@@ -629,8 +629,9 @@
    "liga": "Czech-Republic: 3. liga - CFL B",
    "local": "Varnsdorf",
    "visitante": "Horní Ředice",
-   "tendencia": "★★★ Gana Varnsdorf · cuota 1,25",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Gana Varnsdorf · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Czech-Republic: Cup",
@@ -644,8 +645,9 @@
    "liga": "Czech-Republic: Cup",
    "local": "Vysočina Jihlava",
    "visitante": "Plzen",
-   "tendencia": "★★★ Gana Plzen · cuota 1,53",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana Plzen · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "1 - 6"
   },
   {
    "liga": "Czech-Republic: Cup",
@@ -665,8 +667,9 @@
    "liga": "Denmark: DBU Pokalen",
    "local": "Brabrand",
    "visitante": "AC Horsens",
-   "tendencia": "★★★ Gana AC Horsens · cuota 1,42",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana AC Horsens · cuota 1,42 · ✗ fallado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Denmark: DBU Pokalen",
@@ -819,15 +822,17 @@
    "liga": "Greece: Cup",
    "local": "Nestos Chrisoupolis",
    "visitante": "Kalamata",
-   "tendencia": "★★★ Gana Kalamata · cuota 1,60",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana Kalamata · cuota 1,60 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Greece: Cup",
    "local": "Marko",
    "visitante": "Olympiakos Piraeus",
-   "tendencia": "★★★ Gana Olympiakos Piraeus · cuota 1,14",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana Olympiakos Piraeus · cuota 1,14 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Greece: Cup",
@@ -920,43 +925,49 @@
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Valenzana",
    "visitante": "Biellese",
-   "tendencia": "★★★ Biellese o empate · cuota ~1,20",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Biellese o empate · cuota ~1,20 · ✗ fallado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Caldiero Terme",
    "visitante": "Cjarlins Muzane",
-   "tendencia": "★★★ Cjarlins Muzane o empate · cuota ~1,37",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Cjarlins Muzane o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Real Normanna",
    "visitante": "L'Aquila",
-   "tendencia": "★★★ Real Normanna o empate · cuota ~1,34",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Real Normanna o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "6 - 0"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Piacenza",
    "visitante": "Sasso Marconi Zola",
-   "tendencia": "★★★ Gana Piacenza · cuota 1,44",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Gana Piacenza · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Teramo",
    "visitante": "Latte Dolce",
-   "tendencia": "★★★ Gana Teramo · cuota 1,44",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Gana Teramo · cuota 1,44 · ✗ fallado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Prato",
    "visitante": "Ternana",
-   "tendencia": "★★★ Prato o empate · cuota ~1,32",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Prato o empate · cuota ~1,32 · ✗ fallado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
@@ -997,8 +1008,9 @@
    "liga": "Italy: Serie D - Girone I",
    "local": "CastrumFavara",
    "visitante": "Reggina",
-   "tendencia": "★★★ Gana Reggina · cuota 1,40",
-   "inicio": "2026-10-28T13:30:00+00:00"
+   "tendencia": "★★★ Gana Reggina · cuota 1,40 · ✗ fallado",
+   "inicio": "2026-10-28T13:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Japan: J-League Cup",
@@ -1035,8 +1047,9 @@
    "liga": "Macedonia: Cup",
    "local": "Makedonija GjP",
    "visitante": "Bregalnica Štip",
-   "tendencia": "★★★ Gana Bregalnica Štip · cuota 1,20",
-   "inicio": "2026-10-28T12:30:00+00:00"
+   "tendencia": "★★★ Gana Bregalnica Štip · cuota 1,20 · ✗ fallado",
+   "inicio": "2026-10-28T12:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Macedonia: Cup",
@@ -1278,22 +1291,25 @@
    "liga": "Romania: Cupa României",
    "local": "Corona Braşov",
    "visitante": "Arges Pitesti",
-   "tendencia": "★★★ Arges Pitesti o empate · cuota ~1,18",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Arges Pitesti o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Romania: Cupa României",
    "local": "Minerul Lupeni",
    "visitante": "FC Politehnica Timisoara",
-   "tendencia": "★★★ Gana FC Politehnica Timisoara · cuota 1,65",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana FC Politehnica Timisoara · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Romania: Cupa României",
    "local": "Sporting Lieşti",
    "visitante": "FC Bacau",
-   "tendencia": "★★★ Gana FC Bacau · cuota 1,33",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana FC Bacau · cuota 1,33 · ✗ fallado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Romania: Cupa României",
@@ -1306,8 +1322,9 @@
    "liga": "Russia: Cup",
    "local": "FC Orenburg",
    "visitante": "Rodina Moskva",
-   "tendencia": "★★★ FC Orenburg o empate · cuota ~1,26",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ FC Orenburg o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Russia: Cup",
@@ -1348,8 +1365,9 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Jandal",
    "visitante": "Damac",
-   "tendencia": "★★★ Damac o empate · cuota ~1,30",
-   "inicio": "2026-10-28T12:35:00+00:00"
+   "tendencia": "★★★ Damac o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-28T12:35:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Saudi-Arabia: Division 1",
@@ -1383,15 +1401,17 @@
    "liga": "Slovenia: 2. SNL",
    "local": "Beltinci",
    "visitante": "Triglav",
-   "tendencia": "★★★ Beltinci o empate · cuota ~1,42",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Beltinci o empate · cuota ~1,42 · ✗ fallado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "3 - 4"
   },
   {
    "liga": "Slovenia: 2. SNL",
    "local": "Jesenice",
    "visitante": "Bistrica",
-   "tendencia": "★★★ Jesenice o empate · cuota ~1,37",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Jesenice o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Slovenia: 2. SNL",
