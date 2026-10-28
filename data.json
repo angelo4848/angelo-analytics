@@ -186,8 +186,9 @@
    "liga": "Belarus: Premier League",
    "local": "Belshina",
    "visitante": "Dinamo Minsk",
-   "tendencia": "★★★ Gana Dinamo Minsk · cuota 1,30",
-   "inicio": "2026-10-28T11:00:00+00:00"
+   "tendencia": "★★★ Gana Dinamo Minsk · cuota 1,30 · ✓ acertado",
+   "inicio": "2026-10-28T11:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Belarus: Premier League",
@@ -256,8 +257,9 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Homeboyz",
    "visitante": "GOR Mahia",
-   "tendencia": "★★★ GOR Mahia o empate · cuota ~1,23",
-   "inicio": "2026-10-28T11:00:00+00:00"
+   "tendencia": "★★★ GOR Mahia o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-28T11:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -270,8 +272,9 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Bandari",
    "visitante": "Posta Rangers FC",
-   "tendencia": "★★★ Bandari o empate · cuota ~1,20",
-   "inicio": "2026-10-28T12:00:00+00:00"
+   "tendencia": "★★★ Bandari o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-28T12:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -445,15 +448,17 @@
    "liga": "AFC Champions League Elite",
    "local": "Gamba Osaka",
    "visitante": "Buriram United",
-   "tendencia": "★★★ Gana Gamba Osaka · cuota 1,65",
-   "inicio": "2026-10-28T10:00:00+00:00"
+   "tendencia": "★★★ Gana Gamba Osaka · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-10-28T10:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "AFC Champions League Elite",
    "local": "Kashima",
    "visitante": "Pohang Steelers",
-   "tendencia": "★★★ Gana Kashima · cuota 1,27",
-   "inicio": "2026-10-28T10:00:00+00:00"
+   "tendencia": "★★★ Gana Kashima · cuota 1,27 · ✓ acertado",
+   "inicio": "2026-10-28T10:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Albania: 1st Division",
@@ -984,22 +989,25 @@
    "liga": "Japan: J-League Cup",
    "local": "Mito Hollyhock",
    "visitante": "Cerezo Osaka",
-   "tendencia": "★★★ Cerezo Osaka o empate · cuota ~1,27",
-   "inicio": "2026-10-28T10:00:00+00:00"
+   "tendencia": "★★★ Cerezo Osaka o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-28T10:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Japan: J-League Cup",
    "local": "Sagan Tosu",
    "visitante": "Kawasaki Frontale",
-   "tendencia": "★★★ Gana Kawasaki Frontale · cuota 1,67",
-   "inicio": "2026-10-28T10:00:00+00:00"
+   "tendencia": "★★★ Gana Kawasaki Frontale · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-28T10:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Japan: J-League Cup",
    "local": "Yokohama F. Marinos",
    "visitante": "Sanfrecce Hiroshima",
-   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,19",
-   "inicio": "2026-10-28T10:00:00+00:00"
+   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,19 · ✗ fallado",
+   "inicio": "2026-10-28T10:00:00+00:00",
+   "resultado": "4 - 3"
   },
   {
    "liga": "Kuwait: Premier League",
@@ -1461,8 +1469,9 @@
    "liga": "Ukraine: Cup",
    "local": "LNZ Cherkasy",
    "visitante": "Metal Kharkiv",
-   "tendencia": "★★★ Gana LNZ Cherkasy · cuota 1,27",
-   "inicio": "2026-10-28T13:00:00+00:00"
+   "tendencia": "★★★ Gana LNZ Cherkasy · cuota 1,27 · ✗ fallado",
+   "inicio": "2026-10-28T13:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Uruguay: Copa Uruguay",
