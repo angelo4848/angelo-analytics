@@ -23,13 +23,19 @@ EXCL_LEAGUE = re.compile(r'U19|U20|U21|U23|Premier League 2|Development|Reserve|
 def fetch(day):
     req = urllib.request.Request('https://oddslot.com/odds/?day=' + day,
                                  headers={'User-Agent': 'Mozilla/5.0'})
-    html = urllib.request.urlopen(req, timeout=60).read().decode('utf-8', 'replace')
+    html = urllib.request.urlopen(req, timeout=150).read().decode('utf-8', 'replace')
     soup = BeautifulSoup(html, 'html.parser')
-    m = re.search(r'BEST BETTING ODDS [A-Z]+DAY, (\d{1,2} [A-Z]+ \d{4})', soup.get_text(' ').upper())
+    m = re.search(r'BEST BETTING ODDS[A-Z ]*?\w+DAY,\s*(\d{1,2} [A-Z]+ \d{4})', re.sub(r'\s+', ' ', soup.get_text(' ')).upper())
     page_date = datetime.strptime(m.group(1).title(), '%d %B %Y').date() if m else None
     rows = []
     for r in soup.select('.odds-match'):
         league = ''
+        box = r.find_parent(class_='drop-league')
+        hd = box.select_one('.drop-league__header') if box else None
+        if hd:
+            league = re.sub(r'\s+', ' ', hd.get_text(' ', strip=True))
+            league = re.sub(r'\s*:\s*', ': ', league, count=1)
+            league = re.sub(r'\(\s*(\d+)\s*\)$', r'(\1)', league)
         node = r
         while node is not None and not league:
             sib = node.find_previous_sibling()
