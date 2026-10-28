@@ -87,12 +87,13 @@
      "partido": "Venezia vs Inter",
      "mercado": "Victoria Inter",
      "cuota": 1.36,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Inter, candidato al título, visita a un recién ascendido",
       "Mucha diferencia de plantilla entre los dos equipos",
       "Partido de liga: Inter sale con su once titular, sin rotaciones de copa"
-     ]
+     ],
+     "resultado": "0 - 2"
     },
     {
      "liga": "Taça da Liga",
@@ -136,16 +137,18 @@
    "liga": "Italy: Serie A",
    "local": "AC Milan",
    "visitante": "Bologna",
-   "tendencia": "★★★ AC Milan o empate · cuota ~1,17",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ AC Milan o empate · cuota ~1,17 · ✗ fallado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Italy: Serie A",
    "local": "Venezia",
    "visitante": "Inter",
-   "tendencia": "★★★ Gana Inter · cuota 1,36",
+   "tendencia": "★★★ Gana Inter · cuota 1,36 · ✓ acertado",
    "inicio": "2026-10-28T17:30:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "0 - 2"
   },
   {
    "liga": "Italy: Serie A",
@@ -173,15 +176,17 @@
    "liga": "Albania: Superliga",
    "local": "AF Elbasani",
    "visitante": "Partizani",
-   "tendencia": "★★★ Gana AF Elbasani · cuota 1,67",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ Gana AF Elbasani · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Albania: Superliga",
    "local": "Skenderbeu Korce",
    "visitante": "Laci",
-   "tendencia": "★★★ Skenderbeu Korce o empate · cuota ~1,23",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ Skenderbeu Korce o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Belarus: Premier League",
@@ -224,8 +229,9 @@
    "liga": "Egypt: Premier League",
    "local": "Zamalek SC",
    "visitante": "El Mokawloon",
-   "tendencia": "★★★ Zamalek SC o empate · cuota ~1,16",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Zamalek SC o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
@@ -239,8 +245,9 @@
    "liga": "Estonia: Meistriliiga",
    "local": "Paide",
    "visitante": "Kalju Nomme",
-   "tendencia": "★★★ Paide o empate · cuota ~1,29",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Paide o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Finland: Veikkausliiga",
@@ -374,15 +381,17 @@
    "liga": "Slovakia: Super Liga",
    "local": "FK Košice",
    "visitante": "Dunajska Streda",
-   "tendencia": "★★★ Dunajska Streda o empate · cuota ~1,29",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Dunajska Streda o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Slovakia: Super Liga",
    "local": "AS Trencin",
    "visitante": "Slovan Bratislava",
-   "tendencia": "★★★ Gana Slovan Bratislava · cuota 1,44",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Slovan Bratislava · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Slovenia: 1. SNL",
@@ -507,15 +516,17 @@
    "liga": "Austria: Cup",
    "local": "Schwarz-Weiß Bregenz",
    "visitante": "Red Bull Salzburg",
-   "tendencia": "★★★ Gana Red Bull Salzburg · cuota 1,22",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Red Bull Salzburg · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Austria: Cup",
    "local": "Wacker Innsbruck",
    "visitante": "WSG Wattens",
-   "tendencia": "★★★ WSG Wattens o empate · cuota ~1,26",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ WSG Wattens o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Austria: Cup",
@@ -560,8 +571,9 @@
    "liga": "Bosnia: Cup",
    "local": "Posušje",
    "visitante": "Vitez",
-   "tendencia": "★★★ Gana Posušje · cuota 1,36",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Posušje · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Bosnia: Cup",
@@ -673,8 +685,9 @@
    "liga": "Czech-Republic: Cup",
    "local": "Sparta Praha",
    "visitante": "Baník Ostrava",
-   "tendencia": "★★★ Gana Sparta Praha · cuota 1,18",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ Gana Sparta Praha · cuota 1,18 · ✗ fallado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Denmark: DBU Pokalen",
@@ -774,29 +787,33 @@
    "liga": "Germany: DFB Pokal",
    "local": "SC Freiburg",
    "visitante": "VfL Wolfsburg",
-   "tendencia": "★★★ Gana SC Freiburg · cuota 1,50",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana SC Freiburg · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "SSV Jeddeloh",
    "visitante": "Hertha BSC",
-   "tendencia": "★★★ Gana Hertha BSC · cuota 1,05",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Hertha BSC · cuota 1,05 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "SC Paderborn 07",
    "visitante": "VfB Stuttgart",
-   "tendencia": "★★★ Gana VfB Stuttgart · cuota 1,53",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana VfB Stuttgart · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Germany: DFB Pokal",
    "local": "Dynamo Dresden",
    "visitante": "FC Schalke 04",
-   "tendencia": "★★★ FC Schalke 04 o empate · cuota ~1,29",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ FC Schalke 04 o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: DFB Pokal",
@@ -861,8 +878,9 @@
    "liga": "Greece: Cup",
    "local": "Larisa",
    "visitante": "OFI",
-   "tendencia": "★★★ OFI o empate · cuota ~1,30",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ OFI o empate · cuota ~1,30 · ✗ fallado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Greece: Cup",
@@ -907,8 +925,9 @@
    "liga": "Hungary: Magyar Kupa",
    "local": "Diosgyori VTK",
    "visitante": "Puskas Academy",
-   "tendencia": "★★★ Gana Puskas Academy · cuota 1,53",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Puskas Academy · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Hungary: Magyar Kupa",
@@ -921,8 +940,9 @@
    "liga": "Italy: Coppa Italia Serie C",
    "local": "Spezia",
    "visitante": "Livorno",
-   "tendencia": "★★★ Gana Spezia · cuota 1,62",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Spezia · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Italy: Coppa Italia Serie C",
@@ -990,8 +1010,9 @@
    "liga": "Italy: Coppa Italia Serie D",
    "local": "Robur Siena",
    "visitante": "Ancona",
-   "tendencia": "★★★ Robur Siena o empate · cuota ~1,37",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Robur Siena o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
@@ -1057,8 +1078,9 @@
    "liga": "Kuwait: Premier League",
    "local": "Al Shabab",
    "visitante": "Al Qadsia",
-   "tendencia": "★★★ Gana Al Qadsia · cuota 1,30",
-   "inicio": "2026-10-28T16:50:00+00:00"
+   "tendencia": "★★★ Gana Al Qadsia · cuota 1,30 · ✓ acertado",
+   "inicio": "2026-10-28T16:50:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Macedonia: Cup",
@@ -1152,71 +1174,81 @@
    "liga": "Norway: NM Cupen",
    "local": "Asane",
    "visitante": "hodd",
-   "tendencia": "★★★ Asane o empate · cuota ~1,41",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Asane o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Egersund",
    "visitante": "Bryne",
-   "tendencia": "★★★ Egersund o empate · cuota ~1,22",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Egersund o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Kristiansund BK",
    "visitante": "Aalesund",
-   "tendencia": "★★★ Kristiansund BK o empate · cuota ~1,33",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Kristiansund BK o empate · cuota ~1,33 · ✗ fallado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Molde",
    "visitante": "Stromsgodset",
-   "tendencia": "★★★ Gana Molde · cuota 1,18",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Molde · cuota 1,18 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Pors Grenland",
    "visitante": "Kongsvinger",
-   "tendencia": "★★★ Gana Kongsvinger · cuota 1,60",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Kongsvinger · cuota 1,60 · ✗ fallado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Ranheim",
    "visitante": "Fredrikstad",
-   "tendencia": "★★★ Fredrikstad o empate · cuota ~1,19",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Fredrikstad o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Rosenborg",
    "visitante": "Ham-Kam",
-   "tendencia": "★★★ Gana Rosenborg · cuota 1,22",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Rosenborg · cuota 1,22 · ✗ fallado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Grorud",
    "visitante": "Brann",
-   "tendencia": "★★★ Gana Brann · cuota 1,33",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Gana Brann · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "ODD Ballklubb",
    "visitante": "Sandefjord",
-   "tendencia": "★★★ ODD Ballklubb o empate · cuota ~1,33",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ ODD Ballklubb o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Norway: NM Cupen",
    "local": "Sarpsborg 08 FF",
    "visitante": "Valerenga",
-   "tendencia": "★★★ Sarpsborg 08 FF o empate · cuota ~1,35",
-   "inicio": "2026-10-28T17:00:00+00:00"
+   "tendencia": "★★★ Sarpsborg 08 FF o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-28T17:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Norway: NM Cupen",
@@ -1275,8 +1307,9 @@
    "liga": "Poland: Cup",
    "local": "Puszcza Niepołomice",
    "visitante": "Wisla Plock",
-   "tendencia": "★★★ Wisla Plock o empate · cuota ~1,19",
-   "inicio": "2026-10-28T16:30:00+00:00"
+   "tendencia": "★★★ Wisla Plock o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-28T16:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Poland: Cup",
@@ -1359,8 +1392,9 @@
    "liga": "Russia: Cup",
    "local": "Spartak Moscow",
    "visitante": "Rubin",
-   "tendencia": "★★★ Gana Spartak Moscow · cuota 1,41",
-   "inicio": "2026-10-28T17:30:00+00:00"
+   "tendencia": "★★★ Gana Spartak Moscow · cuota 1,41 · ✓ acertado",
+   "inicio": "2026-10-28T17:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "San-Marino: Coppa Titano",
