@@ -120,25 +120,25 @@
      "liga": "Saudi Pro League",
      "hora": "18:00",
      "partido": "Al-Nassr vs Al Kholood",
-     "mercado": "Al-Nassr o empate + menos de 5,5 goles",
-     "cuota": 1.2,
+     "mercado": "Victoria Al-Nassr + menos de 5,5 goles",
+     "cuota": 1.42,
      "estado": "pendiente",
      "analisis": [
-      "Al-Nassr, 3.º clasificado, juega en casa ante el 9.º",
+      "Al-Nassr ha ganado sus 5 partidos de liga en casa esta temporada",
       "Al Kholood llega con 3 derrotas seguidas, la última 0-3 en casa",
-      "Al-Nassr ganó los dos últimos duelos sin encajar (2-0 y 3-0)"
+      "Ningún partido oficial de Al-Nassr este año ha llegado a 6 goles"
      ]
     },
     {
      "liga": "Taça da Liga",
      "hora": "20:45",
      "partido": "Benfica vs Gil Vicente",
-     "mercado": "Benfica o empate + menos de 4,5 goles",
-     "cuota": 1.44,
+     "mercado": "Benfica o empate + más de 1,5 goles",
+     "cuota": 1.22,
      "estado": "pendiente",
      "analisis": [
-      "Benfica suma 4 victorias seguidas y juega en la Luz",
-      "Ha ganado los últimos 9 enfrentamientos ante el Gil Vicente",
+      "Benfica ha ganado los últimos 9 enfrentamientos ante el Gil Vicente",
+      "El Gil le ha marcado al Benfica en los últimos 20 duelos: partido con goles",
       "La doble oportunidad cubre el riesgo de rotaciones en copa"
      ]
     }
