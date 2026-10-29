@@ -474,8 +474,9 @@
    "liga": "Ukraine: Cup",
    "local": "Zorya Luhansk",
    "visitante": "Kryvbas KR",
-   "tendencia": "★★★ Gana Zorya Luhansk · cuota 1,19",
-   "inicio": "2026-10-29T11:00:00+00:00"
+   "tendencia": "★★★ Gana Zorya Luhansk · cuota 1,19 · ✗ fallado",
+   "inicio": "2026-10-29T11:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Ukraine: Cup",
@@ -495,8 +496,9 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Shabana",
    "visitante": "Migori Youth",
-   "tendencia": "★★★ Shabana o empate · cuota ~1,21",
-   "inicio": "2026-10-29T11:00:00+00:00"
+   "tendencia": "★★★ Shabana o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-29T11:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -594,8 +596,9 @@
    "liga": "Azerbaijan: Cup",
    "local": "Xankəndi FK",
    "visitante": "Cəbrayıl",
-   "tendencia": "★★★ Cəbrayıl o empate · cuota ~1,26",
-   "inicio": "2026-10-29T10:00:00+00:00"
+   "tendencia": "★★★ Cəbrayıl o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-29T10:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Colombia: Primera B",
