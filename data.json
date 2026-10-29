@@ -201,8 +201,9 @@
    "liga": "Egypt: Premier League",
    "local": "Future FC",
    "visitante": "Al Ahly",
-   "tendencia": "★★★ Gana Al Ahly · cuota 1,50",
-   "inicio": "2026-10-29T14:00:00+00:00"
+   "tendencia": "★★★ Gana Al Ahly · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-29T14:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Egypt: Premier League",
@@ -433,8 +434,9 @@
    "liga": "Russia: Cup",
    "local": "Krylia Sovetov",
    "visitante": "Dinamo Makhachkala",
-   "tendencia": "★★★ Krylia Sovetov o empate · cuota ~1,23",
-   "inicio": "2026-10-29T14:00:00+00:00"
+   "tendencia": "★★★ Krylia Sovetov o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-29T14:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Russia: Cup",
@@ -454,8 +456,9 @@
    "liga": "Saudi-Arabia: Pro League",
    "local": "Al Khaleej Saihat",
    "visitante": "Al-Hazm",
-   "tendencia": "★★★ Al Khaleej Saihat o empate · cuota ~1,25",
-   "inicio": "2026-10-29T14:35:00+00:00"
+   "tendencia": "★★★ Al Khaleej Saihat o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-29T14:35:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Saudi-Arabia: Pro League",
