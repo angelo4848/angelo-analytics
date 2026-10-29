@@ -962,15 +962,17 @@
    "liga": "AFC Champions League Two",
    "local": "Gangwon FC",
    "visitante": "Kuching FA",
-   "tendencia": "★★★ Gana Gangwon FC · cuota 1,50",
-   "inicio": "2026-10-29T10:00:00+00:00"
+   "tendencia": "★★★ Gana Gangwon FC · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-29T10:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "AFC Champions League Two",
    "local": "Tampines Rovers",
    "visitante": "Svay Rieng",
-   "tendencia": "★★★ Svay Rieng o empate · cuota ~1,39",
-   "inicio": "2026-10-29T10:00:00+00:00"
+   "tendencia": "★★★ Svay Rieng o empate · cuota ~1,39 · ✓ acertado",
+   "inicio": "2026-10-29T10:00:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "AFC Champions League Two",
