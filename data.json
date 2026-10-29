@@ -216,8 +216,9 @@
    "liga": "Finland: Veikkausliiga",
    "local": "Inter Turku",
    "visitante": "HJK Helsinki",
-   "tendencia": "★★★ Inter Turku o empate · cuota ~1,35",
-   "inicio": "2026-10-29T16:00:00+00:00"
+   "tendencia": "★★★ Inter Turku o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-29T16:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Finland: Veikkausliiga",
@@ -244,8 +245,9 @@
    "liga": "Slovenia: 1. SNL",
    "local": "Brinje-Grosuplje",
    "visitante": "Bravo",
-   "tendencia": "★★★ Bravo o empate · cuota ~1,30",
-   "inicio": "2026-10-29T16:30:00+00:00"
+   "tendencia": "★★★ Bravo o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-29T16:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Sweden: Allsvenskan",
@@ -335,8 +337,9 @@
    "liga": "Bulgaria: Second League",
    "local": "Yantra 2019",
    "visitante": "Hebar 1918",
-   "tendencia": "★★★ Yantra 2019 o empate · cuota ~1,26",
-   "inicio": "2026-10-29T16:00:00+00:00"
+   "tendencia": "★★★ Yantra 2019 o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-29T16:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Colombia: Primera A",
@@ -442,8 +445,9 @@
    "liga": "Russia: Cup",
    "local": "CSKA Moscow",
    "visitante": "Lokomotiv",
-   "tendencia": "★★★ CSKA Moscow o empate · cuota ~1,27",
-   "inicio": "2026-10-29T16:30:00+00:00"
+   "tendencia": "★★★ CSKA Moscow o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-29T16:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Russia: Cup",
@@ -486,8 +490,9 @@
    "liga": "Ukraine: Cup",
    "local": "Karpaty",
    "visitante": "Oleksandria",
-   "tendencia": "★★★ Gana Karpaty · cuota 1,44",
-   "inicio": "2026-10-29T16:00:00+00:00"
+   "tendencia": "★★★ Gana Karpaty · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-29T16:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Albania: Superliga",
@@ -524,8 +529,9 @@
    "liga": "Montenegro: First League",
    "local": "Dečić",
    "visitante": "Otrant-Olympic",
-   "tendencia": "★★★ Dečić o empate · cuota ~1,23",
-   "inicio": "2026-10-29T16:00:00+00:00"
+   "tendencia": "★★★ Dečić o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-29T16:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -585,8 +591,9 @@
    "liga": "Armenia: Cup",
    "local": "FC Noah",
    "visitante": "Syunik",
-   "tendencia": "★★★ Gana FC Noah · cuota 1,27",
-   "inicio": "2026-10-29T15:00:00+00:00"
+   "tendencia": "★★★ Gana FC Noah · cuota 1,27 · ✓ acertado",
+   "inicio": "2026-10-29T15:00:00+00:00",
+   "resultado": "4 - 3"
   },
   {
    "liga": "Australia: Australian Championship",
@@ -609,7 +616,7 @@
    "visitante": "Cəbrayıl",
    "tendencia": "★★★ Cəbrayıl o empate · cuota ~1,26 · ✓ acertado",
    "inicio": "2026-10-29T10:00:00+00:00",
-   "resultado": "2 - 2"
+   "resultado": "2 - 3"
   },
   {
    "liga": "Colombia: Primera B",
@@ -840,15 +847,17 @@
    "liga": "Poland: Cup",
    "local": "Chrobry Głogów",
    "visitante": "Polonia Bytom",
-   "tendencia": "★★★ Polonia Bytom o empate · cuota ~1,41",
-   "inicio": "2026-10-29T16:30:00+00:00"
+   "tendencia": "★★★ Polonia Bytom o empate · cuota ~1,41 · ✗ fallado",
+   "inicio": "2026-10-29T16:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Poland: Cup",
    "local": "Polonia Warszawa",
    "visitante": "Korona Kielce",
-   "tendencia": "★★★ Korona Kielce o empate · cuota ~1,26",
-   "inicio": "2026-10-29T16:30:00+00:00"
+   "tendencia": "★★★ Korona Kielce o empate · cuota ~1,26 · ✗ fallado",
+   "inicio": "2026-10-29T16:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Poland: Cup",
@@ -868,8 +877,9 @@
    "liga": "Qatar: Second Division",
    "local": "UMM Salal",
    "visitante": "Al Bidda SC",
-   "tendencia": "★★★ Gana UMM Salal · cuota 1,67",
-   "inicio": "2026-10-29T16:30:00+00:00"
+   "tendencia": "★★★ Gana UMM Salal · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-29T16:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Russia: Second League - Group 4",
@@ -883,15 +893,17 @@
    "liga": "Saudi-Arabia: Division 2",
    "local": "Al Sharq",
    "visitante": "Najran",
-   "tendencia": "★★★ Al Sharq o empate · cuota ~1,32",
-   "inicio": "2026-10-29T12:10:00+00:00"
+   "tendencia": "★★★ Al Sharq o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-29T12:10:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 2",
    "local": "Jerash",
    "visitante": "Al Qous",
-   "tendencia": "★★★ Jerash o empate · cuota ~1,19",
-   "inicio": "2026-10-29T12:35:00+00:00"
+   "tendencia": "★★★ Jerash o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-29T12:35:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 2",
