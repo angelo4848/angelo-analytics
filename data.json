@@ -579,8 +579,9 @@
    "liga": "Australia: Australian Championship",
    "local": "Canberra FC",
    "visitante": "South Melbourne",
-   "tendencia": "★★★ Gana South Melbourne · cuota 1,30",
-   "inicio": "2026-10-29T08:30:00+00:00"
+   "tendencia": "★★★ Gana South Melbourne · cuota 1,30 · ✓ acertado",
+   "inicio": "2026-10-29T08:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Austria: Cup",
@@ -656,8 +657,9 @@
    "liga": "Indonesia: Liga 2",
    "local": "RANS Nusantara",
    "visitante": "Tornado Pekanbaru",
-   "tendencia": "★★★ Tornado Pekanbaru o empate · cuota ~1,33",
-   "inicio": "2026-10-29T08:30:00+00:00"
+   "tendencia": "★★★ Tornado Pekanbaru o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-29T08:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iraq: Iraqi League",
@@ -853,8 +855,9 @@
    "liga": "Russia: Second League - Group 4",
    "local": "Nosta",
    "visitante": "Izhevsk",
-   "tendencia": "★★★ Izhevsk o empate · cuota ~1,25",
-   "inicio": "2026-10-29T09:00:00+00:00"
+   "tendencia": "★★★ Izhevsk o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-29T09:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Saudi-Arabia: Division 2",
