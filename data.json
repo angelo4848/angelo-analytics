@@ -567,8 +567,9 @@
    "liga": "Armenia: Cup",
    "local": "Olympia Yerevan",
    "visitante": "Ararat-Armenia",
-   "tendencia": "★★★ Gana Ararat-Armenia · cuota 1,45",
-   "inicio": "2026-10-29T11:30:00+00:00"
+   "tendencia": "★★★ Gana Ararat-Armenia · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-29T11:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Armenia: Cup",
@@ -816,8 +817,9 @@
    "liga": "Poland: Cup",
    "local": "Avia Świdnik",
    "visitante": "Radomiak Radom",
-   "tendencia": "★★★ Radomiak Radom o empate · cuota ~1,14",
-   "inicio": "2026-10-29T11:30:00+00:00"
+   "tendencia": "★★★ Radomiak Radom o empate · cuota ~1,14 · ✗ fallado",
+   "inicio": "2026-10-29T11:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Poland: Cup",
@@ -981,22 +983,25 @@
    "liga": "AFC Champions League Two",
    "local": "Phnom Penh Crown",
    "visitante": "Kitchee",
-   "tendencia": "★★★ Phnom Penh Crown o empate · cuota ~1,25",
-   "inicio": "2026-10-29T12:15:00+00:00"
+   "tendencia": "★★★ Phnom Penh Crown o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-29T12:15:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "AFC Champions League Two",
    "local": "Shanghai Shenhua",
    "visitante": "Machida Zelvia",
-   "tendencia": "★★★ Machida Zelvia o empate · cuota ~1,21",
-   "inicio": "2026-10-29T12:15:00+00:00"
+   "tendencia": "★★★ Machida Zelvia o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-29T12:15:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "AFC Champions League Two",
    "local": "Wofoo Tai Po",
    "visitante": "BG Pathum United",
-   "tendencia": "★★★ Gana BG Pathum United · cuota 1,40",
-   "inicio": "2026-10-29T12:15:00+00:00"
+   "tendencia": "★★★ Gana BG Pathum United · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-29T12:15:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "CONCACAF Central American Cup",
