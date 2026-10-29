@@ -348,8 +348,9 @@
    "liga": "Denmark: DBU Pokalen",
    "local": "Aarhus Fremad",
    "visitante": "FC Copenhagen",
-   "tendencia": "★★★ Gana FC Copenhagen · cuota 1,22",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Gana FC Copenhagen · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Denmark: DBU Pokalen",
@@ -504,15 +505,17 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Police",
    "visitante": "Ulinzi Stars",
-   "tendencia": "★★★ Police o empate · cuota ~1,15",
-   "inicio": "2026-10-29T13:15:00+00:00"
+   "tendencia": "★★★ Police o empate · cuota ~1,15 · ✓ acertado",
+   "inicio": "2026-10-29T13:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Montenegro: First League",
    "local": "Sutjeska",
    "visitante": "Jezero",
-   "tendencia": "★★★ Gana Sutjeska · cuota 1,48",
-   "inicio": "2026-10-29T13:00:00+00:00"
+   "tendencia": "★★★ Gana Sutjeska · cuota 1,48 · ✗ fallado",
+   "inicio": "2026-10-29T13:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Montenegro: First League",
@@ -532,22 +535,25 @@
    "liga": "Tunisia: Ligue 1",
    "local": "Club Africain",
    "visitante": "CA Bizertin",
-   "tendencia": "★★★ Gana Club Africain · cuota 1,50",
-   "inicio": "2026-10-29T13:30:00+00:00"
+   "tendencia": "★★★ Gana Club Africain · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-29T13:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Tunisia: Ligue 1",
    "local": "CS Sfaxien",
    "visitante": "ES Tunis",
-   "tendencia": "★★★ ES Tunis o empate · cuota ~1,23",
-   "inicio": "2026-10-29T13:30:00+00:00"
+   "tendencia": "★★★ ES Tunis o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-29T13:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Tunisia: Ligue 1",
    "local": "Stade Tunisien",
    "visitante": "ES Zarzis",
-   "tendencia": "★★★ Stade Tunisien o empate · cuota ~1,11",
-   "inicio": "2026-10-29T13:30:00+00:00"
+   "tendencia": "★★★ Stade Tunisien o empate · cuota ~1,11 · ✓ acertado",
+   "inicio": "2026-10-29T13:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -560,8 +566,9 @@
    "liga": "Albania: 1st Division",
    "local": "Iliria Fushë-Krujë",
    "visitante": "Flamurtari",
-   "tendencia": "★★★ Flamurtari o empate · cuota ~1,24",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Flamurtari o empate · cuota ~1,24 · ✗ fallado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Armenia: Cup",
@@ -626,22 +633,25 @@
    "liga": "Egypt: Second League",
    "local": "El Mansura",
    "visitante": "Haras El Hodood",
-   "tendencia": "★★★ Haras El Hodood o empate · cuota ~1,25",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Haras El Hodood o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Egypt: Second League",
    "local": "La Viena FC",
    "visitante": "Dayrout",
-   "tendencia": "★★★ Gana La Viena FC · cuota 1,67",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Gana La Viena FC · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Egypt: Second League",
    "local": "Team",
    "visitante": "Mega Sport",
-   "tendencia": "★★★ Team o empate · cuota ~1,15",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Team o empate · cuota ~1,15 · ✗ fallado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Guatemala: Liga Nacional",
@@ -669,8 +679,9 @@
    "liga": "Iraq: Iraqi League",
    "local": "Naft",
    "visitante": "Al Kahrabaa",
-   "tendencia": "★★★ Naft o empate · cuota ~1,12",
-   "inicio": "2026-10-29T13:45:00+00:00"
+   "tendencia": "★★★ Naft o empate · cuota ~1,12 · ✓ acertado",
+   "inicio": "2026-10-29T13:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Iraq: Iraqi League",
@@ -938,8 +949,9 @@
    "liga": "Turkey: Türkiye Kupası",
    "local": "Gençlerbirliği S.K.",
    "visitante": "Karaköprü Belediyespor",
-   "tendencia": "★★★ Gana Gençlerbirliği S.K. · cuota 1,18",
-   "inicio": "2026-10-29T12:30:00+00:00"
+   "tendencia": "★★★ Gana Gençlerbirliği S.K. · cuota 1,18 · ✓ acertado",
+   "inicio": "2026-10-29T12:30:00+00:00",
+   "resultado": "5 - 0"
   },
   {
    "liga": "Turkey: Türkiye Kupası",
