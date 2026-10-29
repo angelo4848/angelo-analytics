@@ -168,8 +168,9 @@
    "liga": "Italy: Serie A",
    "local": "Fiorentina",
    "visitante": "Atalanta",
-   "tendencia": "★★★ Fiorentina o empate · cuota ~1,37",
-   "inicio": "2026-10-29T19:45:00+00:00"
+   "tendencia": "★★★ Fiorentina o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-29T19:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Brazil: Serie A",
@@ -382,15 +383,17 @@
    "liga": "England: League Cup",
    "local": "Everton",
    "visitante": "Newcastle",
-   "tendencia": "★★★ Everton o empate · cuota ~1,35",
-   "inicio": "2026-10-29T19:45:00+00:00"
+   "tendencia": "★★★ Everton o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-29T19:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "France: Ligue 3",
    "local": "Amiens",
    "visitante": "Thionville Lusitanos",
-   "tendencia": "★★★ Amiens o empate · cuota ~1,13",
-   "inicio": "2026-10-29T19:45:00+00:00"
+   "tendencia": "★★★ Amiens o empate · cuota ~1,13 · ✗ fallado",
+   "inicio": "2026-10-29T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Peru: Primera División",
@@ -441,8 +444,9 @@
    "liga": "Romania: Cupa României",
    "local": "Gloria Bistriţa",
    "visitante": "FCSB",
-   "tendencia": "★★★ Gana FCSB · cuota 1,31",
-   "inicio": "2026-10-29T19:30:00+00:00"
+   "tendencia": "★★★ Gana FCSB · cuota 1,31 · ✗ fallado",
+   "inicio": "2026-10-29T19:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Russia: Cup",
@@ -552,8 +556,9 @@
    "liga": "Morocco: Botola Pro",
    "local": "Maghreb Fès",
    "visitante": "Renaissance Berkane",
-   "tendencia": "★★★ Maghreb Fès o empate · cuota ~1,28",
-   "inicio": "2026-10-29T20:00:00+00:00"
+   "tendencia": "★★★ Maghreb Fès o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-29T20:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Tunisia: Ligue 1",
@@ -739,8 +744,9 @@
    "liga": "Israel: Liga Alef",
    "local": "Hapoel Tirat HaCarmel",
    "visitante": "Maccabi K. Ata Bialik",
-   "tendencia": "★★★ Gana Maccabi K. Ata Bialik · cuota 1,50",
-   "inicio": "2026-10-29T19:15:00+00:00"
+   "tendencia": "★★★ Gana Maccabi K. Ata Bialik · cuota 1,50 · ✗ fallado",
+   "inicio": "2026-10-29T19:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Israel: Toto Cup Ligat Al",
@@ -783,8 +789,9 @@
    "liga": "Mauritania: Premier League",
    "local": "Nouadhibou",
    "visitante": "SNIM",
-   "tendencia": "★★★ Nouadhibou o empate · cuota ~1,12",
-   "inicio": "2026-10-29T19:50:00+00:00"
+   "tendencia": "★★★ Nouadhibou o empate · cuota ~1,12 · ✓ acertado",
+   "inicio": "2026-10-29T19:50:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Mongolia: Premier League",
@@ -806,8 +813,9 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "ACV",
    "visitante": "AFC Amsterdam",
-   "tendencia": "★★★ AFC Amsterdam o empate · cuota ~1,24",
-   "inicio": "2026-10-29T19:00:00+00:00"
+   "tendencia": "★★★ AFC Amsterdam o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-29T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -837,8 +845,9 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "Purmersteijn",
    "visitante": "Gemert",
-   "tendencia": "★★★ Purmersteijn o empate · cuota ~1,29",
-   "inicio": "2026-10-29T19:00:00+00:00"
+   "tendencia": "★★★ Purmersteijn o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-29T19:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -852,8 +861,9 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "Groningen",
    "visitante": "Emmen",
-   "tendencia": "★★★ Gana Groningen · cuota 1,42",
-   "inicio": "2026-10-29T20:00:00+00:00"
+   "tendencia": "★★★ Gana Groningen · cuota 1,42 · ✗ fallado",
+   "inicio": "2026-10-29T20:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Nicaragua: Primera Division",
@@ -898,8 +908,9 @@
    "liga": "Poland: Cup",
    "local": "Odra Opole",
    "visitante": "Slask Wroclaw",
-   "tendencia": "★★★ Slask Wroclaw o empate · cuota ~1,29",
-   "inicio": "2026-10-29T19:30:00+00:00"
+   "tendencia": "★★★ Slask Wroclaw o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-29T19:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Qatar: Second Division",
