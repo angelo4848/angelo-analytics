@@ -1704,8 +1704,9 @@
    "liga": "CONCACAF Central American Cup",
    "local": "Alianza",
    "visitante": "CD Marathon",
-   "tendencia": "★★★ CD Marathon o empate · cuota ~1,35",
-   "inicio": "2026-10-29T02:00:00+00:00"
+   "tendencia": "★★★ CD Marathon o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-29T02:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie A",
