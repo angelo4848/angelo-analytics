@@ -740,8 +740,9 @@
    "liga": "Mongolia: Premier League",
    "local": "Ulaanbaatar",
    "visitante": "Deren",
-   "tendencia": "★★★ Ulaanbaatar o empate · cuota ~1,28",
-   "inicio": "2026-10-29T08:00:00+00:00"
+   "tendencia": "★★★ Ulaanbaatar o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-29T08:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -950,8 +951,9 @@
    "liga": "AFC Champions League Two",
    "local": "Adelaide United",
    "visitante": "Home United",
-   "tendencia": "★★★ Adelaide United o empate · cuota ~1,19",
-   "inicio": "2026-10-29T07:45:00+00:00"
+   "tendencia": "★★★ Adelaide United o empate · cuota ~1,19 · ✗ fallado",
+   "inicio": "2026-10-29T07:45:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "AFC Champions League Two",
