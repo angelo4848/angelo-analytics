@@ -114,7 +114,7 @@
   {
    "fecha": "2026-10-29",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "perdida",
    "cuota_total": 1.73,
    "patas": [
     {
@@ -123,12 +123,13 @@
      "partido": "Al-Nassr vs Al Kholood",
      "mercado": "Victoria Al-Nassr + menos de 5,5 goles",
      "cuota": 1.42,
-     "estado": "pendiente",
+     "estado": "perdida",
      "analisis": [
       "Al-Nassr ha ganado sus 5 partidos de liga en casa esta temporada",
       "Al Kholood llega con 3 derrotas seguidas, la última 0-3 en casa",
       "Ningún partido oficial de Al-Nassr este año ha llegado a 6 goles"
-     ]
+     ],
+     "resultado": "5 - 3"
     },
     {
      "liga": "Taça da Liga",
@@ -159,8 +160,9 @@
    "liga": "Italy: Serie A",
    "local": "Frosinone",
    "visitante": "Lecce",
-   "tendencia": "★★★ Gana Frosinone · cuota 1,65",
-   "inicio": "2026-10-29T17:30:00+00:00"
+   "tendencia": "★★★ Gana Frosinone · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-29T17:30:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Italy: Serie A",
@@ -209,8 +211,9 @@
    "liga": "Egypt: Premier League",
    "local": "Pyramids FC",
    "visitante": "Wadi Degla",
-   "tendencia": "★★★ Gana Pyramids FC · cuota 1,40",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ Gana Pyramids FC · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Finland: Veikkausliiga",
@@ -224,8 +227,9 @@
    "liga": "Finland: Veikkausliiga",
    "local": "KuPS",
    "visitante": "Gnistan",
-   "tendencia": "★★★ Gana KuPS · cuota 1,42",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ Gana KuPS · cuota 1,42 · ✗ fallado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
@@ -253,8 +257,9 @@
    "liga": "Sweden: Allsvenskan",
    "local": "Hammarby FF",
    "visitante": "Sirius",
-   "tendencia": "★★★ Gana Hammarby FF · cuota 1,50",
-   "inicio": "2026-10-29T17:30:00+00:00"
+   "tendencia": "★★★ Gana Hammarby FF · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-29T17:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Sweden: Allsvenskan",
@@ -423,8 +428,9 @@
    "liga": "Romania: Cupa României",
    "local": "FC Voluntari",
    "visitante": "Universitatea Craiova",
-   "tendencia": "★★★ Gana Universitatea Craiova · cuota 1,67",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ Gana Universitatea Craiova · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Romania: Cupa României",
@@ -498,8 +504,9 @@
    "liga": "Albania: Superliga",
    "local": "Egnatia Rrogozhinë",
    "visitante": "Teuta Durrës",
-   "tendencia": "★★★ Egnatia Rrogozhinë o empate · cuota ~1,19",
-   "inicio": "2026-10-29T17:30:00+00:00"
+   "tendencia": "★★★ Egnatia Rrogozhinë o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-29T17:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -607,8 +614,9 @@
    "liga": "Austria: Cup",
    "local": "Austria Lustenau",
    "visitante": "Sturm Graz",
-   "tendencia": "★★★ Gana Sturm Graz · cuota 1,45",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ Gana Sturm Graz · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Azerbaijan: Cup",
@@ -674,8 +682,9 @@
    "liga": "Guatemala: Liga Nacional",
    "local": "Mixco",
    "visitante": "Xelajú",
-   "tendencia": "★★★ Mixco o empate · cuota ~1,19",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ Mixco o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Indonesia: Liga 2",
@@ -705,8 +714,9 @@
    "liga": "Israel: Liga Alef",
    "local": "Maccabi Neve Sha'anan",
    "visitante": "Hapoel Ihud Bnei Jatt",
-   "tendencia": "★★★ Gana Maccabi Neve Sha'anan · cuota 1,62",
-   "inicio": "2026-10-29T17:15:00+00:00"
+   "tendencia": "★★★ Gana Maccabi Neve Sha'anan · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-29T17:15:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Israel: Liga Alef",
@@ -754,8 +764,9 @@
    "liga": "Mauritania: Premier League",
    "local": "Nouakchott King's",
    "visitante": "AC Douane",
-   "tendencia": "★★★ AC Douane o empate · cuota ~1,33",
-   "inicio": "2026-10-29T17:00:00+00:00"
+   "tendencia": "★★★ AC Douane o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-29T17:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Mauritania: Premier League",
@@ -776,8 +787,9 @@
    "liga": "Netherlands: KNVB Beker",
    "local": "Kozakken Boys",
    "visitante": "Utrecht",
-   "tendencia": "★★★ Gana Utrecht · cuota 1,33",
-   "inicio": "2026-10-29T17:45:00+00:00"
+   "tendencia": "★★★ Gana Utrecht · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-29T17:45:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Netherlands: KNVB Beker",
@@ -981,8 +993,9 @@
    "liga": "Turkey: Türkiye Kupası",
    "local": "Eskişehirspor",
    "visitante": "Iğdır FK",
-   "tendencia": "★★★ Gana Iğdır FK · cuota 1,44",
-   "inicio": "2026-10-29T17:30:00+00:00"
+   "tendencia": "★★★ Gana Iğdır FK · cuota 1,44 · ✗ fallado",
+   "inicio": "2026-10-29T17:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "AFC Champions League Two",
