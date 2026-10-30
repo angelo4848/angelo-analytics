@@ -337,8 +337,9 @@
    "liga": "France: Ligue 1",
    "local": "Le Havre",
    "visitante": "Paris Saint Germain",
-   "tendencia": "★★★ Gana Paris Saint Germain · cuota 1,22",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana Paris Saint Germain · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "France: Ligue 1",
@@ -432,8 +433,9 @@
    "liga": "Denmark: Superliga",
    "local": "Lyngby",
    "visitante": "Randers FC",
-   "tendencia": "★★★ Lyngby o empate · cuota ~1,33",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Lyngby o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Egypt: Premier League",
@@ -548,8 +550,9 @@
    "liga": "Norway: Eliteserien",
    "local": "Bodo/Glimt",
    "visitante": "Viking",
-   "tendencia": "★★★ Bodo/Glimt o empate · cuota ~1,23",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Bodo/Glimt o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Poland: Ekstraklasa",
@@ -578,8 +581,9 @@
    "liga": "Romania: Liga I",
    "local": "Rapid",
    "visitante": "Csikszereda",
-   "tendencia": "★★★ Gana Rapid · cuota 1,22",
-   "inicio": "2026-10-30T18:30:00+00:00"
+   "tendencia": "★★★ Gana Rapid · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-30T18:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Scotland: Championship",
@@ -592,8 +596,9 @@
    "liga": "Sweden: Superettan",
    "local": "Oddevold",
    "visitante": "IK brage",
-   "tendencia": "★★★ Gana Oddevold · cuota 1,62",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana Oddevold · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Turkey: Süper Lig",
@@ -738,8 +743,9 @@
    "liga": "Czech-Republic: 3. liga - CFL A",
    "local": "Písek",
    "visitante": "Aritma Praha",
-   "tendencia": "★★★ Gana Písek · cuota 1,44",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana Písek · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Czech-Republic: FNL",
@@ -753,22 +759,25 @@
    "liga": "Denmark: 1. Division",
    "local": "Aalborg",
    "visitante": "Hobro",
-   "tendencia": "★★★ Aalborg o empate · cuota ~1,16",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Aalborg o empate · cuota ~1,16 · ✗ fallado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Denmark: 2. Division",
    "local": "HIK",
    "visitante": "Nykobing FC",
-   "tendencia": "★★★ Gana Nykobing FC · cuota 1,57",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana Nykobing FC · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Denmark: 2. Division",
    "local": "Skive",
    "visitante": "VSK Århus",
-   "tendencia": "★★★ Skive o empate · cuota ~1,40",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Skive o empate · cuota ~1,40 · ✗ fallado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "England: National League",
@@ -832,8 +841,9 @@
    "liga": "Germany: 3. Liga",
    "local": "Fortuna Düsseldorf",
    "visitante": "SV Meppen",
-   "tendencia": "★★★ Fortuna Düsseldorf o empate · cuota ~1,26",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Fortuna Düsseldorf o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Germany: Oberliga - Hamburg",
@@ -846,8 +856,9 @@
    "liga": "Germany: Regionalliga - Nordost",
    "local": "BFC Dynamo",
    "visitante": "RSV Eintracht",
-   "tendencia": "★★★ Gana BFC Dynamo · cuota 1,37",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana BFC Dynamo · cuota 1,37 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: Regionalliga - Nordost",
@@ -968,8 +979,9 @@
    "liga": "Poland: II Liga - East",
    "local": "Sandecja Nowy Sącz",
    "visitante": "Olimpia Grudziądz",
-   "tendencia": "★★★ Sandecja Nowy Sącz o empate · cuota ~1,29",
-   "inicio": "2026-10-30T18:30:00+00:00"
+   "tendencia": "★★★ Sandecja Nowy Sącz o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-30T18:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Qatar: Stars League",
@@ -999,15 +1011,17 @@
    "liga": "Saudi-Arabia: Pro League",
    "local": "Al Shabab",
    "visitante": "Al-Ahli Jeddah",
-   "tendencia": "★★★ Al-Ahli Jeddah o empate · cuota ~1,34",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Al-Ahli Jeddah o empate · cuota ~1,34 · ✗ fallado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "6 - 1"
   },
   {
    "liga": "Sweden: Ettan - Södra",
    "local": "Olympic",
    "visitante": "Hässleholms IF",
-   "tendencia": "★★★ Olympic o empate · cuota ~1,37",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Olympic o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Switzerland: Challenge League",
@@ -1020,8 +1034,9 @@
    "liga": "Switzerland: Challenge League",
    "local": "Rapperswil",
    "visitante": "Stade Nyonnais",
-   "tendencia": "★★★ Gana Rapperswil · cuota 1,52",
-   "inicio": "2026-10-30T18:30:00+00:00"
+   "tendencia": "★★★ Gana Rapperswil · cuota 1,52 · ✗ fallado",
+   "inicio": "2026-10-30T18:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Switzerland: Challenge League",
@@ -1263,22 +1278,25 @@
    "liga": "Austria: Regionalliga - Ost",
    "local": "Wiener SC",
    "visitante": "Traiskirchen",
-   "tendencia": "★★★ Wiener SC o empate · cuota ~1,24",
-   "inicio": "2026-10-30T18:30:00+00:00"
+   "tendencia": "★★★ Wiener SC o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-30T18:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Austria: Regionalliga - South",
    "local": "Deutschlandsberger SC",
    "visitante": "SV Lafnitz",
-   "tendencia": "★★★ Deutschlandsberger SC o empate · cuota ~1,25",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Deutschlandsberger SC o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Austria: Regionalliga - South",
    "local": "Donau Klagenfurt",
    "visitante": "Treibach",
-   "tendencia": "★★★ Donau Klagenfurt o empate · cuota ~1,45",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Donau Klagenfurt o empate · cuota ~1,45 · ✗ fallado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Bahrain: Premier League",
@@ -1369,8 +1387,9 @@
    "liga": "Denmark: 3. Division",
    "local": "FC Helsingor",
    "visitante": "Ringsted",
-   "tendencia": "★★★ Gana FC Helsingor · cuota 1,40",
-   "inicio": "2026-10-30T18:00:00+00:00"
+   "tendencia": "★★★ Gana FC Helsingor · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-30T18:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Egypt: Second League",
@@ -1692,8 +1711,9 @@
    "liga": "Spain: Tercera División RFEF - Group 3",
    "local": "Selaya",
    "visitante": "Cayón",
-   "tendencia": "★★★ Cayón o empate · cuota ~1,25",
-   "inicio": "2026-10-30T18:30:00+00:00"
+   "tendencia": "★★★ Cayón o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-30T18:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Spain: Tercera División RFEF - Group 3",
