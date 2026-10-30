@@ -740,8 +740,9 @@
    "liga": "Czech-Republic: FNL",
    "local": "Vlašim",
    "visitante": "Ústí nad Labem",
-   "tendencia": "★★★ Vlašim o empate · cuota ~1,37",
-   "inicio": "2026-10-30T16:00:00+00:00"
+   "tendencia": "★★★ Vlašim o empate · cuota ~1,37 · ✗ fallado",
+   "inicio": "2026-10-30T16:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Denmark: 1. Division",
@@ -975,8 +976,9 @@
    "liga": "Qatar: Stars League",
    "local": "Al Sadd",
    "visitante": "Al Shamal",
-   "tendencia": "★★★ Gana Al Sadd · cuota 1,49",
-   "inicio": "2026-10-30T16:30:00+00:00"
+   "tendencia": "★★★ Gana Al Sadd · cuota 1,49 · ✓ acertado",
+   "inicio": "2026-10-30T16:30:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Russia: First League",
@@ -1166,9 +1168,9 @@
    "liga": "Uzbekistan: Super League",
    "local": "Xorazm",
    "visitante": "Pakhtakor",
-   "tendencia": "★★★ Gana Pakhtakor · cuota 1,57 · ✗ fallado",
+   "tendencia": "★★★ Gana Pakhtakor · cuota 1,57 · ✓ acertado",
    "inicio": "2026-10-30T13:30:00+00:00",
-   "resultado": "1 - 1"
+   "resultado": "0 - 1"
   },
   {
    "liga": "Wales: Premier League",
@@ -1203,8 +1205,9 @@
    "liga": "Algeria: Ligue 2",
    "local": "Koléa",
    "visitante": "Usm El Harrach",
-   "tendencia": "★★★ Usm El Harrach o empate · cuota ~1,13",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Usm El Harrach o empate · cuota ~1,13 · ✗ fallado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
@@ -1315,8 +1318,9 @@
    "liga": "Croatia: First NL",
    "local": "HNK Cibalia",
    "visitante": "Karlovac 1919",
-   "tendencia": "★★★ HNK Cibalia o empate · cuota ~1,17",
-   "inicio": "2026-10-30T16:00:00+00:00"
+   "tendencia": "★★★ HNK Cibalia o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-10-30T16:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Croatia: Second NL",
@@ -1568,8 +1572,9 @@
    "liga": "Oman: Sultan Cup",
    "local": "Nizwa",
    "visitante": "Fanja",
-   "tendencia": "★★★ Gana Fanja · cuota 1,55",
-   "inicio": "2026-10-30T15:50:00+00:00"
+   "tendencia": "★★★ Gana Fanja · cuota 1,55 · ✓ acertado",
+   "inicio": "2026-10-30T15:50:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Poland: III Liga - Group 3",
@@ -1603,8 +1608,9 @@
    "liga": "Qatar: Stars League",
    "local": "Al-Gharafa",
    "visitante": "Qatar SC",
-   "tendencia": "★★★ Al-Gharafa o empate · cuota ~1,24",
-   "inicio": "2026-10-30T16:30:00+00:00"
+   "tendencia": "★★★ Al-Gharafa o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-30T16:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Romania: Liga III - Serie 1",
@@ -1656,7 +1662,7 @@
    "visitante": "Albirex Niigata S",
    "tendencia": "★★★ Gana Albirex Niigata S · cuota 1,28 · ✗ fallado",
    "inicio": "2026-10-30T11:30:00+00:00",
-   "resultado": "2 - 1"
+   "resultado": "1 - 1"
   },
   {
    "liga": "Spain: Primera División RFEF - Group 2",
@@ -1683,8 +1689,9 @@
    "liga": "Syria: Premier League",
    "local": "Shorta",
    "visitante": "Wathba",
-   "tendencia": "★★★ Gana Wathba · cuota 1,38",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Gana Wathba · cuota 1,38 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Thailand: Thai League 2",
