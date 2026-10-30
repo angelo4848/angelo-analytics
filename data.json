@@ -150,7 +150,7 @@
   {
    "fecha": "2026-10-30",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "perdida",
    "cuota_total": 1.8,
    "patas": [
     {
@@ -159,12 +159,13 @@
      "partido": "Villarreal vs Espanyol",
      "mercado": "Victoria Villarreal",
      "cuota": 1.42,
-     "estado": "pendiente",
+     "estado": "perdida",
      "analisis": [
       "Villarreal juega en La Cerámica, donde es de los locales más fuertes de LaLiga",
       "Pelea por puestos europeos y no puede dejarse puntos en casa",
       "Pronóstico ★★★ de alta confianza en nuestro modelo"
-     ]
+     ],
+     "resultado": "0 - 1"
     },
     {
      "liga": "Liga Portugal",
@@ -172,12 +173,13 @@
      "partido": "Casa Pia vs Sporting",
      "mercado": "Victoria Sporting",
      "cuota": 1.27,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Sporting, candidato al título, contra un rival de la zona media-baja",
       "Mucha diferencia de plantilla entre los dos equipos",
       "Partido de liga: Sporting sale con su once titular"
-     ]
+     ],
+     "resultado": "0 - 2"
     }
    ]
   }
@@ -360,9 +362,10 @@
    "liga": "Spain: La Liga",
    "local": "Villarreal",
    "visitante": "Espanyol",
-   "tendencia": "★★★ Gana Villarreal · cuota 1,42",
+   "tendencia": "★★★ Gana Villarreal · cuota 1,42 · ✗ fallado",
    "inicio": "2026-10-30T20:00:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "0 - 1"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -584,9 +587,10 @@
    "liga": "Portugal: Primeira Liga",
    "local": "Casa Pia",
    "visitante": "Sporting CP",
-   "tendencia": "★★★ Gana Sporting CP · cuota 1,27",
+   "tendencia": "★★★ Gana Sporting CP · cuota 1,27 · ✓ acertado",
    "inicio": "2026-10-30T20:15:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "0 - 2"
   },
   {
    "liga": "Romania: Liga I",
@@ -1675,8 +1679,9 @@
    "liga": "Portugal: Liga 3",
    "local": "Fafe",
    "visitante": "Pacos Ferreira",
-   "tendencia": "★★★ Fafe o empate · cuota ~1,20",
-   "inicio": "2026-10-30T20:00:00+00:00"
+   "tendencia": "★★★ Fafe o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-30T20:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Qatar: Stars League",
@@ -1711,8 +1716,9 @@
    "liga": "San-Marino: Campionato",
    "local": "Cailungo",
    "visitante": "Juvenes / Dogana",
-   "tendencia": "★★★ Juvenes / Dogana o empate · cuota ~1,20",
-   "inicio": "2026-10-30T20:15:00+00:00"
+   "tendencia": "★★★ Juvenes / Dogana o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-30T20:15:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Saudi-Arabia: Pro League",
@@ -1742,8 +1748,9 @@
    "liga": "Spain: Primera División RFEF - Group 2",
    "local": "Ibiza",
    "visitante": "Europa Fc",
-   "tendencia": "★★★ Gana Ibiza · cuota 1,50",
-   "inicio": "2026-10-30T20:00:00+00:00"
+   "tendencia": "★★★ Gana Ibiza · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-30T20:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Spain: Tercera División RFEF - Group 3",
