@@ -450,8 +450,9 @@
    "liga": "Indonesia: Liga 1",
    "local": "Persebaya Surabaya",
    "visitante": "Persijap",
-   "tendencia": "★★★ Gana Persebaya Surabaya · cuota 1,25",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Gana Persebaya Surabaya · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
@@ -1055,8 +1056,9 @@
    "liga": "Armenia: Premier League",
    "local": "Sardarapat",
    "visitante": "Van",
-   "tendencia": "★★★ Sardarapat o empate · cuota ~1,29",
-   "inicio": "2026-10-30T11:30:00+00:00"
+   "tendencia": "★★★ Sardarapat o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-30T11:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Armenia: Premier League",
@@ -1090,8 +1092,9 @@
    "liga": "Hong-Kong: Premier League",
    "local": "Kowloon City",
    "visitante": "BC Rangers",
-   "tendencia": "★★★ Kowloon City o empate · cuota ~1,36",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Kowloon City o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "India: Indian Super League",
@@ -1364,8 +1367,9 @@
    "liga": "Ethiopia: Premier League",
    "local": "Sheger Ketema",
    "visitante": "Negelle Arsi",
-   "tendencia": "★★★ Negelle Arsi o empate · cuota ~1,28",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Negelle Arsi o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Georgia: Liga 3",
@@ -1408,8 +1412,9 @@
    "liga": "Indonesia: Liga 2",
    "local": "Semen Padang",
    "visitante": "Sumsel United",
-   "tendencia": "★★★ Semen Padang o empate · cuota ~1,18",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Semen Padang o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Iraq: Iraqi League",
@@ -1454,8 +1459,9 @@
    "liga": "Israel: Liga Alef",
    "local": "Hapoel Bnei Musmus",
    "visitante": "Hapoel Migdal HaEmek",
-   "tendencia": "★★★ Hapoel Migdal HaEmek o empate · cuota ~1,24",
-   "inicio": "2026-10-30T11:30:00+00:00"
+   "tendencia": "★★★ Hapoel Migdal HaEmek o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-30T11:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Israel: Liga Leumit",
@@ -1489,8 +1495,9 @@
    "liga": "Kosovo: Superliga",
    "local": "Ballkani",
    "visitante": "Drenica Skënderaj",
-   "tendencia": "★★★ Gana Ballkani · cuota 1,60",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Gana Ballkani · cuota 1,60 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Lebanon: Premier League",
@@ -1608,8 +1615,9 @@
    "liga": "Singapore: Premier League",
    "local": "Tanjong Pagar",
    "visitante": "Albirex Niigata S",
-   "tendencia": "★★★ Gana Albirex Niigata S · cuota 1,28",
-   "inicio": "2026-10-30T11:30:00+00:00"
+   "tendencia": "★★★ Gana Albirex Niigata S · cuota 1,28 · ✗ fallado",
+   "inicio": "2026-10-30T11:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Spain: Primera División RFEF - Group 2",
@@ -1643,8 +1651,9 @@
    "liga": "Thailand: Thai League 2",
    "local": "Mahasarakham United",
    "visitante": "Chanthaburi",
-   "tendencia": "★★★ Chanthaburi o empate · cuota ~1,24",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Chanthaburi o empate · cuota ~1,24 · ✗ fallado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Ukraine: Persha Liga",
