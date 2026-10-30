@@ -408,8 +408,9 @@
    "liga": "Bulgaria: First League",
    "local": "CSKA 1948",
    "visitante": "Spartak Varna",
-   "tendencia": "★★★ Gana CSKA 1948 · cuota 1,43",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Gana CSKA 1948 · cuota 1,43 · ✓ acertado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "6 - 1"
   },
   {
    "liga": "Croatia: HNL",
@@ -696,8 +697,9 @@
    "liga": "Bulgaria: Second League",
    "local": "Pirin Blagoevgrad",
    "visitante": "Etar Veliko Tarnovo",
-   "tendencia": "★★★ Etar Veliko Tarnovo o empate · cuota ~1,19",
-   "inicio": "2026-10-30T15:30:00+00:00"
+   "tendencia": "★★★ Etar Veliko Tarnovo o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-30T15:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Chile: Primera División",
@@ -872,15 +874,17 @@
    "liga": "Lithuania: 1 Lyga",
    "local": "Ekranas",
    "visitante": "Tauras",
-   "tendencia": "★★★ Gana Tauras · cuota 1,45",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Gana Tauras · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Lithuania: 1 Lyga",
    "local": "Be1 NFA",
    "visitante": "Babrungas",
-   "tendencia": "★★★ Babrungas o empate · cuota ~1,33",
-   "inicio": "2026-10-30T15:30:00+00:00"
+   "tendencia": "★★★ Babrungas o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-30T15:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Mexico: Liga de Expansión MX",
@@ -1070,15 +1074,17 @@
    "liga": "Armenia: Premier League",
    "local": "Pyunik Yerevan",
    "visitante": "FC Urartu",
-   "tendencia": "★★★ Gana Pyunik Yerevan · cuota 1,62",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Gana Pyunik Yerevan · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Belarus: Premier League",
    "local": "Arsenal",
    "visitante": "Bate Borisov",
-   "tendencia": "★★★ Bate Borisov o empate · cuota ~1,31",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Bate Borisov o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Brazil: Serie A",
@@ -1264,8 +1270,9 @@
    "liga": "Bahrain: Premier League",
    "local": "Al Riffa",
    "visitante": "Al Najma",
-   "tendencia": "★★★ Gana Al Riffa · cuota 1,28",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Gana Al Riffa · cuota 1,28 · ✗ fallado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Belgium: First Amateur Division",
@@ -1292,8 +1299,9 @@
    "liga": "Chile: Segunda División",
    "local": "Santiago City",
    "visitante": "Linares Unido",
-   "tendencia": "★★★ Santiago City o empate · cuota ~1,35",
-   "inicio": "2026-10-30T15:30:00+00:00"
+   "tendencia": "★★★ Santiago City o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-30T15:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Croatia: First NL",
@@ -1396,8 +1404,9 @@
    "liga": "Georgia: Liga 3",
    "local": "Gonio",
    "visitante": "Merani Tbilisi",
-   "tendencia": "★★★ Gonio o empate · cuota ~1,28",
-   "inicio": "2026-10-30T15:00:00+00:00"
+   "tendencia": "★★★ Gonio o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-30T15:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Guatemala: Liga Nacional",
@@ -1637,8 +1646,9 @@
    "liga": "Saudi-Arabia: Pro League",
    "local": "Al Diriyah",
    "visitante": "NEOM",
-   "tendencia": "★★★ NEOM o empate · cuota ~1,39",
-   "inicio": "2026-10-30T14:50:00+00:00"
+   "tendencia": "★★★ NEOM o empate · cuota ~1,39 · ✗ fallado",
+   "inicio": "2026-10-30T14:50:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Singapore: Premier League",
