@@ -176,8 +176,9 @@
    "liga": "Brazil: Serie A",
    "local": "Bahia",
    "visitante": "Sao Paulo",
-   "tendencia": "★★★ Bahia o empate · cuota ~1,29",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ Bahia o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Brazil: Serie A",
@@ -243,8 +244,9 @@
    "liga": "Mexico: Liga MX",
    "local": "Club America",
    "visitante": "Club Tijuana",
-   "tendencia": "★★★ Gana Club America · cuota 1,40",
-   "inicio": "2026-10-30T03:00:00+00:00"
+   "tendencia": "★★★ Gana Club America · cuota 1,40 · ✗ fallado",
+   "inicio": "2026-10-30T03:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Slovenia: 1. SNL",
@@ -282,57 +284,65 @@
    "liga": "USA: Major League Soccer",
    "local": "Nashville SC",
    "visitante": "Philadelphia Union",
-   "tendencia": "★★★ Nashville SC o empate · cuota ~1,29",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ Nashville SC o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "FC Dallas",
    "visitante": "Columbus Crew",
-   "tendencia": "★★★ FC Dallas o empate · cuota ~1,28",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ FC Dallas o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Chicago Fire",
    "visitante": "Orlando City SC",
-   "tendencia": "★★★ Gana Chicago Fire · cuota 1,57",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ Gana Chicago Fire · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Minnesota United FC",
    "visitante": "Sporting Kansas City",
-   "tendencia": "★★★ Gana Minnesota United FC · cuota 1,40",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ Gana Minnesota United FC · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "St. Louis City",
    "visitante": "Portland Timbers",
-   "tendencia": "★★★ St. Louis City o empate · cuota ~1,25",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ St. Louis City o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Vancouver Whitecaps",
    "visitante": "San Diego",
-   "tendencia": "★★★ Gana Vancouver Whitecaps · cuota 1,40",
-   "inicio": "2026-10-30T02:30:00+00:00"
+   "tendencia": "★★★ Gana Vancouver Whitecaps · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-30T02:30:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Seattle Sounders",
    "visitante": "Houston Dynamo",
-   "tendencia": "★★★ Seattle Sounders o empate · cuota ~1,22",
-   "inicio": "2026-10-30T02:30:00+00:00"
+   "tendencia": "★★★ Seattle Sounders o empate · cuota ~1,22 · ✗ fallado",
+   "inicio": "2026-10-30T02:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "San Jose Earthquakes",
    "visitante": "Colorado Rapids",
-   "tendencia": "★★★ San Jose Earthquakes o empate · cuota ~1,34",
-   "inicio": "2026-10-30T02:30:00+00:00"
+   "tendencia": "★★★ San Jose Earthquakes o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-30T02:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Argentina: Copa Argentina",
@@ -376,8 +386,9 @@
    "liga": "Ecuador: Copa Ecuador",
    "local": "Delfin SC",
    "visitante": "Independiente del Valle",
-   "tendencia": "★★★ Gana Independiente del Valle · cuota 1,62",
-   "inicio": "2026-10-30T00:00:00+00:00"
+   "tendencia": "★★★ Gana Independiente del Valle · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-30T00:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "England: League Cup",
@@ -399,8 +410,9 @@
    "liga": "Peru: Primera División",
    "local": "Cienciano",
    "visitante": "Atletico Grau",
-   "tendencia": "★★★ Gana Cienciano · cuota 1,27",
-   "inicio": "2026-10-30T00:00:00+00:00"
+   "tendencia": "★★★ Gana Cienciano · cuota 1,27 · ✓ acertado",
+   "inicio": "2026-10-30T00:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Peru: Primera División",
@@ -588,8 +600,9 @@
    "liga": "USA: Major League Soccer",
    "local": "Austin",
    "visitante": "Real Salt Lake",
-   "tendencia": "★★★ Real Salt Lake o empate · cuota ~1,37",
-   "inicio": "2026-10-30T00:30:00+00:00"
+   "tendencia": "★★★ Real Salt Lake o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-30T00:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Albania: 1st Division",
@@ -643,8 +656,9 @@
    "liga": "Colombia: Primera B",
    "local": "Quindio",
    "visitante": "Real Cundinamarca",
-   "tendencia": "★★★ Quindio o empate · cuota ~1,14",
-   "inicio": "2026-10-30T01:05:00+00:00"
+   "tendencia": "★★★ Quindio o empate · cuota ~1,14 · ✓ acertado",
+   "inicio": "2026-10-30T01:05:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Colombia: Primera B",
@@ -689,8 +703,9 @@
    "liga": "Guatemala: Liga Nacional",
    "local": "Municipal",
    "visitante": "Comunicaciones",
-   "tendencia": "★★★ Gana Municipal · cuota 1,45",
-   "inicio": "2026-10-30T02:00:00+00:00"
+   "tendencia": "★★★ Gana Municipal · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-30T02:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Guatemala: Liga Nacional",
@@ -869,8 +884,9 @@
    "liga": "Nicaragua: Primera Division",
    "local": "Diriangén",
    "visitante": "Real Estelí",
-   "tendencia": "★★★ Diriangén o empate · cuota ~1,36",
-   "inicio": "2026-10-30T01:00:00+00:00"
+   "tendencia": "★★★ Diriangén o empate · cuota ~1,36 · ✗ fallado",
+   "inicio": "2026-10-30T01:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Poland: Cup",
@@ -1083,8 +1099,9 @@
    "liga": "CONCACAF Central American Cup",
    "local": "CD Olimpia",
    "visitante": "CS Cartagines",
-   "tendencia": "★★★ CD Olimpia o empate · cuota ~1,19",
-   "inicio": "2026-10-30T03:00:00+00:00"
+   "tendencia": "★★★ CD Olimpia o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-30T03:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "France: Ligue 1",
