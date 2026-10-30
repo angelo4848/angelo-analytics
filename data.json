@@ -465,15 +465,17 @@
    "liga": "Iran: Persian Gulf Pro League",
    "local": "ZOB Ahan",
    "visitante": "Esteghlal Khuzestan",
-   "tendencia": "★★★ ZOB Ahan o empate · cuota ~1,32",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ ZOB Ahan o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
    "local": "Kheybar Khorramabad",
    "visitante": "Sepahan FC",
-   "tendencia": "★★★ Sepahan FC o empate · cuota ~1,12",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Sepahan FC o empate · cuota ~1,12 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
@@ -486,8 +488,9 @@
    "liga": "Iran: Persian Gulf Pro League",
    "local": "Foolad FC",
    "visitante": "Aluminium Arak",
-   "tendencia": "★★★ Foolad FC o empate · cuota ~1,16",
-   "inicio": "2026-10-30T14:30:00+00:00"
+   "tendencia": "★★★ Foolad FC o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-30T14:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Ireland: Premier Division",
@@ -960,8 +963,9 @@
    "liga": "Qatar: Stars League",
    "local": "Al Shahaniya",
    "visitante": "Al Ahli Doha",
-   "tendencia": "★★★ Al Ahli Doha o empate · cuota ~1,31",
-   "inicio": "2026-10-30T14:15:00+00:00"
+   "tendencia": "★★★ Al Ahli Doha o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-30T14:15:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Qatar: Stars League",
@@ -1102,8 +1106,9 @@
    "liga": "India: Indian Super League",
    "local": "NorthEast United",
    "visitante": "Bengaluru",
-   "tendencia": "★★★ NorthEast United o empate · cuota ~1,41",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ NorthEast United o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Malaysia: Super League",
@@ -1124,8 +1129,9 @@
    "liga": "Nigeria: NPFL",
    "local": "Niger Tornadoes",
    "visitante": "Barau FC",
-   "tendencia": "★★★ Gana Niger Tornadoes · cuota 1,57",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Gana Niger Tornadoes · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Thailand: Thai League 1",
@@ -1146,15 +1152,17 @@
    "liga": "Uzbekistan: Super League",
    "local": "Sogdiana",
    "visitante": "Buxoro",
-   "tendencia": "★★★ Gana Sogdiana · cuota 1,66",
-   "inicio": "2026-10-30T13:30:00+00:00"
+   "tendencia": "★★★ Gana Sogdiana · cuota 1,66 · ✓ acertado",
+   "inicio": "2026-10-30T13:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Uzbekistan: Super League",
    "local": "Xorazm",
    "visitante": "Pakhtakor",
-   "tendencia": "★★★ Gana Pakhtakor · cuota 1,57",
-   "inicio": "2026-10-30T13:30:00+00:00"
+   "tendencia": "★★★ Gana Pakhtakor · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-30T13:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Wales: Premier League",
@@ -1181,8 +1189,9 @@
    "liga": "Algeria: Ligue 2",
    "local": "GC Mascara",
    "visitante": "Hussein Dey",
-   "tendencia": "★★★ GC Mascara o empate · cuota ~1,12",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ GC Mascara o empate · cuota ~1,12 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
@@ -1195,29 +1204,33 @@
    "liga": "Algeria: Ligue 2",
    "local": "Mostaganem",
    "visitante": "MC Saida",
-   "tendencia": "★★★ Mostaganem o empate · cuota ~1,11",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Mostaganem o empate · cuota ~1,11 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "RC Kouba",
    "visitante": "Taghit",
-   "tendencia": "★★★ Gana RC Kouba · cuota 1,06",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Gana RC Kouba · cuota 1,06 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "Sidi Benali",
    "visitante": "WA Tlemcen",
-   "tendencia": "★★★ Gana Sidi Benali · cuota 1,45",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Gana Sidi Benali · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "Blida",
    "visitante": "WA Mostaganem",
-   "tendencia": "★★★ Gana Blida · cuota 1,36",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Gana Blida · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
@@ -1429,8 +1442,9 @@
    "liga": "Iraq: Iraqi League",
    "local": "Al-Karma",
    "visitante": "Duhok",
-   "tendencia": "★★★ Gana Al-Karma · cuota 1,65",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Gana Al-Karma · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Israel: Liga Alef",
@@ -1500,8 +1514,9 @@
    "liga": "Jordan: League",
    "local": "Al Ramtha",
    "visitante": "Al Buqa'a",
-   "tendencia": "★★★ Al Ramtha o empate · cuota ~1,35",
-   "inicio": "2026-10-30T14:00:00+00:00"
+   "tendencia": "★★★ Al Ramtha o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-30T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Kosovo: Superliga",
