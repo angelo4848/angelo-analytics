@@ -1422,29 +1422,33 @@
    "liga": "Israel: Liga Alef",
    "local": "Hapoel Sderot",
    "visitante": "Ironi Beit Shemesh",
-   "tendencia": "★★★ Hapoel Sderot o empate · cuota ~1,27",
-   "inicio": "2026-10-30T10:00:00+00:00"
+   "tendencia": "★★★ Hapoel Sderot o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-30T10:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Israel: Liga Alef",
    "local": "Hapoel Beit Shean",
    "visitante": "Tira",
-   "tendencia": "★★★ Tira o empate · cuota ~1,25",
-   "inicio": "2026-10-30T10:25:00+00:00"
+   "tendencia": "★★★ Tira o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-30T10:25:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Israel: Liga Alef",
    "local": "Dimona",
    "visitante": "Hapoel Herzliya",
-   "tendencia": "★★★ Gana Dimona · cuota 1,67",
-   "inicio": "2026-10-30T10:30:00+00:00"
+   "tendencia": "★★★ Gana Dimona · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-30T10:30:00+00:00",
+   "resultado": "7 - 0"
   },
   {
    "liga": "Israel: Liga Alef",
    "local": "Hapoel Mahane Yehuda",
    "visitante": "Hapoel Hadera",
-   "tendencia": "★★★ Gana Hapoel Hadera · cuota 1,67",
-   "inicio": "2026-10-30T10:35:00+00:00"
+   "tendencia": "★★★ Gana Hapoel Hadera · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-30T10:35:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Israel: Liga Alef",
@@ -1646,8 +1650,9 @@
    "liga": "Ukraine: Persha Liga",
    "local": "Ahrobiznes Volochysk",
    "visitante": "Prykarpattia",
-   "tendencia": "★★★ Ahrobiznes Volochysk o empate · cuota ~1,23",
-   "inicio": "2026-10-30T10:00:00+00:00"
+   "tendencia": "★★★ Ahrobiznes Volochysk o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-30T10:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "United-Arab-Emirates: Division 1",
@@ -1681,15 +1686,17 @@
    "liga": "Vietnam: V.League 1",
    "local": "Thanh Hóa",
    "visitante": "Hồng Lĩnh Hà Tĩnh",
-   "tendencia": "★★★ Thanh Hóa o empate · cuota ~1,32",
-   "inicio": "2026-10-30T10:00:00+00:00"
+   "tendencia": "★★★ Thanh Hóa o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-30T10:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Vietnam: V.League 1",
    "local": "Bắc Ninh",
    "visitante": "Hoang Anh Gia Lai",
-   "tendencia": "★★★ Bắc Ninh o empate · cuota ~1,20",
-   "inicio": "2026-10-30T11:00:00+00:00"
+   "tendencia": "★★★ Bắc Ninh o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-30T11:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Vietnam: V.League 1",
