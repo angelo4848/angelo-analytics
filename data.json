@@ -146,6 +146,40 @@
      "resultado": "4 - 1"
     }
    ]
+  },
+  {
+   "fecha": "2026-10-30",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.8,
+   "patas": [
+    {
+     "liga": "LaLiga",
+     "hora": "20:00",
+     "partido": "Villarreal vs Espanyol",
+     "mercado": "Victoria Villarreal",
+     "cuota": 1.42,
+     "estado": "pendiente",
+     "analisis": [
+      "Villarreal juega en La Cerámica, donde es de los locales más fuertes de LaLiga",
+      "Pelea por puestos europeos y no puede dejarse puntos en casa",
+      "Pronóstico ★★★ de alta confianza en nuestro modelo"
+     ]
+    },
+    {
+     "liga": "Liga Portugal",
+     "hora": "20:15",
+     "partido": "Casa Pia vs Sporting",
+     "mercado": "Victoria Sporting",
+     "cuota": 1.27,
+     "estado": "pendiente",
+     "analisis": [
+      "Sporting, candidato al título, contra un rival de la zona media-baja",
+      "Mucha diferencia de plantilla entre los dos equipos",
+      "Partido de liga: Sporting sale con su once titular"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -325,7 +359,8 @@
    "local": "Villarreal",
    "visitante": "Espanyol",
    "tendencia": "★★★ Gana Villarreal · cuota 1,42",
-   "inicio": "2026-10-30T20:00:00+00:00"
+   "inicio": "2026-10-30T20:00:00+00:00",
+   "pick": true
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -528,7 +563,8 @@
    "local": "Casa Pia",
    "visitante": "Sporting CP",
    "tendencia": "★★★ Gana Sporting CP · cuota 1,27",
-   "inicio": "2026-10-30T20:15:00+00:00"
+   "inicio": "2026-10-30T20:15:00+00:00",
+   "pick": true
   },
   {
    "liga": "Romania: Liga I",
