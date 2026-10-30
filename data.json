@@ -416,15 +416,17 @@
    "liga": "Croatia: HNL",
    "local": "NK Slaven Belupo",
    "visitante": "Istra 1961",
-   "tendencia": "★★★ NK Slaven Belupo o empate · cuota ~1,40",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ NK Slaven Belupo o empate · cuota ~1,40 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Cyprus: 1. Division",
    "local": "Karmiotissa",
    "visitante": "Olympiakos",
-   "tendencia": "★★★ Olympiakos o empate · cuota ~1,37",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Olympiakos o empate · cuota ~1,37 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Denmark: Superliga",
@@ -553,8 +555,9 @@
    "liga": "Poland: Ekstraklasa",
    "local": "Cracovia Krakow",
    "visitante": "Motor Lublin",
-   "tendencia": "★★★ Cracovia Krakow o empate · cuota ~1,35",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Cracovia Krakow o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Poland: Ekstraklasa",
@@ -596,8 +599,9 @@
    "liga": "Turkey: Süper Lig",
    "local": "Konyaspor",
    "visitante": "Galatasaray",
-   "tendencia": "★★★ Gana Galatasaray · cuota 1,65",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Gana Galatasaray · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Ukraine: Premier League",
@@ -661,8 +665,9 @@
    "liga": "Austria: 2. Liga",
    "local": "SKN ST. Polten",
    "visitante": "WSPG Wels",
-   "tendencia": "★★★ SKN ST. Polten o empate · cuota ~1,23",
-   "inicio": "2026-10-30T17:30:00+00:00"
+   "tendencia": "★★★ SKN ST. Polten o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-30T17:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Belgium: Challenger Pro League",
@@ -811,15 +816,17 @@
    "liga": "Germany: 2. Bundesliga",
    "local": "Arminia Bielefeld",
    "visitante": "Eintracht Braunschweig",
-   "tendencia": "★★★ Arminia Bielefeld o empate · cuota ~1,19",
-   "inicio": "2026-10-30T17:30:00+00:00"
+   "tendencia": "★★★ Arminia Bielefeld o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-30T17:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Germany: 2. Bundesliga",
    "local": "Energie Cottbus",
    "visitante": "VfL Bochum",
-   "tendencia": "★★★ VfL Bochum o empate · cuota ~1,41",
-   "inicio": "2026-10-30T17:30:00+00:00"
+   "tendencia": "★★★ VfL Bochum o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-30T17:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Germany: 3. Liga",
@@ -984,8 +991,9 @@
    "liga": "Russia: First League",
    "local": "Nizhny Novgorod",
    "visitante": "Arsenal Tula",
-   "tendencia": "★★★ Gana Nizhny Novgorod · cuota 1,40",
-   "inicio": "2026-10-30T17:15:00+00:00"
+   "tendencia": "★★★ Gana Nizhny Novgorod · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-30T17:15:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Saudi-Arabia: Pro League",
@@ -1033,8 +1041,9 @@
    "liga": "Turkey: 1. Lig",
    "local": "Esenler Erokspor",
    "visitante": "Keçiörengücü",
-   "tendencia": "★★★ Esenler Erokspor o empate · cuota ~1,21",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Esenler Erokspor o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "USA: USL Championship",
@@ -1099,8 +1108,9 @@
    "liga": "Bulgaria: First League",
    "local": "Lokomotiv Sofia",
    "visitante": "Botev Plovdiv",
-   "tendencia": "★★★ Botev Plovdiv o empate · cuota ~1,39",
-   "inicio": "2026-10-30T17:30:00+00:00"
+   "tendencia": "★★★ Botev Plovdiv o empate · cuota ~1,39 · ✓ acertado",
+   "inicio": "2026-10-30T17:30:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Hong-Kong: Premier League",
@@ -1183,8 +1193,9 @@
    "liga": "Algeria: Ligue 1",
    "local": "JS Kabylie",
    "visitante": "JS El Biar",
-   "tendencia": "★★★ Gana JS Kabylie · cuota 1,44",
-   "inicio": "2026-10-30T16:45:00+00:00"
+   "tendencia": "★★★ Gana JS Kabylie · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-30T16:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Algeria: Ligue 1",
@@ -1334,22 +1345,25 @@
    "liga": "Cyprus: 2. Division",
    "local": "Doxa",
    "visitante": "Iraklis Yerolakkou",
-   "tendencia": "★★★ Gana Doxa · cuota 1,45",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Gana Doxa · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Cyprus: 2. Division",
    "local": "Ermis",
    "visitante": "Anagennisi Deryneia",
-   "tendencia": "★★★ Ermis o empate · cuota ~1,17",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Ermis o empate · cuota ~1,17 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Czech-Republic: 4. liga - Divizie F",
    "local": "Hlučín",
    "visitante": "Šumperk",
-   "tendencia": "★★★ Hlučín o empate · cuota ~1,21",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Hlučín o empate · cuota ~1,21 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Denmark: 3. Division",
@@ -1551,8 +1565,9 @@
    "liga": "Malta: Challenge League",
    "local": "Tarxien Rainbows",
    "visitante": "Victoria Hotspurs",
-   "tendencia": "★★★ Tarxien Rainbows o empate · cuota ~1,28",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Tarxien Rainbows o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Malta: Challenge League",
@@ -1587,15 +1602,17 @@
    "liga": "Poland: III Liga - Group 4",
    "local": "Podlasie Biała Podlaska",
    "visitante": "Moravia Morawica",
-   "tendencia": "★★★ Gana Podlasie Biała Podlaska · cuota 1,53",
-   "inicio": "2026-10-30T17:00:00+00:00"
+   "tendencia": "★★★ Gana Podlasie Biała Podlaska · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-10-30T17:00:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Poland: III Liga - Group 4",
    "local": "Star Starachowice",
    "visitante": "Pogoń-Sokół Lubaczów",
-   "tendencia": "★★★ Star Starachowice o empate · cuota ~1,28",
-   "inicio": "2026-10-30T17:30:00+00:00"
+   "tendencia": "★★★ Star Starachowice o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-30T17:30:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Portugal: Liga 3",
