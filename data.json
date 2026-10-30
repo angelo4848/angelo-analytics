@@ -678,8 +678,9 @@
    "liga": "Bulgaria: Second League",
    "local": "Rilski Sportist",
    "visitante": "Vihren",
-   "tendencia": "★★★ Vihren o empate · cuota ~1,28",
-   "inicio": "2026-10-30T12:15:00+00:00"
+   "tendencia": "★★★ Vihren o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-30T12:15:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Bulgaria: Second League",
@@ -846,8 +847,9 @@
    "liga": "Israel: Liga Leumit",
    "local": "Hapoel Acre",
    "visitante": "Hapoel Rishon LeZion",
-   "tendencia": "★★★ Gana Hapoel Rishon LeZion · cuota 1,56",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Gana Hapoel Rishon LeZion · cuota 1,56 · ✗ fallado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Italy: Serie C - Girone A",
@@ -1129,8 +1131,9 @@
    "liga": "Thailand: Thai League 1",
    "local": "Sisaket United",
    "visitante": "Ratchaburi",
-   "tendencia": "★★★ Ratchaburi o empate · cuota ~1,18",
-   "inicio": "2026-10-30T12:00:00+00:00"
+   "tendencia": "★★★ Ratchaburi o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-30T12:00:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Uzbekistan: Super League",
@@ -1283,8 +1286,9 @@
    "liga": "Croatia: First NL",
    "local": "Dubrava Zagreb",
    "visitante": "Sesvete",
-   "tendencia": "★★★ Sesvete o empate · cuota ~1,29",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Sesvete o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Croatia: First NL",
@@ -1297,8 +1301,9 @@
    "liga": "Croatia: Second NL",
    "local": "Trnje",
    "visitante": "Dugo Selo",
-   "tendencia": "★★★ Trnje o empate · cuota ~1,35",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Trnje o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Cyprus: 2. Division",
@@ -1339,8 +1344,9 @@
    "liga": "Egypt: Second League",
    "local": "Kahraba Ismailia",
    "visitante": "Masar",
-   "tendencia": "★★★ Kahraba Ismailia o empate · cuota ~1,27",
-   "inicio": "2026-10-30T12:30:00+00:00"
+   "tendencia": "★★★ Kahraba Ismailia o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-30T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Egypt: Second League",
@@ -1353,15 +1359,17 @@
    "liga": "Egypt: Second League",
    "local": "Proxy",
    "visitante": "Ismaily SC",
-   "tendencia": "★★★ Proxy o empate · cuota ~1,30",
-   "inicio": "2026-10-30T12:30:00+00:00"
+   "tendencia": "★★★ Proxy o empate · cuota ~1,30 · ✗ fallado",
+   "inicio": "2026-10-30T12:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Egypt: Second League",
    "local": "Tersana",
    "visitante": "Maleyet Kafr El Zayiat",
-   "tendencia": "★★★ Tersana o empate · cuota ~1,16",
-   "inicio": "2026-10-30T12:30:00+00:00"
+   "tendencia": "★★★ Tersana o empate · cuota ~1,16 · ✗ fallado",
+   "inicio": "2026-10-30T12:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Ethiopia: Premier League",
@@ -1389,8 +1397,9 @@
    "liga": "India: I-League",
    "local": "Real Kashmir",
    "visitante": "Nagaland United",
-   "tendencia": "★★★ Gana Real Kashmir · cuota 1,57",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Gana Real Kashmir · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Indonesia: Liga 2",
@@ -1467,22 +1476,25 @@
    "liga": "Israel: Liga Leumit",
    "local": "Hapoel Afula",
    "visitante": "Maccabi Kiryat Gat",
-   "tendencia": "★★★ Hapoel Afula o empate · cuota ~1,30",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Hapoel Afula o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Israel: Liga Leumit",
    "local": "Maccabi Bnei Raina",
    "visitante": "Maccabi Herzliya",
-   "tendencia": "★★★ Maccabi Bnei Raina o empate · cuota ~1,19",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Maccabi Bnei Raina o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Israel: Liga Leumit",
    "local": "Maccabi Ahi Nazareth",
    "visitante": "Kafr Qasim",
-   "tendencia": "★★★ Kafr Qasim o empate · cuota ~1,35",
-   "inicio": "2026-10-30T13:00:00+00:00"
+   "tendencia": "★★★ Kafr Qasim o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-30T13:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Jordan: League",
@@ -1503,8 +1515,9 @@
    "liga": "Lebanon: Premier League",
    "local": "Shabab Al Sahel",
    "visitante": "Al Ahed",
-   "tendencia": "★★★ Gana Al Ahed · cuota 1,50",
-   "inicio": "2026-10-30T11:15:00+00:00"
+   "tendencia": "★★★ Gana Al Ahed · cuota 1,50 · ✗ fallado",
+   "inicio": "2026-10-30T11:15:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Malta: Challenge League",
@@ -1601,8 +1614,9 @@
    "liga": "Saudi-Arabia: Pro League",
    "local": "Abha",
    "visitante": "Al-Ittihad FC",
-   "tendencia": "★★★ Gana Al-Ittihad FC · cuota 1,45",
-   "inicio": "2026-10-30T12:30:00+00:00"
+   "tendencia": "★★★ Gana Al-Ittihad FC · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-30T12:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Saudi-Arabia: Pro League",
@@ -1667,15 +1681,17 @@
    "liga": "United-Arab-Emirates: Division 1",
    "local": "Dibba Al Hisn",
    "visitante": "Dubai City",
-   "tendencia": "★★★ Gana Dibba Al Hisn · cuota 1,33",
-   "inicio": "2026-10-30T12:50:00+00:00"
+   "tendencia": "★★★ Gana Dibba Al Hisn · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-30T12:50:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "United-Arab-Emirates: Division 1",
    "local": "Emirates Club",
    "visitante": "Dibba Al-Fujairah",
-   "tendencia": "★★★ Dibba Al-Fujairah o empate · cuota ~1,35",
-   "inicio": "2026-10-30T12:50:00+00:00"
+   "tendencia": "★★★ Dibba Al-Fujairah o empate · cuota ~1,35 · ✗ fallado",
+   "inicio": "2026-10-30T12:50:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "USA: USL League One",
@@ -1711,8 +1727,9 @@
    "liga": "Vietnam: V.League 1",
    "local": "Ha Noi",
    "visitante": "Phu Dong",
-   "tendencia": "★★★ Ha Noi o empate · cuota ~1,35",
-   "inicio": "2026-10-30T12:15:00+00:00"
+   "tendencia": "★★★ Ha Noi o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-30T12:15:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "CONCACAF Central American Cup",
