@@ -979,43 +979,49 @@
    "liga": "Kazakhstan: Premier League",
    "local": "Kaspiy",
    "visitante": "Kyzyl-Zhar",
-   "tendencia": "★★★ Kaspiy o empate · cuota ~1,17",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Kaspiy o empate · cuota ~1,17 · ✗ fallado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Kazakhstan: Premier League",
    "local": "FK Tobol Kostanay",
    "visitante": "Aktobe",
-   "tendencia": "★★★ FK Tobol Kostanay o empate · cuota ~1,26",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ FK Tobol Kostanay o empate · cuota ~1,26 · ✗ fallado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Kazakhstan: Premier League",
    "local": "Ulytau",
    "visitante": "Atyrau",
-   "tendencia": "★★★ Atyrau o empate · cuota ~1,25",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Atyrau o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Kazakhstan: Premier League",
    "local": "Yelimay Semey",
    "visitante": "Okzhetpes",
-   "tendencia": "★★★ Okzhetpes o empate · cuota ~1,37",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Okzhetpes o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Kazakhstan: Premier League",
    "local": "Zhenys",
    "visitante": "Kaisar",
-   "tendencia": "★★★ Zhenys o empate · cuota ~1,29",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Zhenys o empate · cuota ~1,29 · ✗ fallado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Kazakhstan: Premier League",
    "local": "Zhetysu",
    "visitante": "FC Astana",
-   "tendencia": "★★★ Gana FC Astana · cuota 1,65",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Gana FC Astana · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Lithuania: A Lyga",
@@ -2231,9 +2237,9 @@
    "liga": "Romania: Liga II",
    "local": "ASA Targu Mures",
    "visitante": "Unirea Slobozia",
-   "tendencia": "★★★ ASA Targu Mures o empate · cuota ~1,27 · ✓ acertado",
+   "tendencia": "★★★ ASA Targu Mures o empate · cuota ~1,27 · ✗ fallado",
    "inicio": "2026-10-31T09:00:00+00:00",
-   "resultado": "0 - 0"
+   "resultado": "0 - 1"
   },
   {
    "liga": "Romania: Liga II",
@@ -2524,7 +2530,7 @@
    "visitante": "Western Sydney Wanderers",
    "tendencia": "★★★ Western Sydney Wanderers o empate · cuota ~1,45 · ✓ acertado",
    "inicio": "2026-10-31T08:40:00+00:00",
-   "resultado": "0 - 0"
+   "resultado": "0 - 1"
   },
   {
    "liga": "Azerbaijan: Premyer Liqa",
@@ -2629,8 +2635,9 @@
    "liga": "Kazakhstan: Premier League",
    "local": "Irtysh",
    "visitante": "Ordabasy",
-   "tendencia": "★★★ Ordabasy o empate · cuota ~1,25",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Ordabasy o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Luxembourg: National Division",
@@ -3852,8 +3859,9 @@
    "liga": "Russia: Second League A - Division A Gold",
    "local": "Novosibirsk",
    "visitante": "Mashuk-KMV",
-   "tendencia": "★★★ Novosibirsk o empate · cuota ~1,21",
-   "inicio": "2026-10-31T10:00:00+00:00"
+   "tendencia": "★★★ Novosibirsk o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-31T10:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Russia: Second League A - Division A Gold",
