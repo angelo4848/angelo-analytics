@@ -861,22 +861,25 @@
    "liga": "Indonesia: Liga 1",
    "local": "Arema FC",
    "visitante": "Bali United",
-   "tendencia": "★★★ Bali United o empate · cuota ~1,24",
-   "inicio": "2026-10-31T08:30:00+00:00"
+   "tendencia": "★★★ Bali United o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-31T08:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "PSM Makassar",
    "visitante": "Persepam Madura Utd",
-   "tendencia": "★★★ PSM Makassar o empate · cuota ~1,33",
-   "inicio": "2026-10-31T08:30:00+00:00"
+   "tendencia": "★★★ PSM Makassar o empate · cuota ~1,33 · ✗ fallado",
+   "inicio": "2026-10-31T08:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "Persik Kediri",
    "visitante": "Persita",
-   "tendencia": "★★★ Persik Kediri o empate · cuota ~1,27",
-   "inicio": "2026-10-31T08:30:00+00:00"
+   "tendencia": "★★★ Persik Kediri o empate · cuota ~1,27 · ✗ fallado",
+   "inicio": "2026-10-31T08:30:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
@@ -2512,8 +2515,9 @@
    "liga": "Australia: A-League",
    "local": "Macarthur",
    "visitante": "Western Sydney Wanderers",
-   "tendencia": "★★★ Western Sydney Wanderers o empate · cuota ~1,45",
-   "inicio": "2026-10-31T08:40:00+00:00"
+   "tendencia": "★★★ Western Sydney Wanderers o empate · cuota ~1,45 · ✓ acertado",
+   "inicio": "2026-10-31T08:40:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Azerbaijan: Premyer Liqa",
@@ -3427,15 +3431,17 @@
    "liga": "Indonesia: Liga 2",
    "local": "PSGC Ciamis",
    "visitante": "PSMS Medan",
-   "tendencia": "★★★ PSMS Medan o empate · cuota ~1,16",
-   "inicio": "2026-10-31T08:30:00+00:00"
+   "tendencia": "★★★ PSMS Medan o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-31T08:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Indonesia: Liga 2",
    "local": "Bekasi City",
    "visitante": "PSPS",
-   "tendencia": "★★★ Bekasi City o empate · cuota ~1,40",
-   "inicio": "2026-10-31T08:30:00+00:00"
+   "tendencia": "★★★ Bekasi City o empate · cuota ~1,40 · ✓ acertado",
+   "inicio": "2026-10-31T08:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Indonesia: Liga 2",
