@@ -328,15 +328,17 @@
    "liga": "England: Premier League",
    "local": "Aston Villa",
    "visitante": "Fulham",
-   "tendencia": "★★★ Aston Villa o empate · cuota ~1,27",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Aston Villa o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "France: Ligue 1",
    "local": "Estac Troyes",
    "visitante": "Le Mans",
-   "tendencia": "★★★ Estac Troyes o empate · cuota ~1,42",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Estac Troyes o empate · cuota ~1,42 · ✓ acertado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: Bundesliga",
@@ -405,8 +407,9 @@
    "liga": "Italy: Serie A",
    "local": "AC Milan",
    "visitante": "Inter",
-   "tendencia": "★★★ Inter o empate · cuota ~1,30",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Inter o empate · cuota ~1,30 · ✗ fallado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Spain: La Liga",
@@ -437,8 +440,9 @@
    "liga": "Spain: La Liga",
    "local": "Barcelona",
    "visitante": "Alaves",
-   "tendencia": "★★★ Gana Barcelona · cuota 1,08",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Gana Barcelona · cuota 1,08 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "6 - 1"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -465,8 +469,9 @@
    "liga": "Argentina: Liga Profesional Argentina",
    "local": "Deportivo Riestra",
    "visitante": "Talleres Cordoba",
-   "tendencia": "★★★ Deportivo Riestra o empate · cuota ~1,22",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Deportivo Riestra o empate · cuota ~1,22 · ✗ fallado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -542,15 +547,17 @@
    "liga": "Belgium: Jupiler Pro League",
    "local": "Anderlecht",
    "visitante": "KVC Westerlo",
-   "tendencia": "★★★ Gana Anderlecht · cuota 1,53",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Gana Anderlecht · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Belgium: Jupiler Pro League",
    "local": "SK Beveren",
    "visitante": "Union St. Gilloise",
-   "tendencia": "★★★ Gana Union St. Gilloise · cuota 1,50",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Gana Union St. Gilloise · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Brazil: Serie A",
@@ -1153,8 +1160,9 @@
    "liga": "Morocco: Botola Pro",
    "local": "FUS Rabat",
    "visitante": "Hassania Agadir",
-   "tendencia": "★★★ FUS Rabat o empate · cuota ~1,25",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ FUS Rabat o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Netherlands: Eredivisie",
@@ -1176,8 +1184,9 @@
    "liga": "Netherlands: Eredivisie",
    "local": "Ajax",
    "visitante": "AZ Alkmaar",
-   "tendencia": "★★★ Ajax o empate · cuota ~1,23",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Ajax o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Netherlands: Eredivisie",
@@ -1565,8 +1574,9 @@
    "liga": "Uruguay: Primera División",
    "local": "Penarol",
    "visitante": "Wanderers",
-   "tendencia": "★★★ Gana Penarol · cuota 1,45",
-   "inicio": "2026-10-31T19:30:00+00:00"
+   "tendencia": "★★★ Gana Penarol · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-31T19:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Wales: Premier League",
@@ -1660,8 +1670,9 @@
    "liga": "Argentina: Primera Nacional",
    "local": "Chaco For Ever",
    "visitante": "Racing Cordoba",
-   "tendencia": "★★★ Gana Chaco For Ever · cuota 1,67",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Gana Chaco For Ever · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Australia: Australian Championship",
@@ -2090,8 +2101,9 @@
    "liga": "Germany: 2. Bundesliga",
    "local": "Karlsruher SC",
    "visitante": "1. FC Heidenheim",
-   "tendencia": "★★★ 1. FC Heidenheim o empate · cuota ~1,34",
-   "inicio": "2026-10-31T19:30:00+00:00"
+   "tendencia": "★★★ 1. FC Heidenheim o empate · cuota ~1,34 · ✗ fallado",
+   "inicio": "2026-10-31T19:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Germany: 3. Liga",
@@ -2743,8 +2755,9 @@
    "liga": "Wales: FAW Championship",
    "local": "Newtown AFC",
    "visitante": "Buckley Town",
-   "tendencia": "★★★ Gana Newtown AFC · cuota 1,42",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Gana Newtown AFC · cuota 1,42 · ✓ acertado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Armenia: Premier League",
@@ -2806,8 +2819,9 @@
    "liga": "Bosnia: Premijer Liga",
    "local": "Čelik",
    "visitante": "Borac Banja Luka",
-   "tendencia": "★★★ Gana Borac Banja Luka · cuota 1,50",
-   "inicio": "2026-10-31T19:45:00+00:00"
+   "tendencia": "★★★ Gana Borac Banja Luka · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-31T19:45:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Czech-Republic: Czech Liga",
@@ -3443,8 +3457,9 @@
    "liga": "Chile: Segunda División",
    "local": "General Velásquez",
    "visitante": "Deportes Rengo",
-   "tendencia": "★★★ General Velásquez o empate · cuota ~1,30",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ General Velásquez o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "China: League One",
@@ -4093,8 +4108,9 @@
    "liga": "Peru: Segunda División",
    "local": "Carlos A. Mannucci",
    "visitante": "Bentín Tacna Heroica",
-   "tendencia": "★★★ Carlos A. Mannucci o empate · cuota ~1,35",
-   "inicio": "2026-10-31T20:15:00+00:00"
+   "tendencia": "★★★ Carlos A. Mannucci o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-31T20:15:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Poland: III Liga - Group 4",
@@ -4432,8 +4448,9 @@
    "liga": "Spain: Segunda División",
    "local": "Albacete",
    "visitante": "Sabadell",
-   "tendencia": "★★★ Albacete o empate · cuota ~1,35",
-   "inicio": "2026-10-31T20:00:00+00:00"
+   "tendencia": "★★★ Albacete o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-31T20:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Thailand: Thai League 2",
