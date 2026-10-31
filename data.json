@@ -751,8 +751,9 @@
    "liga": "Colombia: Primera A",
    "local": "Atletico Nacional",
    "visitante": "Santa Fe",
-   "tendencia": "★★★ Gana Atletico Nacional · cuota 1,55",
-   "inicio": "2026-10-31T01:30:00+00:00"
+   "tendencia": "★★★ Gana Atletico Nacional · cuota 1,55 · ✓ acertado",
+   "inicio": "2026-10-31T01:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Colombia: Primera A",
@@ -999,8 +1000,9 @@
    "liga": "Peru: Primera División",
    "local": "FBC Melgar",
    "visitante": "Comerciantes Unidos",
-   "tendencia": "★★★ Gana FBC Melgar · cuota 1,27",
-   "inicio": "2026-10-31T00:30:00+00:00"
+   "tendencia": "★★★ Gana FBC Melgar · cuota 1,27 · ✗ fallado",
+   "inicio": "2026-10-31T00:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Poland: I Liga",
@@ -1154,8 +1156,9 @@
    "liga": "Brazil: Serie A",
    "local": "Gremio",
    "visitante": "Atletico Paranaense",
-   "tendencia": "★★★ Gremio o empate · cuota ~1,37",
-   "inicio": "2026-10-31T00:30:00+00:00"
+   "tendencia": "★★★ Gremio o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-31T00:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Bulgaria: First League",
@@ -1491,8 +1494,9 @@
    "liga": "Guatemala: Liga Nacional",
    "local": "Marquense",
    "visitante": "Guastatoya",
-   "tendencia": "★★★ Gana Marquense · cuota 1,57",
-   "inicio": "2026-10-31T02:10:00+00:00"
+   "tendencia": "★★★ Gana Marquense · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-31T02:10:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "India: I-League",
@@ -1642,8 +1646,9 @@
    "liga": "Nicaragua: Primera Division",
    "local": "UNAN Managua",
    "visitante": "Walter Ferretti",
-   "tendencia": "★★★ Walter Ferretti o empate · cuota ~1,26",
-   "inicio": "2026-10-31T01:00:00+00:00"
+   "tendencia": "★★★ Walter Ferretti o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-31T01:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Oman: Sultan Cup",
@@ -1851,8 +1856,9 @@
    "liga": "CONCACAF Central American Cup",
    "local": "LD Alajuelense",
    "visitante": "CD Motagua",
-   "tendencia": "★★★ LD Alajuelense o empate · cuota ~1,18",
-   "inicio": "2026-10-31T02:00:00+00:00"
+   "tendencia": "★★★ LD Alajuelense o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T02:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "England: Premier League",
