@@ -320,8 +320,9 @@
    "liga": "England: Premier League",
    "local": "Tottenham",
    "visitante": "Crystal Palace",
-   "tendencia": "★★★ Gana Tottenham · cuota 1,50",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ Gana Tottenham · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: Premier League",
@@ -380,8 +381,9 @@
    "liga": "Germany: Bundesliga",
    "local": "Bayern München",
    "visitante": "Borussia Dortmund",
-   "tendencia": "★★★ Gana Bayern München · cuota 1,33",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ Gana Bayern München · cuota 1,33 · ✗ fallado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Italy: Serie A",
@@ -426,9 +428,10 @@
    "liga": "Spain: La Liga",
    "local": "Real Betis",
    "visitante": "Malaga",
-   "tendencia": "★★★ Gana Real Betis · cuota 1,36",
+   "tendencia": "★★★ Gana Real Betis · cuota 1,36 · ✓ acertado",
    "inicio": "2026-10-31T17:30:00+00:00",
-   "pick": true
+   "pick": true,
+   "resultado": "2 - 1"
   },
   {
    "liga": "Spain: La Liga",
@@ -530,8 +533,9 @@
    "liga": "Belgium: Jupiler Pro League",
    "local": "Standard Liege",
    "visitante": "Kortrijk",
-   "tendencia": "★★★ Gana Standard Liege · cuota 1,67",
-   "inicio": "2026-10-31T17:15:00+00:00"
+   "tendencia": "★★★ Gana Standard Liege · cuota 1,67 · ✗ fallado",
+   "inicio": "2026-10-31T17:15:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Belgium: Jupiler Pro League",
@@ -574,8 +578,9 @@
    "liga": "Bulgaria: First League",
    "local": "CSKA Sofia",
    "visitante": "Slavia Sofia",
-   "tendencia": "★★★ Gana CSKA Sofia · cuota 1,20",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ Gana CSKA Sofia · cuota 1,20 · ✗ fallado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Croatia: HNL",
@@ -651,8 +656,9 @@
    "liga": "Egypt: Premier League",
    "local": "Ceramica Cleopatra",
    "visitante": "Masr",
-   "tendencia": "★★★ Ceramica Cleopatra o empate · cuota ~1,20",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Ceramica Cleopatra o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "England: Championship",
@@ -983,8 +989,9 @@
    "liga": "Israel: Ligat Ha'al",
    "local": "Maccabi Netanya",
    "visitante": "Hapoel Katamon",
-   "tendencia": "★★★ Gana Maccabi Netanya · cuota 1,57",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ Gana Maccabi Netanya · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Israel: Ligat Ha'al",
@@ -1135,8 +1142,9 @@
    "liga": "Morocco: Botola Pro",
    "local": "Wydad AC",
    "visitante": "Moghreb Tetouan",
-   "tendencia": "★★★ Gana Wydad AC · cuota 1,28",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Wydad AC · cuota 1,28 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -1157,8 +1165,9 @@
    "liga": "Netherlands: Eredivisie",
    "local": "Heerenveen",
    "visitante": "NEC Nijmegen",
-   "tendencia": "★★★ Heerenveen o empate · cuota ~1,34",
-   "inicio": "2026-10-31T17:45:00+00:00"
+   "tendencia": "★★★ Heerenveen o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-31T17:45:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Netherlands: Eredivisie",
@@ -1567,57 +1576,65 @@
    "liga": "Wales: Premier League",
    "local": "The New Saints",
    "visitante": "GAP Connah S Quay FC",
-   "tendencia": "★★★ Gana The New Saints · cuota 1,25",
-   "inicio": "2026-10-31T17:15:00+00:00"
+   "tendencia": "★★★ Gana The New Saints · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-31T17:15:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Acassuso",
    "visitante": "Ferro Carril Oeste",
-   "tendencia": "★★★ Gana Ferro Carril Oeste · cuota 1,38",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Ferro Carril Oeste · cuota 1,38 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Agropecuario",
    "visitante": "Almagro",
-   "tendencia": "★★★ Agropecuario o empate · cuota ~1,14",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Agropecuario o empate · cuota ~1,14 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Atlanta",
    "visitante": "Midland",
-   "tendencia": "★★★ Gana Atlanta · cuota 1,30",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Atlanta · cuota 1,30 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Club Atlético Güemes",
    "visitante": "Temperley",
-   "tendencia": "★★★ Gana Temperley · cuota 1,25",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Temperley · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Godoy Cruz",
    "visitante": "Almirante Brown",
-   "tendencia": "★★★ Gana Godoy Cruz · cuota 1,40",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Godoy Cruz · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "San Martin S.J.",
    "visitante": "Gimnasia Jujuy",
-   "tendencia": "★★★ Gana San Martin S.J. · cuota 1,45",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana San Martin S.J. · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Argentina: Primera Nacional",
    "local": "Tristan Suarez",
    "visitante": "Deportivo Maipu",
-   "tendencia": "★★★ Gana Tristan Suarez · cuota 1,50",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Tristan Suarez · cuota 1,50 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Argentina: Primera Nacional",
@@ -2386,15 +2403,17 @@
    "liga": "Portugal: Segunda Liga",
    "local": "Benfica B",
    "visitante": "Chaves",
-   "tendencia": "★★★ Benfica B o empate · cuota ~1,41",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Benfica B o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Portugal: Segunda Liga",
    "local": "União de Leiria",
    "visitante": "AVS",
-   "tendencia": "★★★ Gana União de Leiria · cuota 1,59",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana União de Leiria · cuota 1,59 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Romania: Liga II",
@@ -2463,15 +2482,17 @@
    "liga": "Saudi-Arabia: Pro League",
    "local": "Al-Hilal Saudi FC",
    "visitante": "Al-Fateh",
-   "tendencia": "★★★ Gana Al-Hilal Saudi FC · cuota 1,09",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Al-Hilal Saudi FC · cuota 1,09 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Scotland: League Cup",
    "local": "Rangers",
    "visitante": "Aberdeen",
-   "tendencia": "★★★ Gana Rangers · cuota 1,57",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ Gana Rangers · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Scotland: League Two",
@@ -2923,8 +2944,9 @@
    "liga": "Malta: Premier League",
    "local": "Sliema Wanderers",
    "visitante": "Hamrun Spartans",
-   "tendencia": "★★★ Hamrun Spartans o empate · cuota ~1,28",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Hamrun Spartans o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Mexico: Liga MX",
@@ -3023,15 +3045,17 @@
    "liga": "South-Africa: Premier Soccer League",
    "local": "Kruger United",
    "visitante": "Richards Bay",
-   "tendencia": "★★★ Kruger United o empate · cuota ~1,20",
-   "inicio": "2026-10-31T18:15:00+00:00"
+   "tendencia": "★★★ Kruger United o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-31T18:15:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "South-Africa: Premier Soccer League",
    "local": "Mamelodi Sundowns",
    "visitante": "Durban City",
-   "tendencia": "★★★ Gana Mamelodi Sundowns · cuota 1,25",
-   "inicio": "2026-10-31T18:15:00+00:00"
+   "tendencia": "★★★ Gana Mamelodi Sundowns · cuota 1,25 · ✓ acertado",
+   "inicio": "2026-10-31T18:15:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Thailand: Thai League 1",
@@ -3061,22 +3085,25 @@
    "liga": "USA: Major League Soccer",
    "local": "FC Cincinnati",
    "visitante": "Philadelphia Union",
-   "tendencia": "★★★ FC Cincinnati o empate · cuota ~1,49",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ FC Cincinnati o empate · cuota ~1,49 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Columbus Crew",
    "visitante": "DC United",
-   "tendencia": "★★★ Gana Columbus Crew · cuota 1,36",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana Columbus Crew · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "New York City FC",
    "visitante": "CF Montreal",
-   "tendencia": "★★★ Gana New York City FC · cuota 1,40",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Gana New York City FC · cuota 1,40 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -3226,8 +3253,9 @@
    "liga": "Argentina: Torneo Federal A",
    "local": "Kimberley Mar del Plata",
    "visitante": "Argentino Monte Maíz",
-   "tendencia": "★★★ Kimberley Mar del Plata o empate · cuota ~1,11",
-   "inicio": "2026-10-31T18:00:00+00:00"
+   "tendencia": "★★★ Kimberley Mar del Plata o empate · cuota ~1,11 · ✗ fallado",
+   "inicio": "2026-10-31T18:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Argentina: Torneo Federal A",
@@ -4065,8 +4093,9 @@
    "liga": "Poland: III Liga - Group 4",
    "local": "Wisłoka Dębica",
    "visitante": "KSZO 1929",
-   "tendencia": "★★★ KSZO 1929 o empate · cuota ~1,31",
-   "inicio": "2026-10-31T18:08:00+00:00"
+   "tendencia": "★★★ KSZO 1929 o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-10-31T18:08:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Portugal: Liga 3",
@@ -4096,8 +4125,9 @@
    "liga": "Portugal: Liga 3",
    "local": "Oliveirense",
    "visitante": "CF Os Belenenses",
-   "tendencia": "★★★ CF Os Belenenses o empate · cuota ~1,25",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "tendencia": "★★★ CF Os Belenenses o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Qatar: Stars League",
