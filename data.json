@@ -182,6 +182,40 @@
      "resultado": "0 - 2"
     }
    ]
+  },
+  {
+   "fecha": "2026-10-31",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.77,
+   "patas": [
+    {
+     "liga": "Süper Lig",
+     "hora": "16:00",
+     "partido": "Fenerbahçe vs Göztepe",
+     "mercado": "Victoria Fenerbahçe",
+     "cuota": 1.3,
+     "estado": "pendiente",
+     "analisis": [
+      "Fenerbahçe pelea por el título y es de los locales más fuertes de Turquía",
+      "Mucha diferencia de plantilla entre los dos equipos",
+      "Pronóstico ★★★ de alta confianza en nuestro modelo"
+     ]
+    },
+    {
+     "liga": "LaLiga",
+     "hora": "17:30",
+     "partido": "Real Betis vs Malaga",
+     "mercado": "Victoria Real Betis",
+     "cuota": 1.36,
+     "estado": "pendiente",
+     "analisis": [
+      "Betis juega en el Benito Villamarín ante un rival de la zona baja",
+      "Partido de liga: Betis sale con su once titular",
+      "Pronóstico ★★★ de alta confianza en nuestro modelo"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -378,7 +412,8 @@
    "local": "Real Betis",
    "visitante": "Malaga",
    "tendencia": "★★★ Gana Real Betis · cuota 1,36",
-   "inicio": "2026-10-31T17:30:00+00:00"
+   "inicio": "2026-10-31T17:30:00+00:00",
+   "pick": true
   },
   {
    "liga": "Spain: La Liga",
@@ -1361,7 +1396,8 @@
    "local": "Fenerbahçe",
    "visitante": "Göztepe",
    "tendencia": "★★★ Gana Fenerbahçe · cuota 1,30",
-   "inicio": "2026-10-31T16:00:00+00:00"
+   "inicio": "2026-10-31T16:00:00+00:00",
+   "pick": true
   },
   {
    "liga": "Ukraine: Premier League",
