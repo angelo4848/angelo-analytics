@@ -1153,8 +1153,9 @@
    "liga": "Poland: Ekstraklasa",
    "local": "Wisla Plock",
    "visitante": "Piast Gliwice",
-   "tendencia": "★★★ Wisla Plock o empate · cuota ~1,30",
-   "inicio": "2026-10-31T11:15:00+00:00"
+   "tendencia": "★★★ Wisla Plock o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-10-31T11:15:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Poland: Ekstraklasa",
@@ -1414,15 +1415,17 @@
    "liga": "Ukraine: Premier League",
    "local": "Livyi Bereh",
    "visitante": "Bukovyna",
-   "tendencia": "★★★ Bukovyna o empate · cuota ~1,38",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Bukovyna o empate · cuota ~1,38 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Ukraine: Premier League",
    "local": "Veres Rivne",
    "visitante": "Chornomorets",
-   "tendencia": "★★★ Veres Rivne o empate · cuota ~1,20",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Veres Rivne o empate · cuota ~1,20 · ✗ fallado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Uruguay: Primera División",
@@ -2158,15 +2161,17 @@
    "liga": "Poland: II Liga - East",
    "local": "Górnik Łęczna",
    "visitante": "Znicz Pruszków",
-   "tendencia": "★★★ Górnik Łęczna o empate · cuota ~1,31",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Górnik Łęczna o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Poland: II Liga - East",
    "local": "Podhale Nowy Targ",
    "visitante": "Świt Skolwin",
-   "tendencia": "★★★ Gana Podhale Nowy Targ · cuota 1,44",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Gana Podhale Nowy Targ · cuota 1,44 · ✗ fallado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Poland: II Liga - East",
@@ -2193,8 +2198,9 @@
    "liga": "Portugal: Segunda Liga",
    "local": "Amarante",
    "visitante": "FC Porto B",
-   "tendencia": "★★★ Amarante o empate · cuota ~1,26",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Amarante o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Portugal: Segunda Liga",
@@ -2261,8 +2267,9 @@
    "liga": "Romania: Liga II",
    "local": "FC Bacau",
    "visitante": "Metaloglobus",
-   "tendencia": "★★★ FC Bacau o empate · cuota ~1,22",
-   "inicio": "2026-10-31T11:30:00+00:00"
+   "tendencia": "★★★ FC Bacau o empate · cuota ~1,22 · ✗ fallado",
+   "inicio": "2026-10-31T11:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Russia: First League",
@@ -2536,8 +2543,9 @@
    "liga": "Azerbaijan: Premyer Liqa",
    "local": "Araz",
    "visitante": "Zira",
-   "tendencia": "★★★ Zira o empate · cuota ~1,34",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Zira o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Azerbaijan: Premyer Liqa",
@@ -2585,8 +2593,9 @@
    "liga": "Georgia: Erovnuli Liga",
    "local": "Samgurali",
    "visitante": "Spaeri",
-   "tendencia": "★★★ Samgurali o empate · cuota ~1,18",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Samgurali o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Georgia: Erovnuli Liga",
@@ -2805,8 +2814,9 @@
    "liga": "Thailand: Thai League 1",
    "local": "Pattani",
    "visitante": "Rasi Salai United",
-   "tendencia": "★★★ Gana Pattani · cuota 1,65",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Gana Pattani · cuota 1,65 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Thailand: Thai League 1",
@@ -3120,15 +3130,17 @@
    "liga": "Cambodia: C-League",
    "local": "Angkor Tiger",
    "visitante": "Boeung Ket",
-   "tendencia": "★★★ Gana Angkor Tiger · cuota 1,53",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Gana Angkor Tiger · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Cambodia: C-League",
    "local": "Dangkor Senchey",
    "visitante": "Visakha",
-   "tendencia": "★★★ Gana Visakha · cuota 1,50",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Gana Visakha · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Chile: Segunda División",
@@ -3404,8 +3416,9 @@
    "liga": "Georgia: Erovnuli Liga 2",
    "local": "Merani Martvili",
    "visitante": "Telavi",
-   "tendencia": "★★★ Telavi o empate · cuota ~1,34",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Telavi o empate · cuota ~1,34 · ✗ fallado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Georgia: Erovnuli Liga 2",
@@ -3831,15 +3844,17 @@
    "liga": "Russia: Second League - Group 1",
    "local": "Druzhba",
    "visitante": "Pobeda",
-   "tendencia": "★★★ Druzhba o empate · cuota ~1,39",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Druzhba o empate · cuota ~1,39 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Russia: Second League - Group 1",
    "local": "Angust Nazran",
    "visitante": "Izberbash",
-   "tendencia": "★★★ Angust Nazran o empate · cuota ~1,26",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Angust Nazran o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Russia: Second League - Group 1",
@@ -3867,8 +3882,9 @@
    "liga": "Russia: Second League A - Division A Gold",
    "local": "Kaluga",
    "visitante": "Volgar Astrakhan",
-   "tendencia": "★★★ Volgar Astrakhan o empate · cuota ~1,22",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Volgar Astrakhan o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Russia: Second League A - Division A Gold",
@@ -3888,8 +3904,9 @@
    "liga": "Singapore: Premier League",
    "local": "Hougang United",
    "visitante": "Young Lions",
-   "tendencia": "★★★ Gana Hougang United · cuota 1,48",
-   "inicio": "2026-10-31T11:30:00+00:00"
+   "tendencia": "★★★ Gana Hougang United · cuota 1,48 · ✗ fallado",
+   "inicio": "2026-10-31T11:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Slovakia: 2. liga",
@@ -4056,15 +4073,17 @@
    "liga": "Thailand: Thai League 2",
    "local": "Phrae United",
    "visitante": "Khon Kaen United",
-   "tendencia": "★★★ Khon Kaen United o empate · cuota ~1,36",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Khon Kaen United o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Thailand: Thai League 2",
    "local": "Nakhon Ratchasima FC",
    "visitante": "Songkhla",
-   "tendencia": "★★★ Nakhon Ratchasima FC o empate · cuota ~1,21",
-   "inicio": "2026-10-31T11:30:00+00:00"
+   "tendencia": "★★★ Nakhon Ratchasima FC o empate · cuota ~1,21 · ✓ acertado",
+   "inicio": "2026-10-31T11:30:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Thailand: Thai League 2",
@@ -4120,22 +4139,25 @@
    "liga": "Vietnam: V.League 1",
    "local": "Nam Dinh",
    "visitante": "Viettel",
-   "tendencia": "★★★ Nam Dinh o empate · cuota ~1,20",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Nam Dinh o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Vietnam: V.League 1",
    "local": "Song Lam Nghe An",
    "visitante": "Công An Nhân Dân",
-   "tendencia": "★★★ Gana Công An Nhân Dân · cuota 1,53",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Gana Công An Nhân Dân · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Vietnam: V.League 2",
    "local": "Than Quang Ninh",
    "visitante": "Lam Dong",
-   "tendencia": "★★★ Than Quang Ninh o empate · cuota ~1,18",
-   "inicio": "2026-10-31T11:00:00+00:00"
+   "tendencia": "★★★ Than Quang Ninh o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T11:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Zambia: Super League",
