@@ -278,8 +278,9 @@
    "liga": "England: Premier League",
    "local": "Chelsea",
    "visitante": "Manchester United",
-   "tendencia": "★★★ Chelsea o empate · cuota ~1,22",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Chelsea o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: Premier League",
@@ -539,8 +540,9 @@
    "liga": "Bulgaria: First League",
    "local": "Lokomotiv Plovdiv",
    "visitante": "Ludogorets",
-   "tendencia": "★★★ Gana Ludogorets · cuota 1,41",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Ludogorets · cuota 1,41 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Bulgaria: First League",
@@ -630,22 +632,25 @@
    "liga": "England: Championship",
    "local": "Lincoln",
    "visitante": "Birmingham",
-   "tendencia": "★★★ Birmingham o empate · cuota ~1,28",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Birmingham o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "England: Championship",
    "local": "Norwich",
    "visitante": "Watford",
-   "tendencia": "★★★ Gana Norwich · cuota 1,53",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana Norwich · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "England: Championship",
    "local": "Stoke City",
    "visitante": "Preston",
-   "tendencia": "★★★ Stoke City o empate · cuota ~1,16",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Stoke City o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: Championship",
@@ -707,8 +712,9 @@
    "liga": "England: League One",
    "local": "Plymouth",
    "visitante": "Reading",
-   "tendencia": "★★★ Plymouth o empate · cuota ~1,39",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Plymouth o empate · cuota ~1,39 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "England: League One",
@@ -756,15 +762,17 @@
    "liga": "England: League Two",
    "local": "Grimsby",
    "visitante": "York",
-   "tendencia": "★★★ Grimsby o empate · cuota ~1,37",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Grimsby o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "England: League Two",
    "local": "Port Vale",
    "visitante": "Rochdale",
-   "tendencia": "★★★ Port Vale o empate · cuota ~1,16",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Port Vale o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "England: League Two",
@@ -812,15 +820,17 @@
    "liga": "Estonia: Meistriliiga",
    "local": "Vaprus",
    "visitante": "Paide",
-   "tendencia": "★★★ Gana Paide · cuota 1,67",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana Paide · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
    "local": "Tammeka",
    "visitante": "Laagri",
-   "tendencia": "★★★ Tammeka o empate · cuota ~1,36",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Tammeka o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
@@ -1027,8 +1037,9 @@
    "liga": "Lithuania: A Lyga",
    "local": "Panevėžys",
    "visitante": "TransINVEST Vilnius",
-   "tendencia": "★★★ TransINVEST Vilnius o empate · cuota ~1,25",
-   "inicio": "2026-10-31T12:15:00+00:00"
+   "tendencia": "★★★ TransINVEST Vilnius o empate · cuota ~1,25 · ✗ fallado",
+   "inicio": "2026-10-31T12:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Lithuania: A Lyga",
@@ -1203,8 +1214,9 @@
    "liga": "Russia: Premier League",
    "local": "Rubin",
    "visitante": "Fakel",
-   "tendencia": "★★★ Rubin o empate · cuota ~1,23",
-   "inicio": "2026-10-31T12:15:00+00:00"
+   "tendencia": "★★★ Rubin o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-31T12:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Russia: Premier League",
@@ -1351,8 +1363,9 @@
    "liga": "Sweden: Superettan",
    "local": "IFK Norrkoping",
    "visitante": "Ostersunds FK",
-   "tendencia": "★★★ IFK Norrkoping o empate · cuota ~1,38",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ IFK Norrkoping o empate · cuota ~1,38 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Sweden: Superettan",
@@ -1452,8 +1465,9 @@
    "liga": "Wales: Premier League",
    "local": "Cardiff MET",
    "visitante": "Penybont",
-   "tendencia": "★★★ Penybont o empate · cuota ~1,15",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Penybont o empate · cuota ~1,15 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 5"
   },
   {
    "liga": "Wales: Premier League",
@@ -1599,8 +1613,9 @@
    "liga": "Bulgaria: Second League",
    "local": "Nesebar",
    "visitante": "Chernomorets 1919 Burgas",
-   "tendencia": "★★★ Chernomorets 1919 Burgas o empate · cuota ~1,26",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Chernomorets 1919 Burgas o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Chile: Primera División",
@@ -1643,15 +1658,17 @@
    "liga": "Denmark: 1. Division",
    "local": "Kolding IF",
    "visitante": "HB Koge",
-   "tendencia": "★★★ Kolding IF o empate · cuota ~1,35",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Kolding IF o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Denmark: 1. Division",
    "local": "FC Fredericia",
    "visitante": "AB Copenhagen",
-   "tendencia": "★★★ Gana FC Fredericia · cuota 1,44",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana FC Fredericia · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Denmark: 1. Division",
@@ -1692,15 +1709,17 @@
    "liga": "England: National League",
    "local": "FC Halifax Town",
    "visitante": "Yeovil Town",
-   "tendencia": "★★★ FC Halifax Town o empate · cuota ~1,31",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ FC Halifax Town o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: National League",
    "local": "Forest Green",
    "visitante": "Harrogate Town",
-   "tendencia": "★★★ Harrogate Town o empate · cuota ~1,38",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Harrogate Town o empate · cuota ~1,38 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "England: National League",
@@ -1895,22 +1914,25 @@
    "liga": "Germany: 2. Bundesliga",
    "local": "SV Darmstadt 98",
    "visitante": "1. FC Magdeburg",
-   "tendencia": "★★★ 1. FC Magdeburg o empate · cuota ~1,38",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ 1. FC Magdeburg o empate · cuota ~1,38 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Germany: 2. Bundesliga",
    "local": "1. FC Kaiserslautern",
    "visitante": "Hertha BSC",
-   "tendencia": "★★★ Hertha BSC o empate · cuota ~1,41",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Hertha BSC o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Germany: 2. Bundesliga",
    "local": "VfL Wolfsburg",
    "visitante": "VfL Osnabrück",
-   "tendencia": "★★★ Gana VfL Wolfsburg · cuota 1,53",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana VfL Wolfsburg · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Germany: 2. Bundesliga",
@@ -1986,8 +2008,9 @@
    "liga": "Hungary: NB II",
    "local": "BVSC",
    "visitante": "Csakvar",
-   "tendencia": "★★★ Gana BVSC · cuota 1,44",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana BVSC · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Hungary: NB II",
@@ -2098,8 +2121,9 @@
    "liga": "Lithuania: 1 Lyga",
    "local": "Minija",
    "visitante": "Atmosfera",
-   "tendencia": "★★★ Gana Minija · cuota 1,31",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Minija · cuota 1,31 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Mexico: Liga de Expansión MX",
@@ -2177,8 +2201,9 @@
    "liga": "Poland: II Liga - East",
    "local": "Hutnik Kraków",
    "visitante": "Rekord Bielsko-Biała",
-   "tendencia": "★★★ Hutnik Kraków o empate · cuota ~1,29",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Hutnik Kraków o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Poland: II Liga - East",
@@ -2381,15 +2406,17 @@
    "liga": "Sweden: Ettan - Södra",
    "local": "Angelholms FF",
    "visitante": "Tvååker",
-   "tendencia": "★★★ Angelholms FF o empate · cuota ~1,22",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Angelholms FF o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Sweden: Ettan - Södra",
    "local": "Kristianstad",
    "visitante": "Eskilsminne",
-   "tendencia": "★★★ Kristianstad o empate · cuota ~1,28",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Kristianstad o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Sweden: Ettan - Södra",
@@ -2558,8 +2585,9 @@
    "liga": "Bosnia: Premijer Liga",
    "local": "Radnik Bijeljina",
    "visitante": "Siroki Brijeg",
-   "tendencia": "★★★ Radnik Bijeljina o empate · cuota ~1,16",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Radnik Bijeljina o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Bosnia: Premijer Liga",
@@ -2586,8 +2614,9 @@
    "liga": "England: League One",
    "local": "Bradford",
    "visitante": "Huddersfield",
-   "tendencia": "★★★ Huddersfield o empate · cuota ~1,42",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Huddersfield o empate · cuota ~1,42 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Georgia: Erovnuli Liga",
@@ -2637,8 +2666,9 @@
    "liga": "Indonesia: Liga 1",
    "local": "Dewa United",
    "visitante": "Persija",
-   "tendencia": "★★★ Persija o empate · cuota ~1,31",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Persija o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Kazakhstan: Premier League",
@@ -2822,8 +2852,9 @@
    "liga": "Thailand: Thai League 1",
    "local": "Bangkok United",
    "visitante": "Uthai Thani",
-   "tendencia": "★★★ Gana Bangkok United · cuota 1,62",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Bangkok United · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -2885,15 +2916,17 @@
    "liga": "Uzbekistan: Super League",
    "local": "Mash'al",
    "visitante": "Dinamo Samarqand",
-   "tendencia": "★★★ Gana Dinamo Samarqand · cuota 1,42",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Dinamo Samarqand · cuota 1,42 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Uzbekistan: Super League",
    "local": "Surkhon",
    "visitante": "Nasaf",
-   "tendencia": "★★★ Nasaf o empate · cuota ~1,18",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Nasaf o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Uzbekistan: Super League",
@@ -3032,8 +3065,9 @@
    "liga": "Belarus: 1. Division",
    "local": "Uni Minsk",
    "visitante": "Lida",
-   "tendencia": "★★★ Lida o empate · cuota ~1,26",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Lida o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Belgium: Challenger Pro League",
@@ -3283,22 +3317,25 @@
    "liga": "Cyprus: 2. Division",
    "local": "Ethnikos Achna",
    "visitante": "Halkanoras",
-   "tendencia": "★★★ Gana Ethnikos Achna · cuota 1,45",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana Ethnikos Achna · cuota 1,45 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Cyprus: 2. Division",
    "local": "Spartakos Kitiou",
    "visitante": "Ayia Napa",
-   "tendencia": "★★★ Gana Spartakos Kitiou · cuota 1,48",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana Spartakos Kitiou · cuota 1,48 · ✗ fallado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Cyprus: 2. Division",
    "local": "PAEEK",
    "visitante": "APEA",
-   "tendencia": "★★★ Gana PAEEK · cuota 1,40",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana PAEEK · cuota 1,40 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Cyprus: 2. Division",
@@ -3346,15 +3383,17 @@
    "liga": "Denmark: 3. Division",
    "local": "Holbæk B&I",
    "visitante": "Vanløse",
-   "tendencia": "★★★ Holbæk B&I o empate · cuota ~1,18",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Holbæk B&I o empate · cuota ~1,18 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Denmark: 3. Division",
    "local": "Ishøj",
    "visitante": "Holstebro",
-   "tendencia": "★★★ Gana Ishøj · cuota 1,67",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Ishøj · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Denmark: 3. Division",
@@ -3475,8 +3514,9 @@
    "liga": "Indonesia: Liga 2",
    "local": "Persela Lamongan",
    "visitante": "Persipura Jayapura",
-   "tendencia": "★★★ Persela Lamongan o empate · cuota ~1,28",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Persela Lamongan o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Iraq: Iraqi League",
@@ -3569,15 +3609,17 @@
    "liga": "Kosovo: Superliga",
    "local": "Llapi",
    "visitante": "Prishtina",
-   "tendencia": "★★★ Gana Prishtina · cuota 1,67",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Prishtina · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Kosovo: Superliga",
    "local": "Drita",
    "visitante": "Vushtrria",
-   "tendencia": "★★★ Gana Drita · cuota 1,12",
-   "inicio": "2026-10-31T17:00:00+00:00"
+   "tendencia": "★★★ Gana Drita · cuota 1,12 · ✓ acertado",
+   "inicio": "2026-10-31T17:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Kuwait: Premier League",
@@ -3597,8 +3639,9 @@
    "liga": "Lebanon: Premier League",
    "local": "Al Akhaa Al Ahli",
    "visitante": "Al Ansar",
-   "tendencia": "★★★ Gana Al Ansar · cuota 1,25",
-   "inicio": "2026-10-31T12:15:00+00:00"
+   "tendencia": "★★★ Gana Al Ansar · cuota 1,25 · ✗ fallado",
+   "inicio": "2026-10-31T12:15:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Lebanon: Premier League",
@@ -3667,8 +3710,9 @@
    "liga": "Montenegro: Second League",
    "local": "Mogren",
    "visitante": "Zeta",
-   "tendencia": "★★★ Zeta o empate · cuota ~1,36",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Zeta o empate · cuota ~1,36 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Northern-Ireland: Championship",
@@ -3702,8 +3746,9 @@
    "liga": "Norway: 2. Division - Group 2",
    "local": "Grorud",
    "visitante": "Ull/Kisa",
-   "tendencia": "★★★ Gana Grorud · cuota 1,20",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Grorud · cuota 1,20 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Norway: 2. Division - Group 2",
@@ -3716,15 +3761,17 @@
    "liga": "Norway: 2. Division - Group 2",
    "local": "Lørenskog",
    "visitante": "Follo",
-   "tendencia": "★★★ Follo o empate · cuota ~1,26",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Follo o empate · cuota ~1,26 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Norway: 2. Division - Group 2",
    "local": "Skeid",
    "visitante": "Stjørdals-Blink",
-   "tendencia": "★★★ Skeid o empate · cuota ~1,23",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Skeid o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Norway: 2. Division - Group 2",
@@ -3737,15 +3784,17 @@
    "liga": "Norway: 2. Division - Group 2",
    "local": "Trygg/Lade",
    "visitante": "Rana",
-   "tendencia": "★★★ Rana o empate · cuota ~1,43",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Rana o empate · cuota ~1,43 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Norway: 3. Division - Girone 1",
    "local": "Bærum",
    "visitante": "Frigg",
-   "tendencia": "★★★ Gana Bærum · cuota 1,38",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Bærum · cuota 1,38 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "4 - 4"
   },
   {
    "liga": "Peru: Segunda División",
@@ -3758,8 +3807,9 @@
    "liga": "Poland: III Liga - Group 4",
    "local": "Busko-Zdroj",
    "visitante": "Chełmianka Chełm",
-   "tendencia": "★★★ Gana Chełmianka Chełm · cuota 1,30",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Gana Chełmianka Chełm · cuota 1,30 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Poland: III Liga - Group 4",
@@ -3912,22 +3962,25 @@
    "liga": "Slovakia: 2. liga",
    "local": "Humenné",
    "visitante": "Malženice",
-   "tendencia": "★★★ Malženice o empate · cuota ~1,41",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Malženice o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Slovakia: 2. liga",
    "local": "Inter Bratislava",
    "visitante": "Baník Lehota p.Vtáčnikom",
-   "tendencia": "★★★ Gana Inter Bratislava · cuota 1,57",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Inter Bratislava · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Slovakia: 2. liga",
    "local": "Lokomotíva Zvolen",
    "visitante": "MFK Bytča",
-   "tendencia": "★★★ Gana Lokomotíva Zvolen · cuota 1,44",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Gana Lokomotíva Zvolen · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "5 - 0"
   },
   {
    "liga": "Slovakia: 2. liga",
@@ -4089,15 +4142,17 @@
    "liga": "Thailand: Thai League 2",
    "local": "Chainat",
    "visitante": "Kasetsart FC",
-   "tendencia": "★★★ Chainat o empate · cuota ~1,18",
-   "inicio": "2026-10-31T12:00:00+00:00"
+   "tendencia": "★★★ Chainat o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T12:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Thailand: Thai League 2",
    "local": "Muang Loei United",
    "visitante": "Muangthong United",
-   "tendencia": "★★★ Muangthong United o empate · cuota ~1,32",
-   "inicio": "2026-10-31T12:30:00+00:00"
+   "tendencia": "★★★ Muangthong United o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-10-31T12:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Turkey: 2. Lig",
@@ -4118,8 +4173,9 @@
    "liga": "United-Arab-Emirates: Division 1",
    "local": "Al Hamriyah",
    "visitante": "Gulf United",
-   "tendencia": "★★★ Al Hamriyah o empate · cuota ~1,22",
-   "inicio": "2026-10-31T12:55:00+00:00"
+   "tendencia": "★★★ Al Hamriyah o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T12:55:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Uruguay: Segunda División",
