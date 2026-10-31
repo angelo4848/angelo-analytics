@@ -1618,15 +1618,17 @@
    "liga": "Czech-Republic: 3. liga - CFL B",
    "local": "Chrudim",
    "visitante": "Velké Hamry",
-   "tendencia": "★★★ Gana Chrudim · cuota 1,50",
-   "inicio": "2026-10-31T09:15:00+00:00"
+   "tendencia": "★★★ Gana Chrudim · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-10-31T09:15:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL B",
    "local": "Horní Ředice",
    "visitante": "Neratovice-Byškovice",
-   "tendencia": "★★★ Neratovice-Byškovice o empate · cuota ~1,24",
-   "inicio": "2026-10-31T09:15:00+00:00"
+   "tendencia": "★★★ Neratovice-Byškovice o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-10-31T09:15:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Denmark: 1. Division",
@@ -2213,36 +2215,41 @@
    "liga": "Romania: Liga II",
    "local": "Cetatea Suceava",
    "visitante": "Bihor Oradea",
-   "tendencia": "★★★ Cetatea Suceava o empate · cuota ~1,34",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Cetatea Suceava o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Dumbrăviţa",
    "visitante": "FC Politehnica Timisoara",
-   "tendencia": "★★★ Gana FC Politehnica Timisoara · cuota 1,50",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Gana FC Politehnica Timisoara · cuota 1,50 · ✗ fallado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Romania: Liga II",
    "local": "ASA Targu Mures",
    "visitante": "Unirea Slobozia",
-   "tendencia": "★★★ ASA Targu Mures o empate · cuota ~1,27",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ ASA Targu Mures o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Popești-Leordeni",
    "visitante": "Metalul Buzău",
-   "tendencia": "★★★ Popești-Leordeni o empate · cuota ~1,36",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Popești-Leordeni o empate · cuota ~1,36 · ✗ fallado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Ştefăneşti",
    "visitante": "Chindia Targoviste",
-   "tendencia": "★★★ Gana Chindia Targoviste · cuota 1,47",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Gana Chindia Targoviste · cuota 1,47 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Romania: Liga II",
@@ -2664,8 +2671,9 @@
    "liga": "Malaysia: Super League",
    "local": "Sabah FA",
    "visitante": "Terengganu",
-   "tendencia": "★★★ Sabah FA o empate · cuota ~1,41",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Sabah FA o empate · cuota ~1,41 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Malta: Premier League",
@@ -3533,8 +3541,9 @@
    "liga": "Japan: J3 League",
    "local": "Kagoshima United",
    "visitante": "Roasso Kumamoto",
-   "tendencia": "★★★ Kagoshima United o empate · cuota ~1,20",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ Kagoshima United o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Kosovo: Superliga",
@@ -3792,15 +3801,17 @@
    "liga": "Romania: Liga II",
    "local": "CSM Ramnicu Valcea",
    "visitante": "CS Afumati",
-   "tendencia": "★★★ CS Afumati o empate · cuota ~1,37",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ CS Afumati o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Romania: Liga II",
    "local": "CSM Satu Mare",
    "visitante": "Viitorul Şelimbăr",
-   "tendencia": "★★★ CSM Satu Mare o empate · cuota ~1,19",
-   "inicio": "2026-10-31T09:00:00+00:00"
+   "tendencia": "★★★ CSM Satu Mare o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-31T09:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Russia: First League",
@@ -4072,8 +4083,9 @@
    "liga": "Ukraine: Persha Liga",
    "local": "Lokomotiv Kyiv",
    "visitante": "Inhulets",
-   "tendencia": "★★★ Lokomotiv Kyiv o empate · cuota ~1,18",
-   "inicio": "2026-10-31T09:30:00+00:00"
+   "tendencia": "★★★ Lokomotiv Kyiv o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-10-31T09:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "United-Arab-Emirates: Division 1",
