@@ -433,8 +433,9 @@
    "liga": "Australia: A-League",
    "local": "Melbourne City",
    "visitante": "Sydney",
-   "tendencia": "★★★ Melbourne City o empate · cuota ~1,29",
-   "inicio": "2026-10-31T06:00:00+00:00"
+   "tendencia": "★★★ Melbourne City o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-31T06:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Austria: Bundesliga",
@@ -916,15 +917,17 @@
    "liga": "Japan: J1 League",
    "local": "Kashima",
    "visitante": "Cerezo Osaka",
-   "tendencia": "★★★ Kashima o empate · cuota ~1,19",
-   "inicio": "2026-10-31T06:00:00+00:00"
+   "tendencia": "★★★ Kashima o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-10-31T06:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Japan: J1 League",
    "local": "Vissel Kobe",
    "visitante": "Nagoya Grampus",
-   "tendencia": "★★★ Vissel Kobe o empate · cuota ~1,22",
-   "inicio": "2026-10-31T06:00:00+00:00"
+   "tendencia": "★★★ Vissel Kobe o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T06:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Japan: J1 League",
@@ -3086,57 +3089,65 @@
    "liga": "China: League One",
    "local": "Heilongjiang Lava Spring",
    "visitante": "Shenzhen Juniors",
-   "tendencia": "★★★ Heilongjiang Lava Spring o empate · cuota ~1,35",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Heilongjiang Lava Spring o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "China: League One",
    "local": "Guangxi Hengchen",
    "visitante": "Wuxi Wugou",
-   "tendencia": "★★★ Gana Guangxi Hengchen · cuota 1,57",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Gana Guangxi Hengchen · cuota 1,57 · ✗ fallado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "China: League One",
    "local": "Meizhou Kejia",
    "visitante": "Shaanxi Union",
-   "tendencia": "★★★ Gana Shaanxi Union · cuota 1,48",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Gana Shaanxi Union · cuota 1,48 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "China: League One",
    "local": "Nanjing City",
    "visitante": "Dalian Huayi",
-   "tendencia": "★★★ Gana Nanjing City · cuota 1,33",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Gana Nanjing City · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "China: League One",
    "local": "Hebei Kungfu",
    "visitante": "Guangzhou E-Power",
-   "tendencia": "★★★ Guangzhou E-Power o empate · cuota ~1,25",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Guangzhou E-Power o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "China: League One",
    "local": "Suzhou Dongwu",
    "visitante": "Yanbian Longding",
-   "tendencia": "★★★ Suzhou Dongwu o empate · cuota ~1,16",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Suzhou Dongwu o empate · cuota ~1,16 · ✗ fallado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "China: League One",
    "local": "Dongguan United",
    "visitante": "Ningbo Professional",
-   "tendencia": "★★★ Gana Ningbo Professional · cuota 1,57",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Gana Ningbo Professional · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "China: League Two",
    "local": "Dalian Yingbo B",
    "visitante": "Guangdong Mingtu",
-   "tendencia": "★★★ Dalian Yingbo B o empate · cuota ~1,28",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Dalian Yingbo B o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "China: League Two",
@@ -3149,22 +3160,25 @@
    "liga": "China: League Two",
    "local": "Guangzhou Dandelion",
    "visitante": "Changchun Xidu",
-   "tendencia": "★★★ Guangzhou Dandelion o empate · cuota ~1,12",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Guangzhou Dandelion o empate · cuota ~1,12 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "China: League Two",
    "local": "Rizhao Yuqi",
    "visitante": "Hubei Chufeng Heli",
-   "tendencia": "★★★ Rizhao Yuqi o empate · cuota ~1,22",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Rizhao Yuqi o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "China: League Two",
    "local": "Yichun Grand Tiger",
    "visitante": "Shanghai Second",
-   "tendencia": "★★★ Gana Yichun Grand Tiger · cuota 1,45",
-   "inicio": "2026-10-31T06:30:00+00:00"
+   "tendencia": "★★★ Gana Yichun Grand Tiger · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-10-31T06:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Croatia: First NL",
@@ -3457,8 +3471,9 @@
    "liga": "Japan: J3 League",
    "local": "Renofa Yamaguchi",
    "visitante": "Kitakyushu",
-   "tendencia": "★★★ Gana Renofa Yamaguchi · cuota 1,53",
-   "inicio": "2026-10-31T06:05:00+00:00"
+   "tendencia": "★★★ Gana Renofa Yamaguchi · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-10-31T06:05:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Japan: J3 League",
