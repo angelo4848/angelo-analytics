@@ -154,6 +154,41 @@ def candidates():
     return out
 
 
+def prealerts():
+    """Partidos de ligas de pocos goles en el minuto 5-12 y 0-0 (aviso para vigilar)."""
+    now = dt.datetime.now(dt.timezone.utc)
+    out = []
+    try:
+        data = get('https://site.api.espn.com/apis/site/v2/sports/soccer/all/'
+                   f'scoreboard?dates={now.strftime("%Y%m%d")}&limit=500')
+    except Exception:
+        return out
+    for e in data.get('events', []):
+        m = re.search(r'~l:(\d+)~', e.get('uid', ''))
+        lid = int(m.group(1)) if m else None
+        if lid not in LOW:
+            continue
+        c = e['competitions'][0]
+        st = c['status']
+        mn = minute(st.get('displayClock'))
+        if st['type'].get('state') != 'in' or st.get('period') != 1 or mn is None or not (5 <= mn <= 12):
+            continue
+        t = c['competitors']
+        if any(x.get('score') != '0' for x in t):
+            continue
+        home = next(x for x in t if x.get('homeAway') == 'home')
+        away = next(x for x in t if x.get('homeAway') == 'away')
+        out.append({'id': 'pre' + e['id'], 'liga': LOW[lid], 'local': home['team']['displayName'],
+                    'visit': away['team']['displayName'], 'min': mn})
+    return out
+
+
+def premessage(p):
+    return (f"👀 <b>PARTIDO A VIGILAR</b> · liga de pocos goles\n\n⚽ <b>{p['local']} – {p['visit']}</b>\n"
+            f"🏆 {p['liga']}\n⏱️ Minuto {p['min']} · 0-0\n\n"
+            f"Candidato al Filtro 2 (−0,5 1.ª parte). Si sigue 0-0 y cerrado, te aviso en el 25'.")
+
+
 def message(p):
     warn = ''
     if max(p['co']) >= 5:
@@ -202,6 +237,13 @@ def main():
         return
     loops = int(os.environ.get('BOT_LOOPS', '5'))
     for i in range(loops):
+        for p in prealerts():
+            if p['id'] not in state['sent']:
+                try:
+                    send(cid, premessage(p))
+                    state['sent'][p['id']] = time.time()
+                except Exception as e:
+                    print('Telegram error:', e)
         for p in candidates():
             if p['id'] in state['sent']:
                 continue

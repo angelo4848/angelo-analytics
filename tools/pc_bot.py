@@ -327,6 +327,17 @@ def scan(state, cid):
         is_med = uid in MED_SOFA
         hs, as_ = e['homeScore'].get('current', 0), e['awayScore'].get('current', 0)
         tipo = None
+        if status == '1st half' and 5 <= mn <= 12 and hs == 0 and as_ == 0 and is_low:
+            key = f"pre:{e['id']}"
+            if key not in state['sent']:
+                send(cid, f"👀 <b>PARTIDO A VIGILAR</b> · liga de pocos goles\n\n"
+                          f"⚽ <b>{e['homeTeam']['name']} – {e['awayTeam']['name']}</b>\n🏆 {liga}\n"
+                          f"⏱️ Minuto {mn} · 0-0\n\n"
+                          f"Candidato al Filtro 2 (−0,5 1.ª parte). Si sigue 0-0 y cerrado, te aviso en el 25'.\n"
+                          f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
+                state['sent'][key] = now
+                print(datetime.now().strftime('%H:%M'), 'AVISO 5\'', e['homeTeam']['name'], '-', e['awayTeam']['name'])
+            continue
         if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and (is_low or is_med):
             tipo = 'f2'
         elif status == '1st half' and 15 <= mn <= 40 and hs == 0 and as_ == 0:  # apuesta: −0,5 1.ª parte
@@ -398,6 +409,10 @@ def espn_mode(state, cid):
     sent = state.setdefault('espn_sent', {})
     while True:
         try:
+            for p in live_bot.prealerts():
+                if p['id'] not in sent:
+                    send(cid, live_bot.premessage(p))
+                    sent[p['id']] = time.time()
             for p in live_bot.candidates():
                 if str(p['id']) in sent:
                     continue
