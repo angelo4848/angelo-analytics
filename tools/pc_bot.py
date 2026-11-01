@@ -106,6 +106,9 @@ MED_SOFA = {11653: 'Liga de Primera 🇨🇱', 11541: 'Primera División 🇵�
             18: 'Championship 🏴', 8: 'LaLiga 🇪🇸', 23: 'Serie A 🇮🇹', 34: 'Ligue 1 🇫🇷',
             52: 'Süper Lig 🇹🇷', 17: 'Premier League 🏴', 11621: 'Liga MX 🇲🇽', 11620: 'Liga MX 🇲🇽',
             24: 'League One 🏴', 196: 'J1 League 🇯🇵', 410: 'K League 1 🇰🇷'}
+# Ligas serias para "favorito en vivo" (además de LOW_SOFA y MED_SOFA)
+FAV_EXTRA = {35, 44, 37, 131, 38, 36, 45, 215, 39, 20, 40, 325, 242, 955, 649, 218, 172, 202, 170,
+             210, 136, 266, 187, 211, 41, 345, 46, 219, 325, 1, 7, 679, 17015, 384, 480}
 LOW_NAME = re.compile(r'China League (One|Two|1|2)|CFA (?!Women)|Second League', re.I)
 EXCLUDE = re.compile(r'women|femen|\(W\)|\bU-?1\d|\bU-?2[0-3]|reserve|youth|amateur|friendly|'
                      r'esports|\bII\b|\bB$', re.I)
@@ -192,8 +195,8 @@ def favorito(e, mn, st, od, liga):
             continue
         sot = [num(x) for x in st.get('shotsOnGoal', (0, 0))]
         xg = [num(x) for x in st.get('expectedGoals', (0, 0))]
-        if not st or sot[idx] < sot[1 - idx]:
-            continue
+        if 'shotsOnGoal' not in st or sot[idx] < 2 or sot[idx] <= sot[1 - idx]:
+            continue  # el favorito tiene que estar dominando de verdad
         if 'expectedGoals' in st and xg[idx] < xg[1 - idx]:
             continue
         team = e[side + 'Team']['name']
@@ -281,7 +284,8 @@ def scan(state, cid):
         tipo = None
         if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and (is_low or is_med):
             tipo = 'f2'
-        elif status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_:
+        elif (status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_
+              and (uid in LOW_SOFA or uid in MED_SOFA or uid in FAV_EXTRA)):
             tipo = 'fav'
         else:
             continue
@@ -298,7 +302,8 @@ def scan(state, cid):
             continue
         msg = filtro2(e, mn, st, od, liga, strict=is_med and not is_low) if tipo == 'f2' else favorito(e, mn, st, od, liga)
         if msg:
-            deliver(cid, msg)
+            cm = re.search(r'cuota ≈ ([\d.]+)', msg)
+            deliver(cid, msg, float(cm.group(1)) if cm else None)
             state['sent'][key] = now
             print(datetime.now().strftime('%H:%M'), 'ENVIADO', tipo, e['homeTeam']['name'], '-', e['awayTeam']['name'])
         time.sleep(0.4)
