@@ -144,6 +144,8 @@ def odds(eid):
             res['live'] = {k: v[0] for k, v in ch.items()}
         elif name == '1st half' and live:
             res['ht'] = {k: v[0] for k, v in ch.items()}
+        elif name == 'Double chance' and live:
+            res['dc'] = {k: v[0] for k, v in ch.items()}
     if 'pre' not in res and 'live' in res:  # sin mercado previo: usa la cuota inicial
         for m in d.get('markets', []):
             if m.get('marketName') == 'Full time':
@@ -200,12 +202,14 @@ def favorito(e, mn, st, od, liga):
         if 'expectedGoals' in st and xg[idx] < xg[1 - idx]:
             continue
         team = e[side + 'Team']['name']
+        dc = (od.get('dc') or {}).get('1X' if key == '1' else 'X2')
+        dcl = f"\n🛡️ Doble oportunidad ({team} o empate) ≈ <b>{dc:.2f}</b>" if dc else ''
         xgl = f"\n📈 xG: {xg[0]:.2f}-{xg[1]:.2f}" if 'expectedGoals' in st else ''
         return (f"⭐ <b>FAVORITO EN VIVO</b> · 🖥️ PC\n\n⚽ <b>{e['homeTeam']['name']} – {e['awayTeam']['name']}</b>\n"
                 f"🏆 {liga}\n⏱️ Minuto {mn} · {hs}-{as_}\n\n"
                 f"📊 Antes del partido {team} pagaba <b>{p:.2f}</b>; ahora paga <b>{l:.2f}</b>\n"
                 f"🎯 Tiros a puerta: {sot[0]:.0f}-{sot[1]:.0f}{xgl}\n\n"
-                f"✅ <b>Victoria {team}</b> · cuota ≈ {l:.2f}\n💶 Stake 10 € · revisa la cuota en BetLabel\n"
+                f"✅ <b>Victoria {team}</b> · cuota ≈ {l:.2f}{dcl}\n💶 Stake 10 € · revisa la cuota en BetLabel\n"
                 f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
     return None
 
