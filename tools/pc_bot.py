@@ -372,6 +372,9 @@ def main():
     print(f"Python {platform.python_version()} {struct.calcsize('P') * 8} bits · Windows {platform.machine()} · "
           f"curl_cffi: {'SI' if 'cr' in globals() else 'NO'} · truststore: {'SI' if 'truststore' in sys.modules else 'NO'}")
     print('Bot del PC en marcha. Deja esta ventana abierta. (Ctrl+C para parar)')
+    if sget('/sport/football/events/live') is None:
+        espn_mode(state, cid)
+        return
     while True:
         try:
             scan(state, cid)
@@ -383,6 +386,32 @@ def main():
         except Exception as ex:
             print('Error:', ex)
         time.sleep(60)
+
+def espn_mode(state, cid):
+    """Si SofaScore no funciona en este PC (p. ej. Windows de 32 bits), usa ESPN como el bot de GitHub."""
+    import live_bot
+    live_bot.TOKEN = CFG['TELEGRAM_TOKEN']
+    live_bot.API = f"https://api.telegram.org/bot{CFG['TELEGRAM_TOKEN']}/"
+    print('SofaScore no disponible en este PC -> MODO ESPN (Filtro 2 en ligas principales)')
+    send(cid, '🖥️ <b>Bot del PC en modo ESPN</b>\nSofaScore no funciona en este equipo; vigilo el Filtro 2 '
+              'con ESPN cada minuto (ligas principales).')
+    sent = state.setdefault('espn_sent', {})
+    while True:
+        try:
+            for p in live_bot.candidates():
+                if str(p['id']) in sent:
+                    continue
+                live_bot.deliver(cid, p)
+                sent[str(p['id'])] = time.time()
+                print(datetime.now().strftime('%H:%M'), 'ENVIADO (ESPN)', p['local'], '-', p['visit'], p['min'])
+            for _ in range(6):
+                replies(state, cid)
+                save_state(state)
+                time.sleep(10)
+        except Exception as ex:
+            print('Error:', ex)
+            time.sleep(60)
+
 
 if __name__ == '__main__':
     main()
