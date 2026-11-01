@@ -562,8 +562,9 @@
    "liga": "France: Ligue 1",
    "local": "Strasbourg",
    "visitante": "Auxerre",
-   "tendencia": "★★★ Strasbourg o empate · cuota ~1,22",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Strasbourg o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "France: Ligue 1",
@@ -606,15 +607,17 @@
    "liga": "Italy: Serie A",
    "local": "Frosinone",
    "visitante": "Torino",
-   "tendencia": "★★★ Frosinone o empate · cuota ~1,34",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Frosinone o empate · cuota ~1,34 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Serie A",
    "local": "Lazio",
    "visitante": "Cagliari",
-   "tendencia": "★★★ Gana Lazio · cuota 1,44",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Gana Lazio · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Italy: Serie A",
@@ -760,8 +763,9 @@
    "liga": "Belarus: Premier League",
    "local": "Torpedo Zhodino",
    "visitante": "Belshina",
-   "tendencia": "★★★ Torpedo Zhodino o empate · cuota ~1,25",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Torpedo Zhodino o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Belarus: Premier League",
@@ -811,8 +815,9 @@
    "liga": "Bosnia: Premijer Liga",
    "local": "Sloga Doboj",
    "visitante": "Velež",
-   "tendencia": "★★★ Sloga Doboj o empate · cuota ~1,23",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Sloga Doboj o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Costa-Rica: Primera División",
@@ -839,8 +844,9 @@
    "liga": "Croatia: HNL",
    "local": "HNK Rijeka",
    "visitante": "NK Varazdin",
-   "tendencia": "★★★ HNK Rijeka o empate · cuota ~1,14",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ HNK Rijeka o empate · cuota ~1,14 · ✗ fallado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Cyprus: 1. Division",
@@ -875,8 +881,9 @@
    "liga": "Czech-Republic: Czech Liga",
    "local": "Baník Ostrava",
    "visitante": "Plzen",
-   "tendencia": "★★★ Plzen o empate · cuota ~1,30",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Plzen o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Czech-Republic: Czech Liga",
@@ -919,8 +926,9 @@
    "liga": "England: League One",
    "local": "Sheffield Wednesday",
    "visitante": "Blackpool",
-   "tendencia": "★★★ Sheffield Wednesday o empate · cuota ~1,19",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Sheffield Wednesday o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
@@ -1008,8 +1016,9 @@
    "liga": "India: Indian Super League",
    "local": "Inter Kashi",
    "visitante": "Goa",
-   "tendencia": "★★★ Gana Goa · cuota 1,67",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Gana Goa · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -1297,8 +1306,9 @@
    "liga": "Russia: Premier League",
    "local": "Baltika",
    "visitante": "Akron",
-   "tendencia": "★★★ Baltika o empate · cuota ~1,17",
-   "inicio": "2026-11-01T14:30:00+00:00"
+   "tendencia": "★★★ Baltika o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-11-01T14:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Russia: Premier League",
@@ -1328,8 +1338,9 @@
    "liga": "Serbia: Super Liga",
    "local": "OFK Beograd",
    "visitante": "Vojvodina",
-   "tendencia": "★★★ Vojvodina o empate · cuota ~1,26",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Vojvodina o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Serbia: Super Liga",
@@ -1349,8 +1360,9 @@
    "liga": "Slovakia: Super Liga",
    "local": "Ružomberok",
    "visitante": "Skalica",
-   "tendencia": "★★★ Ružomberok o empate · cuota ~1,27",
-   "inicio": "2026-11-01T14:30:00+00:00"
+   "tendencia": "★★★ Ružomberok o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-11-01T14:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Slovakia: Super Liga",
@@ -1363,8 +1375,9 @@
    "liga": "Slovenia: 1. SNL",
    "local": "Mura",
    "visitante": "Brinje-Grosuplje",
-   "tendencia": "★★★ Mura o empate · cuota ~1,27",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Mura o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Slovenia: 1. SNL",
@@ -1693,8 +1706,9 @@
    "liga": "Czech-Republic: FNL",
    "local": "Prostějov",
    "visitante": "Opava",
-   "tendencia": "★★★ Prostějov o empate · cuota ~1,32",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Prostějov o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Denmark: 1. Division",
@@ -1708,8 +1722,9 @@
    "liga": "Denmark: 1. Division",
    "local": "Aarhus Fremad",
    "visitante": "Hillerød",
-   "tendencia": "★★★ Aarhus Fremad o empate · cuota ~1,27",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Aarhus Fremad o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Denmark: 2. Division",
@@ -1798,8 +1813,9 @@
    "liga": "Germany: Regionalliga - Nord",
    "local": "SSV Jeddeloh",
    "visitante": "Bremer SV",
-   "tendencia": "★★★ SSV Jeddeloh o empate · cuota ~1,20",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ SSV Jeddeloh o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Germany: Regionalliga - Nordost",
@@ -2018,15 +2034,17 @@
    "liga": "Italy: Serie D - Girone A",
    "local": "Sanremese",
    "visitante": "Imperia",
-   "tendencia": "★★★ Sanremese o empate · cuota ~1,25",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Sanremese o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone B",
    "local": "Rovato Vertovese",
    "visitante": "Caldiero Terme",
-   "tendencia": "★★★ Caldiero Terme o empate · cuota ~1,28",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Caldiero Terme o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone B",
@@ -2040,8 +2058,9 @@
    "liga": "Italy: Serie D - Girone C",
    "local": "Brian Lignano",
    "visitante": "Campodarsego",
-   "tendencia": "★★★ Campodarsego o empate · cuota ~1,23",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Campodarsego o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Italy: Serie D - Girone C",
@@ -2055,8 +2074,9 @@
    "liga": "Italy: Serie D - Girone C",
    "local": "Luparense",
    "visitante": "Calvi Noale",
-   "tendencia": "★★★ Gana Luparense · cuota 1,45",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Gana Luparense · cuota 1,45 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Italy: Serie D - Girone D",
@@ -2102,8 +2122,9 @@
    "liga": "Italy: Serie D - Girone F",
    "local": "Notaresco",
    "visitante": "L'Aquila",
-   "tendencia": "★★★ L'Aquila o empate · cuota ~1,23",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ L'Aquila o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone F",
@@ -2125,15 +2146,17 @@
    "liga": "Italy: Serie D - Girone G",
    "local": "Gelbison",
    "visitante": "Atletico Lodigiani",
-   "tendencia": "★★★ Gana Gelbison · cuota 1,53",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Gana Gelbison · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone G",
    "local": "Trastevere",
    "visitante": "Anzio",
-   "tendencia": "★★★ Trastevere o empate · cuota ~1,14",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Trastevere o empate · cuota ~1,14 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Italy: Serie D - Girone H",
@@ -2147,22 +2170,25 @@
    "liga": "Italy: Serie D - Girone H",
    "local": "USD Palmese",
    "visitante": "Ischia",
-   "tendencia": "★★★ USD Palmese o empate · cuota ~1,23",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ USD Palmese o empate · cuota ~1,23 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Italy: Serie D - Girone H",
    "local": "Fidelis Andria",
    "visitante": "Francavilla",
-   "tendencia": "★★★ Gana Fidelis Andria · cuota 1,57",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Gana Fidelis Andria · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone I",
    "local": "Nissa",
    "visitante": "CastrumFavara",
-   "tendencia": "★★★ Nissa o empate · cuota ~1,24",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Nissa o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Italy: Serie D - Girone I",
@@ -2313,8 +2339,9 @@
    "liga": "Portugal: Segunda Liga",
    "local": "Tondela",
    "visitante": "Felgueiras 1932",
-   "tendencia": "★★★ Tondela o empate · cuota ~1,16",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Tondela o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Romania: Liga II",
@@ -2647,8 +2674,9 @@
    "liga": "Sweden: Ettan - Norra",
    "local": "Piteå",
    "visitante": "Stocksund",
-   "tendencia": "★★★ Gana Piteå · cuota 1,44",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Gana Piteå · cuota 1,44 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "4 - 3"
   },
   {
    "liga": "Sweden: Ettan - Norra",
@@ -2980,8 +3008,9 @@
    "liga": "Malta: Premier League",
    "local": "Floriana",
    "visitante": "Valletta FC",
-   "tendencia": "★★★ Valletta FC o empate · cuota ~1,35",
-   "inicio": "2026-11-01T14:30:00+00:00"
+   "tendencia": "★★★ Valletta FC o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-11-01T14:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Malta: Premier League",
@@ -3134,8 +3163,9 @@
    "liga": "Argentina: Torneo Federal A",
    "local": "Alvarado",
    "visitante": "Sportivo Las Parejas",
-   "tendencia": "★★★ Gana Alvarado · cuota 1,53",
-   "inicio": "2026-11-01T14:30:00+00:00"
+   "tendencia": "★★★ Gana Alvarado · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-11-01T14:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Argentina: Torneo Federal A",
@@ -3477,15 +3507,17 @@
    "liga": "Italy: Serie B",
    "local": "Arezzo",
    "visitante": "Ascoli",
-   "tendencia": "★★★ Ascoli o empate · cuota ~1,28",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Ascoli o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie D - Girone E",
    "local": "Gavorrano",
    "visitante": "Scandicci",
-   "tendencia": "★★★ Gavorrano o empate · cuota ~1,16",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Gavorrano o empate · cuota ~1,16 · ✓ acertado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Italy: Serie D - Girone E",
@@ -3515,8 +3547,9 @@
    "liga": "Italy: Serie D - Girone E",
    "local": "Terranuova Traiana",
    "visitante": "Lucchese",
-   "tendencia": "★★★ Lucchese o empate · cuota ~1,34",
-   "inicio": "2026-11-01T13:30:00+00:00"
+   "tendencia": "★★★ Lucchese o empate · cuota ~1,34 · ✗ fallado",
+   "inicio": "2026-11-01T13:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Kosovo: Superliga",
@@ -3762,22 +3795,25 @@
    "liga": "San-Marino: Campionato",
    "local": "Cosmos",
    "visitante": "Fiorentino",
-   "tendencia": "★★★ Cosmos o empate · cuota ~1,24",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Cosmos o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "San-Marino: Campionato",
    "local": "Folgore",
    "visitante": "Tre Penne",
-   "tendencia": "★★★ Tre Penne o empate · cuota ~1,32",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ Tre Penne o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "San-Marino: Campionato",
    "local": "San Giovanni",
    "visitante": "Faetano",
-   "tendencia": "★★★ San Giovanni o empate · cuota ~1,19",
-   "inicio": "2026-11-01T14:00:00+00:00"
+   "tendencia": "★★★ San Giovanni o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-11-01T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Saudi-Arabia: Division 1",
