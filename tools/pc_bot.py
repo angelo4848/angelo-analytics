@@ -151,7 +151,7 @@ MED_SOFA = {11653: 'Liga de Primera 🇨🇱', 11541: 'Primera División 🇵�
 FAV_EXTRA = {35, 44, 37, 131, 38, 36, 45, 215, 39, 20, 40, 325, 242, 955, 649, 218, 172, 202, 170,
              210, 136, 266, 187, 211, 41, 345, 46, 219, 325, 1, 7, 679, 17015, 384, 480}
 LOW_NAME = re.compile(r'China League (One|Two|1|2)|CFA (?!Women)|Second League', re.I)
-EXCLUDE = re.compile(r'women|femen|\(W\)|\bU-?1\d|\bU-?2[0-3]|reserve|youth|amateur|friendly|'
+EXCLUDE = re.compile(r'women|femen|frauen|vrouwen|NWSL|USL Super League|WE League|Liga F\b|\(W\)|\bU-?1\d|\bU-?2[0-3]|reserve|youth|amateur|friendly|'
                      r'esports|\bII\b|\bB$', re.I)
 
 def frac(v):
