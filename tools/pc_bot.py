@@ -195,8 +195,8 @@ def favorito(e, mn, st, od, liga):
             continue
         sot = [num(x) for x in st.get('shotsOnGoal', (0, 0))]
         xg = [num(x) for x in st.get('expectedGoals', (0, 0))]
-        if 'shotsOnGoal' not in st or sot[idx] < 2 or sot[idx] <= sot[1 - idx]:
-            continue  # el favorito tiene que estar dominando de verdad
+        if not st or sot[idx] < sot[1 - idx]:
+            continue
         if 'expectedGoals' in st and xg[idx] < xg[1 - idx]:
             continue
         team = e[side + 'Team']['name']
@@ -284,8 +284,7 @@ def scan(state, cid):
         tipo = None
         if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and (is_low or is_med):
             tipo = 'f2'
-        elif (status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_
-              and (uid in LOW_SOFA or uid in MED_SOFA or uid in FAV_EXTRA)):
+        elif status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_:
             tipo = 'fav'
         else:
             continue
