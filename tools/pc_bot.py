@@ -13,7 +13,7 @@ Config: crea "bot_config.txt" junto a este archivo con:
     TELEGRAM_TOKEN=tu_token
     TELEGRAM_CHAT_ID=        (opcional; se detecta solo si escribes "hola" al bot)
 """
-import json, os, re, sys, time, urllib.parse, urllib.request
+import json, os, re, sys, time, urllib.error, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:  # usa los certificados de Windows (antivirus/proxy que inspeccionan HTTPS)
     import truststore
@@ -38,7 +38,12 @@ def _urllib_get(path):
     try:
         with urllib.request.urlopen(req, timeout=20) as r:
             return json.load(r)
-    except Exception:
+    except urllib.error.HTTPError as ex:
+        if ex.code != 404:
+            print('  SofaScore HTTP', ex.code, '(bloqueo: hace falta curl_cffi / Python 64 bits)')
+        return None
+    except Exception as ex:
+        print('  SofaScore error:', str(ex)[:120])
         return None
 
 def _windows_ca_bundle():
@@ -363,6 +368,9 @@ def main():
         except Exception:
             state['offset'] = 0
     save_state(state)
+    import platform, struct
+    print(f"Python {platform.python_version()} {struct.calcsize('P') * 8} bits · Windows {platform.machine()} · "
+          f"curl_cffi: {'SI' if 'cr' in globals() else 'NO'} · truststore: {'SI' if 'truststore' in sys.modules else 'NO'}")
     print('Bot del PC en marcha. Deja esta ventana abierta. (Ctrl+C para parar)')
     while True:
         try:
