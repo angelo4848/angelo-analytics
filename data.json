@@ -1037,8 +1037,9 @@
    "liga": "Japan: J1 League",
    "local": "Machida Zelvia",
    "visitante": "Gamba Osaka",
-   "tendencia": "★★★ Machida Zelvia o empate · cuota ~1,18",
-   "inicio": "2026-11-01T07:00:00+00:00"
+   "tendencia": "★★★ Machida Zelvia o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-11-01T07:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Latvia: Virsliga",
@@ -1514,8 +1515,9 @@
    "liga": "Australia: Australian Championship",
    "local": "Bayswater City",
    "visitante": "Oakleigh Cannons",
-   "tendencia": "★★★ Oakleigh Cannons o empate · cuota ~1,22",
-   "inicio": "2026-11-01T07:00:00+00:00"
+   "tendencia": "★★★ Oakleigh Cannons o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-11-01T07:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Belarus: 1. Division",
@@ -3075,15 +3077,17 @@
    "liga": "China: League Two",
    "local": "Dalian Kewei",
    "visitante": "Jiangxi Liansheng",
-   "tendencia": "★★★ Gana Dalian Kewei · cuota 1,38",
-   "inicio": "2026-11-01T06:30:00+00:00"
+   "tendencia": "★★★ Gana Dalian Kewei · cuota 1,38 · ✓ acertado",
+   "inicio": "2026-11-01T06:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "China: League Two",
    "local": "Xi'an Ronghai",
    "visitante": "Langfang Glory City",
-   "tendencia": "★★★ Gana Xi'an Ronghai · cuota 1,30",
-   "inicio": "2026-11-01T06:30:00+00:00"
+   "tendencia": "★★★ Gana Xi'an Ronghai · cuota 1,30 · ✗ fallado",
+   "inicio": "2026-11-01T06:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Costa-Rica: Liga de Ascenso",
