@@ -1347,15 +1347,17 @@
    "liga": "South-Korea: K League 1",
    "local": "FC Seoul",
    "visitante": "Incheon United",
-   "tendencia": "★★★ FC Seoul o empate · cuota ~1,15",
-   "inicio": "2026-11-01T07:30:00+00:00"
+   "tendencia": "★★★ FC Seoul o empate · cuota ~1,15 · ✗ fallado",
+   "inicio": "2026-11-01T07:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "South-Korea: K League 1",
    "local": "FC Anyang",
    "visitante": "Bucheon FC 1995",
-   "tendencia": "★★★ FC Anyang o empate · cuota ~1,18",
-   "inicio": "2026-11-01T07:30:00+00:00"
+   "tendencia": "★★★ FC Anyang o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-11-01T07:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Sweden: Allsvenskan",
@@ -2328,8 +2330,9 @@
    "liga": "South-Korea: K League 2",
    "local": "Cheongju",
    "visitante": "Paju Citizen",
-   "tendencia": "★★★ Cheongju o empate · cuota ~1,28",
-   "inicio": "2026-11-01T07:30:00+00:00"
+   "tendencia": "★★★ Cheongju o empate · cuota ~1,28 · ✗ fallado",
+   "inicio": "2026-11-01T07:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "South-Korea: K League 2",
