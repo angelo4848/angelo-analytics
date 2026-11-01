@@ -995,8 +995,9 @@
    "liga": "Indonesia: Liga 1",
    "local": "PSIM Yogyakarta",
    "visitante": "Pusamania Borneo",
-   "tendencia": "★★★ Pusamania Borneo o empate · cuota ~1,38",
-   "inicio": "2026-11-01T08:30:00+00:00"
+   "tendencia": "★★★ Pusamania Borneo o empate · cuota ~1,38 · ✗ fallado",
+   "inicio": "2026-11-01T08:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -1630,8 +1631,9 @@
    "liga": "Czech-Republic: FNL",
    "local": "Viktoria Žižkov",
    "visitante": "Dukla Praha",
-   "tendencia": "★★★ Dukla Praha o empate · cuota ~1,32",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Dukla Praha o empate · cuota ~1,32 · ✓ acertado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Czech-Republic: FNL",
@@ -2232,8 +2234,9 @@
    "liga": "Romania: Liga II",
    "local": "Slatina",
    "visitante": "Concordia",
-   "tendencia": "★★★ Slatina o empate · cuota ~1,31",
-   "inicio": "2026-11-01T09:00:00+00:00"
+   "tendencia": "★★★ Slatina o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-11-01T09:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Romania: Liga II",
@@ -2800,8 +2803,9 @@
    "liga": "Indonesia: Liga 1",
    "local": "Persib Bandung",
    "visitante": "Isenmulang Kalteng",
-   "tendencia": "★★★ Gana Persib Bandung · cuota 1,15",
-   "inicio": "2026-11-01T08:30:00+00:00"
+   "tendencia": "★★★ Gana Persib Bandung · cuota 1,15 · ✓ acertado",
+   "inicio": "2026-11-01T08:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -2842,8 +2846,9 @@
    "liga": "Malaysia: Super League",
    "local": "Penang",
    "visitante": "Melaka",
-   "tendencia": "★★★ Penang o empate · cuota ~1,31",
-   "inicio": "2026-11-01T08:45:00+00:00"
+   "tendencia": "★★★ Penang o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-11-01T08:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Malta: Premier League",
@@ -3145,8 +3150,9 @@
    "liga": "Czech-Republic: 3. liga - CFL A",
    "local": "Admira Praha",
    "visitante": "Králův Dvůr",
-   "tendencia": "★★★ Králův Dvůr o empate · cuota ~1,31",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Králův Dvůr o empate · cuota ~1,31 · ✓ acertado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "0 - 4"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL B",
@@ -3166,15 +3172,17 @@
    "liga": "Czech-Republic: 3. liga - MSFL",
    "local": "Havířov",
    "visitante": "Hodonín",
-   "tendencia": "★★★ Hodonín o empate · cuota ~1,29",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Hodonín o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Czech-Republic: 3. liga - MSFL",
    "local": "Uničov",
    "visitante": "Blansko",
-   "tendencia": "★★★ Gana Uničov · cuota 1,36",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Gana Uničov · cuota 1,36 · ✗ fallado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Czech-Republic: 3. liga - MSFL",
@@ -3187,8 +3195,9 @@
    "liga": "Czech-Republic: 4. liga - Divizie C",
    "local": "Chlumec nad Cidlinou",
    "visitante": "Ústí nad Orlicí",
-   "tendencia": "★★★ Chlumec nad Cidlinou o empate · cuota ~1,40",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Chlumec nad Cidlinou o empate · cuota ~1,40 · ✓ acertado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Czech-Republic: 4. liga - Divizie D",
@@ -3208,8 +3217,9 @@
    "liga": "Czech-Republic: 4. liga - Divizie E",
    "local": "Slavičín",
    "visitante": "Hluk",
-   "tendencia": "★★★ Gana Slavičín · cuota 1,67",
-   "inicio": "2026-11-01T09:15:00+00:00"
+   "tendencia": "★★★ Gana Slavičín · cuota 1,67 · ✓ acertado",
+   "inicio": "2026-11-01T09:15:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Czech-Republic: 4. liga - Divizie E",
@@ -3292,8 +3302,9 @@
    "liga": "Indonesia: Liga 2",
    "local": "PSIS Semarang",
    "visitante": "Persikad Depok FC",
-   "tendencia": "★★★ Gana PSIS Semarang · cuota 1,53",
-   "inicio": "2026-11-01T08:30:00+00:00"
+   "tendencia": "★★★ Gana PSIS Semarang · cuota 1,53 · ✗ fallado",
+   "inicio": "2026-11-01T08:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
@@ -3957,8 +3968,9 @@
    "liga": "Vietnam: V.League 2",
    "local": "Bóng đá Huế",
    "visitante": "Sanna Khanh Hoa",
-   "tendencia": "★★★ Sanna Khanh Hoa o empate · cuota ~1,25",
-   "inicio": "2026-11-01T08:30:00+00:00"
+   "tendencia": "★★★ Sanna Khanh Hoa o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-11-01T08:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Zambia: Super League",
