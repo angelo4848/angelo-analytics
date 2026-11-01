@@ -218,6 +218,40 @@
      "resultado": "2 - 1"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-01",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.73,
+   "patas": [
+    {
+     "liga": "Serie A",
+     "hora": "11:30",
+     "partido": "Como vs Venezia",
+     "mercado": "Victoria Como",
+     "cuota": 1.3,
+     "estado": "pendiente",
+     "analisis": [
+      "Como juega en casa en el Sinigaglia, donde es muy fuerte esta temporada",
+      "Venezia es de los equipos más flojos de la categoría a domicilio",
+      "Pronóstico ★★★ de alta confianza en nuestro modelo"
+     ]
+    },
+    {
+     "liga": "Scottish Premiership",
+     "hora": "13:00",
+     "partido": "Falkirk vs Celtic",
+     "mercado": "Victoria Celtic",
+     "cuota": 1.33,
+     "estado": "pendiente",
+     "analisis": [
+      "Celtic es el gran dominador de Escocia y gana la mayoría de sus salidas",
+      "Gran diferencia de plantilla y presupuesto frente a Falkirk",
+      "Pronóstico ★★★ de alta confianza en nuestro modelo"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -562,7 +596,8 @@
    "local": "Como",
    "visitante": "Venezia",
    "tendencia": "★★★ Gana Como · cuota 1,30",
-   "inicio": "2026-11-01T11:30:00+00:00"
+   "inicio": "2026-11-01T11:30:00+00:00",
+   "pick": true
   },
   {
    "liga": "Italy: Serie A",
@@ -1241,7 +1276,8 @@
    "local": "Falkirk",
    "visitante": "Celtic",
    "tendencia": "★★★ Gana Celtic · cuota 1,33",
-   "inicio": "2026-11-01T13:00:00+00:00"
+   "inicio": "2026-11-01T13:00:00+00:00",
+   "pick": true
   },
   {
    "liga": "Serbia: Super Liga",
