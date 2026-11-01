@@ -678,8 +678,9 @@
    "liga": "Argentina: Liga Profesional Argentina",
    "local": "Boca Juniors",
    "visitante": "River Plate",
-   "tendencia": "★★★ Boca Juniors o empate · cuota ~1,30",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Boca Juniors o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -809,8 +810,9 @@
    "liga": "Belgium: Jupiler Pro League",
    "local": "Charleroi",
    "visitante": "RAAL La Louvière",
-   "tendencia": "★★★ Gana Charleroi · cuota 1,50",
-   "inicio": "2026-11-01T18:15:00+00:00"
+   "tendencia": "★★★ Gana Charleroi · cuota 1,50 · ✓ acertado",
+   "inicio": "2026-11-01T18:15:00+00:00",
+   "resultado": "5 - 2"
   },
   {
    "liga": "Bosnia: Premijer Liga",
@@ -1061,8 +1063,9 @@
    "liga": "Israel: Ligat Ha'al",
    "local": "Maccabi Petah Tikva",
    "visitante": "Hapoel Beer Sheva",
-   "tendencia": "★★★ Gana Hapoel Beer Sheva · cuota 1,36",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Gana Hapoel Beer Sheva · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "2 - 5"
   },
   {
    "liga": "Japan: J1 League",
@@ -1189,15 +1192,17 @@
    "liga": "Morocco: Botola Pro",
    "local": "CODM Meknès",
    "visitante": "FAR Rabat",
-   "tendencia": "★★★ FAR Rabat o empate · cuota ~1,20",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ FAR Rabat o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Morocco: Botola Pro",
    "local": "Ittihad Tanger",
    "visitante": "CR Khemis Zemamra",
-   "tendencia": "★★★ Ittihad Tanger o empate · cuota ~1,25",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Ittihad Tanger o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -1274,8 +1279,9 @@
    "liga": "Norway: Eliteserien",
    "local": "Valerenga",
    "visitante": "Tromso",
-   "tendencia": "★★★ Valerenga o empate · cuota ~1,46",
-   "inicio": "2026-11-01T18:15:00+00:00"
+   "tendencia": "★★★ Valerenga o empate · cuota ~1,46 · ✓ acertado",
+   "inicio": "2026-11-01T18:15:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Portugal: Primeira Liga",
@@ -1289,15 +1295,17 @@
    "liga": "Portugal: Primeira Liga",
    "local": "Academico Viseu",
    "visitante": "Rio Ave",
-   "tendencia": "★★★ Academico Viseu o empate · cuota ~1,22",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Academico Viseu o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Portugal: Primeira Liga",
    "local": "Maritimo",
    "visitante": "Santa Clara",
-   "tendencia": "★★★ Santa Clara o empate · cuota ~1,30",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Santa Clara o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Portugal: Primeira Liga",
@@ -1629,8 +1637,9 @@
    "liga": "Belgium: Challenger Pro League",
    "local": "AS Eupen",
    "visitante": "Excelsior Virton",
-   "tendencia": "★★★ Gana AS Eupen · cuota 1,65",
-   "inicio": "2026-11-01T18:15:00+00:00"
+   "tendencia": "★★★ Gana AS Eupen · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-11-01T18:15:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Bolivia: Primera División",
@@ -1786,8 +1795,9 @@
    "liga": "Ecuador: Liga Pro",
    "local": "Independiente del Valle",
    "visitante": "LDU de Quito",
-   "tendencia": "★★★ Independiente del Valle o empate · cuota ~1,18",
-   "inicio": "2026-11-01T18:30:00+00:00"
+   "tendencia": "★★★ Independiente del Valle o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-11-01T18:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Ecuador: Liga Pro",
@@ -1840,8 +1850,9 @@
    "liga": "Germany: 3. Liga",
    "local": "Alemannia Aachen",
    "visitante": "Preußen Münster",
-   "tendencia": "★★★ Alemannia Aachen o empate · cuota ~1,20",
-   "inicio": "2026-11-01T18:30:00+00:00"
+   "tendencia": "★★★ Alemannia Aachen o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-11-01T18:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Germany: Regionalliga - Nord",
@@ -1933,8 +1944,9 @@
    "liga": "Italy: Serie B",
    "local": "Palermo",
    "visitante": "Vicenza Virtus",
-   "tendencia": "★★★ Gana Palermo · cuota 1,62",
-   "inicio": "2026-11-01T18:30:00+00:00"
+   "tendencia": "★★★ Gana Palermo · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-11-01T18:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Italy: Serie C - Girone A",
@@ -2272,8 +2284,9 @@
    "liga": "Mexico: Liga de Expansión MX",
    "local": "Leones Negros UDG",
    "visitante": "Tepatitlán",
-   "tendencia": "★★★ Gana Leones Negros UDG · cuota 1,21",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Gana Leones Negros UDG · cuota 1,21 · ✓ acertado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Netherlands: Eerste Divisie",
@@ -2553,8 +2566,9 @@
    "liga": "Spain: Primera División RFEF - Group 1",
    "local": "Lugo",
    "visitante": "Mérida AD",
-   "tendencia": "★★★ Lugo o empate · cuota ~1,27",
-   "inicio": "2026-11-01T17:45:00+00:00"
+   "tendencia": "★★★ Lugo o empate · cuota ~1,27 · ✓ acertado",
+   "inicio": "2026-11-01T17:45:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Spain: Primera División RFEF - Group 1",
@@ -3300,8 +3314,9 @@
    "liga": "Brazil: Copa Santa Catarina",
    "local": "Marcílio Dias",
    "visitante": "Barra",
-   "tendencia": "★★★ Marcílio Dias o empate · cuota ~1,22",
-   "inicio": "2026-11-01T18:00:00+00:00"
+   "tendencia": "★★★ Marcílio Dias o empate · cuota ~1,22 · ✗ fallado",
+   "inicio": "2026-11-01T18:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Cambodia: C-League",
@@ -3829,8 +3844,9 @@
    "liga": "Peru: Primera División",
    "local": "Cusco",
    "visitante": "Sport Boys",
-   "tendencia": "★★★ Gana Cusco · cuota 1,48",
-   "inicio": "2026-11-01T18:15:00+00:00"
+   "tendencia": "★★★ Gana Cusco · cuota 1,48 · ✗ fallado",
+   "inicio": "2026-11-01T18:15:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Portugal: Campeonato de Portugal Prio - Group A",
