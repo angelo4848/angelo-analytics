@@ -1,0 +1,43 @@
+name: Bot live Filtro 2
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      test:
+        description: 'Enviar mensaje de prueba'
+        type: boolean
+        default: false
+
+concurrency:
+  group: live-bot
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: tools
+      - name: Restaurar estado
+        uses: actions/cache/restore@v4
+        with:
+          path: bot_state.json
+          key: bot-state-${{ github.run_id }}
+          restore-keys: bot-state-
+      - name: Revisar partidos en vivo
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          BOT_TEST: ${{ github.event.inputs.test == 'true' && '1' || '0' }}
+          BOT_LOOPS: ${{ github.event_name == 'workflow_dispatch' && '1' || '5' }}
+        run: python3 tools/live_bot.py
+      - name: Guardar estado
+        if: always() && hashFiles('bot_state.json') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: bot_state.json
+          key: bot-state-${{ github.run_id }}
