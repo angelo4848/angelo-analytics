@@ -1,0 +1,261 @@
+#!/usr/bin/env python3
+"""A. Analytics – bot de alertas en vivo que corre en TU PC (datos de SofaScore).
+
+Complementa al bot de GitHub (ESPN) con:
+  1) FILTRO 2 (−0,5 goles 1.ª parte) en ligas que ESPN no cubre
+     (Egipto, Marruecos, Irán, Etiopía, Portugal 2, J2, K League 2, China…),
+     usando también xG y la cuota en vivo.
+  2) FAVORITO EN VIVO: equipo muy favorito antes del partido (cuota ≤ 1,70)
+     que va empatando y domina, con cuota en vivo ≥ 1,85 (caso Machida).
+
+Uso:  python pc_bot.py          (deja la ventana abierta; revisa cada minuto)
+Config: crea "bot_config.txt" junto a este archivo con:
+    TELEGRAM_TOKEN=tu_token
+    TELEGRAM_CHAT_ID=        (opcional; se detecta solo si escribes "hola" al bot)
+"""
+import json, os, re, sys, time, urllib.parse, urllib.request
+from datetime import datetime
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+STATE = os.path.join(HERE, 'pc_bot_state.json')
+
+# ---------- HTTP (SofaScore necesita parecer un navegador) ----------
+try:
+    from curl_cffi import requests as cr
+    SESSION = cr.Session(impersonate='chrome')
+    def sget(path):
+        r = SESSION.get('https://www.sofascore.com/api/v1' + path, timeout=20)
+        return r.json() if r.status_code == 200 else None
+except ImportError:
+    def sget(path):
+        req = urllib.request.Request('https://www.sofascore.com/api/v1' + path, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+                          '(KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+            'Accept': 'application/json', 'Referer': 'https://www.sofascore.com/'})
+        try:
+            with urllib.request.urlopen(req, timeout=20) as r:
+                return json.load(r)
+        except Exception:
+            return None
+
+# ---------- Config ----------
+def load_config():
+    cfg = {}
+    p = os.path.join(HERE, 'bot_config.txt')
+    if os.path.exists(p):
+        for line in open(p, encoding='utf-8'):
+            if '=' in line and not line.strip().startswith('#'):
+                k, v = line.split('=', 1)
+                cfg[k.strip()] = v.strip()
+    for k in ('TELEGRAM_TOKEN', 'TELEGRAM_CHAT_ID'):
+        cfg[k] = os.environ.get(k) or cfg.get(k, '')
+    return cfg
+
+CFG = load_config()
+API = f"https://api.telegram.org/bot{CFG['TELEGRAM_TOKEN']}/"
+
+def tg(method, **params):
+    data = urllib.parse.urlencode(params).encode()
+    with urllib.request.urlopen(API + method, data=data, timeout=30) as r:
+        return json.load(r)
+
+def send(cid, text):
+    tg('sendMessage', chat_id=cid, text=text, parse_mode='HTML', disable_web_page_preview='true')
+
+def load_state():
+    try:
+        return json.load(open(STATE))
+    except Exception:
+        return {'sent': {}, 'chat_id': None}
+
+def save_state(s):
+    cut = time.time() - 3 * 86400
+    s['sent'] = {k: v for k, v in s['sent'].items() if v > cut}
+    json.dump(s, open(STATE, 'w'))
+
+def get_chat(state):
+    cid = CFG.get('TELEGRAM_CHAT_ID') or state.get('chat_id')
+    if cid:
+        return cid
+    for u in reversed(tg('getUpdates').get('result', [])):
+        m = u.get('message') or {}
+        if m.get('chat', {}).get('type') == 'private':
+            state['chat_id'] = str(m['chat']['id'])
+            return state['chat_id']
+    return None
+
+# ---------- Ligas ----------
+# Ligas que ya vigila el bot de GitHub (ESPN): aquí no se repite el Filtro 2
+ESPN_COVERED = {155, 703, 1347, 390, 1281, 406, 278, 231, 11536, 11539, 240, 182, 54, 53, 238,
+                203, 185, 152, 358, 11611, 11612, 11653, 11541, 11540, 18, 8, 23, 34, 52, 17,
+                11621, 11620, 24}
+# Ligas de pocos goles que solo cubre SofaScore
+LOW_SOFA = {239: 'Liga Portugal 2 🇵🇹', 808: 'Liga de Egipto 🇪🇬', 937: 'Botola Pro 🇲🇦',
+            10554: 'Botola Pro 2 🇲🇦', 915: 'Persian Gulf Pro League 🇮🇷',
+            16601: 'Liga de Etiopía 🇪🇹', 402: 'J2 League 🇯🇵', 777: 'K League 2 🇰🇷',
+            183: 'Ligue 3 🇫🇷'}
+LOW_NAME = re.compile(r'China League (One|Two|1|2)|CFA (?!Women)|Second League', re.I)
+EXCLUDE = re.compile(r'women|femen|\(W\)|\bU-?1\d|\bU-?2[0-3]|reserve|youth|amateur|friendly|'
+                     r'esports|\bII\b|\bB$', re.I)
+
+def frac(v):
+    try:
+        a, b = v.split('/')
+        return round(1 + int(a) / int(b), 2)
+    except Exception:
+        return None
+
+def stats(eid):
+    d = sget(f'/event/{eid}/statistics') or {}
+    out = {}
+    for p in d.get('statistics', []):
+        if p.get('period') != 'ALL':
+            continue
+        for g in p.get('groups', []):
+            for i in g.get('statisticsItems', []):
+                out[i['key']] = (i.get('homeValue'), i.get('awayValue'))
+    return out
+
+def odds(eid):
+    d = sget(f'/event/{eid}/odds/1/all') or {}
+    res = {}
+    for m in d.get('markets', []):
+        name, live = m.get('marketName'), m.get('isLive')
+        ch = {c['name']: (frac(c.get('fractionalValue')), frac(c.get('initialFractionalValue')))
+              for c in m.get('choices', [])}
+        if name == 'Full time' and not live:
+            res['pre'] = {k: v[1] or v[0] for k, v in ch.items()}
+        elif name == 'Full time' and live:
+            res['live'] = {k: v[0] for k, v in ch.items()}
+        elif name == '1st half' and live:
+            res['ht'] = {k: v[0] for k, v in ch.items()}
+    if 'pre' not in res and 'live' in res:  # sin mercado previo: usa la cuota inicial
+        for m in d.get('markets', []):
+            if m.get('marketName') == 'Full time':
+                res['pre'] = {c['name']: frac(c.get('initialFractionalValue')) for c in m['choices']}
+                break
+    return res
+
+def num(v):
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return 0.0
+
+def link(e):
+    return f"https://www.sofascore.com/pt/football/match/{e.get('slug','')}/{e.get('customId','')}#id:{e['id']}"
+
+# ---------- Alertas ----------
+def filtro2(e, mn, st, od, liga):
+    sot = [num(x) for x in st.get('shotsOnGoal', (0, 0))]
+    xg = [num(x) for x in st.get('expectedGoals', (0, 0))]
+    sh = [num(x) for x in st.get('totalShotsOnGoal', (0, 0))]
+    co = [num(x) for x in st.get('cornerKicks', (0, 0))]
+    if sum(sot) > 2 or ('expectedGoals' in st and sum(xg) > 0.5):
+        return None
+    xht = (od.get('ht') or {}).get('X')
+    if xht and xht < 1.30:  # sin valor (el "menos 0,5" pagaría < 1,45)
+        return None
+    warn = '\n⚠️ Un equipo lleva 5+ córners' if max(co) >= 5 else ''
+    xgl = f"\n📈 xG: {xg[0]:.2f}-{xg[1]:.2f}" if 'expectedGoals' in st else ''
+    oddl = f"\n💹 Empate al descanso paga {xht:.2f} (el −0,5 suele pagar algo más)" if xht else ''
+    return (f"🚨 <b>ALERTA FILTRO 2</b> · 🖥️ PC\n\n⚽ <b>{e['homeTeam']['name']} – {e['awayTeam']['name']}</b>\n"
+            f"🏆 {liga}\n⏱️ Minuto {mn} · 0-0\n\n🎯 Tiros a puerta: {sot[0]:.0f}-{sot[1]:.0f}\n"
+            f"👟 Tiros: {sh[0]:.0f}-{sh[1]:.0f}\n🚩 Córners: {co[0]:.0f}-{co[1]:.0f}{xgl}{oddl}{warn}\n\n"
+            f"✅ <b>Menos de 0,5 goles 1.ª parte</b>\n💶 Entra solo si la cuota es ≥ 1,45 · Stake 10 €\n"
+            f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
+
+def favorito(e, mn, st, od, liga):
+    pre, live = od.get('pre') or {}, od.get('live') or {}
+    hs, as_ = e['homeScore'].get('current', 0), e['awayScore'].get('current', 0)
+    if hs != as_ or not pre or not live:
+        return None
+    for side, idx, key in (('home', 0, '1'), ('away', 1, '2')):
+        p, l = pre.get(key), live.get(key)
+        if not p or not l or p > 1.70 or l < 1.85:
+            continue
+        if (e.get(side + 'RedCards') or 0) > 0:
+            continue
+        sot = [num(x) for x in st.get('shotsOnGoal', (0, 0))]
+        xg = [num(x) for x in st.get('expectedGoals', (0, 0))]
+        if not st or sot[idx] < sot[1 - idx]:
+            continue
+        if 'expectedGoals' in st and xg[idx] < xg[1 - idx]:
+            continue
+        team = e[side + 'Team']['name']
+        xgl = f"\n📈 xG: {xg[0]:.2f}-{xg[1]:.2f}" if 'expectedGoals' in st else ''
+        return (f"⭐ <b>FAVORITO EN VIVO</b> · 🖥️ PC\n\n⚽ <b>{e['homeTeam']['name']} – {e['awayTeam']['name']}</b>\n"
+                f"🏆 {liga}\n⏱️ Minuto {mn} · {hs}-{as_}\n\n"
+                f"📊 Antes del partido {team} pagaba <b>{p:.2f}</b>; ahora paga <b>{l:.2f}</b>\n"
+                f"🎯 Tiros a puerta: {sot[0]:.0f}-{sot[1]:.0f}{xgl}\n\n"
+                f"✅ <b>Victoria {team}</b> · cuota ≈ {l:.2f}\n💶 Stake 10 € · revisa la cuota en BetLabel\n"
+                f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
+    return None
+
+def scan(state, cid):
+    data = sget('/sport/football/events/live')
+    if not data:
+        print(datetime.now().strftime('%H:%M'), 'SofaScore no responde')
+        return
+    now = time.time()
+    for e in data.get('events', []):
+        ut = (e.get('tournament') or {}).get('uniqueTournament') or {}
+        tname = (e.get('tournament') or {}).get('name', '')
+        if EXCLUDE.search(tname) or EXCLUDE.search(e['homeTeam']['name']) or EXCLUDE.search(e['awayTeam']['name']):
+            continue
+        start = (e.get('time') or {}).get('currentPeriodStartTimestamp')
+        if not start:
+            continue
+        status = (e.get('status') or {}).get('description', '')
+        mn = int((now - start) / 60) + (45 if status == '2nd half' else 0)
+        uid = ut.get('id')
+        country = ((ut.get('category') or {}).get('name')) or ''
+        liga = LOW_SOFA.get(uid) or f"{tname} ({country})"
+        is_low = uid in LOW_SOFA or bool(LOW_NAME.search(tname))
+        hs, as_ = e['homeScore'].get('current', 0), e['awayScore'].get('current', 0)
+        tipo = None
+        if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and is_low and uid not in ESPN_COVERED:
+            tipo = 'f2'
+        elif status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_:
+            tipo = 'fav'
+        else:
+            continue
+        key = f"{tipo}:{e['id']}"
+        if key in state['sent']:
+            continue
+        if (e.get('homeRedCards') or 0) + (e.get('awayRedCards') or 0) > 0 and tipo == 'f2':
+            continue
+        od = odds(e['id'])
+        if tipo == 'fav' and not od.get('pre'):
+            continue
+        st = stats(e['id'])
+        if not st:  # sin estadísticas → no se entra
+            continue
+        msg = filtro2(e, mn, st, od, liga) if tipo == 'f2' else favorito(e, mn, st, od, liga)
+        if msg:
+            send(cid, msg)
+            state['sent'][key] = now
+            print(datetime.now().strftime('%H:%M'), 'ENVIADO', tipo, e['homeTeam']['name'], '-', e['awayTeam']['name'])
+        time.sleep(0.4)
+
+def main():
+    if not CFG.get('TELEGRAM_TOKEN'):
+        sys.exit('Falta TELEGRAM_TOKEN en bot_config.txt')
+    state = load_state()
+    cid = get_chat(state)
+    if not cid:
+        sys.exit('Escribe "hola" a tu bot en Telegram y vuelve a abrir el programa.')
+    send(cid, '🖥️ <b>Bot del PC activado</b>\nVigilo SofaScore cada minuto: Filtro 2 en ligas extra '
+              'y favoritos en vivo con cuota de valor.')
+    save_state(state)
+    print('Bot del PC en marcha. Deja esta ventana abierta. (Ctrl+C para parar)')
+    while True:
+        try:
+            scan(state, cid)
+            save_state(state)
+        except Exception as ex:
+            print('Error:', ex)
+        time.sleep(60)
+
+if __name__ == '__main__':
+    main()

@@ -1,1 +1,4 @@
 __pycache__/
+tools/bot_config.txt
+tools/pc_bot_state.json
+bot_state.json
