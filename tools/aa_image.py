@@ -122,6 +122,7 @@ def send_photo(token, chat_id, png, caption=''):
 
 def parse_alert(text):
     """Saca los datos de un mensaje de alerta del bot (para regenerar la imagen con la cuota)."""
+    text = re.sub(r"<[^>]+>", "", text or "")
     m = re.search(r'⚽\s*(.+?)\s+–\s+(.+)', text)
     if not m:
         return None
