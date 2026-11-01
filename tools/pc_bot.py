@@ -2,8 +2,8 @@
 """A. Analytics – bot de alertas en vivo que corre en TU PC (datos de SofaScore).
 
 Complementa al bot de GitHub (ESPN) con:
-  1) FILTRO 2 (−0,5 goles 1.ª parte) en ligas que ESPN no cubre
-     (Egipto, Marruecos, Irán, Etiopía, Portugal 2, J2, K League 2, China…),
+  1) FILTRO 2 (−0,5 goles 1.ª parte) en todas las ligas de pocos goles
+     (incluidas Egipto, Marruecos, Irán, Etiopía, Portugal 2, J2, China…),
      usando también xG y la cuota en vivo.
   2) FAVORITO EN VIVO: equipo muy favorito antes del partido (cuota ≤ 1,70)
      que va empatando y domina, con cuota en vivo ≥ 1,85 (caso Machida).
@@ -90,15 +90,22 @@ def get_chat(state):
     return None
 
 # ---------- Ligas ----------
-# Ligas que ya vigila el bot de GitHub (ESPN): aquí no se repite el Filtro 2
-ESPN_COVERED = {155, 703, 1347, 390, 1281, 406, 278, 231, 11536, 11539, 240, 182, 54, 53, 238,
-                203, 185, 152, 358, 11611, 11612, 11653, 11541, 11540, 18, 8, 23, 34, 52, 17,
-                11621, 11620, 24}
-# Ligas de pocos goles que solo cubre SofaScore
-LOW_SOFA = {239: 'Liga Portugal 2 🇵🇹', 808: 'Liga de Egipto 🇪🇬', 937: 'Botola Pro 🇲🇦',
-            10554: 'Botola Pro 2 🇲🇦', 915: 'Persian Gulf Pro League 🇮🇷',
-            16601: 'Liga de Etiopía 🇪🇹', 402: 'J2 League 🇯🇵', 777: 'K League 2 🇰🇷',
-            183: 'Ligue 3 🇫🇷'}
+# Ligas de pocos goles (máx. 2 tiros a puerta y xG ≤ 0,5)
+LOW_SOFA = {155: 'Liga Profesional 🇦🇷', 703: 'Primera Nacional 🇦🇷', 1347: 'Primera B Metro 🇦🇷',
+            390: 'Brasileirão Série B 🇧🇷', 1281: 'Brasileirão Série C 🇧🇷', 406: 'Liga 1 🇵🇪',
+            278: 'Liga AUF 🇺🇾', 231: 'Liga FUTVE 🇻🇪', 11536: 'Primera A 🇨🇴', 11539: 'Primera A 🇨🇴',
+            240: 'LigaPro 🇪🇨', 182: 'Ligue 2 🇫🇷', 54: 'LaLiga 2 🇪🇸', 53: 'Serie B 🇮🇹',
+            238: 'Liga Portugal 🇵🇹', 239: 'Liga Portugal 2 🇵🇹', 203: 'Liga rusa 🇷🇺',
+            185: 'Super League 🇬🇷', 152: 'SuperLiga 🇷🇴', 358: 'Premiership 🇿🇦',
+            11611: 'Liga de Expansión 🇲🇽', 11612: 'Liga de Expansión 🇲🇽',
+            808: 'Liga de Egipto 🇪🇬', 937: 'Botola Pro 🇲🇦', 10554: 'Botola Pro 2 🇲🇦',
+            915: 'Persian Gulf Pro League 🇮🇷', 16601: 'Liga de Etiopía 🇪🇹', 402: 'J2 League 🇯🇵',
+            777: 'K League 2 🇰🇷', 183: 'Ligue 3 🇫🇷'}
+# Ligas medias (más estricto: máx. 1 tiro a puerta y máx. 8 tiros)
+MED_SOFA = {11653: 'Liga de Primera 🇨🇱', 11541: 'Primera División 🇵🇾', 11540: 'Primera División 🇵🇾',
+            18: 'Championship 🏴', 8: 'LaLiga 🇪🇸', 23: 'Serie A 🇮🇹', 34: 'Ligue 1 🇫🇷',
+            52: 'Süper Lig 🇹🇷', 17: 'Premier League 🏴', 11621: 'Liga MX 🇲🇽', 11620: 'Liga MX 🇲🇽',
+            24: 'League One 🏴', 196: 'J1 League 🇯🇵', 410: 'K League 1 🇰🇷'}
 LOW_NAME = re.compile(r'China League (One|Two|1|2)|CFA (?!Women)|Second League', re.I)
 EXCLUDE = re.compile(r'women|femen|\(W\)|\bU-?1\d|\bU-?2[0-3]|reserve|youth|amateur|friendly|'
                      r'esports|\bII\b|\bB$', re.I)
@@ -151,12 +158,14 @@ def link(e):
     return f"https://www.sofascore.com/pt/football/match/{e.get('slug','')}/{e.get('customId','')}#id:{e['id']}"
 
 # ---------- Alertas ----------
-def filtro2(e, mn, st, od, liga):
+def filtro2(e, mn, st, od, liga, strict=False):
     sot = [num(x) for x in st.get('shotsOnGoal', (0, 0))]
     xg = [num(x) for x in st.get('expectedGoals', (0, 0))]
     sh = [num(x) for x in st.get('totalShotsOnGoal', (0, 0))]
     co = [num(x) for x in st.get('cornerKicks', (0, 0))]
-    if sum(sot) > 2 or ('expectedGoals' in st and sum(xg) > 0.5):
+    if sum(sot) > (1 if strict else 2) or ('expectedGoals' in st and sum(xg) > 0.5):
+        return None
+    if strict and sum(sh) > 8:
         return None
     xht = (od.get('ht') or {}).get('X')
     if xht and xht < 1.30:  # sin valor (el "menos 0,5" pagaría < 1,45)
@@ -265,11 +274,12 @@ def scan(state, cid):
         mn = int((now - start) / 60) + (45 if status == '2nd half' else 0)
         uid = ut.get('id')
         country = ((ut.get('category') or {}).get('name')) or ''
-        liga = LOW_SOFA.get(uid) or f"{tname} ({country})"
+        liga = LOW_SOFA.get(uid) or MED_SOFA.get(uid) or f"{tname} ({country})"
         is_low = uid in LOW_SOFA or bool(LOW_NAME.search(tname))
+        is_med = uid in MED_SOFA
         hs, as_ = e['homeScore'].get('current', 0), e['awayScore'].get('current', 0)
         tipo = None
-        if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and is_low and uid not in ESPN_COVERED:
+        if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and (is_low or is_med):
             tipo = 'f2'
         elif status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_:
             tipo = 'fav'
@@ -286,7 +296,7 @@ def scan(state, cid):
         st = stats(e['id'])
         if not st:  # sin estadísticas → no se entra
             continue
-        msg = filtro2(e, mn, st, od, liga) if tipo == 'f2' else favorito(e, mn, st, od, liga)
+        msg = filtro2(e, mn, st, od, liga, strict=is_med and not is_low) if tipo == 'f2' else favorito(e, mn, st, od, liga)
         if msg:
             deliver(cid, msg)
             state['sent'][key] = now
