@@ -1287,8 +1287,9 @@
    "liga": "Portugal: Primeira Liga",
    "local": "FC Porto",
    "visitante": "Estoril",
-   "tendencia": "★★★ Gana FC Porto · cuota 1,22",
-   "inicio": "2026-10-31T20:30:00+00:00"
+   "tendencia": "★★★ Gana FC Porto · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-10-31T20:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Romania: Liga I",
@@ -1731,8 +1732,9 @@
    "liga": "Brazil: Serie B",
    "local": "Vila Nova",
    "visitante": "Juventude",
-   "tendencia": "★★★ Vila Nova o empate · cuota ~1,33",
-   "inicio": "2026-10-31T20:30:00+00:00"
+   "tendencia": "★★★ Vila Nova o empate · cuota ~1,33 · ✓ acertado",
+   "inicio": "2026-10-31T20:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Brazil: Serie B",
@@ -1753,8 +1755,9 @@
    "liga": "Chile: Primera División",
    "local": "O'Higgins",
    "visitante": "Nublense",
-   "tendencia": "★★★ O'Higgins o empate · cuota ~1,28",
-   "inicio": "2026-10-31T23:00:00+00:00"
+   "tendencia": "★★★ O'Higgins o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T23:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Colombia: Primera A",
@@ -1839,8 +1842,9 @@
    "liga": "Ecuador: Liga Pro",
    "local": "Macara",
    "visitante": "Barcelona SC",
-   "tendencia": "★★★ Macara o empate · cuota ~1,20",
-   "inicio": "2026-10-31T21:30:00+00:00"
+   "tendencia": "★★★ Macara o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-10-31T21:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "England: National League",
@@ -2858,8 +2862,9 @@
    "liga": "Honduras: Liga Nacional",
    "local": "Lobos Upnfm",
    "visitante": "Génesis",
-   "tendencia": "★★★ Lobos Upnfm o empate · cuota ~1,28",
-   "inicio": "2026-10-31T21:00:00+00:00"
+   "tendencia": "★★★ Lobos Upnfm o empate · cuota ~1,28 · ✓ acertado",
+   "inicio": "2026-10-31T21:00:00+00:00",
+   "resultado": "4 - 3"
   },
   {
    "liga": "Honduras: Liga Nacional",
@@ -3006,8 +3011,9 @@
    "liga": "Panama: Liga Panameña de Fútbol",
    "local": "Union Cocle",
    "visitante": "Deportivo Universitario",
-   "tendencia": "★★★ Deportivo Universitario o empate · cuota ~1,29",
-   "inicio": "2026-10-31T21:00:00+00:00"
+   "tendencia": "★★★ Deportivo Universitario o empate · cuota ~1,29 · ✓ acertado",
+   "inicio": "2026-10-31T21:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Romania: Liga I",
@@ -3149,15 +3155,17 @@
    "liga": "USA: Major League Soccer",
    "local": "Los Angeles Galaxy",
    "visitante": "Austin",
-   "tendencia": "★★★ Gana Los Angeles Galaxy · cuota 1,48",
-   "inicio": "2026-10-31T21:00:00+00:00"
+   "tendencia": "★★★ Gana Los Angeles Galaxy · cuota 1,48 · ✓ acertado",
+   "inicio": "2026-10-31T21:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "San Jose Earthquakes",
    "visitante": "Real Salt Lake",
-   "tendencia": "★★★ San Jose Earthquakes o empate · cuota ~1,46",
-   "inicio": "2026-10-31T21:00:00+00:00"
+   "tendencia": "★★★ San Jose Earthquakes o empate · cuota ~1,46 · ✓ acertado",
+   "inicio": "2026-10-31T21:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Uzbekistan: Super League",
@@ -3187,8 +3195,9 @@
    "liga": "Venezuela: Primera División",
    "local": "Puerto Cabello",
    "visitante": "Deportivo Tachira FC",
-   "tendencia": "★★★ Puerto Cabello o empate · cuota ~1,32",
-   "inicio": "2026-10-31T21:30:00+00:00"
+   "tendencia": "★★★ Puerto Cabello o empate · cuota ~1,32 · ✗ fallado",
+   "inicio": "2026-10-31T21:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Venezuela: Primera División",
@@ -3273,8 +3282,9 @@
    "liga": "Argentina: Primera Nacional",
    "local": "Colon Santa Fe",
    "visitante": "Defensores De Belgrano",
-   "tendencia": "★★★ Gana Colon Santa Fe · cuota 1,36",
-   "inicio": "2026-10-31T21:00:00+00:00"
+   "tendencia": "★★★ Gana Colon Santa Fe · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-10-31T21:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Argentina: Torneo Federal A",
@@ -3413,8 +3423,9 @@
    "liga": "Bolivia: Primera División",
    "local": "ABB",
    "visitante": "San Antonio Bulo Bulo",
-   "tendencia": "★★★ ABB o empate · cuota ~1,18",
-   "inicio": "2026-10-31T21:15:00+00:00"
+   "tendencia": "★★★ ABB o empate · cuota ~1,18 · ✗ fallado",
+   "inicio": "2026-10-31T21:15:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Bosnia: 1st League - RS",
