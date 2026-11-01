@@ -41,9 +41,31 @@ def _urllib_get(path):
     except Exception:
         return None
 
+def _windows_ca_bundle():
+    """Exporta los certificados raíz de Windows a un .pem (para antivirus que inspeccionan HTTPS)."""
+    if os.name != 'nt':
+        return True
+    import ssl
+    path = os.path.join(HERE, 'ca_windows.pem')
+    try:
+        pems = []
+        for store in ('ROOT', 'CA'):
+            for cert, enc, trust in ssl.enum_certificates(store):
+                if enc == 'x509_asn':
+                    pems.append(ssl.DER_cert_to_PEM_cert(cert))
+        try:
+            import certifi
+            pems.append(open(certifi.where(), encoding='utf-8').read())
+        except Exception:
+            pass
+        open(path, 'w', encoding='utf-8').write('\n'.join(pems))
+        return path
+    except Exception:
+        return True
+
 try:
     from curl_cffi import requests as cr
-    SESSION = cr.Session(impersonate='chrome')
+    SESSION = cr.Session(impersonate='chrome', verify=_windows_ca_bundle())
     def sget(path):
         try:
             r = SESSION.get('https://www.sofascore.com/api/v1' + path, timeout=20)
