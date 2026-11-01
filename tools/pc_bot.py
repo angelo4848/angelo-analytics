@@ -15,6 +15,11 @@ Config: crea "bot_config.txt" junto a este archivo con:
 """
 import json, os, re, sys, time, urllib.parse, urllib.request
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:  # usa los certificados de Windows (antivirus/proxy que inspeccionan HTTPS)
+    import truststore
+    truststore.inject_into_ssl()
+except Exception:
+    pass
 try:
     import aa_image
 except Exception:  # Pillow no instalado
@@ -25,23 +30,32 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 STATE = os.path.join(HERE, 'pc_bot_state.json')
 
 # ---------- HTTP (SofaScore necesita parecer un navegador) ----------
+def _urllib_get(path):
+    req = urllib.request.Request('https://www.sofascore.com/api/v1' + path, headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
+                      '(KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+        'Accept': 'application/json', 'Referer': 'https://www.sofascore.com/'})
+    try:
+        with urllib.request.urlopen(req, timeout=20) as r:
+            return json.load(r)
+    except Exception:
+        return None
+
 try:
     from curl_cffi import requests as cr
     SESSION = cr.Session(impersonate='chrome')
     def sget(path):
-        r = SESSION.get('https://www.sofascore.com/api/v1' + path, timeout=20)
-        return r.json() if r.status_code == 200 else None
-except ImportError:
-    def sget(path):
-        req = urllib.request.Request('https://www.sofascore.com/api/v1' + path, headers={
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 '
-                          '(KHTML, like Gecko) Chrome/126.0 Safari/537.36',
-            'Accept': 'application/json', 'Referer': 'https://www.sofascore.com/'})
         try:
-            with urllib.request.urlopen(req, timeout=20) as r:
-                return json.load(r)
+            r = SESSION.get('https://www.sofascore.com/api/v1' + path, timeout=20)
+            if r.status_code == 200:
+                return r.json()
+            if r.status_code == 404:
+                return None
         except Exception:
-            return None
+            pass
+        return _urllib_get(path)  # p. ej. si un antivirus bloquea el certificado
+except ImportError:
+    sget = _urllib_get
 
 # ---------- Config ----------
 def load_config():
