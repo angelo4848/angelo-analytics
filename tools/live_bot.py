@@ -171,7 +171,8 @@ def message(p):
 
 def main():
     if not TOKEN:
-        sys.exit('Falta TELEGRAM_TOKEN')
+        print('Falta TELEGRAM_TOKEN: añade el secreto en GitHub.')
+        return
     state = load_state()
     cid = chat_id(state)
     if not cid:
