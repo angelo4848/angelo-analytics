@@ -70,7 +70,8 @@ def make_live_image(liga, minuto, marcador, local, visitante, mercado, cuota=Non
     y0, y1 = 380, 640
     d.rounded_rectangle([70, y0, 1010, y1], radius=28, fill=CARD, outline=(52, 68, 94), width=2)
     d.ellipse([112, y0 + 42, 134, y0 + 64], fill=RED)
-    d.text((146, y0 + 36), f"EN VIVO · {minuto}' · {marcador}", font=font(30, True), fill=MUTED)
+    mtxt = f"{minuto}' · " if str(minuto).isdigit() else (f"{minuto} · " if minuto else '')
+    d.text((146, y0 + 36), f"EN VIVO · {mtxt}{marcador}", font=font(30, True), fill=MUTED)
     match = f"{clean(local)} vs {clean(visitante)}"
     oddw = 230 if cuota else 0
     d.text((112, y0 + 88), match, font=fit(d, match, 46, 860 - oddw), fill=WHITE)

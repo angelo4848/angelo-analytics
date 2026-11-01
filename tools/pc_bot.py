@@ -243,14 +243,14 @@ def favorito(e, mn, st, od, liga):
         if 'expectedGoals' in st and xg[idx] < xg[1 - idx]:
             continue
         team = e[side + 'Team']['name']
-        dc = (od.get('dc') or {}).get('1X' if key == '1' else 'X2')
-        dcl = f"\n🛡️ Doble oportunidad ({team} o empate) ≈ <b>{dc:.2f}</b>" if dc else ''
         xgl = f"\n📈 xG: {xg[0]:.2f}-{xg[1]:.2f}" if 'expectedGoals' in st else ''
+        xht = (od.get('ht') or {}).get('X')
+        oddl = f"\n💹 Empate al descanso paga {xht:.2f} (el −0,5 suele pagar algo más)" if xht else ''
         return (f"⭐ <b>FAVORITO EN VIVO</b> · 🖥️ PC\n\n⚽ <b>{e['homeTeam']['name']} – {e['awayTeam']['name']}</b>\n"
                 f"🏆 {liga}\n⏱️ Minuto {mn} · {hs}-{as_}\n\n"
                 f"📊 Antes del partido {team} pagaba <b>{p:.2f}</b>; ahora paga <b>{l:.2f}</b>\n"
-                f"🎯 Tiros a puerta: {sot[0]:.0f}-{sot[1]:.0f}{xgl}\n\n"
-                f"✅ <b>Victoria {team}</b> · cuota ≈ {l:.2f}{dcl}\n💶 Stake 10 € · revisa la cuota en BetLabel\n"
+                f"🎯 Tiros a puerta: {sot[0]:.0f}-{sot[1]:.0f}{xgl}{oddl}\n\n"
+                f"✅ <b>Menos de 0,5 goles 1.ª parte</b>\n💶 Entra solo si la cuota es ≥ 1,45 · Stake 10 €\n"
                 f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
     return None
 
@@ -329,7 +329,7 @@ def scan(state, cid):
         tipo = None
         if status == '1st half' and 25 <= mn <= 34 and hs == 0 and as_ == 0 and (is_low or is_med):
             tipo = 'f2'
-        elif status in ('1st half', '2nd half') and 15 <= mn <= 70 and hs == as_:
+        elif status == '1st half' and 15 <= mn <= 40 and hs == 0 and as_ == 0:  # apuesta: −0,5 1.ª parte
             tipo = 'fav'
         else:
             continue
