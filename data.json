@@ -736,8 +736,9 @@
    "liga": "Belarus: Premier League",
    "local": "FC Isloch Minsk R.",
    "visitante": "Slavia Mozyr",
-   "tendencia": "★★★ FC Isloch Minsk R. o empate · cuota ~1,22",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ FC Isloch Minsk R. o empate · cuota ~1,22 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Belarus: Premier League",
@@ -1256,8 +1257,9 @@
    "liga": "Russia: Premier League",
    "local": "FC Orenburg",
    "visitante": "CSKA Moscow",
-   "tendencia": "★★★ CSKA Moscow o empate · cuota ~1,35",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ CSKA Moscow o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Russia: Premier League",
@@ -2312,8 +2314,9 @@
    "liga": "Slovakia: 2. liga",
    "local": "Petržalka",
    "visitante": "Považská Bystrica",
-   "tendencia": "★★★ Gana Petržalka · cuota 1,65",
-   "inicio": "2026-11-01T09:30:00+00:00"
+   "tendencia": "★★★ Gana Petržalka · cuota 1,65 · ✗ fallado",
+   "inicio": "2026-11-01T09:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "South-Korea: K League 2",
@@ -2635,29 +2638,33 @@
    "liga": "Turkey: 2. Lig",
    "local": "68 Aksaray Belediyespor",
    "visitante": "Güzide Gebzespor",
-   "tendencia": "★★★ 68 Aksaray Belediyespor o empate · cuota ~1,34",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ 68 Aksaray Belediyespor o empate · cuota ~1,34 · ✗ fallado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Erbaaspor",
    "visitante": "Arnavutköy Belediyespor",
-   "tendencia": "★★★ Gana Erbaaspor · cuota 1,20",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ Gana Erbaaspor · cuota 1,20 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Kastamonuspor",
    "visitante": "Elazığspor",
-   "tendencia": "★★★ Gana Elazığspor · cuota 1,20",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ Gana Elazığspor · cuota 1,20 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "0 - 5"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Şanlıurfaspor",
    "visitante": "Isparta 32 Spor",
-   "tendencia": "★★★ Gana Şanlıurfaspor · cuota 1,62",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ Gana Şanlıurfaspor · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Turkey: 2. Lig",
@@ -3898,15 +3905,17 @@
    "liga": "Turkey: 3. Lig - Group 1",
    "local": "Orduspor 1967",
    "visitante": "Silivrispor",
-   "tendencia": "★★★ Orduspor 1967 o empate · cuota ~1,27",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ Orduspor 1967 o empate · cuota ~1,27 · ✗ fallado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Turkey: 3. Lig - Group 3",
    "local": "Silifke Belediyespor",
    "visitante": "Mazıdağı Fosfatspor",
-   "tendencia": "★★★ Mazıdağı Fosfatspor o empate · cuota ~1,14",
-   "inicio": "2026-11-01T10:00:00+00:00"
+   "tendencia": "★★★ Mazıdağı Fosfatspor o empate · cuota ~1,14 · ✓ acertado",
+   "inicio": "2026-11-01T10:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "United-Arab-Emirates: Division 1",
