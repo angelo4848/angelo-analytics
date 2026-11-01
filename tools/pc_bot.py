@@ -14,6 +14,11 @@ Config: crea "bot_config.txt" junto a este archivo con:
     TELEGRAM_CHAT_ID=        (opcional; se detecta solo si escribes "hola" al bot)
 """
 import json, os, re, sys, time, urllib.parse, urllib.request
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+try:
+    import aa_image
+except Exception:  # Pillow no instalado
+    aa_image = None
 from datetime import datetime
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -192,6 +197,56 @@ def favorito(e, mn, st, od, liga):
                 f"🔗 <a href=\"{link(e)}\">Ver en SofaScore</a>")
     return None
 
+REPLY_HINT = '\n✍️ Responde a esta alerta con la cuota (ej. 1.62) y te mando la imagen con cuota'
+
+
+def deliver(cid, msg, cuota=None):
+    """Envía la alerta con su imagen (si se puede) y el texto como pie de foto."""
+    msg += REPLY_HINT
+    if aa_image:
+        try:
+            d = aa_image.parse_alert(re.sub(r'<[^>]+>', '', msg))
+            png = aa_image.make_live_image(d['liga'], d['minuto'], d['marcador'], d['local'],
+                                           d['visitante'], d['mercado'], cuota)
+            if aa_image.send_photo(CFG['TELEGRAM_TOKEN'], cid, png, msg).get('ok'):
+                return
+        except Exception as ex:
+            print('Imagen no enviada:', ex)
+    send(cid, msg)
+
+
+def replies(state, cid):
+    """Si respondes a una alerta con una cuota, devuelve la imagen con esa cuota."""
+    if not aa_image:
+        return
+    try:
+        ups = tg('getUpdates', offset=state.get('offset', 0), timeout=0).get('result', [])
+    except Exception:
+        return
+    for u in ups:
+        state['offset'] = u['update_id'] + 1
+        m = u.get('message') or {}
+        if str(m.get('chat', {}).get('id')) != str(cid):
+            continue
+        q = re.match(r'^\s*(\d+[.,]\d+)\s*$', m.get('text') or '')
+        rep = m.get('reply_to_message') or {}
+        src = rep.get('caption') or rep.get('text') or ''
+        if not q or not src:
+            continue
+        d = aa_image.parse_alert(src)
+        if not d:
+            continue
+        cuota = float(q.group(1).replace(',', '.'))
+        png = aa_image.make_live_image(d['liga'], d['minuto'], d['marcador'], d['local'],
+                                       d['visitante'], d['mercado'], cuota)
+        mercado = d['mercado']
+        cap = (f"🔴 <b>PICK EN VIVO</b> 🔴\n\n⚽ <b>{d['local']} vs {d['visitante']}</b> · {d['liga']}\n"
+               f"⏱️ Minuto {d['minuto']} · {d['marcador']}\n✅ <b>{mercado}</b> · <b>{str(f'{cuota:.2f}').replace('.', ',')}</b>\n\n"
+               f"💰 Stake: 10 €\n📲 Más pronósticos en la app A. Analytics\n+18 · Apuesta con responsabilidad")
+        aa_image.send_photo(CFG['TELEGRAM_TOKEN'], cid, png, cap)
+        print(datetime.now().strftime('%H:%M'), 'Imagen con cuota', cuota, d['local'])
+
+
 def scan(state, cid):
     data = sget('/sport/football/events/live')
     if not data:
@@ -233,7 +288,7 @@ def scan(state, cid):
             continue
         msg = filtro2(e, mn, st, od, liga) if tipo == 'f2' else favorito(e, mn, st, od, liga)
         if msg:
-            send(cid, msg)
+            deliver(cid, msg)
             state['sent'][key] = now
             print(datetime.now().strftime('%H:%M'), 'ENVIADO', tipo, e['homeTeam']['name'], '-', e['awayTeam']['name'])
         time.sleep(0.4)
@@ -247,12 +302,22 @@ def main():
         sys.exit('Escribe "hola" a tu bot en Telegram y vuelve a abrir el programa.')
     send(cid, '🖥️ <b>Bot del PC activado</b>\nVigilo SofaScore cada minuto: Filtro 2 en ligas extra '
               'y favoritos en vivo con cuota de valor.')
+    if 'offset' not in state:  # ignora mensajes antiguos
+        try:
+            ups = tg('getUpdates').get('result', [])
+            state['offset'] = ups[-1]['update_id'] + 1 if ups else 0
+        except Exception:
+            state['offset'] = 0
     save_state(state)
     print('Bot del PC en marcha. Deja esta ventana abierta. (Ctrl+C para parar)')
     while True:
         try:
             scan(state, cid)
-            save_state(state)
+            for _ in range(6):  # entre revisiones, atiende respuestas cada 10 s
+                replies(state, cid)
+                save_state(state)
+                time.sleep(10)
+            continue
         except Exception as ex:
             print('Error:', ex)
         time.sleep(60)

@@ -166,7 +166,22 @@ def message(p):
             f"👟 Tiros: {p['sh'][0]}-{p['sh'][1]}\n"
             f"🚩 Córners: {p['co'][0]}-{p['co'][1]}\n{nivel}{warn}\n\n"
             f"✅ <b>Menos de 0,5 goles 1.ª parte</b>\n"
-            f"💶 Entra solo si la cuota es ≥ 1,45 · Stake 10 €")
+            f"💶 Entra solo si la cuota es ≥ 1,45 · Stake 10 €\n"
+            f"✍️ Responde a esta alerta con la cuota (ej. 1.62) y te mando la imagen con cuota")
+
+
+def deliver(cid, p):
+    """Envía la alerta como imagen lista para Telegram (o solo texto si falla la imagen)."""
+    try:
+        import aa_image
+        png = aa_image.make_live_image(p['liga'], p['min'], '0-0', p['local'], p['visit'],
+                                       'Menos de 0,5 goles 1.ª parte')
+        r = aa_image.send_photo(TOKEN, cid, png, message(p))
+        if r.get('ok'):
+            return
+    except Exception as e:
+        print('Imagen no enviada:', e)
+    send(cid, message(p))
 
 
 def main():
@@ -189,7 +204,7 @@ def main():
             if p['id'] in state['sent']:
                 continue
             try:
-                send(cid, message(p))
+                deliver(cid, p)
                 state['sent'][p['id']] = time.time()
                 print('Enviado:', p['local'], '-', p['visit'], p['min'])
             except Exception as e:

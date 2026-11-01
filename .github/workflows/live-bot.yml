@@ -28,6 +28,8 @@ jobs:
           path: bot_state.json
           key: bot-state-${{ github.run_id }}
           restore-keys: bot-state-
+      - name: Instalar Pillow (imágenes)
+        run: pip install --quiet pillow
       - name: Revisar partidos en vivo
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
