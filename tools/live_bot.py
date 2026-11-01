@@ -195,7 +195,9 @@ def main():
         save_state(state)
         return
     if os.environ.get('BOT_TEST') == '1':
-        send(cid, '🧪 <b>Prueba del bot A. Analytics</b>\nTodo funciona correctamente ✅')
+        send(cid, '🧪 <b>EJEMPLO</b> – así te llegarán las alertas (partido de muestra, no apostar):')
+        deliver(cid, {'id': 'demo', 'liga': 'Primera Nacional 🇦🇷', 'nivel': 'baja', 'local': 'Colón',
+                      'visit': 'Defensores de Belgrano', 'min': 27, 'sot': (0, 1), 'sh': (2, 3), 'co': (1, 0)})
         save_state(state)
         return
     loops = int(os.environ.get('BOT_LOOPS', '5'))
