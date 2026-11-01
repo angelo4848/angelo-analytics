@@ -666,8 +666,9 @@
    "liga": "Spain: La Liga",
    "local": "Athletic Club",
    "visitante": "Real Sociedad",
-   "tendencia": "★★★ Athletic Club o empate · cuota ~1,35",
-   "inicio": "2026-11-01T20:00:00+00:00"
+   "tendencia": "★★★ Athletic Club o empate · cuota ~1,35 · ✓ acertado",
+   "inicio": "2026-11-01T20:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -1210,8 +1211,9 @@
    "liga": "Morocco: Botola Pro",
    "local": "Renaissance Berkane",
    "visitante": "Raja Casablanca",
-   "tendencia": "★★★ Renaissance Berkane o empate · cuota ~1,25",
-   "inicio": "2026-11-01T20:00:00+00:00"
+   "tendencia": "★★★ Renaissance Berkane o empate · cuota ~1,25 · ✓ acertado",
+   "inicio": "2026-11-01T20:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Netherlands: Eredivisie",
@@ -1313,8 +1315,9 @@
    "liga": "Portugal: Primeira Liga",
    "local": "SC Braga",
    "visitante": "Famalicao",
-   "tendencia": "★★★ SC Braga o empate · cuota ~1,19",
-   "inicio": "2026-11-01T20:30:00+00:00"
+   "tendencia": "★★★ SC Braga o empate · cuota ~1,19 · ✓ acertado",
+   "inicio": "2026-11-01T20:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Romania: Liga I",
@@ -1595,8 +1598,9 @@
    "liga": "USA: Major League Soccer",
    "local": "Vancouver Whitecaps",
    "visitante": "Seattle Sounders",
-   "tendencia": "★★★ Gana Vancouver Whitecaps · cuota 1,62",
-   "inicio": "2026-11-01T20:30:00+00:00"
+   "tendencia": "★★★ Gana Vancouver Whitecaps · cuota 1,62 · ✓ acertado",
+   "inicio": "2026-11-01T20:30:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
@@ -2368,8 +2372,9 @@
    "liga": "Peru: Primera División",
    "local": "Atletico Grau",
    "visitante": "Universitario",
-   "tendencia": "★★★ Universitario o empate · cuota ~1,17",
-   "inicio": "2026-11-01T20:30:00+00:00"
+   "tendencia": "★★★ Universitario o empate · cuota ~1,17 · ✓ acertado",
+   "inicio": "2026-11-01T20:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Portugal: Liga 3",
@@ -2399,8 +2404,9 @@
    "liga": "Portugal: Liga 3",
    "local": "Paredes",
    "visitante": "São João Ver",
-   "tendencia": "★★★ Gana Paredes · cuota 1,57",
-   "inicio": "2026-11-01T20:00:00+00:00"
+   "tendencia": "★★★ Gana Paredes · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-11-01T20:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Portugal: Segunda Liga",
@@ -2578,8 +2584,9 @@
    "liga": "Spain: Primera División RFEF - Group 1",
    "local": "Extremadura 1924",
    "visitante": "Unionistas de Salamanca",
-   "tendencia": "★★★ Extremadura 1924 o empate · cuota ~1,13",
-   "inicio": "2026-11-01T20:00:00+00:00"
+   "tendencia": "★★★ Extremadura 1924 o empate · cuota ~1,13 · ✓ acertado",
+   "inicio": "2026-11-01T20:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Spain: Primera División RFEF - Group 2",
@@ -2959,8 +2966,9 @@
    "liga": "USA: USL Championship",
    "local": "Lexington",
    "visitante": "Colorado Springs",
-   "tendencia": "★★★ Lexington o empate · cuota ~1,30",
-   "inicio": "2026-11-01T19:00:00+00:00"
+   "tendencia": "★★★ Lexington o empate · cuota ~1,30 · ✓ acertado",
+   "inicio": "2026-11-01T19:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "USA: USL Championship",
@@ -3855,8 +3863,9 @@
    "liga": "Paraguay: Division Profesional - Clausura",
    "local": "Cerro Porteno",
    "visitante": "Olimpia",
-   "tendencia": "★★★ Olimpia o empate · cuota ~1,37",
-   "inicio": "2026-11-01T20:00:00+00:00"
+   "tendencia": "★★★ Olimpia o empate · cuota ~1,37 · ✓ acertado",
+   "inicio": "2026-11-01T20:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Peru: Primera División",
