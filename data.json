@@ -703,8 +703,9 @@
    "liga": "Ukraine: Premier League",
    "local": "Zorya Luhansk",
    "visitante": "Epitsentr Dunayivtsi",
-   "tendencia": "★★★ Zorya Luhansk o empate · cuota ~1,23",
-   "inicio": "2026-11-02T11:00:00+00:00"
+   "tendencia": "★★★ Zorya Luhansk o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-11-02T11:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Ukraine: Premier League",
@@ -899,8 +900,9 @@
    "liga": "Iran: Azadegan League",
    "local": "Be'sat Kermanshah",
    "visitante": "Saipa",
-   "tendencia": "★★★ Saipa o empate · cuota ~1,24",
-   "inicio": "2026-11-02T11:30:00+00:00"
+   "tendencia": "★★★ Saipa o empate · cuota ~1,24 · ✓ acertado",
+   "inicio": "2026-11-02T11:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
@@ -1088,8 +1090,9 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Posta Rangers FC",
    "visitante": "3K",
-   "tendencia": "★★★ Posta Rangers FC o empate · cuota ~1,27",
-   "inicio": "2026-11-02T11:00:00+00:00"
+   "tendencia": "★★★ Posta Rangers FC o empate · cuota ~1,27 · ✗ fallado",
+   "inicio": "2026-11-02T11:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -1102,8 +1105,9 @@
    "liga": "Macedonia: First League",
    "local": "Skopje",
    "visitante": "Sileks",
-   "tendencia": "★★★ Gana Sileks · cuota 1,40",
-   "inicio": "2026-11-02T11:00:00+00:00"
+   "tendencia": "★★★ Gana Sileks · cuota 1,40 · ✗ fallado",
+   "inicio": "2026-11-02T11:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Macedonia: First League",
