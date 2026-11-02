@@ -254,6 +254,40 @@
      "resultado": "2 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-02",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.71,
+   "patas": [
+    {
+     "liga": "Serie A",
+     "hora": "19:45",
+     "partido": "Atalanta vs Parma",
+     "mercado": "Victoria Atalanta",
+     "cuota": 1.5,
+     "estado": "pendiente",
+     "analisis": [
+      "Partido oficial de Serie A: Atalanta necesita los puntos y sale con su once titular",
+      "Atalanta es muy fuerte en casa y Parma es de los más flojos fuera",
+      "Gran diferencia de plantilla entre los dos equipos"
+     ]
+    },
+    {
+     "liga": "Liga Portugal",
+     "hora": "20:15",
+     "partido": "Benfica vs Alverca",
+     "mercado": "Victoria Benfica",
+     "cuota": 1.14,
+     "estado": "pendiente",
+     "analisis": [
+      "Benfica pelea por el título y no puede dejar escapar puntos en casa",
+      "Alverca es recién ascendido y de los equipos más débiles de la liga",
+      "Partido de liga con el once principal de Benfica"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -465,7 +499,8 @@
    "local": "Atalanta",
    "visitante": "Parma",
    "tendencia": "★★★ Gana Atalanta · cuota 1,50",
-   "inicio": "2026-11-02T19:45:00+00:00"
+   "inicio": "2026-11-02T19:45:00+00:00",
+   "pick": true
   },
   {
    "liga": "Spain: La Liga",
@@ -605,7 +640,8 @@
    "local": "Benfica",
    "visitante": "Alverca",
    "tendencia": "★★★ Gana Benfica · cuota 1,17",
-   "inicio": "2026-11-02T20:15:00+00:00"
+   "inicio": "2026-11-02T20:15:00+00:00",
+   "pick": true
   },
   {
    "liga": "Romania: Liga I",
