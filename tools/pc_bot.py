@@ -70,17 +70,48 @@ def _windows_ca_bundle():
 
 try:
     from curl_cffi import requests as cr
-    SESSION = cr.Session(impersonate='chrome', verify=_windows_ca_bundle())
+    _SESSIONS = []          # (nombre, sesión) en orden de prueba
+    _GOOD = [None]          # la combinación que funcionó
+    _DIAG = [False]
+
+    def _sessions():
+        if not _SESSIONS:
+            win = _windows_ca_bundle()
+            for imp in ('chrome', 'chrome124', 'safari17_0', 'edge101'):
+                for ver, vname in ((True, 'certs curl'), (win, 'certs Windows')):
+                    try:
+                        _SESSIONS.append((f'{imp} / {vname}', cr.Session(impersonate=imp, verify=ver)))
+                    except Exception:
+                        pass
+        return _SESSIONS
+
     def sget(path):
-        try:
-            r = SESSION.get('https://www.sofascore.com/api/v1' + path, timeout=20)
-            if r.status_code == 200:
-                return r.json()
-            if r.status_code == 404:
-                return None
-        except Exception:
-            pass
-        return _urllib_get(path)  # p. ej. si un antivirus bloquea el certificado
+        url = 'https://www.sofascore.com/api/v1' + path
+        order = ([_GOOD[0]] if _GOOD[0] else []) + [x for x in _sessions() if x is not _GOOD[0]]
+        errs = []
+        for item in order:
+            name, ses = item
+            try:
+                r = ses.get(url, timeout=20, headers={'Referer': 'https://www.sofascore.com/',
+                                                      'Accept': 'application/json'})
+                if r.status_code == 200:
+                    if _GOOD[0] is not item:
+                        print('  SofaScore OK con', name)
+                    _GOOD[0] = item
+                    return r.json()
+                if r.status_code == 404:
+                    return None
+                errs.append(f'{name}: HTTP {r.status_code}')
+            except Exception as ex:
+                errs.append(f'{name}: {str(ex)[:80]}')
+            if _GOOD[0]:
+                break  # ya sabíamos cuál funciona; no probar todas cada vez
+        if not _DIAG[0]:
+            _DIAG[0] = True
+            print('  curl_cffi no pudo con SofaScore:')
+            for e in errs[:8]:
+                print('   -', e)
+        return _urllib_get(path)
 except ImportError:
     sget = _urllib_get
 
