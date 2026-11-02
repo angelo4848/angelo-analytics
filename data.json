@@ -754,8 +754,9 @@
    "liga": "AFC Champions League Elite",
    "local": "Pakhtakor",
    "visitante": "Al-Nassr",
-   "tendencia": "★★★ Gana Al-Nassr · cuota 1,17",
-   "inicio": "2026-11-02T13:45:00+00:00"
+   "tendencia": "★★★ Gana Al-Nassr · cuota 1,17 · ✓ acertado",
+   "inicio": "2026-11-02T13:45:00+00:00",
+   "resultado": "2 - 6"
   },
   {
    "liga": "AFC Champions League Elite",
@@ -887,8 +888,9 @@
    "liga": "Greece: Super League 2",
    "local": "Marko",
    "visitante": "Apollon Pontou",
-   "tendencia": "★★★ Gana Marko · cuota 1,22",
-   "inicio": "2026-11-02T13:00:00+00:00"
+   "tendencia": "★★★ Gana Marko · cuota 1,22 · ✓ acertado",
+   "inicio": "2026-11-02T13:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Hungary: NB II",
@@ -1117,15 +1119,17 @@
    "liga": "Macedonia: First League",
    "local": "Bashkimi Kumanovo",
    "visitante": "Aresimi",
-   "tendencia": "★★★ Aresimi o empate · cuota ~1,31",
-   "inicio": "2026-11-02T13:00:00+00:00"
+   "tendencia": "★★★ Aresimi o empate · cuota ~1,31 · ✗ fallado",
+   "inicio": "2026-11-02T13:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Macedonia: First League",
    "local": "Vardar Skopje",
    "visitante": "Struga",
-   "tendencia": "★★★ Vardar Skopje o empate · cuota ~1,14",
-   "inicio": "2026-11-02T13:00:00+00:00"
+   "tendencia": "★★★ Vardar Skopje o empate · cuota ~1,14 · ✗ fallado",
+   "inicio": "2026-11-02T13:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Montenegro: First League",
@@ -1239,8 +1243,9 @@
    "liga": "Israel: Liga Alef",
    "local": "Tzeirey Tamra",
    "visitante": "Hapoel Ironi Karmiel",
-   "tendencia": "★★★ Gana Hapoel Ironi Karmiel · cuota 1,57",
-   "inicio": "2026-11-02T13:00:00+00:00"
+   "tendencia": "★★★ Gana Hapoel Ironi Karmiel · cuota 1,57 · ✓ acertado",
+   "inicio": "2026-11-02T13:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Israel: Liga Alef",
@@ -1344,8 +1349,9 @@
    "liga": "Kyrgyzstan: Premier League",
    "local": "Abdish-Ata",
    "visitante": "Bishkek City",
-   "tendencia": "★★★ Gana Bishkek City · cuota 1,54",
-   "inicio": "2026-11-02T13:00:00+00:00"
+   "tendencia": "★★★ Gana Bishkek City · cuota 1,54 · ✗ fallado",
+   "inicio": "2026-11-02T13:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Mauritania: Premier League",
