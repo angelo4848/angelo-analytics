@@ -711,8 +711,9 @@
    "liga": "Ukraine: Premier League",
    "local": "Kryvbas KR",
    "visitante": "Dynamo Kyiv",
-   "tendencia": "★★★ Gana Dynamo Kyiv · cuota 1,36",
-   "inicio": "2026-11-02T11:00:00+00:00"
+   "tendencia": "★★★ Gana Dynamo Kyiv · cuota 1,36 · ✓ acertado",
+   "inicio": "2026-11-02T11:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Ukraine: Premier League",
@@ -1006,8 +1007,9 @@
    "liga": "Serbia: Prva Liga",
    "local": "OFK Bor 1919",
    "visitante": "FK Spartak Zdrepceva KRV",
-   "tendencia": "★★★ FK Spartak Zdrepceva KRV o empate · cuota ~1,23",
-   "inicio": "2026-11-02T12:00:00+00:00"
+   "tendencia": "★★★ FK Spartak Zdrepceva KRV o empate · cuota ~1,23 · ✓ acertado",
+   "inicio": "2026-11-02T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Slovenia: 2. SNL",
@@ -1069,8 +1071,9 @@
    "liga": "Albania: Superliga",
    "local": "Vora",
    "visitante": "Dinamo Tirana",
-   "tendencia": "★★★ Dinamo Tirana o empate · cuota ~1,36",
-   "inicio": "2026-11-02T12:30:00+00:00"
+   "tendencia": "★★★ Dinamo Tirana o empate · cuota ~1,36 · ✓ acertado",
+   "inicio": "2026-11-02T12:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Albania: Superliga",
@@ -1098,8 +1101,9 @@
    "liga": "Kenya: FKF Premier League",
    "local": "Tusker",
    "visitante": "Mara Sugar",
-   "tendencia": "★★★ Tusker o empate · cuota ~1,26",
-   "inicio": "2026-11-02T12:00:00+00:00"
+   "tendencia": "★★★ Tusker o empate · cuota ~1,26 · ✓ acertado",
+   "inicio": "2026-11-02T12:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Macedonia: First League",
@@ -1127,22 +1131,25 @@
    "liga": "Montenegro: First League",
    "local": "Mladost DG",
    "visitante": "Sutjeska",
-   "tendencia": "★★★ Sutjeska o empate · cuota ~1,18",
-   "inicio": "2026-11-02T12:00:00+00:00"
+   "tendencia": "★★★ Sutjeska o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-11-02T12:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Thailand: Thai League 1",
    "local": "Chonburi FC",
    "visitante": "BG Pathum United",
-   "tendencia": "★★★ BG Pathum United o empate · cuota ~1,36",
-   "inicio": "2026-11-02T12:00:00+00:00"
+   "tendencia": "★★★ BG Pathum United o empate · cuota ~1,36 · ✗ fallado",
+   "inicio": "2026-11-02T12:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Albania: 1st Division",
    "local": "Sopoti Librazhd",
    "visitante": "Iliria Fushë-Krujë",
-   "tendencia": "★★★ Iliria Fushë-Krujë o empate · cuota ~1,20",
-   "inicio": "2026-11-02T12:30:00+00:00"
+   "tendencia": "★★★ Iliria Fushë-Krujë o empate · cuota ~1,20 · ✓ acertado",
+   "inicio": "2026-11-02T12:30:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Albania: 1st Division",
@@ -1380,8 +1387,9 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Jabalain",
    "visitante": "Al Bukayriyah",
-   "tendencia": "★★★ Gana Al Jabalain · cuota 1,53",
-   "inicio": "2026-11-02T12:30:00+00:00"
+   "tendencia": "★★★ Gana Al Jabalain · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-11-02T12:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Saudi-Arabia: Division 1",
@@ -1429,8 +1437,9 @@
    "liga": "Serbia: Prva Liga",
    "local": "Teleoptik",
    "visitante": "Javor",
-   "tendencia": "★★★ Gana Javor · cuota 1,53",
-   "inicio": "2026-11-02T12:00:00+00:00"
+   "tendencia": "★★★ Gana Javor · cuota 1,53 · ✓ acertado",
+   "inicio": "2026-11-02T12:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Serbia: Prva Liga",
