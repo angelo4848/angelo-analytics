@@ -96,6 +96,8 @@ def find(rows, m):
 
 
 def mark(m, x):
+    if x and 'cuotas' not in m and len(x['odds']) >= 3:
+        m['cuotas'], m['tipo'] = x['odds'][:3], x['tip']
     if not x or not x['score']:
         return False
     t = re.sub(r' · [✓✗] (acertado|fallado)$', '', m['tendencia'])
@@ -136,6 +138,7 @@ def to_match(x, day, pick_names):
     hh = int(x['time'][:2])
     d = day + timedelta(days=1) if hh < 6 else day
     m = dict(liga=x['league'], local=x['home'], visitante=x['away'], tendencia='★★★ ' + k,
+             cuotas=[o1, ox, o2], tipo=x['tip'],
              inicio=f"{d.isoformat()}T{x['time']}:00+00:00")
     if any(same(x['home'], n) for n in pick_names):
         m['pick'] = True

@@ -732,7 +732,13 @@
    "local": "Aarhus",
    "visitante": "SC Braga",
    "tendencia": "★★★ SC Braga o empate · cuota ~1,22",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    4.0,
+    3.6,
+    1.85
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "UEFA Europa Conference League",
@@ -740,105 +746,195 @@
    "visitante": "Kairat Almaty",
    "tendencia": "★★★ Gana Atalanta · cuota 1,10",
    "inicio": "2026-11-05T17:45:00+00:00",
-   "pick": true
+   "pick": true,
+   "cuotas": [
+    1.1,
+    9.0,
+    21.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "FK Crvena Zvezda",
    "visitante": "Inter Club d'Escaldes",
    "tendencia": "★★★ Gana FK Crvena Zvezda · cuota 1,06",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    1.06,
+    13.0,
+    29.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "KuPS",
    "visitante": "Gent",
    "tendencia": "★★★ Gana Gent · cuota 1,62",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    5.25,
+    3.9,
+    1.62
+   ],
+   "tipo": "AWAY WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "Lincoln Red Imps FC",
    "visitante": "HNK Hajduk Split",
    "tendencia": "★★★ Gana HNK Hajduk Split · cuota 1,36",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    8.0,
+    5.0,
+    1.36
+   ],
+   "tipo": "AWAY WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "FC Midtjylland",
    "visitante": "Ajax",
    "tendencia": "★★★ Ajax o empate · cuota ~1,39",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    2.9,
+    3.75,
+    2.2
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "Mjallby AIF",
    "visitante": "Borac Banja Luka",
    "tendencia": "★★★ Mjallby AIF o empate · cuota ~1,35",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    2.2,
+    3.5,
+    3.1
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "FC Copenhagen",
    "visitante": "FC Iberia 1999",
    "tendencia": "★★★ Gana FC Copenhagen · cuota 1,17",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    1.17,
+    6.5,
+    17.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "Getafe",
    "visitante": "Brighton",
    "tendencia": "★★★ Gana Brighton · cuota 1,50",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    7.0,
+    3.9,
+    1.5
+   ],
+   "tipo": "AWAY WIN"
   },
   {
    "liga": "UEFA Europa Conference League",
    "local": "FC Lugano",
    "visitante": "Kauno Žalgiris",
    "tendencia": "★★★ Gana FC Lugano · cuota 1,14",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    1.14,
+    7.5,
+    17.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa League",
    "local": "AC Milan",
    "visitante": "Ferencvarosi TC",
    "tendencia": "★★★ Gana AC Milan · cuota 1,33",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    1.33,
+    5.0,
+    9.5
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Anderlecht",
    "visitante": "Red Bull Salzburg",
    "tendencia": "★★★ Anderlecht o empate · cuota ~1,30",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    2.0,
+    3.75,
+    3.6
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Crystal Palace",
    "visitante": "1899 Hoffenheim",
    "tendencia": "★★★ Crystal Palace o empate · cuota ~1,26",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    1.83,
+    4.0,
+    3.8
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Levski Sofia",
    "visitante": "Jagiellonia",
    "tendencia": "★★★ Levski Sofia o empate · cuota ~1,29",
-   "inicio": "2026-11-05T17:45:00+00:00"
+   "inicio": "2026-11-05T17:45:00+00:00",
+   "cuotas": [
+    2.05,
+    3.5,
+    3.6
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "AZ Alkmaar",
    "visitante": "Juventus",
    "tendencia": "★★★ Juventus o empate · cuota ~1,27",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    3.7,
+    3.75,
+    1.91
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Bayer Leverkusen",
    "visitante": "Marseille",
    "tendencia": "★★★ Gana Bayer Leverkusen · cuota 1,30",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    1.3,
+    6.0,
+    7.5
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa League",
@@ -846,140 +942,260 @@
    "visitante": "Lech Poznan",
    "tendencia": "★★★ Gana Benfica · cuota 1,12",
    "inicio": "2026-11-05T20:00:00+00:00",
-   "pick": true
+   "pick": true,
+   "cuotas": [
+    1.12,
+    9.5,
+    17.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Celta Vigo",
    "visitante": "Union St. Gilloise",
    "tendencia": "★★★ Celta Vigo o empate · cuota ~1,39",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    2.35,
+    3.4,
+    2.9
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Celtic",
    "visitante": "Beşiktaş",
    "tendencia": "★★★ Beşiktaş o empate · cuota ~1,38",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    3.0,
+    3.7,
+    2.2
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "UEFA Europa League",
    "local": "Hapoel Beer Sheva",
    "visitante": "OFI",
    "tendencia": "★★★ Hapoel Beer Sheva o empate · cuota ~1,35",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    2.15,
+    3.6,
+    3.2
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
    "local": "Aldosivi",
    "visitante": "River Plate",
    "tendencia": "★★★ Gana River Plate · cuota 1,42",
-   "inicio": "2026-11-05T18:00:00+00:00"
+   "inicio": "2026-11-05T18:00:00+00:00",
+   "cuotas": [
+    8.0,
+    4.5,
+    1.42
+   ],
+   "tipo": "AWAY WIN"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
    "local": "Gimnasia L.P.",
    "visitante": "Belgrano Cordoba",
    "tendencia": "★★★ Gimnasia L.P. o empate · cuota ~1,29",
-   "inicio": "2026-11-05T22:15:00+00:00"
+   "inicio": "2026-11-05T22:15:00+00:00",
+   "cuotas": [
+    2.25,
+    3.0,
+    3.2
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Brazil: Serie A",
    "local": "Palmeiras",
    "visitante": "Remo",
    "tendencia": "★★★ Gana Palmeiras · cuota 1,22",
-   "inicio": "2026-11-05T22:30:00+00:00"
+   "inicio": "2026-11-05T22:30:00+00:00",
+   "cuotas": [
+    1.22,
+    6.5,
+    12.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "Costa-Rica: Primera División",
    "local": "Inter San Carlos",
    "visitante": "CS Cartagines",
    "tendencia": "★★★ CS Cartagines o empate · cuota ~1,35",
-   "inicio": "2026-11-05T23:00:00+00:00"
+   "inicio": "2026-11-05T23:00:00+00:00",
+   "cuotas": [
+    3.0,
+    3.4,
+    2.25
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "Honduras: Liga Nacional",
    "local": "Génesis",
    "visitante": "Real Espana",
    "tendencia": "★★★ Real Espana o empate · cuota ~1,26",
-   "inicio": "2026-11-05T21:00:00+00:00"
+   "inicio": "2026-11-05T21:00:00+00:00",
+   "cuotas": [
+    3.2,
+    3.3,
+    2.05
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "Honduras: Liga Nacional",
    "local": "Atlético Choloma",
    "visitante": "Atletico Independiente",
    "tendencia": "★★★ Atlético Choloma o empate · cuota ~1,21",
-   "inicio": "2026-11-05T23:15:00+00:00"
+   "inicio": "2026-11-05T23:15:00+00:00",
+   "cuotas": [
+    1.85,
+    3.5,
+    3.4
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Bolivia: Copa de la División Profesional",
    "local": "Bolívar",
    "visitante": "Real Potosí",
    "tendencia": "★★★ Gana Bolívar · cuota 1,20",
-   "inicio": "2026-11-05T23:00:00+00:00"
+   "inicio": "2026-11-05T23:00:00+00:00",
+   "cuotas": [
+    1.2,
+    6.0,
+    10.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "Brazil: Serie B",
    "local": "Botafogo SP",
    "visitante": "Londrina",
    "tendencia": "★★★ Gana Botafogo SP · cuota 1,62",
-   "inicio": "2026-11-05T22:30:00+00:00"
+   "inicio": "2026-11-05T22:30:00+00:00",
+   "cuotas": [
+    1.62,
+    3.7,
+    5.5
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "Chile: Copa Chile",
    "local": "Universidad de Chile",
    "visitante": "Antofagasta",
    "tendencia": "★★★ Gana Universidad de Chile · cuota 1,38",
-   "inicio": "2026-11-05T22:00:00+00:00"
+   "inicio": "2026-11-05T22:00:00+00:00",
+   "cuotas": [
+    1.38,
+    4.75,
+    5.5
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "Cyprus: Cup",
    "local": "Omonia 29is Maiou",
    "visitante": "Polemidion",
    "tendencia": "★★★ Gana Omonia 29is Maiou · cuota 1,17",
-   "inicio": "2026-11-05T18:00:00+00:00"
+   "inicio": "2026-11-05T18:00:00+00:00",
+   "cuotas": [
+    1.17,
+    7.5,
+    12.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "France: Ligue 3",
    "local": "Valenciennes",
    "visitante": "Orleans",
    "tendencia": "★★★ Valenciennes o empate · cuota ~1,37",
-   "inicio": "2026-11-05T19:45:00+00:00"
+   "inicio": "2026-11-05T19:45:00+00:00",
+   "cuotas": [
+    2.38,
+    3.25,
+    2.62
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Ivory-Coast: Ligue 1",
    "local": "ISCA",
    "visitante": "ASEC Mimosas",
    "tendencia": "★★★ ASEC Mimosas o empate · cuota ~1,14",
-   "inicio": "2026-11-05T18:00:00+00:00"
+   "inicio": "2026-11-05T18:00:00+00:00",
+   "cuotas": [
+    4.33,
+    3.1,
+    1.8
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "Jamaica: Premier League",
    "local": "Portmore United",
    "visitante": "Treasure Beach",
    "tendencia": "★★★ Gana Portmore United · cuota 1,28",
-   "inicio": "2026-11-05T20:00:00+00:00"
+   "inicio": "2026-11-05T20:00:00+00:00",
+   "cuotas": [
+    1.28,
+    4.5,
+    8.0
+   ],
+   "tipo": "HOME WIN"
   },
   {
    "liga": "Paraguay: Division Profesional - Clausura",
    "local": "Rubio NU",
    "visitante": "Sportivo Luqueno",
    "tendencia": "★★★ Rubio NU o empate · cuota ~1,25",
-   "inicio": "2026-11-05T22:00:00+00:00"
+   "inicio": "2026-11-05T22:00:00+00:00",
+   "cuotas": [
+    2.1,
+    3.1,
+    3.2
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Uruguay: Copa Uruguay",
    "local": "Lito",
    "visitante": "Wanderers",
    "tendencia": "★★★ Wanderers o empate · cuota ~1,21",
-   "inicio": "2026-11-05T19:00:00+00:00"
+   "inicio": "2026-11-05T19:00:00+00:00",
+   "cuotas": [
+    3.6,
+    3.2,
+    1.95
+   ],
+   "tipo": "AWAY DC"
   },
   {
    "liga": "Uruguay: Copa Uruguay",
    "local": "Gladiador",
    "visitante": "Liverpool Montevideo",
    "tendencia": "★★★ Gana Liverpool Montevideo · cuota 1,20",
-   "inicio": "2026-11-05T21:00:00+00:00"
+   "inicio": "2026-11-05T21:00:00+00:00",
+   "cuotas": [
+    11.0,
+    6.0,
+    1.2
+   ],
+   "tipo": "AWAY WIN"
   },
   {
    "liga": "England: Premier League",
