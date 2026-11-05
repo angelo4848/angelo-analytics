@@ -1,10 +1,10 @@
 name: Pick del día al bot
 
-# Cada mañana arma el pick (2 partidos "a ganar" de las ligas con más acierto, cuota ≥ 1,80)
+# Cada noche, tras el cierre de las 01:20, arma el pick (2 partidos "a ganar" de las ligas con más acierto, cuota ≥ 1,80)
 # desde app.csv y lo manda a tu bot de Telegram. Sin Claude.
 on:
   schedule:
-    - cron: '37 9 * * *'   # ~09:37 Lisboa (10:37 en verano)
+    - cron: '45 1 * * *'   # ~01:45 Lisboa, justo después del cierre diario (02:45 en verano)
   workflow_dispatch:
 
 permissions:
@@ -34,7 +34,9 @@ jobs:
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python3 tools/daily_pick.py send
+        run: |
+          python3 tools/daily_pick.py check || true
+          python3 tools/daily_pick.py send
       - name: Guardar
         run: |
           git add bot_pick.json data.json
