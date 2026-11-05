@@ -1,0 +1,395 @@
+{
+ "futbol": {
+  "partidos": 35226,
+  "temporadas": [
+   "2122",
+   "2223",
+   "2324",
+   "2425",
+   "2526",
+   "2627"
+  ],
+  "F1_favorito": {
+   "1,21-1,35": {
+    "n": 1698,
+    "acierto": 77.4,
+    "cuota_media": 1.28,
+    "roi": -0.68,
+    "beneficio_u": -11.5,
+    "max_caida_u": 22.8,
+    "peor_racha": 6
+   },
+   "todos": {
+    "n": 5545,
+    "acierto": 74.8,
+    "cuota_media": 1.34,
+    "roi": -0.94,
+    "beneficio_u": -52.2,
+    "max_caida_u": 93.5,
+    "peor_racha": 5
+   },
+   "1,36-1,50": {
+    "n": 2840,
+    "acierto": 69.1,
+    "cuota_media": 1.43,
+    "roi": -1.13,
+    "beneficio_u": -32.2,
+    "max_caida_u": 73.3,
+    "peor_racha": 6
+   },
+   "≤1,20": {
+    "n": 1007,
+    "acierto": 86.3,
+    "cuota_media": 1.15,
+    "roi": -0.84,
+    "beneficio_u": -8.5,
+    "max_caida_u": 14.3,
+    "peor_racha": 3
+   }
+  },
+  "F2_valor_1x2": {
+   "margen 0%": {
+    "n": 3996,
+    "acierto": 26.8,
+    "cuota_media": 4.56,
+    "roi": -0.59,
+    "beneficio_u": -23.4,
+    "max_caida_u": 104.1,
+    "peor_racha": 16
+   },
+   "margen 2%": {
+    "n": 1608,
+    "acierto": 24.4,
+    "cuota_media": 5.41,
+    "roi": -1.39,
+    "beneficio_u": -22.4,
+    "max_caida_u": 68.6,
+    "peor_racha": 23
+   },
+   "margen 5%": {
+    "n": 520,
+    "acierto": 22.9,
+    "cuota_media": 7.1,
+    "roi": 5.5,
+    "beneficio_u": 28.6,
+    "max_caida_u": 37.7,
+    "peor_racha": 21
+   },
+   "margen 8%": {
+    "n": 220,
+    "acierto": 18.6,
+    "cuota_media": 8.2,
+    "roi": 6.12,
+    "beneficio_u": 13.5,
+    "max_caida_u": 26.0,
+    "peor_racha": 19
+   }
+  },
+  "F2_por_cuota_margen2": {
+   "3,00+": {
+    "n": 1477,
+    "acierto": 23.0,
+    "cuota_media": 5.68,
+    "roi": -1.07,
+    "beneficio_u": -15.7,
+    "max_caida_u": 61.5,
+    "peor_racha": 23
+   },
+   "<1,80": {
+    "n": 11,
+    "acierto": 36.4,
+    "cuota_media": 1.53,
+    "roi": -46.27,
+    "beneficio_u": -5.1,
+    "max_caida_u": 5.1,
+    "peor_racha": 5
+   },
+   "1,80-2,99": {
+    "n": 120,
+    "acierto": 40.8,
+    "cuota_media": 2.47,
+    "roi": -1.28,
+    "beneficio_u": -1.5,
+    "max_caida_u": 12.8,
+    "peor_racha": 10
+   }
+  },
+  "F2_por_liga_margen2": {
+   "Alemania 1": {
+    "n": 67,
+    "acierto": 16.4,
+    "cuota_media": 6.68,
+    "roi": -13.94,
+    "beneficio_u": -9.3,
+    "max_caida_u": 20.4,
+    "peor_racha": 11
+   },
+   "Alemania 2": {
+    "n": 67,
+    "acierto": 28.4,
+    "cuota_media": 4.31,
+    "roi": -2.76,
+    "beneficio_u": -1.8,
+    "max_caida_u": 16.8,
+    "peor_racha": 11
+   },
+   "Bélgica 1": {
+    "n": 79,
+    "acierto": 24.1,
+    "cuota_media": 5.11,
+    "roi": -5.37,
+    "beneficio_u": -4.2,
+    "max_caida_u": 15.0,
+    "peor_racha": 15
+   },
+   "Escocia 1": {
+    "n": 61,
+    "acierto": 18.0,
+    "cuota_media": 7.83,
+    "roi": -16.79,
+    "beneficio_u": -10.2,
+    "max_caida_u": 25.1,
+    "peor_racha": 17
+   },
+   "España 1": {
+    "n": 46,
+    "acierto": 21.7,
+    "cuota_media": 5.61,
+    "roi": -11.2,
+    "beneficio_u": -5.2,
+    "max_caida_u": 16.6,
+    "peor_racha": 8
+   },
+   "España 2": {
+    "n": 122,
+    "acierto": 35.2,
+    "cuota_media": 3.65,
+    "roi": 12.76,
+    "beneficio_u": 15.6,
+    "max_caida_u": 10.6,
+    "peor_racha": 7
+   },
+   "Francia 1": {
+    "n": 58,
+    "acierto": 13.8,
+    "cuota_media": 6.68,
+    "roi": -46.76,
+    "beneficio_u": -27.1,
+    "max_caida_u": 32.2,
+    "peor_racha": 17
+   },
+   "Francia 2": {
+    "n": 109,
+    "acierto": 26.6,
+    "cuota_media": 3.61,
+    "roi": -12.44,
+    "beneficio_u": -13.6,
+    "max_caida_u": 23.6,
+    "peor_racha": 13
+   },
+   "Grecia 1": {
+    "n": 175,
+    "acierto": 24.0,
+    "cuota_media": 6.61,
+    "roi": 7.55,
+    "beneficio_u": 13.2,
+    "max_caida_u": 14.7,
+    "peor_racha": 11
+   },
+   "Holanda 1": {
+    "n": 132,
+    "acierto": 23.5,
+    "cuota_media": 6.76,
+    "roi": 24.25,
+    "beneficio_u": 32.0,
+    "max_caida_u": 18.6,
+    "peor_racha": 10
+   },
+   "Inglaterra 1": {
+    "n": 57,
+    "acierto": 8.8,
+    "cuota_media": 8.09,
+    "roi": -40.61,
+    "beneficio_u": -23.2,
+    "max_caida_u": 36.0,
+    "peor_racha": 36
+   },
+   "Inglaterra 2": {
+    "n": 87,
+    "acierto": 35.6,
+    "cuota_media": 4.42,
+    "roi": 34.45,
+    "beneficio_u": 30.0,
+    "max_caida_u": 10.9,
+    "peor_racha": 8
+   },
+   "Inglaterra 3": {
+    "n": 138,
+    "acierto": 21.7,
+    "cuota_media": 4.7,
+    "roi": -10.36,
+    "beneficio_u": -14.3,
+    "max_caida_u": 31.2,
+    "peor_racha": 13
+   },
+   "Inglaterra 4": {
+    "n": 109,
+    "acierto": 23.9,
+    "cuota_media": 4.46,
+    "roi": -0.28,
+    "beneficio_u": -0.3,
+    "max_caida_u": 19.5,
+    "peor_racha": 14
+   },
+   "Italia 1": {
+    "n": 59,
+    "acierto": 23.7,
+    "cuota_media": 5.74,
+    "roi": -2.07,
+    "beneficio_u": -1.2,
+    "max_caida_u": 25.2,
+    "peor_racha": 12
+   },
+   "Italia 2": {
+    "n": 100,
+    "acierto": 35.0,
+    "cuota_media": 3.61,
+    "roi": 18.31,
+    "beneficio_u": 18.3,
+    "max_caida_u": 10.8,
+    "peor_racha": 7
+   },
+   "Portugal 1": {
+    "n": 75,
+    "acierto": 17.3,
+    "cuota_media": 6.94,
+    "roi": -43.29,
+    "beneficio_u": -32.5,
+    "max_caida_u": 32.7,
+    "peor_racha": 21
+   },
+   "Turquía 1": {
+    "n": 67,
+    "acierto": 22.4,
+    "cuota_media": 5.26,
+    "roi": 17.16,
+    "beneficio_u": 11.5,
+    "max_caida_u": 15.0,
+    "peor_racha": 15
+   }
+  },
+  "F3_valor_goles": {
+   "margen 0%": {
+    "n": 866,
+    "acierto": 41.0,
+    "cuota_media": 2.61,
+    "roi": -2.73,
+    "beneficio_u": -23.7,
+    "max_caida_u": 56.3,
+    "peor_racha": 14
+   },
+   "margen 2%": {
+    "n": 416,
+    "acierto": 37.7,
+    "cuota_media": 2.82,
+    "roi": -5.22,
+    "beneficio_u": -21.7,
+    "max_caida_u": 44.9,
+    "peor_racha": 17
+   },
+   "margen 5%": {
+    "n": 160,
+    "acierto": 33.8,
+    "cuota_media": 3.16,
+    "roi": -6.06,
+    "beneficio_u": -9.7,
+    "max_caida_u": 13.8,
+    "peor_racha": 8
+   },
+   "margen 8%": {
+    "n": 86,
+    "acierto": 30.2,
+    "cuota_media": 3.63,
+    "roi": -4.15,
+    "beneficio_u": -3.6,
+    "max_caida_u": 14.6,
+    "peor_racha": 10
+   }
+  },
+  "descanso_0_0": {
+   "España 2": {
+    "pct": 36.0,
+    "n": 2441
+   },
+   "Francia 2": {
+    "pct": 34.1,
+    "n": 1847
+   },
+   "España 1": {
+    "pct": 32.7,
+    "n": 2009
+   },
+   "Inglaterra 4": {
+    "pct": 31.3,
+    "n": 2924
+   },
+   "Inglaterra 2": {
+    "pct": 31.2,
+    "n": 2928
+   },
+   "Portugal 1": {
+    "pct": 31.0,
+    "n": 1620
+   },
+   "Italia 2": {
+    "pct": 30.4,
+    "n": 2000
+   },
+   "Grecia 1": {
+    "pct": 30.3,
+    "n": 1250
+   },
+   "Italia 1": {
+    "pct": 30.1,
+    "n": 2000
+   },
+   "Inglaterra 3": {
+    "pct": 29.7,
+    "n": 2918
+   },
+   "Francia 1": {
+    "pct": 28.1,
+    "n": 1759
+   },
+   "Turquía 1": {
+    "pct": 26.9,
+    "n": 1809
+   },
+   "Inglaterra 1": {
+    "pct": 26.8,
+    "n": 1990
+   },
+   "Alemania 2": {
+    "pct": 26.5,
+    "n": 1620
+   },
+   "Bélgica 1": {
+    "pct": 26.2,
+    "n": 1632
+   },
+   "Escocia 1": {
+    "pct": 25.7,
+    "n": 1209
+   },
+   "Holanda 1": {
+    "pct": 24.6,
+    "n": 1629
+   },
+   "Alemania 1": {
+    "pct": 22.9,
+    "n": 1601
+   }
+  }
+ },
+ "tenis": {}
+}
