@@ -37,7 +37,7 @@ jobs:
         run: python3 tools/daily_pick.py send
       - name: Guardar
         run: |
-          git add bot_pick.json
+          git add bot_pick.json data.json
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "A. Analytics bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

@@ -290,6 +290,40 @@
      "resultado": "1 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-05",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.98,
+   "patas": [
+    {
+     "liga": "Brazil: Serie A",
+     "hora": "22:30",
+     "partido": "Palmeiras vs Remo",
+     "mercado": "Victoria Palmeiras",
+     "cuota": 1.22,
+     "estado": "pendiente",
+     "analisis": [
+      "En esta liga nuestro modelo acierta el 90% (a ganar, 10 partidos)",
+      "Pronóstico ★★★ del modelo · cuota 1,22",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "Brazil: Serie B",
+     "hora": "22:30",
+     "partido": "Botafogo SP vs Londrina",
+     "mercado": "Victoria Botafogo SP",
+     "cuota": 1.62,
+     "estado": "pendiente",
+     "analisis": [
+      "En esta liga nuestro modelo acierta el 64% (a ganar, 11 partidos)",
+      "Pronóstico ★★★ del modelo · cuota 1,62",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [

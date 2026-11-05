@@ -128,6 +128,31 @@ def message(best):
     return '\n'.join(out)
 
 
+DATA = os.path.join(ROOT, 'data.json')
+
+
+def to_app(legs, tot):
+    """Publica el pick en la app (data.json -> picks) si ese día aún no tiene uno."""
+    d = json.load(open(DATA, encoding='utf-8'))
+    fecha = legs[0]['Fecha']
+    if any(p['fecha'] == fecha for p in d.get('picks', [])):
+        return False
+    patas = []
+    for l in sorted(legs, key=lambda x: x['Hora']):
+        pron = l['Pronóstico']
+        mercado = 'Victoria ' + pron[5:] if pron.startswith('Gana ') else pron
+        tipo = 'a ganar' if kind(l) == 'gana' else 'doble oportunidad'
+        patas.append({'liga': l['Liga'], 'hora': l['Hora'], 'partido': f"{l['Local']} vs {l['Visitante']}",
+                      'mercado': mercado, 'cuota': round(float(l['Cuota']), 2), 'estado': 'pendiente',
+                      'analisis': [f"En esta liga nuestro modelo acierta el {l['rate'] * 100:.0f}% ({tipo}, {l['n']} partidos)",
+                                   f"Pronóstico ★★★ del modelo · cuota {f2(float(l['Cuota']))}",
+                                   'Elegido por el pick automático: la combinación más segura del día']})
+    d['picks'].append({'fecha': fecha, 'titulo': 'Combinada del día', 'estado': 'pendiente',
+                       'cuota_total': round(tot, 2), 'patas': patas})
+    json.dump(d, open(DATA, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+    return True
+
+
 def send():
     rs = rows()
     best = build(rs)
@@ -160,6 +185,7 @@ def send():
             print('Imagen no enviada:', ex)
         if not sent:
             tg('sendMessage', chat_id=cid, text=msg, parse_mode='HTML')
+        print('Publicado en la app:', to_app(best[1], best[2]))
         state = {'fecha': today, 'cuota': round(best[2], 2), 'avisado': False,
                  'legs': [{k: l[k] for k in ('Fecha', 'Local', 'Visitante', 'Liga', 'Pronóstico', 'Cuota')}
                           for l in best[1]]}
