@@ -6,10 +6,11 @@
   python3 tools/daily_pick.py preview -> muestra el pick en pantalla sin mandarlo
 
 Reglas:
-  · 2 partidos de HOY de ligas distintas que empiecen dentro de ≥ 45 min
-  · prioridad: "Gana X" en las ligas con mejor % de acierto en el registro (mín. 5 partidos)
-  · cuota combinada ≥ 1,80 (y ≤ 2,60); si no hay con "Gana", se permite una doble oportunidad
-  · se elige la pareja con mayor probabilidad conjunta (acierto liga × acierto liga)
+  · partidos de HOY de ligas distintas que empiecen dentro de ≥ 45 min
+  · "Gana X" o doble oportunidad, lo que sea más seguro según el % de acierto del registro
+    (por liga y tipo de pronóstico; mín. 5 partidos)
+  · cuota combinada entre 1,80 y 2,10 · 2 partidos (3 solo si con 2 no se llega)
+  · se elige la combinación con mayor probabilidad conjunta
 """
 import csv, io, json, os, sys, urllib.parse, urllib.request
 from datetime import datetime, timedelta
@@ -22,7 +23,7 @@ sys.path.insert(0, HERE)
 TZ = ZoneInfo('Europe/Lisbon')
 CSV = os.path.join(ROOT, 'app.csv')
 STATE = os.path.join(ROOT, 'bot_pick.json')
-MIN_N, MIN_TOTAL, MAX_TOTAL = 5, 1.80, 2.60
+MIN_N, MIN_TOTAL, MAX_TOTAL = 5, 1.80, 2.10
 TOKEN = os.environ.get('TELEGRAM_TOKEN', '').strip()
 
 
@@ -50,16 +51,24 @@ def rows():
         return list(csv.DictReader(f))
 
 
+def kind(r):
+    return 'gana' if r['Pronóstico'].startswith('Gana ') else 'doble'
+
+
 def league_stats(rs):
+    """Acierto por liga y por liga+tipo (gana / doble oportunidad)."""
     st = {}
     for r in rs:
         if r['Ganado (1/0)'] in ('0', '1'):
-            n, g = st.get(r['Liga'], (0, 0))
-            st[r['Liga']] = (n + 1, g + int(r['Ganado (1/0)']))
+            for k in (r['Liga'], (r['Liga'], kind(r))):
+                n, g = st.get(k, (0, 0))
+                st[k] = (n + 1, g + int(r['Ganado (1/0)']))
     return {k: (n, g / n) for k, (n, g) in st.items() if n >= MIN_N}
 
 
 def build(rs, now=None):
+    """La combinación MÁS SEGURA (mayor probabilidad conjunta) con cuota total entre 1,80 y el máximo.
+    Vale "Gana X" o doble oportunidad. 2 partidos; 3 solo si con 2 no se llega a 1,80."""
     now = now or datetime.now(TZ)
     today = now.strftime('%Y-%m-%d')
     stats = league_stats(rs)
@@ -70,20 +79,23 @@ def build(rs, now=None):
         start = datetime.strptime(f"{r['Fecha']} {r['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
         if start < now + timedelta(minutes=45):
             continue
-        n, rate = stats[r['Liga']]
-        cands.append(dict(r, n=n, rate=rate, cuota=float(r['Cuota']), gana=r['Pronóstico'].startswith('Gana ')))
+        # si hay datos suficientes de ese tipo de pronóstico en la liga, se usa ese %; si no, el de la liga
+        n, rate = stats.get((r['Liga'], kind(r))) or stats[r['Liga']]
+        cands.append(dict(r, n=n, rate=rate, cuota=float(r['Cuota'])))
     best = None
-    for only_win in (True, False):
-        pool = [c for c in cands if c['gana']] if only_win else cands
-        for a, b in combinations(pool, 2):
-            tot = a['cuota'] * b['cuota']
-            if a['Liga'] == b['Liga'] or not (MIN_TOTAL <= tot <= MAX_TOTAL):
+    for size in (2, 3):
+        for legs in combinations(cands, size):
+            if len({l['Liga'] for l in legs}) < size:
                 continue
-            if not only_win and not (a['gana'] or b['gana']):
-                continue  # al menos una pata "a ganar"
-            score = (a['rate'] * b['rate'], min(a['n'], b['n']))
+            tot, prob = 1.0, 1.0
+            for l in legs:
+                tot *= l['cuota']
+                prob *= l['rate']
+            if not (MIN_TOTAL <= tot <= MAX_TOTAL):
+                continue
+            score = (prob, min(l['n'] for l in legs))
             if not best or score > best[0]:
-                best = (score, [a, b], tot)
+                best = (score, list(legs), tot)
         if best:
             break
     return best
@@ -101,8 +113,11 @@ def message(best):
         out += [f"{i}️⃣ <b>{l['Local']} vs {l['Visitante']}</b>",
                 f"🏆 {l['Liga']} · ⏰ {l['Hora']}",
                 f"✅ <b>{l['Pronóstico']}</b> · cuota {f2(l['cuota'])}",
-                f"📊 Esta liga acierta el {l['rate'] * 100:.0f}% en el registro ({l['n']} partidos)", '']
-    prob = legs[0]['rate'] * legs[1]['rate']
+                f"📊 Acierto en esta liga ({'a ganar' if kind(l) == 'gana' else 'doble oportunidad'}): "
+                f"{l['rate'] * 100:.0f}% ({l['n']} partidos)", '']
+    prob = 1.0
+    for l in legs:
+        prob *= l['rate']
     out += [f"💰 <b>Cuota combinada: {f2(tot)}</b>",
             f"📈 Probabilidad estimada: {prob * 100:.0f}%",
             '💶 Stake 10 € · revisa la cuota en tu casa de apuestas antes de entrar',

@@ -123,21 +123,22 @@ def make_pick_image(legs, total, titulo='Pick del día'):
     hoy = dt.datetime.now()
     d.text((70, 300), f"{DIAS[hoy.weekday()]} {hoy:%d/%m/%Y} · Combinada", font=font(30), fill=MUTED)
     y = 370
+    ch, gap = (230, 260) if len(legs) <= 2 else (200, 215)
     for local, visit, liga, hora, mercado, cuota in legs[:3]:
-        d.rounded_rectangle([70, y, 1010, y + 230], radius=28, fill=CARD, outline=(52, 68, 94), width=2)
+        d.rounded_rectangle([70, y, 1010, y + ch], radius=28, fill=CARD, outline=(52, 68, 94), width=2)
         d.text((112, y + 30), f"{hora} · {clean(liga)}", font=fit(d, f"{hora} · {clean(liga)}", 28, 640, False), fill=MUTED)
         match = f"{clean(local)} vs {clean(visit)}"
         d.text((112, y + 78), match, font=fit(d, match, 44, 640), fill=WHITE)
         d.text((112, y + 148), clean(mercado), font=fit(d, clean(mercado), 32, 640, False), fill=(219, 230, 245))
         txt = f"{cuota:.2f}".replace('.', ',')
         fo = font(64, True)
-        d.text((975 - d.textlength(txt, font=fo), y + 80), txt, font=fo, fill=GREEN)
-        y += 260
+        d.text((975 - d.textlength(txt, font=fo), y + 80 - (230 - ch) // 2), txt, font=fo, fill=GREEN)
+        y += gap
     sub = 'CUOTA TOTAL · STAKE 10 €'
     ft = font(34)
     d.text(((W - d.textlength(sub, font=ft)) / 2, y + 10), sub, font=ft, fill=MUTED)
     big = f"{total:.2f}".replace('.', ',')
-    fbig = font(130, True)
+    fbig = font(130 if len(legs) <= 2 else 100, True)
     d.text(((W - d.textlength(big, font=fbig)) / 2, y + 55), big, font=fbig, fill=GREEN)
     foot = '+18. Apuesta con responsabilidad.'
     ff = font(28)
