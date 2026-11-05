@@ -105,6 +105,48 @@ if __name__ == '__main__':
     open('prueba_live2.png', 'wb').write(make_live_image('J1 League (Japan)', 40, '0-0', 'Machida Zelvia', 'Gamba Osaka', 'Victoria Machida Zelvia', 2.2))
 
 
+def make_pick_image(legs, total, titulo='Pick del día'):
+    """legs = [(local, visitante, liga, hora, mercado, cuota), ...] -> PNG 1080x1350."""
+    im = Image.new('RGB', (W, H), BG)
+    d = ImageDraw.Draw(im)
+    for i in range(0, W, 60):
+        d.line([(i, 0), (i, H)], fill=GRID, width=1)
+    for j in range(0, H, 60):
+        d.line([(0, j), (W, j)], fill=GRID, width=1)
+    d.line([(0, 1180), (180, 1120), (340, 1140), (520, 1040), (700, 1070), (880, 960), (1080, 900)],
+           fill=(20, 72, 68), width=8, joint='curve')
+    logo(d, 70, 60, 96)
+    fb = font(46, True)
+    d.text((188, 82), 'A.', font=fb, fill=WHITE)
+    d.text((188 + d.textlength('A. ', font=fb), 82), 'ANALYTICS', font=fb, fill=GREEN)
+    d.text((70, 205), titulo, font=font(74, True), fill=WHITE)
+    hoy = dt.datetime.now()
+    d.text((70, 300), f"{DIAS[hoy.weekday()]} {hoy:%d/%m/%Y} · Combinada", font=font(30), fill=MUTED)
+    y = 370
+    for local, visit, liga, hora, mercado, cuota in legs[:3]:
+        d.rounded_rectangle([70, y, 1010, y + 230], radius=28, fill=CARD, outline=(52, 68, 94), width=2)
+        d.text((112, y + 30), f"{hora} · {clean(liga)}", font=fit(d, f"{hora} · {clean(liga)}", 28, 640, False), fill=MUTED)
+        match = f"{clean(local)} vs {clean(visit)}"
+        d.text((112, y + 78), match, font=fit(d, match, 44, 640), fill=WHITE)
+        d.text((112, y + 148), clean(mercado), font=fit(d, clean(mercado), 32, 640, False), fill=(219, 230, 245))
+        txt = f"{cuota:.2f}".replace('.', ',')
+        fo = font(64, True)
+        d.text((975 - d.textlength(txt, font=fo), y + 80), txt, font=fo, fill=GREEN)
+        y += 260
+    sub = 'CUOTA TOTAL · STAKE 10 €'
+    ft = font(34)
+    d.text(((W - d.textlength(sub, font=ft)) / 2, y + 10), sub, font=ft, fill=MUTED)
+    big = f"{total:.2f}".replace('.', ',')
+    fbig = font(130, True)
+    d.text(((W - d.textlength(big, font=fbig)) / 2, y + 55), big, font=fbig, fill=GREEN)
+    foot = '+18. Apuesta con responsabilidad.'
+    ff = font(28)
+    d.text(((W - d.textlength(foot, font=ff)) / 2, 1268), foot, font=ff, fill=MUTED)
+    buf = io.BytesIO()
+    im.save(buf, 'PNG', optimize=True)
+    return buf.getvalue()
+
+
 def send_photo(token, chat_id, png, caption='', markup=None):
     """Envía una imagen PNG por Telegram (multipart, sin dependencias extra)."""
     import json, urllib.request, uuid

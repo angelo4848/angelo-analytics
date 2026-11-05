@@ -1,0 +1,45 @@
+name: Pick del día al bot
+
+# Cada mañana arma el pick (2 partidos "a ganar" de las ligas con más acierto, cuota ≥ 1,80)
+# desde app.csv y lo manda a tu bot de Telegram. Sin Claude.
+on:
+  schedule:
+    - cron: '37 9 * * *'   # ~09:37 Lisboa (10:37 en verano)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: app-update
+  cancel-in-progress: false
+
+jobs:
+  pick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install --quiet pillow
+      - name: Chat del bot
+        uses: actions/cache/restore@v4
+        with:
+          path: bot_state.json
+          key: bot-state-pick-${{ github.run_id }}
+          restore-keys: bot-state-
+      - name: Armar y enviar el pick
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python3 tools/daily_pick.py send
+      - name: Guardar
+        run: |
+          git add bot_pick.json
+          if git diff --cached --quiet; then exit 0; fi
+          git config user.name "A. Analytics bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Pick del día (bot) $(TZ=Europe/Lisbon date +%F)"
+          for i in 1 2 3; do git pull --rebase -q && git push && break; sleep 5; done
