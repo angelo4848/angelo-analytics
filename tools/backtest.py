@@ -30,7 +30,9 @@ EDGES = [0.0, 0.02, 0.05, 0.08]
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+    req = urllib.request.Request(url, headers={
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+        'Accept': '*/*', 'Referer': 'http://www.tennis-data.co.uk/alldata.php'})
     with urllib.request.urlopen(req, timeout=60) as r:
         return r.read()
 
@@ -154,10 +156,14 @@ def tennis():
     frames = []
     for y in TENNIS_YEARS:
         for tour, path in (('ATP', f'{y}/{y}.xlsx'), ('WTA', f'{y}w/{y}.xlsx')):
-            try:
-                df = pd.read_excel(io.BytesIO(fetch(f'http://www.tennis-data.co.uk/{path}')))
-            except Exception as ex:
-                print('sin datos tenis', tour, y, ex)
+            df = None
+            for base in ('https://www.tennis-data.co.uk/', 'http://www.tennis-data.co.uk/', 'http://tennis-data.co.uk/'):
+                try:
+                    df = pd.read_excel(io.BytesIO(fetch(base + path)))
+                    break
+                except Exception as ex:
+                    print('sin datos tenis', tour, y, base, ex)
+            if df is None:
                 continue
             df['tour'] = tour
             frames.append(df)
