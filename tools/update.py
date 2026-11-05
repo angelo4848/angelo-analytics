@@ -6,7 +6,7 @@ Uso:
   python3 tools/update.py close     -> cierre diario: resultados de AYER, historial,
                                        limpieza y carga de partidos de HOY y MAÑANA
 Necesita: pip install beautifulsoup4 (y acceso de red a oddslot.com).
-Las patas de los picks NO se evalúan aquí (lo hace quien ejecuta la tarea).
+Las patas de los picks las evalúa tools/picks.py (marcadores de ESPN).
 """
 import json, re, sys, unicodedata, urllib.request
 from datetime import datetime, timedelta

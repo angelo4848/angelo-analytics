@@ -258,7 +258,7 @@
   {
    "fecha": "2026-11-02",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "perdida",
    "cuota_total": 1.71,
    "patas": [
     {
@@ -267,12 +267,13 @@
      "partido": "Atalanta vs Parma",
      "mercado": "Victoria Atalanta",
      "cuota": 1.5,
-     "estado": "pendiente",
+     "estado": "perdida",
      "analisis": [
       "Partido oficial de Serie A: Atalanta necesita los puntos y sale con su once titular",
       "Atalanta es muy fuerte en casa y Parma es de los más flojos fuera",
       "Gran diferencia de plantilla entre los dos equipos"
-     ]
+     ],
+     "resultado": "0 - 3"
     },
     {
      "liga": "Liga Portugal",
@@ -280,12 +281,13 @@
      "partido": "Benfica vs Alverca",
      "mercado": "Victoria Benfica",
      "cuota": 1.14,
-     "estado": "pendiente",
+     "estado": "ganada",
      "analisis": [
       "Benfica pelea por el título y no puede dejar escapar puntos en casa",
       "Alverca es recién ascendido y de los equipos más débiles de la liga",
       "Partido de liga con el once principal de Benfica"
-     ]
+     ],
+     "resultado": "1 - 0"
     }
    ]
   }
