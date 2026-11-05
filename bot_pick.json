@@ -1,0 +1,23 @@
+{
+ "fecha": "2026-11-05",
+ "cuota": 1.98,
+ "avisado": false,
+ "legs": [
+  {
+   "Fecha": "2026-11-05",
+   "Local": "Palmeiras",
+   "Visitante": "Remo",
+   "Liga": "Brazil: Serie A",
+   "Pronóstico": "Gana Palmeiras",
+   "Cuota": "1.22"
+  },
+  {
+   "Fecha": "2026-11-05",
+   "Local": "Botafogo SP",
+   "Visitante": "Londrina",
+   "Liga": "Brazil: Serie B",
+   "Pronóstico": "Gana Botafogo SP",
+   "Cuota": "1.62"
+  }
+ ]
+}
