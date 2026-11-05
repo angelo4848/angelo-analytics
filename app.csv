@@ -167,44 +167,44 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-04,05:00,Japan: J2 League,Fujieda MYFC,Jubilo Iwata,Jubilo Iwata o empate,1.36,,
 2026-11-04,01:15,Colombia: Primera A,Bucaramanga,Atletico Nacional,Atletico Nacional o empate,1.34,,
 2026-11-04,00:15,Argentina: Liga Profesional Argentina,Independ. Rivadavia,Banfield,Gana Independ. Rivadavia,1.57,,
-2026-11-03,23:20,Colombia: Primera A,Deportivo Pasto,Jaguares,Gana Deportivo Pasto,1.67,,
-2026-11-03,22:30,Brazil: Serie A,Chapecoense-sc,Mirassol,Mirassol o empate,1.29,,
-2026-11-03,20:30,Ecuador: Liga Pro,Mushuc Runa SC,Manta FC,Gana Mushuc Runa SC,1.55,,
-2026-11-03,20:30,Colombia: Primera A,Deportivo Pereira,Deportes Tolima,Gana Deportes Tolima,1.62,,
-2026-11-03,20:00,UEFA Champions League,Villarreal,Paris Saint Germain,Gana Paris Saint Germain,1.57,,
-2026-11-03,20:00,UEFA Champions League,Manchester United,AS Roma,Manchester United o empate,1.43,,
-2026-11-03,20:00,UEFA Champions League,Lask Linz,Slovan Bratislava,Gana Lask Linz,1.42,,
+2026-11-03,23:20,Colombia: Primera A,Deportivo Pasto,Jaguares,Gana Deportivo Pasto,1.67,2 - 0,Acertado
+2026-11-03,22:30,Brazil: Serie A,Chapecoense-sc,Mirassol,Mirassol o empate,1.29,1 - 2,Acertado
+2026-11-03,20:30,Ecuador: Liga Pro,Mushuc Runa SC,Manta FC,Gana Mushuc Runa SC,1.55,2 - 3,Fallado
+2026-11-03,20:30,Colombia: Primera A,Deportivo Pereira,Deportes Tolima,Gana Deportes Tolima,1.62,1 - 3,Acertado
+2026-11-03,20:00,UEFA Champions League,Villarreal,Paris Saint Germain,Gana Paris Saint Germain,1.57,0 - 6,Acertado
+2026-11-03,20:00,UEFA Champions League,Manchester United,AS Roma,Manchester United o empate,1.43,3 - 2,Acertado
+2026-11-03,20:00,UEFA Champions League,Lask Linz,Slovan Bratislava,Gana Lask Linz,1.42,4 - 0,Acertado
 2026-11-03,20:00,UEFA Champions League,Feyenoord,Inter,Inter o empate,1.20,,
-2026-11-03,20:00,Peru: Primera División,Comerciantes Unidos,ADT,Comerciantes Unidos o empate,1.19,,
-2026-11-03,20:00,UEFA Champions League,Bodo/Glimt,Lille,Bodo/Glimt o empate,1.22,,
-2026-11-03,20:00,England: Championship,Birmingham,Millwall,Birmingham o empate,1.21,,
-2026-11-03,20:00,UEFA Champions League,Barcelona,Aston Villa,Gana Barcelona,1.25,,
+2026-11-03,20:00,Peru: Primera División,Comerciantes Unidos,ADT,Comerciantes Unidos o empate,1.19,2 - 2,Acertado
+2026-11-03,20:00,UEFA Champions League,Bodo/Glimt,Lille,Bodo/Glimt o empate,1.22,0 - 0,Acertado
+2026-11-03,20:00,England: Championship,Birmingham,Millwall,Birmingham o empate,1.21,3 - 0,Acertado
+2026-11-03,20:00,UEFA Champions League,Barcelona,Aston Villa,Gana Barcelona,1.25,3 - 0,Acertado
 2026-11-03,20:00,UEFA Champions League,Atletico Madrid,Bayern München,Bayern München o empate,1.30,,
-2026-11-03,20:00,Paraguay: Division Profesional - Clausura,2 de Mayo,Sportivo Trinidense,Sportivo Trinidense o empate,1.31,,
-2026-11-03,19:45,England: Championship,Watford,Lincoln,Watford o empate,1.39,,
+2026-11-03,20:00,Paraguay: Division Profesional - Clausura,2 de Mayo,Sportivo Trinidense,Sportivo Trinidense o empate,1.31,0 - 0,Acertado
+2026-11-03,19:45,England: Championship,Watford,Lincoln,Watford o empate,1.39,1 - 0,Acertado
 2026-11-03,19:45,England: Championship,QPR,Burnley,QPR o empate,1.29,,
 2026-11-03,19:45,England: Championship,Preston,Sheffield Utd,Sheffield Utd o empate,1.28,,
 2026-11-03,19:45,Scotland: Challenge Cup,Inverness CT,Montrose,Gana Inverness CT,1.53,,
-2026-11-03,19:45,England: League One,Huddersfield,Luton,Huddersfield o empate,1.29,,
-2026-11-03,19:45,Scotland: Challenge Cup,Formartine United,Cove Rangers,Gana Cove Rangers,1.60,,
-2026-11-03,19:45,Scotland: Challenge Cup,Edinburgh City,Partick,Gana Partick,1.55,,
-2026-11-03,19:45,Scotland: Challenge Cup,East Kilbride,Stirling Albion,East Kilbride o empate,1.18,,
-2026-11-03,19:45,England: Championship,Derby,Norwich,Norwich o empate,1.26,,
-2026-11-03,19:45,Scotland: Challenge Cup,Clydebank,Alloa Athletic,Alloa Athletic o empate,1.29,,
-2026-11-03,19:45,England: Championship,Charlton,Bolton,Charlton o empate,1.35,,
-2026-11-03,19:45,Scotland: Challenge Cup,Bonnyrigg Rose Athletic,Dunfermline,Gana Dunfermline,1.36,,
-2026-11-03,19:45,Scotland: Challenge Cup,Arbroath,Queen of the South,Arbroath o empate,1.22,,
+2026-11-03,19:45,England: League One,Huddersfield,Luton,Huddersfield o empate,1.29,1 - 1,Acertado
+2026-11-03,19:45,Scotland: Challenge Cup,Formartine United,Cove Rangers,Gana Cove Rangers,1.60,0 - 2,Acertado
+2026-11-03,19:45,Scotland: Challenge Cup,Edinburgh City,Partick,Gana Partick,1.55,0 - 3,Acertado
+2026-11-03,19:45,Scotland: Challenge Cup,East Kilbride,Stirling Albion,East Kilbride o empate,1.18,7 - 3,Acertado
+2026-11-03,19:45,England: Championship,Derby,Norwich,Norwich o empate,1.26,0 - 4,Acertado
+2026-11-03,19:45,Scotland: Challenge Cup,Clydebank,Alloa Athletic,Alloa Athletic o empate,1.29,1 - 0,Fallado
+2026-11-03,19:45,England: Championship,Charlton,Bolton,Charlton o empate,1.35,0 - 1,Fallado
+2026-11-03,19:45,Scotland: Challenge Cup,Bonnyrigg Rose Athletic,Dunfermline,Gana Dunfermline,1.36,2 - 4,Acertado
+2026-11-03,19:45,Scotland: Challenge Cup,Arbroath,Queen of the South,Arbroath o empate,1.22,1 - 0,Acertado
 2026-11-03,19:45,Scotland: Challenge Cup,Annan Athletic,Ayr Utd,Gana Ayr Utd,1.53,,
 2026-11-03,19:45,Scotland: Challenge Cup,Airdrie United,Elgin City,Airdrie United o empate,1.16,,
 2026-11-03,18:00,Sweden: Allsvenskan,Sirius,Halmstad,Gana Sirius,1.30,,
 2026-11-03,18:00,Spain: Copa del Rey,Pamplona,Eibar,Gana Eibar,1.22,,
 2026-11-03,18:00,Spain: Copa del Rey,Anaitasuna,Alaves,Gana Alaves,1.03,,
-2026-11-03,17:45,UEFA Champions League,Shakhtar Donetsk,Sporting CP,Sporting CP o empate,1.26,,
-2026-11-03,17:45,UEFA Champions League,Galatasaray,VfB Stuttgart,Galatasaray o empate,1.35,,
+2026-11-03,17:45,UEFA Champions League,Shakhtar Donetsk,Sporting CP,Sporting CP o empate,1.26,0 - 1,Acertado
+2026-11-03,17:45,UEFA Champions League,Galatasaray,VfB Stuttgart,Galatasaray o empate,1.35,2 - 0,Acertado
 2026-11-03,17:00,Poland: I Liga,Pogoń Siedlce,Ruch Chorzów,Ruch Chorzów o empate,1.17,,
 2026-11-03,17:00,Poland: I Liga,Chrobry Głogów,Arka Gdynia,Arka Gdynia o empate,1.35,,
 2026-11-03,16:30,Russia: Cup,Spartak Kostroma,Volna Nizhegorodskaya,Gana Spartak Kostroma,1.34,,
-2026-11-03,16:00,AFC Champions League Elite,Esteghlal FC,Al Shamal,Esteghlal FC o empate,1.29,,
+2026-11-03,16:00,AFC Champions League Elite,Esteghlal FC,Al Shamal,Esteghlal FC o empate,1.29,1 - 0,Acertado
 2026-11-03,10:00,AFC Champions League Elite,Jeonbuk Motors,Johor Darul Takzim FC,Jeonbuk Motors o empate,1.34,,
 2026-11-03,07:45,AFC Champions League Elite,Newcastle Jets,SHANGHAI SIPG,SHANGHAI SIPG o empate,1.38,,
 2026-11-03,02:45,USA: Major League Soccer,Portland Timbers,Houston Dynamo,Portland Timbers o empate,1.23,,
@@ -220,61 +220,61 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-03,00:00,USA: USL League One,Charlotte Independence,Naples,Gana Charlotte Independence,1.62,,
 2026-11-02,23:10,Colombia: Primera B,Union Magdalena,Envigado,Union Magdalena o empate,1.23,,
 2026-11-02,23:00,Brazil: Serie A,RB Bragantino,Santos,RB Bragantino o empate,1.29,,
-2026-11-02,23:00,Uruguay: Primera División,Albion FC,Deportivo Maldonado,Deportivo Maldonado o empate,1.29,,
+2026-11-02,23:00,Uruguay: Primera División,Albion FC,Deportivo Maldonado,Deportivo Maldonado o empate,1.29,0 - 0,Acertado
 2026-11-02,22:05,Jamaica: Premier League,Molynes United,Mount Pleasant Academy,Gana Mount Pleasant Academy,1.57,,
-2026-11-02,22:00,Argentina: Liga Profesional Argentina,Platense,Central Cordoba de Santiago,Gana Platense,1.62,,
-2026-11-02,22:00,Argentina: Liga Profesional Argentina,Defensa Y Justicia,Independiente,Defensa Y Justicia o empate,1.27,,
-2026-11-02,22:00,Chile: Copa Chile,Colo Colo,D. Puerto Montt,Gana Colo Colo,1.50,,
-2026-11-02,21:15,Bolivia: Primera División,Real Tomayapo,Blooming,Real Tomayapo o empate,1.33,,
+2026-11-02,22:00,Argentina: Liga Profesional Argentina,Platense,Central Cordoba de Santiago,Gana Platense,1.62,2 - 0,Acertado
+2026-11-02,22:00,Argentina: Liga Profesional Argentina,Defensa Y Justicia,Independiente,Defensa Y Justicia o empate,1.27,1 - 1,Acertado
+2026-11-02,22:00,Chile: Copa Chile,Colo Colo,D. Puerto Montt,Gana Colo Colo,1.50,3 - 0,Acertado
+2026-11-02,21:15,Bolivia: Primera División,Real Tomayapo,Blooming,Real Tomayapo o empate,1.33,1 - 2,Fallado
 2026-11-02,21:00,Chile: Primera División,Deportes Limache,A. Italiano,Deportes Limache o empate,1.29,,
-2026-11-02,21:00,Brazil: Serie B,Athletic Club,Ceara,Athletic Club o empate,1.35,,
-2026-11-02,20:30,Peru: Primera División,Sporting Cristal,FC Cajamarca,Gana Sporting Cristal,1.22,,
-2026-11-02,20:30,Ecuador: Liga Pro,Orense SC,Tecnico Universitario,Orense SC o empate,1.17,,
-2026-11-02,20:15,Portugal: Primeira Liga,Benfica,Alverca,Gana Benfica,1.17,,
-2026-11-02,20:00,England: Premier League,Newcastle,Everton,Newcastle o empate,1.41,,
-2026-11-02,20:00,Spain: Segunda División,Mallorca,Cadiz,Gana Mallorca,1.50,,
-2026-11-02,20:00,Spain: La Liga,Deportivo La Coruna,Osasuna,Deportivo La Coruna o empate,1.29,,
+2026-11-02,21:00,Brazil: Serie B,Athletic Club,Ceara,Athletic Club o empate,1.35,2 - 1,Acertado
+2026-11-02,20:30,Peru: Primera División,Sporting Cristal,FC Cajamarca,Gana Sporting Cristal,1.22,5 - 0,Acertado
+2026-11-02,20:30,Ecuador: Liga Pro,Orense SC,Tecnico Universitario,Orense SC o empate,1.17,1 - 1,Acertado
+2026-11-02,20:15,Portugal: Primeira Liga,Benfica,Alverca,Gana Benfica,1.17,1 - 0,Acertado
+2026-11-02,20:00,England: Premier League,Newcastle,Everton,Newcastle o empate,1.41,0 - 1,Fallado
+2026-11-02,20:00,Spain: Segunda División,Mallorca,Cadiz,Gana Mallorca,1.50,2 - 1,Acertado
+2026-11-02,20:00,Spain: La Liga,Deportivo La Coruna,Osasuna,Deportivo La Coruna o empate,1.29,2 - 1,Acertado
 2026-11-02,19:50,Mauritania: Premier League,AC Douane,Nouadhibou,Nouadhibou o empate,1.30,,
-2026-11-02,19:45,France: Ligue 2,Reims,Sochaux,Gana Reims,1.67,,
-2026-11-02,19:45,France: Ligue 2,RED Star FC 93,Nancy,RED Star FC 93 o empate,1.27,,
+2026-11-02,19:45,France: Ligue 2,Reims,Sochaux,Gana Reims,1.67,2 - 0,Acertado
+2026-11-02,19:45,France: Ligue 2,RED Star FC 93,Nancy,RED Star FC 93 o empate,1.27,1 - 4,Fallado
 2026-11-02,19:45,England: National League - South,Chelmsford City,Farnham Town,Chelmsford City o empate,1.22,,
-2026-11-02,19:45,Italy: Serie A,Atalanta,Parma,Gana Atalanta,1.50,,
+2026-11-02,19:45,Italy: Serie A,Atalanta,Parma,Gana Atalanta,1.50,0 - 3,Fallado
 2026-11-02,19:30,Poland: I Liga,ŁKS Łódź,Polonia Warszawa,ŁKS Łódź o empate,1.35,,
 2026-11-02,19:30,Poland: I Liga,Stal Rzeszów,Puszcza Niepołomice,Stal Rzeszów o empate,1.34,,
 2026-11-02,19:30,Poland: Ekstraklasa,Raków Częstochowa,Pogon Szczecin,Raków Częstochowa o empate,1.35,,
 2026-11-02,19:30,Italy: Serie C - Girone A,Novara,Desenzano Calvina,Novara o empate,1.20,,
 2026-11-02,19:30,Spain: Primera División RFEF - Group 2,Huesca,Gimnastic,Gana Huesca,1.60,,
 2026-11-02,19:30,Italy: Serie C - Girone C,Casarano,Foggia,Casarano o empate,1.32,,
-2026-11-02,19:00,Netherlands: Eerste Divisie,Jong Utrecht,Dordrecht,Jong Utrecht o empate,1.41,,
-2026-11-02,19:00,Netherlands: Eerste Divisie,Jong Ajax,Vitesse,Vitesse o empate,1.36,,
+2026-11-02,19:00,Netherlands: Eerste Divisie,Jong Utrecht,Dordrecht,Jong Utrecht o empate,1.41,3 - 2,Acertado
+2026-11-02,19:00,Netherlands: Eerste Divisie,Jong Ajax,Vitesse,Vitesse o empate,1.36,1 - 1,Acertado
 2026-11-02,19:00,Colombia: Primera B,Ind. Yumbo,Popayan,Gana Ind. Yumbo,1.60,,
-2026-11-02,19:00,Netherlands: Eerste Divisie,Heracles,FC OSS,Gana Heracles,1.20,,
-2026-11-02,19:00,Brazil: Serie B,Fortaleza EC,Atletico Goianiense,Fortaleza EC o empate,1.25,,
+2026-11-02,19:00,Netherlands: Eerste Divisie,Heracles,FC OSS,Gana Heracles,1.20,2 - 0,Acertado
+2026-11-02,19:00,Brazil: Serie B,Fortaleza EC,Atletico Goianiense,Fortaleza EC o empate,1.25,0 - 0,Acertado
 2026-11-02,19:00,Italy: Serie D - Girone C,Clodiense,Bassano Virtus,Clodiense o empate,1.24,,
 2026-11-02,19:00,Algeria: Ligue 1,CR Belouizdad,JS Saoura,Gana CR Belouizdad,1.38,,
 2026-11-02,18:50,Israel: Liga Alef,Maccabi Ashdod,Hapoel Ramat HaSharon,Hapoel Ramat HaSharon o empate,1.17,,
 2026-11-02,18:30,Israel: Ligat Ha'al,Hapoel Tel Aviv,Maccabi Haifa,Hapoel Tel Aviv o empate,1.22,,
 2026-11-02,18:30,Hungary: NB II,Diosgyori VTK,Kecskeméti TE,Kecskeméti TE o empate,1.42,,
-2026-11-02,18:15,Peru: Primera División,UTC Cajamarca,Deportivo Garcilaso,Deportivo Garcilaso o empate,1.37,,
+2026-11-02,18:15,Peru: Primera División,UTC Cajamarca,Deportivo Garcilaso,Deportivo Garcilaso o empate,1.37,2 - 3,Acertado
 2026-11-02,18:15,AFC Champions League Elite,Al-Gharafa,Al-Qadisiyah FC,Gana Al-Qadisiyah FC,1.31,,
 2026-11-02,18:05,Sweden: Superettan,Landskrona BoIS,Orebro SK,Landskrona BoIS o empate,1.19,,
 2026-11-02,18:00,Denmark: Superliga,Sonderjyske,FC Copenhagen,Gana FC Copenhagen,1.44,,
-2026-11-02,18:00,Argentina: Primera B Metropolitana,San Martín Burzaco,UAI Urquiza,Gana UAI Urquiza,1.17,,
+2026-11-02,18:00,Argentina: Primera B Metropolitana,San Martín Burzaco,UAI Urquiza,Gana UAI Urquiza,1.17,2 - 3,Acertado
 2026-11-02,18:00,Portugal: Segunda Liga,Penafiel,Feirense,Penafiel o empate,1.20,,
 2026-11-02,18:00,Sweden: Superettan,Osters IF,Helsingborg,Osters IF o empate,1.33,,
-2026-11-02,18:00,Sweden: Allsvenskan,Mjallby AIF,Kalmar FF,Mjallby AIF o empate,1.37,,
-2026-11-02,18:00,Argentina: Primera B Metropolitana,Liniers,Ituzaingó,Gana Liniers,1.36,,
+2026-11-02,18:00,Sweden: Allsvenskan,Mjallby AIF,Kalmar FF,Mjallby AIF o empate,1.37,0 - 0,Acertado
+2026-11-02,18:00,Argentina: Primera B Metropolitana,Liniers,Ituzaingó,Gana Liniers,1.36,2 - 0,Acertado
 2026-11-02,18:00,Norway: 1. Division,Kongsvinger,Stabaek,Kongsvinger o empate,1.39,,
 2026-11-02,18:00,Israel: Ligat Ha'al,Hapoel Ramat Gan,Maccabi Tel Aviv,Gana Maccabi Tel Aviv,1.22,,
-2026-11-02,18:00,Sweden: Allsvenskan,Gais,AIK Stockholm,Gais o empate,1.21,,
-2026-11-02,18:00,Argentina: Primera B Metropolitana,Defensores Unidos,Deportivo Laferrere,Deportivo Laferrere o empate,1.28,,
-2026-11-02,18:00,Argentina: Primera B Metropolitana,Comunicaciones,Talleres Remedios,Comunicaciones o empate,1.25,,
-2026-11-02,18:00,Argentina: Primera Nacional,Atletico DE Rafaela,Patronato,Patronato o empate,1.32,,
+2026-11-02,18:00,Sweden: Allsvenskan,Gais,AIK Stockholm,Gais o empate,1.21,2 - 1,Acertado
+2026-11-02,18:00,Argentina: Primera B Metropolitana,Defensores Unidos,Deportivo Laferrere,Deportivo Laferrere o empate,1.28,1 - 1,Acertado
+2026-11-02,18:00,Argentina: Primera B Metropolitana,Comunicaciones,Talleres Remedios,Comunicaciones o empate,1.25,1 - 0,Acertado
+2026-11-02,18:00,Argentina: Primera Nacional,Atletico DE Rafaela,Patronato,Patronato o empate,1.32,0 - 0,Acertado
 2026-11-02,18:00,Egypt: League Cup,Al Ahly,El Mokawloon,Gana Al Ahly,1.38,,
-2026-11-02,17:30,Spain: Segunda División,Valladolid,Leganes,Valladolid o empate,1.20,,
+2026-11-02,17:30,Spain: Segunda División,Valladolid,Leganes,Valladolid o empate,1.20,4 - 3,Acertado
 2026-11-02,17:30,Albania: Superliga,Teuta Durrës,Partizani,Gana Teuta Durrës,1.36,,
-2026-11-02,17:30,Italy: Serie A,Sassuolo,Fiorentina,Fiorentina o empate,1.42,,
-2026-11-02,17:30,Greece: Super League 1,Kalamata,Iraklis 1908,Kalamata o empate,1.35,,
+2026-11-02,17:30,Italy: Serie A,Sassuolo,Fiorentina,Fiorentina o empate,1.42,2 - 4,Acertado
+2026-11-02,17:30,Greece: Super League 1,Kalamata,Iraklis 1908,Kalamata o empate,1.35,1 - 1,Acertado
 2026-11-02,17:30,Israel: Liga Alef,Hapoel Umm al-Fahm,Maccabi Nujeidat Ahmed,Hapoel Umm al-Fahm o empate,1.20,,
 2026-11-02,17:30,South-Africa: 1st Division,Cape Town City,Magesi,Cape Town City o empate,1.24,,
 2026-11-02,17:30,Bulgaria: First League,Arda Kardzhali,Septemvri Sofia,Gana Arda Kardzhali,1.57,,
@@ -297,22 +297,22 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-02,16:30,Israel: Liga Alef,Nordia Jerusalem,Kfar Saba 1928,Gana Kfar Saba 1928,1.48,,
 2026-11-02,16:30,Senegal: Ligue 1,Gorée,Ouakam,Gorée o empate,1.17,,
 2026-11-02,16:00,Finland: Veikkausliiga,VPS,HJK Helsinki,Gana HJK Helsinki,1.37,,
-2026-11-02,16:00,AFC Champions League Elite,Tractor Sazi,Neftchi,Tractor Sazi o empate,1.15,,
-2026-11-02,16:00,Peru: Primera División,Sport Huancayo,FBC Melgar,Sport Huancayo o empate,1.34,,
+2026-11-02,16:00,AFC Champions League Elite,Tractor Sazi,Neftchi,Tractor Sazi o empate,1.15,2 - 2,Acertado
+2026-11-02,16:00,Peru: Primera División,Sport Huancayo,FBC Melgar,Sport Huancayo o empate,1.34,2 - 0,Acertado
 2026-11-02,16:00,Ukraine: Premier League,Karpaty,Kudrivka,Gana Karpaty,1.36,,
 2026-11-02,16:00,Finland: Veikkausliiga,Inter Turku,Gnistan,Gana Inter Turku,1.36,,
 2026-11-02,16:00,Israel: Liga Alef,Hapoel Nazareth Illit,Beitar Nahariya,Hapoel Nazareth Illit o empate,1.17,,
 2026-11-02,16:00,Slovenia: 2. SNL,Brežice,Beltinci,Gana Beltinci,1.60,,
 2026-11-02,16:00,Slovenia: 1. SNL,Bravo,Koper,Koper o empate,1.19,,
-2026-11-02,16:00,Greece: Super League 1,Atromitos,Volos NFC,Atromitos o empate,1.21,,
-2026-11-02,16:00,AFC Champions League Elite,Al-Wasl FC,Al Quwa Al Jawiya,Gana Al-Wasl FC,1.10,,
-2026-11-02,16:00,AFC Champions League Elite,Al Sadd,Al-Ahli Jeddah,Gana Al-Ahli Jeddah,1.49,,
+2026-11-02,16:00,Greece: Super League 1,Atromitos,Volos NFC,Atromitos o empate,1.21,3 - 0,Acertado
+2026-11-02,16:00,AFC Champions League Elite,Al-Wasl FC,Al Quwa Al Jawiya,Gana Al-Wasl FC,1.10,4 - 3,Acertado
+2026-11-02,16:00,AFC Champions League Elite,Al Sadd,Al-Ahli Jeddah,Gana Al-Ahli Jeddah,1.49,0 - 0,Fallado
 2026-11-02,15:45,Kuwait: Premier League,Al Nasar,Al Shabab,Gana Al Nasar,1.62,,
 2026-11-02,15:30,Bulgaria: Second League,Montana,Spartak Pleven,Montana o empate,1.17,,
 2026-11-02,15:30,Israel: Liga Alef,Hapoel Azor,FC Jerusalem,Hapoel Azor o empate,1.31,,
 2026-11-02,15:30,Romania: Liga I,FC Voluntari,Farul Constanta,Farul Constanta o empate,1.30,,
 2026-11-02,15:30,Bulgaria: Second League,Dobrudzha,Fratria,Gana Fratria,1.65,,
-2026-11-02,15:15,Spain: Segunda División,Oviedo,Las Palmas,Oviedo o empate,1.17,,
+2026-11-02,15:15,Spain: Segunda División,Oviedo,Las Palmas,Oviedo o empate,1.17,2 - 3,Fallado
 2026-11-02,15:00,Bahrain: King's Cup,Umm Al Hassam,Bahrain SC,Gana Bahrain SC,1.62,1 - 3,Acertado
 2026-11-02,15:00,Georgia: Erovnuli Liga,Torpedo Kutaisi,Dila,Torpedo Kutaisi o empate,1.39,2 - 1,Acertado
 2026-11-02,15:00,Azerbaijan: Premyer Liqa,Sumqayıt,Safa Baku,Gana Sumqayıt,1.67,1 - 1,Fallado
@@ -348,18 +348,18 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-02,11:00,Armenia: First League,Andranik,Bentonit Ijevan,Andranik o empate,1.36,,
 2026-11-02,10:00,Kenya: FKF Premier League,Ulinzi Stars,Mathare United,Ulinzi Stars o empate,1.28,,
 2026-11-02,08:00,Mongolia: Premier League,Central Stallions,Deren,Central Stallions o empate,1.27,3 - 3,Acertado
-2026-11-02,05:00,Japan: J1 League,V-varen Nagasaki,Tokyo Verdy,V-varen Nagasaki o empate,1.35,,
+2026-11-02,05:00,Japan: J1 League,V-varen Nagasaki,Tokyo Verdy,V-varen Nagasaki o empate,1.35,1 - 2,Fallado
 2026-11-02,05:00,South-Korea: K League 1,Ulsan Hyundai FC,Gangwon FC,Ulsan Hyundai FC o empate,1.29,,
 2026-11-02,05:00,South-Korea: K3 League,Ulsan Citizen,Changwon City,Changwon City o empate,1.29,,
 2026-11-02,05:00,South-Korea: K League 2,Suwon City FC,Ansan Greeners,Gana Suwon City FC,1.28,,
 2026-11-02,05:00,South-Korea: K3 League,Mokpo City,Daejeon Korail,Daejeon Korail o empate,1.25,,
 2026-11-02,05:00,South-Korea: K League 2,Jeonnam Dragons,Seongnam FC,Seongnam FC o empate,1.37,,
 2026-11-02,05:00,South-Korea: K4 League,Jecheon Citizen,Jungnang Chorus Mustang,Jecheon Citizen o empate,1.33,,
-2026-11-02,05:00,Japan: J1 League,JEF United Chiba,Avispa Fukuoka,Avispa Fukuoka o empate,1.35,,
+2026-11-02,05:00,Japan: J1 League,JEF United Chiba,Avispa Fukuoka,Avispa Fukuoka o empate,1.35,3 - 0,Fallado
 2026-11-02,05:00,South-Korea: K4 League,Haman,Seosan Pioneer,Haman o empate,1.42,,
 2026-11-02,05:00,Russia: Second League - Group 4,Dinamo Barnaul,Khimik Dzerzhinsk,Gana Khimik Dzerzhinsk,1.32,,
-2026-11-02,04:00,Japan: J1 League,Yokohama F. Marinos,Kawasaki Frontale,Kawasaki Frontale o empate,1.35,,
-2026-11-02,04:00,Australia: A-League,Melbourne Victory,Central Coast Mariners,Gana Melbourne Victory,1.42,,
+2026-11-02,04:00,Japan: J1 League,Yokohama F. Marinos,Kawasaki Frontale,Kawasaki Frontale o empate,1.35,4 - 2,Fallado
+2026-11-02,04:00,Australia: A-League,Melbourne Victory,Central Coast Mariners,Gana Melbourne Victory,1.42,1 - 1,Fallado
 2026-11-02,03:10,Mexico: Liga MX,Club America,Toluca,Club America o empate,1.46,,
 2026-11-02,02:00,Costa-Rica: Primera División,Sporting San Jose,CS Herediano,Sporting San Jose o empate,1.30,,
 2026-11-02,02:00,Mexico: Primera Premier,Los Cabos United,Celaya,Celaya o empate,1.40,,
@@ -376,35 +376,35 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-02,01:00,Mexico: Liga de Expansión MX,Cancún,CDS Tampico Madero,Cancún o empate,1.18,,
 2026-11-02,00:30,Argentina: Liga Profesional Argentina,Estudiantes L.P.,Instituto Cordoba,Estudiantes L.P. o empate,1.25,,
 2026-11-01,23:45,Argentina: Liga Profesional Argentina,Lanus,Gimnasia M.,Gana Lanus,1.57,,
-2026-11-01,23:30,Bolivia: Primera División,Universitario de Vinto,Always Ready,Gana Always Ready,1.62,,
-2026-11-01,23:30,El-Salvador: Primera Division,Firpo,FAS,Firpo o empate,1.34,,
-2026-11-01,23:30,Venezuela: Primera División,Carabobo FC,Metropolitanos FC,Carabobo FC o empate,1.17,,
+2026-11-01,23:30,Bolivia: Primera División,Universitario de Vinto,Always Ready,Gana Always Ready,1.62,1 - 3,Acertado
+2026-11-01,23:30,El-Salvador: Primera Division,Firpo,FAS,Firpo o empate,1.34,1 - 1,Acertado
+2026-11-01,23:30,Venezuela: Primera División,Carabobo FC,Metropolitanos FC,Carabobo FC o empate,1.17,1 - 1,Acertado
 2026-11-01,23:15,Honduras: Liga Nacional,CD Motagua,CD Marathon,CD Motagua o empate,1.25,,
-2026-11-01,23:10,Colombia: Primera A,Independiente Medellin,Alianza Valledupar,Gana Independiente Medellin,1.52,,
-2026-11-01,23:00,Mexico: Liga MX,Santos Laguna,Necaxa,Santos Laguna o empate,1.22,,
+2026-11-01,23:10,Colombia: Primera A,Independiente Medellin,Alianza Valledupar,Gana Independiente Medellin,1.52,2 - 1,Acertado
+2026-11-01,23:00,Mexico: Liga MX,Santos Laguna,Necaxa,Santos Laguna o empate,1.22,1 - 0,Acertado
 2026-11-01,23:00,Nicaragua: Primera Division,Rancho Santana,Matagalpa,Rancho Santana o empate,1.37,,
-2026-11-01,23:00,USA: USL Championship,New Mexico United,Phoenix Rising,New Mexico United o empate,1.36,,
-2026-11-01,23:00,Uruguay: Primera División,Liverpool Montevideo,Juventud,Liverpool Montevideo o empate,1.20,,
+2026-11-01,23:00,USA: USL Championship,New Mexico United,Phoenix Rising,New Mexico United o empate,1.36,2 - 0,Acertado
+2026-11-01,23:00,Uruguay: Primera División,Liverpool Montevideo,Juventud,Liverpool Montevideo o empate,1.20,2 - 0,Acertado
 2026-11-01,22:15,Argentina: Torneo Federal A,Atenas,Sarmiento de La Banda,Atenas o empate,1.12,,
 2026-11-01,22:00,Uruguay: Segunda División,Miramar,Plaza Colonia,Plaza Colonia o empate,1.23,,
-2026-11-01,22:00,Argentina: Primera Nacional,Gimnasia Y Tiro,Quilmes,Gimnasia Y Tiro o empate,1.22,,
-2026-11-01,22:00,Costa-Rica: Primera División,Deportivo Saprissa,LD Alajuelense,Deportivo Saprissa o empate,1.20,,
+2026-11-01,22:00,Argentina: Primera Nacional,Gimnasia Y Tiro,Quilmes,Gimnasia Y Tiro o empate,1.22,0 - 1,Fallado
+2026-11-01,22:00,Costa-Rica: Primera División,Deportivo Saprissa,LD Alajuelense,Deportivo Saprissa o empate,1.20,0 - 0,Acertado
 2026-11-01,22:00,Mexico: Liga Premier Serie A,Acambaro,Vaqueros Reynosa,Gana Acambaro,1.65,,
-2026-11-01,21:30,Brazil: Serie B,Novorizontino,Operario-PR,Gana Novorizontino,1.45,,
+2026-11-01,21:30,Brazil: Serie B,Novorizontino,Operario-PR,Gana Novorizontino,1.45,2 - 1,Acertado
 2026-11-01,21:30,Argentina: Liga Profesional Argentina,Newells Old Boys,Union Santa Fe,Newells Old Boys o empate,1.21,,
 2026-11-01,21:30,USA: Major League Soccer,Nashville SC,New York Red Bulls,Gana Nashville SC,1.57,,
-2026-11-01,21:30,Venezuela: Primera División,Deportivo La Guaira,Portuguesa FC,Deportivo La Guaira o empate,1.21,,
-2026-11-01,21:30,Brazil: Serie B,Cuiaba,São Bernardo,Gana Cuiaba,1.67,,
-2026-11-01,21:30,Argentina: Liga Profesional Argentina,Belgrano Cordoba,Barracas Central,Belgrano Cordoba o empate,1.16,,
-2026-11-01,21:30,USA: Major League Soccer,Atlanta United FC,Toronto FC,Atlanta United FC o empate,1.41,,
-2026-11-01,21:15,Bolivia: Primera División,Guabirá,Bolívar,Bolívar o empate,1.34,,
-2026-11-01,21:05,Colombia: Primera A,Deportivo Cali,Chico,Gana Deportivo Cali,1.33,,
+2026-11-01,21:30,Venezuela: Primera División,Deportivo La Guaira,Portuguesa FC,Deportivo La Guaira o empate,1.21,2 - 2,Acertado
+2026-11-01,21:30,Brazil: Serie B,Cuiaba,São Bernardo,Gana Cuiaba,1.67,1 - 2,Fallado
+2026-11-01,21:30,Argentina: Liga Profesional Argentina,Belgrano Cordoba,Barracas Central,Belgrano Cordoba o empate,1.16,2 - 2,Acertado
+2026-11-01,21:30,USA: Major League Soccer,Atlanta United FC,Toronto FC,Atlanta United FC o empate,1.41,3 - 1,Acertado
+2026-11-01,21:15,Bolivia: Primera División,Guabirá,Bolívar,Bolívar o empate,1.34,1 - 2,Acertado
+2026-11-01,21:05,Colombia: Primera A,Deportivo Cali,Chico,Gana Deportivo Cali,1.33,2 - 0,Acertado
 2026-11-01,21:00,Canada: Canadian Premier League,Supra du Quebec,Cavalry FC,Cavalry FC o empate,1.25,,
 2026-11-01,21:00,Panama: Liga Panameña de Fútbol,Sporting San Miguelito,UMECIT,Sporting San Miguelito o empate,1.35,,
-2026-11-01,21:00,Ecuador: Liga Pro,Guayaquil City FC,Libertad,Guayaquil City FC o empate,1.20,,
-2026-11-01,21:00,El-Salvador: Primera Division,Fuerte San Francisco,Águila,Gana Águila,1.65,,
-2026-11-01,21:00,Guatemala: Liga Nacional,Deportivo San Pedro,Municipal,Municipal o empate,1.26,,
-2026-11-01,21:00,El-Salvador: Primera Division,Atletico Balboa,Alianza,Alianza o empate,1.29,,
+2026-11-01,21:00,Ecuador: Liga Pro,Guayaquil City FC,Libertad,Guayaquil City FC o empate,1.20,0 - 0,Acertado
+2026-11-01,21:00,El-Salvador: Primera Division,Fuerte San Francisco,Águila,Gana Águila,1.65,3 - 4,Acertado
+2026-11-01,21:00,Guatemala: Liga Nacional,Deportivo San Pedro,Municipal,Municipal o empate,1.26,1 - 0,Fallado
+2026-11-01,21:00,El-Salvador: Primera Division,Atletico Balboa,Alianza,Alianza o empate,1.29,1 - 0,Fallado
 2026-11-01,20:30,USA: Major League Soccer,Vancouver Whitecaps,Seattle Sounders,Gana Vancouver Whitecaps,1.62,5 - 1,Acertado
 2026-11-01,20:30,Portugal: Primeira Liga,SC Braga,Famalicao,SC Braga o empate,1.19,3 - 0,Acertado
 2026-11-01,20:30,Peru: Primera División,Atletico Grau,Universitario,Universitario o empate,1.17,1 - 3,Acertado
@@ -490,7 +490,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,16:30,Italy: Serie C - Girone B,Campobasso FC,Forli,Campobasso FC o empate,1.17,2 - 0,Acertado
 2026-11-01,16:30,Italy: Serie C - Girone A,Athletic Carpi,Renate,Athletic Carpi o empate,1.30,,
 2026-11-01,16:30,Senegal: Ligue 1,AJEL,Diambars,AJEL o empate,1.20,0 - 0,Acertado
-2026-11-01,16:15,France: Ligue 1,Paris FC,Monaco,Paris FC o empate,1.41,,
+2026-11-01,16:15,France: Ligue 1,Paris FC,Monaco,Paris FC o empate,1.41,3 - 1,Acertado
 2026-11-01,16:15,France: Ligue 1,Lyon,Angers,Gana Lyon,1.40,2 - 0,Acertado
 2026-11-01,16:15,Italy: Serie B,Hellas Verona,Carrarese,Gana Hellas Verona,1.55,3 - 0,Acertado
 2026-11-01,16:00,Norway: 1. Division,hodd,Bryne,Bryne o empate,1.34,0 - 3,Acertado
@@ -504,7 +504,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,16:00,Norway: Eliteserien,Sarpsborg 08 FF,Kristiansund BK,Gana Sarpsborg 08 FF,1.50,2 - 4,Fallado
 2026-11-01,16:00,Spain: Segunda División RFEF - Group 5,Salamanca UDS,Gimnástica Segoviana,Salamanca UDS o empate,1.34,1 - 0,Acertado
 2026-11-01,16:00,Spain: Segunda División RFEF - Group 5,Real Ávila,Real Madrid III,Real Ávila o empate,1.25,0 - 1,Fallado
-2026-11-01,16:00,Greece: Super League 1,Panetolikos,OFI,OFI o empate,1.37,,
+2026-11-01,16:00,Greece: Super League 1,Panetolikos,OFI,OFI o empate,1.37,0 - 1,Acertado
 2026-11-01,16:00,Spain: Segunda División RFEF - Group 2,Olot,Manresa,Olot o empate,1.14,1 - 0,Acertado
 2026-11-01,16:00,Norway: 1. Division,ODD Ballklubb,Sandnes ULF,ODD Ballklubb o empate,1.22,3 - 3,Fallado
 2026-11-01,16:00,Montenegro: First League,Mornar,Petrovac,Mornar o empate,1.22,0 - 0,Acertado
@@ -604,7 +604,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,14:00,Italy: Serie D - Girone H,Fidelis Andria,Francavilla,Gana Fidelis Andria,1.57,2 - 0,Acertado
 2026-11-01,14:00,San-Marino: Campionato,Cosmos,Fiorentino,Cosmos o empate,1.24,2 - 0,Acertado
 2026-11-01,14:00,Czech-Republic: Czech Liga,Baník Ostrava,Plzen,Plzen o empate,1.30,0 - 4,Acertado
-2026-11-01,14:00,Italy: Serie B,Avellino,Pisa,Pisa o empate,1.36,,
+2026-11-01,14:00,Italy: Serie B,Avellino,Pisa,Pisa o empate,1.36,2 - 0,Fallado
 2026-11-01,14:00,Cyprus: 1. Division,Aris,Anorthosis,Gana Aris,1.62,2 - 1,Acertado
 2026-11-01,14:00,Italy: Serie B,Arezzo,Ascoli,Ascoli o empate,1.28,0 - 0,Acertado
 2026-11-01,14:00,Denmark: 1. Division,Aarhus Fremad,Hillerød,Aarhus Fremad o empate,1.27,2 - 0,Acertado
@@ -843,7 +843,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,05:00,Japan: J3 League,Tochigi SC,Ehime FC,Ehime FC o empate,1.33,,
 2026-11-01,05:00,Japan: J2 League,Tochigi City,Iwaki,Iwaki o empate,1.44,,
 2026-11-01,05:00,Japan: J2 League,Tegevajaro Miyazaki,Oita Trinita,Tegevajaro Miyazaki o empate,1.23,,
-2026-11-01,05:00,Japan: J1 League,Mito Hollyhock,Sanfrecce Hiroshima,Gana Sanfrecce Hiroshima,1.44,,
+2026-11-01,05:00,Japan: J1 League,Mito Hollyhock,Sanfrecce Hiroshima,Gana Sanfrecce Hiroshima,1.44,0 - 3,Acertado
 2026-11-01,05:00,Japan: J3 League,Kochi United,Sagamihara,Sagamihara o empate,1.21,,
 2026-11-01,05:00,Japan: J3 League,Kanazawa,Thespakusatsu Gunma,Kanazawa o empate,1.17,,
 2026-11-01,05:00,Japan: J3 League,Kamatamare Sanuki,Nara Club,Nara Club o empate,1.37,,
@@ -853,7 +853,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,05:00,South-Korea: K4 League,Geumsan Insam,Sejong SA,Gana Geumsan Insam,1.60,,
 2026-11-01,05:00,South-Korea: K3 League,Gangneung City,Yangpyeong,Gangneung City o empate,1.22,,
 2026-11-01,05:00,Japan: J3 League,Fukushima United,Matsumoto Yamaga,Matsumoto Yamaga o empate,1.33,,
-2026-11-01,05:00,Japan: J1 League,Fagiano Okayama,FC Tokyo,FC Tokyo o empate,1.26,,
+2026-11-01,05:00,Japan: J1 League,Fagiano Okayama,FC Tokyo,FC Tokyo o empate,1.26,0 - 4,Acertado
 2026-11-01,05:00,Japan: J3 League,FC Gifu,Osaka,FC Gifu o empate,1.24,,
 2026-11-01,05:00,South-Korea: K3 League,Dangjin Citizen,Siheung Citizen,Siheung Citizen o empate,1.24,,
 2026-11-01,05:00,South-Korea: K3 League,Chuncheon,Busan Transportation,Chuncheon o empate,1.41,,
@@ -862,7 +862,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Cuota,Resultado,Acierto
 2026-11-01,04:00,Australia: Australian Championship,Wollongong Wolves,Lions,Lions o empate,1.28,,
 2026-11-01,04:00,Australia: Australian Championship,Sutherland Sharks,Sydney United,Sydney United o empate,1.31,,
 2026-11-01,04:00,Australia: Australian Championship,South Hobart,Preston Lions,Gana Preston Lions,1.28,,
-2026-11-01,04:00,Australia: A-League,Newcastle Jets,Wellington Phoenix,Newcastle Jets o empate,1.30,,
+2026-11-01,04:00,Australia: A-League,Newcastle Jets,Wellington Phoenix,Newcastle Jets o empate,1.30,0 - 3,Fallado
 2026-11-01,04:00,Russia: Second League A - Division A Gold,Dinamo Vladivostok,Alaniya Vladikavkaz,Dinamo Vladivostok o empate,1.33,,
 2026-11-01,03:00,Mexico: Liga MX,Puebla,U.N.A.M. - Pumas,U.N.A.M. - Pumas o empate,1.25,,
 2026-11-01,03:00,Mexico: Liga de Expansión MX,CA La Paz,Dorados,Gana CA La Paz,1.40,,

@@ -45,6 +45,50 @@ def merge(rows, partidos):
         rows[key(r)] = r
 
 
+def judge(pron, local, visit, hs, ws):
+    from update import same
+    if pron.startswith('Gana '):
+        t = pron[5:]
+        return hs > ws if same(t, local) else ws > hs if same(t, visit) else None
+    if pron.endswith(' o empate'):
+        t = pron[:-9]
+        return hs >= ws if same(t, local) else ws >= hs if same(t, visit) else None
+    return None
+
+
+def fill_espn(rows, days=4):
+    """Pone resultado a partidos de días pasados que OddSlot no marcó, con marcadores de ESPN."""
+    from datetime import date, timedelta
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from picks import espn
+    from update import same
+    today = datetime.now(TZ).date()
+    pend = [r for r in rows.values() if not r['Resultado'] and r['Fecha'] <= today.isoformat()
+            and r['Fecha'] >= (today - timedelta(days=days)).isoformat()]
+    if not pend:
+        return
+    games, n = {}, 0
+    for r in pend:
+        f = date.fromisoformat(r['Fecha'])
+        g = []
+        for d in (f - timedelta(days=1), f, f + timedelta(days=1)):   # ESPN agrupa por fecha de EE. UU.
+            if d not in games:
+                try:
+                    games[d] = espn(d)
+                except Exception:
+                    games[d] = []
+            g += games[d]
+        for h, a, hs, ws in g:
+            if same(r['Local'], h) and same(r['Visitante'], a):
+                ok = judge(r['Pronóstico'], r['Local'], r['Visitante'], hs, ws)
+                r['Resultado'] = f'{hs} - {ws}'
+                if ok is not None:
+                    r['Acierto'] = 'Acertado' if ok else 'Fallado'
+                n += 1
+                break
+    print(f'ESPN: {n}/{len(pend)} resultados recuperados')
+
+
 def main():
     rows = {}
     if os.path.exists(OUT):
@@ -61,6 +105,7 @@ def main():
             except Exception:
                 pass
     merge(rows, json.load(open(DATA, encoding='utf-8')).get('partidos', []))
+    fill_espn(rows)
     out = sorted(rows.values(), key=lambda r: (r['Fecha'], r['Hora'], r['Local']), reverse=True)
     with open(OUT, 'w', newline='', encoding='utf-8') as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
