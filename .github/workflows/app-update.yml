@@ -39,10 +39,12 @@ jobs:
         run: python3 tools/picks.py || true
       - name: Pronósticos OddSlot (${{ steps.modo.outputs.m }})
         run: python3 tools/update.py ${{ steps.modo.outputs.m }}
+      - name: Registro para Google Sheet (app.csv)
+        run: python3 tools/export_csv.py
       - name: Guardar cambios
         run: |
           python3 -c "import json;json.load(open('data.json'))"
-          if git diff --quiet; then echo "Sin cambios"; exit 0; fi
+          if git diff --quiet && git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git config user.name "A. Analytics bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ "${{ steps.modo.outputs.m }}" = "close" ]; then msg="Cierre diario $(TZ=Europe/Lisbon date -d yesterday +%F)";
