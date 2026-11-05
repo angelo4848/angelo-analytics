@@ -105,12 +105,15 @@ if __name__ == '__main__':
     open('prueba_live2.png', 'wb').write(make_live_image('J1 League (Japan)', 40, '0-0', 'Machida Zelvia', 'Gamba Osaka', 'Victoria Machida Zelvia', 2.2))
 
 
-def send_photo(token, chat_id, png, caption=''):
+def send_photo(token, chat_id, png, caption='', markup=None):
     """Envía una imagen PNG por Telegram (multipart, sin dependencias extra)."""
     import json, urllib.request, uuid
     b = uuid.uuid4().hex
     parts = []
-    for k, v in (('chat_id', str(chat_id)), ('caption', caption), ('parse_mode', 'HTML')):
+    fields = [('chat_id', str(chat_id)), ('caption', caption), ('parse_mode', 'HTML')]
+    if markup:
+        fields.append(('reply_markup', markup))
+    for k, v in fields:
         parts.append(f'--{b}\r\nContent-Disposition: form-data; name="{k}"\r\n\r\n{v}\r\n'.encode())
     parts.append(f'--{b}\r\nContent-Disposition: form-data; name="photo"; filename="live.png"\r\n'
                  f'Content-Type: image/png\r\n\r\n'.encode() + png + b'\r\n')

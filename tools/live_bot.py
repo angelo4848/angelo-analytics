@@ -33,7 +33,28 @@ MED = {
     740: 'LaLiga 🇪🇸', 730: 'Serie A 🇮🇹', 710: 'Ligue 1 🇫🇷', 3946: 'Süper Lig 🇹🇷',
     700: 'Premier League 🏴', 760: 'Liga MX 🇲🇽', 3915: 'League One 🏴',
 }
+# Ligas de muchos goles (aviso a los 5' y filtro +0,5 goles 1.ª parte)
+HIGH = {
+    720: 'Bundesliga 🇩🇪', 3927: '2. Bundesliga 🇩🇪', 725: 'Eredivisie 🇳🇱', 3933: 'Eerste Divisie 🇳🇱',
+    3901: 'Pro League 🇧🇪', 3944: 'Super League 🇨🇭', 3907: 'Bundesliga 🇦🇹', 3960: 'Eliteserien 🇳🇴',
+    3945: 'Allsvenskan 🇸🇪', 3913: 'Superliga 🇩🇰', 770: 'MLS 🇺🇸', 4002: 'USL Championship 🇺🇸',
+    3906: 'A-League 🇦🇺', 21231: 'Saudi Pro League 🇸🇦', 735: 'Premiership 🏴', 3963: 'Cymru Premier 🏴',
+}
 MIN_FROM, MIN_TO = 25, 34
+OVER_FROM, OVER_TO = 20, 32
+
+# Mercados para la imagen (botones de Telegram)
+MARKETS = {'u05': 'Menos de 0,5 goles 1.ª parte', 'u1': 'Menos de 1 gol 1.ª parte',
+           'u15': 'Menos de 1,5 goles 1.ª parte', 'o05': 'Más de 0,5 goles 1.ª parte',
+           'o15': 'Más de 1,5 goles 1.ª parte'}
+LABELS = {'u05': '−0,5', 'u1': '−1', 'u15': '−1,5', 'o05': '+0,5', 'o15': '+1,5'}
+UNDER_KEYS, OVER_KEYS = ('u05', 'u1', 'u15'), ('o05', 'o15')
+
+
+def keyboard(ref, keys):
+    """Botones 📸 para elegir el mercado de la imagen. ref = 's123' (SofaScore) o 'e123' (ESPN)."""
+    return json.dumps({'inline_keyboard': [[{'text': f'📸 {LABELS[k]}', 'callback_data': f'img|{k}|{ref}'}
+                                            for k in keys]]})
 
 
 def get(url, timeout=40):
@@ -81,9 +102,10 @@ def chat_id(state):
     return None
 
 
-def send(cid, text):
+def send(cid, text, markup=None):
+    extra = {'reply_markup': markup} if markup else {}
     return tg('sendMessage', chat_id=cid, text=text, parse_mode='HTML',
-              disable_web_page_preview='true')
+              disable_web_page_preview='true', **extra)
 
 
 def minute(clock):
@@ -146,7 +168,7 @@ def candidates():
             away = next(x for x in t if x.get('homeAway') == 'away')
             hi, ai = t.index(home), t.index(away)
             out.append({
-                'id': e['id'], 'liga': (LOW if low else MED)[lid], 'nivel': 'baja' if low else 'media',
+                'id': e['id'], 'kind': 'f2', 'liga': (LOW if low else MED)[lid], 'nivel': 'baja' if low else 'media',
                 'local': home['team']['displayName'], 'visit': away['team']['displayName'],
                 'min': mn, 'sot': (int(sot[hi]), int(sot[ai])), 'sh': (int(sh[hi]), int(sh[ai])),
                 'co': (int(co[hi]), int(co[ai])),
@@ -154,19 +176,29 @@ def candidates():
     return out
 
 
-def prealerts():
-    """Partidos de ligas de pocos goles en el minuto 5-12 y 0-0 (aviso para vigilar)."""
+def scoreboard_events():
     now = dt.datetime.now(dt.timezone.utc)
+    seen = set()
+    for d in {now.strftime('%Y%m%d'), (now - dt.timedelta(hours=6)).strftime('%Y%m%d')}:
+        try:
+            data = get('https://site.api.espn.com/apis/site/v2/sports/soccer/all/'
+                       f'scoreboard?dates={d}&limit=500')
+        except Exception as e:
+            print('ESPN error:', e)
+            continue
+        for e in data.get('events', []):
+            if e['id'] not in seen:
+                seen.add(e['id'])
+                yield e
+
+
+def prealerts():
+    """Minuto 5-12 y 0-0: ligas de pocos goles (candidato −0,5) y de muchos goles (candidato +0,5)."""
     out = []
-    try:
-        data = get('https://site.api.espn.com/apis/site/v2/sports/soccer/all/'
-                   f'scoreboard?dates={now.strftime("%Y%m%d")}&limit=500')
-    except Exception:
-        return out
-    for e in data.get('events', []):
+    for e in scoreboard_events():
         m = re.search(r'~l:(\d+)~', e.get('uid', ''))
         lid = int(m.group(1)) if m else None
-        if lid not in LOW:
+        if lid not in LOW and lid not in HIGH:
             continue
         c = e['competitions'][0]
         st = c['status']
@@ -178,15 +210,74 @@ def prealerts():
             continue
         home = next(x for x in t if x.get('homeAway') == 'home')
         away = next(x for x in t if x.get('homeAway') == 'away')
-        out.append({'id': 'pre' + e['id'], 'liga': LOW[lid], 'local': home['team']['displayName'],
+        kind = 'low' if lid in LOW else 'high'
+        out.append({'id': ('pre' if kind == 'low' else 'preo') + e['id'], 'eid': e['id'], 'kind': kind,
+                    'liga': (LOW if kind == 'low' else HIGH)[lid], 'local': home['team']['displayName'],
                     'visit': away['team']['displayName'], 'min': mn})
     return out
 
 
 def premessage(p):
+    if p.get('kind') == 'high':
+        return (f"👀 <b>PARTIDO A VIGILAR</b> · liga de muchos goles\n\n⚽ <b>{p['local']} – {p['visit']}</b>\n"
+                f"🏆 {p['liga']}\n⏱️ Minuto {p['min']} · 0-0\n\n"
+                f"Candidato a +0,5 goles 1.ª parte. Si aprieta (tiros a puerta), te aviso entre el 20' y el 32'.\n"
+                f"📸 Pulsa un botón para crear la imagen para Telegram")
     return (f"👀 <b>PARTIDO A VIGILAR</b> · liga de pocos goles\n\n⚽ <b>{p['local']} – {p['visit']}</b>\n"
             f"🏆 {p['liga']}\n⏱️ Minuto {p['min']} · 0-0\n\n"
-            f"Candidato al Filtro 2 (−0,5 1.ª parte). Si sigue 0-0 y cerrado, te aviso en el 25'.")
+            f"Candidato al Filtro 2 (−0,5 1.ª parte). Si sigue 0-0 y cerrado, te aviso en el 25'.\n"
+            f"📸 Pulsa un botón para crear la imagen para Telegram")
+
+
+def prekb(p):
+    return keyboard('e' + p['eid'], OVER_KEYS if p.get('kind') == 'high' else UNDER_KEYS)
+
+
+def over_candidates():
+    """Filtro +0,5 goles 1.ª parte: liga de muchos goles, 20'-32', 0-0 y partido abierto."""
+    out = []
+    for e in scoreboard_events():
+        m = re.search(r'~l:(\d+)~', e.get('uid', ''))
+        lid = int(m.group(1)) if m else None
+        if lid not in HIGH:
+            continue
+        c = e['competitions'][0]
+        st = c['status']
+        if st['type'].get('state') != 'in' or st.get('period') != 1:
+            continue
+        mn = minute(st.get('displayClock'))
+        if mn is None or not (OVER_FROM <= mn <= OVER_TO) or '+' in st.get('displayClock', ''):
+            continue
+        t = c['competitors']
+        if any(x.get('score') != '0' for x in t):
+            continue
+        if sum(stat(x, 'possessionPct') or 0 for x in t) <= 0:
+            continue
+        sot = [stat(x, 'shotsOnTarget') or 0 for x in t]
+        sh = [stat(x, 'totalShots') or 0 for x in t]
+        co = [stat(x, 'wonCorners') or 0 for x in t]
+        if not ((sum(sot) >= 3 and sum(sh) >= 8) or sum(sot) >= 4):
+            continue
+        home = next(x for x in t if x.get('homeAway') == 'home')
+        away = next(x for x in t if x.get('homeAway') == 'away')
+        hi, ai = t.index(home), t.index(away)
+        out.append({'id': 'o' + e['id'], 'eid': e['id'], 'kind': 'over', 'liga': HIGH[lid],
+                    'local': home['team']['displayName'], 'visit': away['team']['displayName'], 'min': mn,
+                    'sot': (int(sot[hi]), int(sot[ai])), 'sh': (int(sh[hi]), int(sh[ai])),
+                    'co': (int(co[hi]), int(co[ai]))})
+    return out
+
+
+def overmessage(p):
+    return (f"🔥 <b>ALERTA +0,5 GOLES 1.ª PARTE</b>\n\n"
+            f"⚽ <b>{p['local']} – {p['visit']}</b>\n🏆 {p['liga']}\n"
+            f"⏱️ Minuto {p['min']} · 0-0\n\n"
+            f"🎯 Tiros a puerta: {p['sot'][0]}-{p['sot'][1]}\n"
+            f"👟 Tiros: {p['sh'][0]}-{p['sh'][1]}\n"
+            f"🚩 Córners: {p['co'][0]}-{p['co'][1]}\n🔴 Liga de muchos goles y partido abierto\n\n"
+            f"✅ <b>Más de 0,5 goles 1.ª parte</b>\n"
+            f"💶 Entra solo si la cuota es ≥ 1,60 · Stake 10 €\n"
+            f"📸 Pulsa un botón o responde con la cuota (ej. 1.75) para la imagen")
 
 
 def message(p):
@@ -202,21 +293,24 @@ def message(p):
             f"🚩 Córners: {p['co'][0]}-{p['co'][1]}\n{nivel}{warn}\n\n"
             f"✅ <b>Menos de 0,5 goles 1.ª parte</b>\n"
             f"💶 Entra solo si la cuota es ≥ 1,45 · Stake 10 €\n"
-            f"✍️ Responde a esta alerta con la cuota (ej. 1.62) y te mando la imagen con cuota")
+            f"📸 Pulsa un botón o responde con la cuota (ej. 1.62) para la imagen")
 
 
 def deliver(cid, p):
     """Envía la alerta como imagen lista para Telegram (o solo texto si falla la imagen)."""
+    over = p.get('kind') == 'over'
+    text = overmessage(p) if over else message(p)
+    mk = keyboard('e' + str(p.get('eid', p['id'])), OVER_KEYS if over else UNDER_KEYS)
     try:
         import aa_image
         png = aa_image.make_live_image(p['liga'], p['min'], '0-0', p['local'], p['visit'],
-                                       'Menos de 0,5 goles 1.ª parte')
-        r = aa_image.send_photo(TOKEN, cid, png, message(p))
+                                       MARKETS['o05' if over else 'u05'])
+        r = aa_image.send_photo(TOKEN, cid, png, text, mk)
         if r.get('ok'):
             return
     except Exception as e:
         print('Imagen no enviada:', e)
-    send(cid, message(p))
+    send(cid, text, mk)
 
 
 def main():
@@ -240,11 +334,11 @@ def main():
         for p in prealerts():
             if p['id'] not in state['sent']:
                 try:
-                    send(cid, premessage(p))
+                    send(cid, premessage(p), prekb(p))
                     state['sent'][p['id']] = time.time()
                 except Exception as e:
                     print('Telegram error:', e)
-        for p in candidates():
+        for p in candidates() + over_candidates():
             if p['id'] in state['sent']:
                 continue
             try:
