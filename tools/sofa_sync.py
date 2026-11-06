@@ -79,6 +79,25 @@ def load_cache():
         return {'teams': {}, 'days': {}}
 
 
+def api_get(path):
+    """Igual que pc_bot.sget pero contra api.sofascore.com (algunas rutas solo existen ahí)."""
+    try:
+        items = ([base._GOOD[0]] if base._GOOD[0] else []) + list(base._sessions())
+    except Exception:
+        return None
+    for name, ses in items:
+        try:
+            r = ses.get('https://api.sofascore.com/api/v1' + path, timeout=20,
+                        headers={'Referer': 'https://www.sofascore.com/', 'Accept': 'application/json'})
+            if r.status_code == 200:
+                return r.json()
+            if r.status_code == 404:
+                return None
+        except Exception:
+            continue
+    return None
+
+
 def day_events(day, cache):
     """Partidos de fútbol de un día (SofaScore). Primero la lista del día; si no, nada."""
     k = day.isoformat()
@@ -86,7 +105,7 @@ def day_events(day, cache):
         return cache['days'][k]['ev']
     d = base.sget(f'/sport/football/scheduled-events/{k}') or {}
     if not d.get('events'):
-        d = base.sget(f'/sport/football/scheduled-events/{k}/inverse') or d
+        d = api_get(f'/sport/football/scheduled-events/{k}') or d
     ev = [{'id': e['id'], 'h': e['homeTeam']['name'], 'a': e['awayTeam']['name'],
            'st': (e.get('status') or {}).get('type'), 'hs': e.get('homeScore', {}), 'as': e.get('awayScore', {}),
            'ts': e.get('startTimestamp', 0)} for e in d.get('events', [])]
@@ -104,7 +123,7 @@ def team_events(name, cache):
         tid = 0
         for path in ('/search/teams?q=', '/search/all?q='):
             res = base.sget(path + urllib.request.quote(name)) or {}
-            items = list(res.get('teams') or []) + [x.get('entity') or {} for x in res.get('results') or []
+            items = list(res.get('teams') or []) + [(x.get('entity') or x) for x in res.get('results') or []
                                                     if x.get('type') in (None, 'team')]
             cands = [t for t in items if t.get('id') and (t.get('sport') or {}).get('slug', 'football') == 'football'
                      and not t.get('gender') == 'F']
@@ -113,7 +132,9 @@ def team_events(name, cache):
                 break
             if not DIAG.get('search'):
                 DIAG['search'] = True
-                print(f'  búsqueda "{name}" en {path}: claves {list(res.keys())[:5]}')
+                ej = (res.get('results') or [{}])[0]
+                print(f'  búsqueda "{name}" en {path}: {len(res.get("results") or [])} resultados, '
+                      f'ejemplo {str(ej)[:160]}')
         if tid:
             cache['teams'][name] = tid
     if not tid:
