@@ -493,14 +493,15 @@
    "liga": "Belarus: Premier League",
    "local": "FC Gomel",
    "visitante": "Arsenal",
-   "tendencia": "★★★ Gana FC Gomel · cuota 1,43",
+   "tendencia": "★★★ Gana FC Gomel · cuota 1,43 · ✓ acertado",
    "inicio": "2026-11-06T15:00:00+00:00",
    "cuotas": [
     1.61,
     3.7,
     5.19
    ],
-   "tipo": "HOME WIN"
+   "tipo": "HOME WIN",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Belgium: Jupiler Pro League",
@@ -526,14 +527,15 @@
    "liga": "Bulgaria: First League",
    "local": "Septemvri Sofia",
    "visitante": "Lokomotiv Sofia",
-   "tendencia": "★★★ Lokomotiv Sofia o empate · cuota ~1,35",
+   "tendencia": "★★★ Lokomotiv Sofia o empate · cuota ~1,35 · ✗ fallado",
    "inicio": "2026-11-06T15:00:00+00:00",
    "cuotas": [
     3.6,
     3.5,
     2.0
    ],
-   "tipo": "AWAY DC"
+   "tipo": "AWAY DC",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Bulgaria: First League",
@@ -734,14 +736,15 @@
    "liga": "Romania: Liga I",
    "local": "Uta Arad",
    "visitante": "Petrolul Ploiesti",
-   "tendencia": "★★★ Uta Arad o empate · cuota ~1,17",
+   "tendencia": "★★★ Uta Arad o empate · cuota ~1,17 · ✗ fallado",
    "inicio": "2026-11-06T15:30:00+00:00",
    "cuotas": [
     1.73,
     3.6,
     4.2
    ],
-   "tipo": "HOME DC"
+   "tipo": "HOME DC",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Russia: Premier League",
@@ -1946,14 +1949,15 @@
    "liga": "Armenia: Premier League",
    "local": "BKMA",
    "visitante": "Alashkert",
-   "tendencia": "★★★ Gana Alashkert · cuota 1,27",
+   "tendencia": "★★★ Gana Alashkert · cuota 1,27 · ✗ fallado",
    "cuotas": [
     7.0,
     5.25,
     1.27
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-06T15:00:00+00:00"
+   "inicio": "2026-11-06T15:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Iran: Persian Gulf Pro League",
@@ -2278,14 +2282,15 @@
    "liga": "Egypt: Cup",
    "local": "Enppi",
    "visitante": "Proxy",
-   "tendencia": "★★★ Gana Enppi · cuota 1,25",
+   "tendencia": "★★★ Gana Enppi · cuota 1,25 · ✓ acertado",
    "cuotas": [
     1.25,
     4.5,
     9.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-06T15:00:00+00:00"
+   "inicio": "2026-11-06T15:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "France: National 2 - Group A",
@@ -2345,14 +2350,15 @@
    "liga": "Iraq: Iraqi League",
    "local": "Al-Karma",
    "visitante": "Naft Maysan",
-   "tendencia": "★★★ Al-Karma o empate · cuota ~1,15",
+   "tendencia": "★★★ Al-Karma o empate · cuota ~1,15 · ✓ acertado",
    "cuotas": [
     1.8,
     3.2,
     4.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-06T15:30:00+00:00"
+   "inicio": "2026-11-06T15:30:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Israel: Liga Alef",
@@ -2614,14 +2620,15 @@
    "liga": "Saudi-Arabia: Division 1",
    "local": "Al Zulfi",
    "visitante": "Jeddah Club",
-   "tendencia": "★★★ Gana Al Zulfi · cuota 1,50",
+   "tendencia": "★★★ Gana Al Zulfi · cuota 1,50 · ✗ fallado",
    "cuotas": [
     1.5,
     3.6,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-06T14:55:00+00:00"
+   "inicio": "2026-11-06T14:55:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Slovakia: 2. liga",
@@ -8170,27 +8177,29 @@
    "liga": "Ghana: Premier League",
    "local": "Karela",
    "visitante": "Vision",
-   "tendencia": "★★★ Gana Karela · cuota 1,62",
+   "tendencia": "★★★ Gana Karela · cuota 1,62 · ✗ fallado",
    "cuotas": [
     1.62,
     3.25,
     5.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-06T15:00:00+00:00"
+   "inicio": "2026-11-06T15:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Nigeria: NPFL",
    "local": "Kun Khalifat FC",
    "visitante": "Kano Pillars",
-   "tendencia": "★★★ Kun Khalifat FC o empate · cuota ~1,22",
+   "tendencia": "★★★ Kun Khalifat FC o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     2.0,
     3.1,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-06T15:00:00+00:00"
+   "inicio": "2026-11-06T15:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Romania: Liga I",

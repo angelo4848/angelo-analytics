@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-06",
  "cuota": 2.0,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-06",
@@ -19,5 +19,6 @@
    "Pronóstico": "Gana Al Zulfi",
    "Cuota": "1.50"
   }
- ]
+ ],
+ "estado": "perdida"
 }
