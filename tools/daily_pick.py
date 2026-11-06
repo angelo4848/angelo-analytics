@@ -202,7 +202,15 @@ def check():
         return
     idx = {(r['Fecha'], r['Local'], r['Visitante']): r for r in rows()}
     res = [idx.get((l['Fecha'], l['Local'], l['Visitante'])) for l in state['legs']]
-    if any(r and r['Acierto'] == 'Fallado' for r in res):
+    # el pick publicado en la app (marcado por picks.py con ESPN) manda si ya está resuelto
+    app = next((p for p in json.load(open(DATA, encoding='utf-8')).get('picks', [])
+                if p['fecha'] == state['fecha']), None)
+    if app and app.get('estado') in ('ganada', 'perdida'):
+        estado = app['estado']
+        res = [{'Acierto': 'Acertado' if l.get('estado') == 'ganada' else 'Fallado' if l.get('estado') == 'perdida' else '',
+                'Local': l['partido'].split(' vs ')[0], 'Visitante': l['partido'].split(' vs ')[-1],
+                'Resultado': l.get('resultado', ''), 'Pronóstico': l['mercado']} for l in app['patas']]
+    elif any(r and r['Acierto'] == 'Fallado' for r in res):
         estado = 'perdida'
     elif all(r and r['Acierto'] == 'Acertado' for r in res):
         estado = 'ganada'
