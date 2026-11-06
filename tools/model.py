@@ -364,7 +364,7 @@ def main():
 
     # ---- registro acumulado del filtro, con resultados ----
     LF = ['Fecha', 'Hora', 'Liga', 'Local', 'Visitante', 'Mercado', 'Probabilidad', 'Cuota justa', 'Muestra',
-          'Resultado', 'Acierto', 'Ganado (1/0)']
+          'Resultado', 'Acierto', 'Ganado (1/0)', 'Tipo']
     log = {(r['Fecha'], r['Local'], r['Visitante'], r['Mercado']): r for r in load_csv(LOG)}
     if True:  # se guarda lo seleccionado ANTES de que empiece cada partido
         for b in top:
@@ -375,6 +375,8 @@ def main():
                           'Visitante': b['Visitante'], 'Mercado': b['Mercado'], 'Probabilidad': pct(b['p']),
                           'Cuota justa': fair(b['p']), 'Muestra': b['Muestra'], 'Resultado': '', 'Acierto': '',
                           'Ganado (1/0)': ''}
+    for r in log.values():
+        r['Tipo'] = r['Mercado'] if ('1.ª parte' in r['Mercado'] or 'córners' in r['Mercado']) else 'Ganador / doble oportunidad'
     for k, r in log.items():
         if r['Acierto']:
             continue
