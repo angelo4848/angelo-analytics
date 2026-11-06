@@ -1,11 +1,11 @@
-name: Estudio histórico (backtest)
+name: Estudio histórico (backtest + histórico 5 años)
 
 # Descarga temporadas de fútbol (football-data.co.uk) y tenis (tennis-data.co.uk),
 # compara estrategias y guarda el informe en reports/backtest.md. Sin Claude.
 on:
   workflow_dispatch:
   schedule:
-    - cron: '17 4 * * 1'   # cada lunes, para que el estudio se actualice solo
+    - cron: '17 4 * * 1,4'   # lunes y jueves (football-data se actualiza ~2 veces por semana)
 
 permissions:
   contents: write
@@ -24,10 +24,11 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install --quiet pandas openpyxl
+      - run: python3 tools/history.py
       - run: python3 tools/backtest.py
-      - name: Guardar informe
+      - name: Guardar informe e histórico
         run: |
-          git add reports
+          git add reports data/history.csv
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "A. Analytics bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
