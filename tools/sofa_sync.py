@@ -34,6 +34,7 @@ FIELDS = ['Fecha', 'Local', 'Visitante', 'Resultado', 'Descanso', 'Gol 1.ª part
           'Córners L', 'Córners V', 'Córners total', 'Tiros L', 'Tiros V', 'A puerta L', 'A puerta V',
           'Posesión L %', 'Posesión V %', 'Amarillas L', 'Amarillas V', 'Rojas L', 'Rojas V']
 MAX_PER_RUN = 150
+DIAG = {}
 EVERY_MIN = 60
 
 
@@ -81,24 +82,40 @@ def load_cache():
 def day_events(day, cache):
     """Partidos de fútbol de un día (SofaScore). Primero la lista del día; si no, nada."""
     k = day.isoformat()
-    if k in cache['days'] and cache['days'][k]['t'] > time.time() - 3000:
+    if k in cache['days'] and cache['days'][k]['ev'] and cache['days'][k]['t'] > time.time() - 3000:
         return cache['days'][k]['ev']
     d = base.sget(f'/sport/football/scheduled-events/{k}') or {}
+    if not d.get('events'):
+        d = base.sget(f'/sport/football/scheduled-events/{k}/inverse') or d
     ev = [{'id': e['id'], 'h': e['homeTeam']['name'], 'a': e['awayTeam']['name'],
            'st': (e.get('status') or {}).get('type'), 'hs': e.get('homeScore', {}), 'as': e.get('awayScore', {}),
            'ts': e.get('startTimestamp', 0)} for e in d.get('events', [])]
     cache['days'][k] = {'t': time.time(), 'ev': ev}
+    if not DIAG.get(k):
+        DIAG[k] = True
+        print(f'  SofaScore lista del día {k}: {len(ev)} partidos')
     return ev
 
 
 def team_events(name, cache):
     """Plan B: buscar el equipo y mirar sus últimos partidos."""
     tid = cache['teams'].get(name)
-    if tid is None:
-        res = base.sget('/search/teams?q=' + urllib.request.quote(name)) or {}
-        cands = [t for t in res.get('teams', []) if (t.get('sport') or {}).get('slug') == 'football']
-        tid = cands[0]['id'] if cands else 0
-        cache['teams'][name] = tid
+    if not tid:
+        tid = 0
+        for path in ('/search/teams?q=', '/search/all?q='):
+            res = base.sget(path + urllib.request.quote(name)) or {}
+            items = list(res.get('teams') or []) + [x.get('entity') or {} for x in res.get('results') or []
+                                                    if x.get('type') in (None, 'team')]
+            cands = [t for t in items if t.get('id') and (t.get('sport') or {}).get('slug', 'football') == 'football'
+                     and not t.get('gender') == 'F']
+            if cands:
+                tid = cands[0]['id']
+                break
+            if not DIAG.get('search'):
+                DIAG['search'] = True
+                print(f'  búsqueda "{name}" en {path}: claves {list(res.keys())[:5]}')
+        if tid:
+            cache['teams'][name] = tid
     if not tid:
         return []
     d = base.sget(f'/team/{tid}/events/last/0') or {}
@@ -183,6 +200,8 @@ def run_once():
     todo = todo[:MAX_PER_RUN]
     print(now.strftime('%H:%M'), f'Partidos por completar: {len(todo)}')
     cache, new = load_cache(), []
+    cache['teams'] = {k: v for k, v in cache.get('teams', {}).items() if v}
+    miss = 0
     for r in todo:
         try:
             d = date.fromisoformat(r['Fecha'])
@@ -194,6 +213,7 @@ def run_once():
                 e = next((x for x in team_events(r['Local'], cache) if x['st'] == 'finished' and
                           same(r['Visitante'], x['a'] if same(r['Local'], x['h']) else x['h'])), None)
             if not e:
+                miss += 1
                 continue
             row = build_row(r, e)
             if row:
@@ -202,6 +222,7 @@ def run_once():
         except Exception as ex:
             print('  error con', r['Local'], '-', r['Visitante'], ':', str(ex)[:80])
     json.dump(cache, open(CACHE, 'w'))
+    print(f'  encontrados en SofaScore: {len(new)} · sin encontrar: {miss}')
     if not new:
         print('  nada nuevo que subir')
         return
