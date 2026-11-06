@@ -167,6 +167,12 @@ def main(mode):
         report.append(f'OddSlot today = {pdate}, filas = {len(rows)}')
         ch = sum(mark(m, find(rows, m)) for m in d['partidos'] if m['inicio'][:10] == today.isoformat())
         report.append(f'resultados nuevos/actualizados: {ch}')
+    elif mode == 'close' and d.get('actualizado') == today.isoformat():
+        # ya se cerró hoy: solo refrescar partidos de hoy/mañana (sin tocar el historial)
+        _, rows_t = fetch('today')
+        _, rows_m = fetch('tomorrow')
+        report.append(f'ya cerrado hoy · añadidos HOY: {add_day(d, rows_t, today)} · '
+                      f'MAÑANA: {add_day(d, rows_m, today + timedelta(days=1))}')
     elif mode == 'close':
         yday = datetime.fromisoformat(d.get('actualizado', (today - timedelta(days=1)).isoformat())).date()
         if yday >= today:
