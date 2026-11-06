@@ -1,17 +1,16 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
 23:00,Bolivia: Primera División,Independiente Petrolero,Real Tomayapo,8.0,65%,74%,55%,45%,7,No,Registro ESPN/SofaScore (muestra baja),
-19:45,France: Ligue 1,Toulouse,Strasbourg,8.1,62%,73%,63%,51%,1759,Sí,Histórico 5 años,
+19:45,France: Ligue 1,Toulouse,Strasbourg,8.1,62%,73%,63%,51%,1759,Sí,Histórico 5 años,3 - 1
 20:00,Spain: La Liga,Sevilla,Alaves,8.4,59%,70%,66%,53%,2009,Sí,Histórico 5 años,
-19:00,France: Ligue 2,Dunkerque,Guingamp,8.6,59%,70%,65%,53%,1847,Sí,Histórico 5 años,
-19:00,France: Ligue 2,Boulogne,Annecy,8.9,57%,69%,67%,54%,1847,Sí,Histórico 5 años,
-19:30,Scotland: Championship,Raith Rovers,Dunfermline,8.9,52%,64%,70%,59%,964,Sí,Histórico 5 años,
+19:00,France: Ligue 2,Dunkerque,Guingamp,8.6,59%,70%,65%,53%,1847,Sí,Histórico 5 años,3 - 0
+19:00,France: Ligue 2,Boulogne,Annecy,8.9,57%,69%,67%,54%,1847,Sí,Histórico 5 años,3 - 0
+19:30,Scotland: Championship,Raith Rovers,Dunfermline,8.9,52%,64%,70%,59%,964,Sí,Histórico 5 años,0 - 0
 20:45,Portugal: Primeira Liga,Famalicao,Arouca,9.0,54%,65%,69%,58%,1620,Sí,Histórico 5 años,
-19:00,France: Ligue 2,Montpellier,Metz,9.0,56%,68%,67%,55%,1847,Sí,Histórico 5 años,
+19:00,France: Ligue 2,Montpellier,Metz,9.0,56%,68%,67%,55%,1847,Sí,Histórico 5 años,2 - 3
 20:00,England: Premier League,Everton,Coventry,9.1,50%,62%,73%,62%,1990,Sí,Histórico 5 años,
-19:45,Italy: Serie A,Venezia,Udinese,9.2,53%,65%,69%,58%,2000,Sí,Histórico 5 años,
+19:45,Italy: Serie A,Venezia,Udinese,9.2,53%,65%,69%,58%,2000,Sí,Histórico 5 años,2 - 1
 20:00,Peru: Primera División,Atletico Grau,Cusco,9.3,54%,71%,79%,64%,10,No,Registro ESPN/SofaScore (muestra baja),
-16:30,Russia: Premier League,Lokomotiv,Rubin,9.4,52%,74%,86%,70%,5,No,Registro ESPN/SofaScore (muestra baja),
-19:00,France: Ligue 2,Nancy,Sochaux,9.4,53%,65%,70%,58%,1847,Sí,Histórico 5 años,
+19:00,France: Ligue 2,Nancy,Sochaux,9.4,53%,65%,70%,58%,1847,Sí,Histórico 5 años,1 - 0
 14:00,Algeria: Ligue 2,WA Tlemcen,GC Mascara,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1
 14:00,Algeria: Ligue 2,MO Bejaia,USM Annaba,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1
 14:00,Algeria: Ligue 2,JSM Skikda,Teleghma,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),3 - 2
@@ -19,22 +18,23 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 14:00,Algeria: Ligue 2,CR Béni Thour,NC Magra,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0
 14:00,Algeria: Ligue 2,CA Batna,Paradou AC,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0
 14:00,Algeria: Ligue 2,Azazga,MSP Batna,9.6,49%,63%,78%,66%,5,No,Registro ESPN/SofaScore (muestra baja),3 - 2
-19:00,France: Ligue 2,Grenoble,Reims,9.6,52%,63%,71%,60%,1847,Sí,Histórico 5 años,
+19:00,France: Ligue 2,Grenoble,Reims,9.6,52%,63%,71%,60%,1847,Sí,Histórico 5 años,3 - 2
 19:30,Germany: Bundesliga,Hamburger SV,Borussia Mönchengladbach,9.9,46%,58%,76%,65%,1601,Sí,Histórico 5 años,
 20:00,England: Championship,Derby,Bolton,10.0,45%,57%,77%,67%,2928,Sí,Histórico 5 años,
 19:30,Spain: Segunda División,Castellón,Eibar,10.0,48%,61%,74%,63%,2441,Sí,Histórico 5 años,
+16:30,Russia: Premier League,Lokomotiv,Rubin,10.0,41%,59%,89%,76%,6,No,Registro ESPN/SofaScore (muestra baja),0 - 1
 19:45,Belgium: Jupiler Pro League,Standard Liege,SK Beveren,10.1,44%,56%,77%,67%,1631,Sí,Histórico 5 años,
 08:40,Australia: A-League,Sydney,Central Coast Mariners,10.2,42%,54%,80%,70%,6,No,Registro ESPN/SofaScore (muestra baja),4 - 1
-19:30,Italy: Serie B,Ascoli,Palermo,10.6,43%,55%,78%,68%,2000,Sí,Histórico 5 años,
+19:30,Italy: Serie B,Ascoli,Palermo,10.6,43%,55%,78%,68%,2000,Sí,Histórico 5 años,1 - 1
 22:30,Brazil: Serie B,Operario-PR,Sport Recife,10.7,37%,48%,81%,73%,12,No,Registro ESPN/SofaScore,
-17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,10.7,39%,51%,81%,71%,1620,Sí,Histórico 5 años,
+17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,10.7,39%,51%,81%,71%,1620,Sí,Histórico 5 años,3 - 0
 23:00,Colombia: Primera A,Chico,Internacional de Bogota,10.9,36%,46%,82%,74%,10,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Netherlands: Eerste Divisie,Jong AZ,Almere City FC,11.1,29%,42%,89%,81%,9,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Netherlands: Eerste Divisie,Heracles,Roda,11.1,29%,42%,89%,81%,9,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Netherlands: Eerste Divisie,FC OSS,Waalwijk,11.1,29%,42%,89%,81%,9,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Netherlands: Eerste Divisie,FC Eindhoven,Jong Ajax,11.1,29%,42%,89%,81%,9,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Netherlands: Eerste Divisie,Dordrecht,NAC Breda,11.1,29%,42%,89%,81%,9,No,Registro ESPN/SofaScore (muestra baja),
-18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,11.7,22%,34%,94%,88%,9,No,Registro ESPN/SofaScore (muestra baja),
-17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,12.1,32%,42%,85%,77%,1620,Sí,Histórico 5 años,
-18:00,Argentina: Liga Profesional Argentina,Barracas Central,Racing Club,12.2,24%,33%,89%,83%,11,No,Registro ESPN/SofaScore (muestra baja),
-22:15,Argentina: Liga Profesional Argentina,Independiente,Deportivo Riestra,12.2,24%,33%,89%,83%,11,No,Registro ESPN/SofaScore (muestra baja),
+19:00,Netherlands: Eerste Divisie,Jong AZ,Almere City FC,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,1 - 3
+19:00,Netherlands: Eerste Divisie,Heracles,Roda,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,5 - 1
+19:00,Netherlands: Eerste Divisie,FC OSS,Waalwijk,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,1 - 1
+19:00,Netherlands: Eerste Divisie,FC Eindhoven,Jong Ajax,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,0 - 3
+19:00,Netherlands: Eerste Divisie,Dordrecht,NAC Breda,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,0 - 0
+18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,11.7,22%,34%,94%,88%,9,No,Registro ESPN/SofaScore (muestra baja),4 - 1
+18:00,Argentina: Liga Profesional Argentina,Barracas Central,Racing Club,11.9,26%,35%,88%,82%,12,No,Registro ESPN/SofaScore,2 - 0
+22:15,Argentina: Liga Profesional Argentina,Independiente,Deportivo Riestra,11.9,26%,35%,88%,82%,12,No,Registro ESPN/SofaScore,
+17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,12.1,32%,42%,85%,77%,1620,Sí,Histórico 5 años,0 - 0

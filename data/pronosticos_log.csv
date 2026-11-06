@@ -1,10 +1,10 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo
 2026-11-06,20:00,England: Championship,Derby,Bolton,"Más de 7,5 córners",77%,1.29,2928,,,,"Más de 7,5 córners"
 2026-11-06,19:45,Belgium: Jupiler Pro League,Standard Liege,SK Beveren,"Más de 7,5 córners",77%,1.29,1631,,,,"Más de 7,5 córners"
-2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Más de 7,5 córners",78%,1.29,2000,,,,"Más de 7,5 córners"
-2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Menos de 1,5 goles 1.ª parte",73%,1.38,2000,,,,"Menos de 1,5 goles 1.ª parte"
-2026-11-06,19:00,France: Ligue 2,Grenoble,Reims,"Menos de 1,5 goles 1.ª parte",72%,1.39,1847,,,,"Menos de 1,5 goles 1.ª parte"
-2026-11-06,18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,Victoria Hammarby FF,86%,1.17,14,,,,Ganador / doble oportunidad
-2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 7,5 córners",85%,1.18,1620,,,,"Más de 7,5 córners"
-2026-11-06,17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,"Más de 7,5 córners",81%,1.24,1620,,,,"Más de 7,5 córners"
-2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 0,5 goles 1.ª parte",76%,1.31,1620,,,,"Más de 0,5 goles 1.ª parte"
+2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Más de 7,5 córners",78%,1.29,2000,7 córners,Fallado,0,"Más de 7,5 córners"
+2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Menos de 1,5 goles 1.ª parte",73%,1.38,2000,Descanso 1 - 0,Acertado,1,"Menos de 1,5 goles 1.ª parte"
+2026-11-06,19:00,France: Ligue 2,Grenoble,Reims,"Menos de 1,5 goles 1.ª parte",72%,1.39,1847,Descanso 2 - 1,Fallado,0,"Menos de 1,5 goles 1.ª parte"
+2026-11-06,18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,Victoria Hammarby FF,86%,1.17,14,4 - 1,Acertado,1,Ganador / doble oportunidad
+2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 7,5 córners",85%,1.18,1620,9 córners,Acertado,1,"Más de 7,5 córners"
+2026-11-06,17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,"Más de 7,5 córners",81%,1.24,1620,12 córners,Acertado,1,"Más de 7,5 córners"
+2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 0,5 goles 1.ª parte",76%,1.31,1620,Descanso 0 - 0,Fallado,0,"Más de 0,5 goles 1.ª parte"
