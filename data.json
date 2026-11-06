@@ -7436,6 +7436,292 @@
    ],
    "tipo": "AWAY DC",
    "inicio": "2026-11-07T19:45:00+00:00"
+  },
+  {
+   "liga": "Ghana: Premier League",
+   "local": "Karela",
+   "visitante": "Vision",
+   "tendencia": "★★★ Gana Karela · cuota 1,62",
+   "cuotas": [
+    1.62,
+    3.25,
+    5.25
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-06T15:00:00+00:00"
+  },
+  {
+   "liga": "Nigeria: NPFL",
+   "local": "Kun Khalifat FC",
+   "visitante": "Kano Pillars",
+   "tendencia": "★★★ Kun Khalifat FC o empate · cuota ~1,22",
+   "cuotas": [
+    2.0,
+    3.1,
+    3.4
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T15:00:00+00:00"
+  },
+  {
+   "liga": "Romania: Liga I",
+   "local": "Arges Pitesti",
+   "visitante": "Dinamo Bucuresti",
+   "tendencia": "★★★ Dinamo Bucuresti o empate · cuota ~1,19",
+   "cuotas": [
+    4.0,
+    3.5,
+    1.8
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T18:30:00+00:00"
+  },
+  {
+   "liga": "Scotland: Championship",
+   "local": "Raith Rovers",
+   "visitante": "Dunfermline",
+   "tendencia": "★★★ Dunfermline o empate · cuota ~1,34",
+   "cuotas": [
+    2.7,
+    3.1,
+    2.35
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T19:30:00+00:00"
+  },
+  {
+   "liga": "Colombia: Primera A",
+   "local": "Chico",
+   "visitante": "Internacional de Bogota",
+   "tendencia": "★★★ Internacional de Bogota o empate · cuota ~1,36",
+   "cuotas": [
+    3.1,
+    3.2,
+    2.38
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T23:00:00+00:00"
+  },
+  {
+   "liga": "Denmark: 1. Division",
+   "local": "Vejle",
+   "visitante": "FC Fredericia",
+   "tendencia": "★★★ FC Fredericia o empate · cuota ~1,42",
+   "cuotas": [
+    2.75,
+    3.5,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T17:00:00+00:00"
+  },
+  {
+   "liga": "Denmark: 1. Division",
+   "local": "HB Koge",
+   "visitante": "Aalborg",
+   "tendencia": "★★★ Aalborg o empate · cuota ~1,29",
+   "cuotas": [
+    3.4,
+    3.6,
+    2.0
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T18:00:00+00:00"
+  },
+  {
+   "liga": "Egypt: Cup",
+   "local": "Zamalek SC",
+   "visitante": "Misr Insurance",
+   "tendencia": "★★★ Gana Zamalek SC · cuota 1,20",
+   "cuotas": [
+    1.2,
+    5.5,
+    13.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-06T18:00:00+00:00"
+  },
+  {
+   "liga": "France: National 2 - Group C",
+   "local": "Chateauroux",
+   "visitante": "Nimes",
+   "tendencia": "★★★ Nimes o empate · cuota ~1,27",
+   "cuotas": [
+    3.1,
+    3.2,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T18:30:00+00:00"
+  },
+  {
+   "liga": "Germany: Regionalliga - Bayern",
+   "local": "Illertissen",
+   "visitante": "Ansbach",
+   "tendencia": "★★★ Gana Illertissen · cuota 1,44",
+   "cuotas": [
+    1.44,
+    4.52,
+    5.9
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-06T18:00:00+00:00"
+  },
+  {
+   "liga": "Germany: Regionalliga - West",
+   "local": "Hilden",
+   "visitante": "SV Rodinghausen",
+   "tendencia": "★★★ Hilden o empate · cuota ~1,28",
+   "cuotas": [
+    1.95,
+    3.71,
+    3.04
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T18:30:00+00:00"
+  },
+  {
+   "liga": "Iraq: Iraqi League",
+   "local": "Newroz",
+   "visitante": "Karbala",
+   "tendencia": "★★★ Gana Newroz · cuota 1,50",
+   "cuotas": [
+    1.5,
+    3.75,
+    5.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-06T13:00:00+00:00"
+  },
+  {
+   "liga": "Kuwait: Premier League",
+   "local": "Al Shabab",
+   "visitante": "Al Tadhamon",
+   "tendencia": "★★★ Al Tadhamon o empate · cuota ~1,37",
+   "cuotas": [
+    2.6,
+    3.3,
+    2.35
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-06T16:40:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "USFAS Bamako",
+   "visitante": "Afrique Football Élite",
+   "tendencia": "★★★ USFAS Bamako o empate · cuota ~1,12",
+   "cuotas": [
+    1.75,
+    3.1,
+    4.5
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T16:00:00+00:00"
+  },
+  {
+   "liga": "Northern-Ireland: Championship",
+   "local": "Ballinamallard United",
+   "visitante": "Rathfriland",
+   "tendencia": "★★★ Gana Ballinamallard United · cuota 1,65",
+   "cuotas": [
+    1.65,
+    3.7,
+    4.2
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-06T19:45:00+00:00"
+  },
+  {
+   "liga": "Qatar: Stars League",
+   "local": "Al Wakrah",
+   "visitante": "Al Shahaniya",
+   "tendencia": "★★★ Al Wakrah o empate · cuota ~1,20",
+   "cuotas": [
+    1.7,
+    4.1,
+    3.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T16:30:00+00:00"
+  },
+  {
+   "liga": "Saudi-Arabia: Division 2",
+   "local": "Al Qalah",
+   "visitante": "Afif",
+   "tendencia": "★★★ Al Qalah o empate · cuota ~1,18",
+   "cuotas": [
+    1.83,
+    3.3,
+    4.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "liga": "Wales: FAW Championship",
+   "local": "Afan Lido",
+   "visitante": "Caerphilly Athletic",
+   "tendencia": "★★★ Afan Lido o empate · cuota ~1,43",
+   "cuotas": [
+    2.3,
+    3.75,
+    2.45
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T19:30:00+00:00"
+  },
+  {
+   "liga": "Wales: FAW Championship",
+   "local": "llanelli AFC",
+   "visitante": "Pontardawe Town",
+   "tendencia": "★★★ Gana Pontardawe Town · cuota 1,30",
+   "cuotas": [
+    6.25,
+    5.5,
+    1.3
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-06T19:30:00+00:00"
+  },
+  {
+   "liga": "Wales: FAW Championship",
+   "local": "Newport City",
+   "visitante": "Treowen Stars",
+   "tendencia": "★★★ Newport City o empate · cuota ~1,24",
+   "cuotas": [
+    1.8,
+    4.0,
+    3.3
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-06T19:30:00+00:00"
+  },
+  {
+   "liga": "Greece: Super League 1",
+   "local": "Volos NFC",
+   "visitante": "Kifisia",
+   "tendencia": "★★★ Kifisia o empate · cuota ~1,38",
+   "cuotas": [
+    2.9,
+    3.25,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-07T15:00:00+00:00"
+  },
+  {
+   "liga": "Argentina: Torneo Federal A",
+   "local": "Douglas Haig",
+   "visitante": "Gimnasia Chivilcoy",
+   "tendencia": "★★★ Douglas Haig o empate · cuota ~1,14",
+   "cuotas": [
+    1.85,
+    3.0,
+    4.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-07T19:00:00+00:00"
   }
  ],
  "historial_pronosticos": [
