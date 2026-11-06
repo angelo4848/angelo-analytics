@@ -466,14 +466,15 @@
    "liga": "Azerbaijan: Premyer Liqa",
    "local": "Qarabag",
    "visitante": "Turan",
-   "tendencia": "★★★ Gana Qarabag · cuota 1,50",
+   "tendencia": "★★★ Gana Qarabag · cuota 1,50 · ✗ fallado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     1.57,
     3.6,
     4.75
    ],
-   "tipo": "HOME WIN"
+   "tipo": "HOME WIN",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Azerbaijan: Premyer Liqa",
@@ -879,7 +880,13 @@
    "local": "Penybont",
    "visitante": "Caernarfon Town",
    "tendencia": "★★★ Caernarfon Town o empate · cuota ~1,40",
-   "inicio": "2026-11-06T19:45:00+00:00"
+   "inicio": "2026-11-06T19:45:00+00:00",
+   "cuotas": [
+    2.35,
+    3.4,
+    2.55
+   ],
+   "tipo": "HOME DC"
   },
   {
    "liga": "Wales: Premier League",
@@ -911,92 +918,99 @@
    "liga": "Algeria: Ligue 2",
    "local": "CA Batna",
    "visitante": "Paradou AC",
-   "tendencia": "★★★ Gana CA Batna · cuota 1,67",
+   "tendencia": "★★★ Gana CA Batna · cuota 1,67 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     1.95,
     3.0,
     3.7
    ],
-   "tipo": "HOME DC"
+   "tipo": "HOME DC",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "CR Béni Thour",
    "visitante": "NC Magra",
-   "tendencia": "★★★ Gana NC Magra · cuota 1,62",
+   "tendencia": "★★★ Gana NC Magra · cuota 1,62 · ✗ fallado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     3.1,
     3.2,
     2.2
    ],
-   "tipo": "AWAY DC"
+   "tipo": "AWAY DC",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "MO Bejaia",
    "visitante": "USM Annaba",
-   "tendencia": "★★★ MO Bejaia o empate · cuota ~1,17",
+   "tendencia": "★★★ MO Bejaia o empate · cuota ~1,17 · ✗ fallado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     1.55,
     3.25,
     6.5
    ],
-   "tipo": "HOME WIN"
+   "tipo": "HOME WIN",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "IRB Nezla",
    "visitante": "Nrb Beni Oulbene",
-   "tendencia": "★★★ IRB Nezla o empate · cuota ~1,25",
+   "tendencia": "★★★ IRB Nezla o empate · cuota ~1,25 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     2.0,
     3.0,
     3.6
    ],
-   "tipo": "HOME DC"
+   "tipo": "HOME DC",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "JSM Skikda",
    "visitante": "Teleghma",
-   "tendencia": "★★★ Gana JSM Skikda · cuota 1,42",
+   "tendencia": "★★★ Gana JSM Skikda · cuota 1,42 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     1.36,
     3.9,
     9.5
    ],
-   "tipo": "HOME WIN"
+   "tipo": "HOME WIN",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "WA Tlemcen",
    "visitante": "GC Mascara",
-   "tendencia": "★★★ GC Mascara o empate · cuota ~1,30",
+   "tendencia": "★★★ GC Mascara o empate · cuota ~1,30 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     3.0,
     3.1,
     2.2
    ],
-   "tipo": "AWAY DC"
+   "tipo": "AWAY DC",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "Azazga",
    "visitante": "MSP Batna",
-   "tendencia": "★★★ Azazga o empate · cuota ~1,28",
+   "tendencia": "★★★ Azazga o empate · cuota ~1,28 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     2.0,
     3.0,
     3.5
    ],
-   "tipo": "HOME DC"
+   "tipo": "HOME DC",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Australia: Australian Championship",
@@ -1537,14 +1551,15 @@
    "liga": "Jordan: League",
    "local": "Al Jazeera",
    "visitante": "Al Ramtha",
-   "tendencia": "★★★ Al Ramtha o empate · cuota ~1,37",
+   "tendencia": "★★★ Al Ramtha o empate · cuota ~1,37 · ✓ acertado",
    "inicio": "2026-11-06T14:00:00+00:00",
    "cuotas": [
     3.4,
     3.1,
     2.0
    ],
-   "tipo": "AWAY DC"
+   "tipo": "AWAY DC",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Jordan: League",
@@ -1693,14 +1708,15 @@
    "liga": "Qatar: Stars League",
    "local": "Al-Arabi SC",
    "visitante": "Al Ahli Doha",
-   "tendencia": "★★★ Al-Arabi SC o empate · cuota ~1,28",
+   "tendencia": "★★★ Al-Arabi SC o empate · cuota ~1,28 · ✓ acertado",
    "inicio": "2026-11-06T14:15:00+00:00",
    "cuotas": [
     2.0,
     3.7,
     2.8
    ],
-   "tipo": "HOME DC"
+   "tipo": "HOME DC",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Slovenia: 2. SNL",
@@ -2051,14 +2067,15 @@
    "liga": "Uzbekistan: Super League",
    "local": "Sogdiana",
    "visitante": "Dinamo Samarqand",
-   "tendencia": "★★★ Sogdiana o empate · cuota ~1,26",
+   "tendencia": "★★★ Sogdiana o empate · cuota ~1,26 · ✗ fallado",
    "cuotas": [
     2.0,
     3.4,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-06T13:30:00+00:00"
+   "inicio": "2026-11-06T13:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "Austria: Regionalliga - North",
@@ -2314,14 +2331,15 @@
    "liga": "Iraq: Iraqi League",
    "local": "Al Talaba",
    "visitante": "Ghaz Al Shamal",
-   "tendencia": "★★★ Al Talaba o empate · cuota ~1,25",
+   "tendencia": "★★★ Al Talaba o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     2.1,
     3.1,
     3.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-06T13:45:00+00:00"
+   "inicio": "2026-11-06T13:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Iraq: Iraqi League",
