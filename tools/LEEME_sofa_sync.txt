@@ -1,0 +1,24 @@
+A. ANALYTICS · SofaScore -> GitHub (completa los datos que ESPN no tiene)
+=========================================================================
+
+Mientras tu PC esté encendido, cada hora busca en SofaScore los partidos ya terminados
+a los que les falta el descanso, los córners o el resultado, y los sube a GitHub.
+La app, el Google Sheet y el modelo los usan solos en la siguiente actualización.
+
+UNA SOLA VEZ:
+1) Crea un token de GitHub (solo lo ves tú):
+   github.com -> tu foto -> Settings -> Developer settings -> Personal access tokens
+   -> Fine-grained tokens -> Generate new token
+   - Repository access: Only select repositories -> angelo-analytics
+   - Permissions -> Repository permissions -> Contents: Read and write
+   - Expiration: la más larga que te deje (o "No expiration")
+   Copia el token (empieza por github_pat_...).
+
+2) Abre bot_config.txt (el mismo del bot) y añade una línea:
+   GITHUB_TOKEN=github_pat_...tu token...
+
+3) Haz doble clic en  instalar_inicio_automatico.bat
+   -> arranca ya y, desde ahora, cada vez que enciendas el PC (minimizado).
+
+Para probarlo a mano: iniciar_sofa_sync.bat
+No compartas nunca el token ni bot_config.txt.
