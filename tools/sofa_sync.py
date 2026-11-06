@@ -101,7 +101,7 @@ def api_get(path):
 def day_events(day, cache):
     """Partidos de fútbol de un día (SofaScore). Primero la lista del día; si no, nada."""
     k = day.isoformat()
-    if k in cache['days'] and cache['days'][k]['ev'] and cache['days'][k]['t'] > time.time() - 3000:
+    if k in cache['days'] and cache['days'][k]['t'] > time.time() - 3000:
         return cache['days'][k]['ev']
     d = base.sget(f'/sport/football/scheduled-events/{k}') or {}
     if not d.get('events'):
