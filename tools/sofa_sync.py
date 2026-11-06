@@ -116,27 +116,33 @@ def day_events(day, cache):
     return ev
 
 
-def team_events(name, cache):
-    """Plan B: buscar el equipo y mirar sus últimos partidos."""
-    tid = cache['teams'].get(name)
-    if not tid:
-        tid = 0
-        for path in ('/search/teams?q=', '/search/all?q='):
-            res = base.sget(path + urllib.request.quote(name)) or {}
+def search_team(name):
+    """Id de SofaScore de un equipo de FÚTBOL (prueba el nombre completo y sin 'FC', 'SC'...)."""
+    base_name = re.sub(r'\b(FC|SC|CF|AFC|BC|FK|SK|CD|CA|AC|SD|UD|Club|Calcio)\b\.?', ' ', name, flags=re.I)
+    variants = list(dict.fromkeys([name, ' '.join(base_name.split())]))
+    for q in variants:
+        for path in ('/search/all?q=', '/search/teams?q='):
+            res = base.sget(path + urllib.request.quote(q)) or {}
             items = list(res.get('teams') or []) + [(x.get('entity') or x) for x in res.get('results') or []
                                                     if x.get('type') in (None, 'team')]
-            cands = [t for t in items if t.get('id') and (t.get('sport') or {}).get('slug', 'football') == 'football'
-                     and not t.get('gender') == 'F']
-            if cands:
-                tid = cands[0]['id']
-                break
-            if not DIAG.get('search'):
-                DIAG['search'] = True
-                ej = (res.get('results') or [{}])[0]
-                print(f'  búsqueda "{name}" en {path}: {len(res.get("results") or [])} resultados, '
-                      f'ejemplo {str(ej)[:160]}')
+            foot = [t for t in items if t.get('id') and (t.get('sport') or {}).get('slug') == 'football'
+                    and t.get('gender') != 'F']
+            if foot:
+                exact = [t for t in foot if same(name, t.get('name', '')) or same(name, t.get('shortName', ''))]
+                return (exact or foot)[0]['id']
+    return 0
+
+
+def team_events(name, cache):
+    """Busca el equipo y devuelve sus últimos partidos."""
+    tid = cache['teams'].get(name)
+    if not tid:
+        tid = search_team(name)
         if tid:
             cache['teams'][name] = tid
+        elif not DIAG.get('search'):
+            DIAG['search'] = True
+            print(f'  no encontré en SofaScore el equipo de fútbol "{name}"')
     if not tid:
         return []
     d = base.sget(f'/team/{tid}/events/last/0') or {}
@@ -230,9 +236,15 @@ def run_once():
             e = next((x for x in evs if x['st'] == 'finished' and
                       ((same(r['Local'], x['h']) and same(r['Visitante'], x['a'])) or
                        (same(r['Local'], x['a']) and same(r['Visitante'], x['h'])))), None)
-            if not e:
-                e = next((x for x in team_events(r['Local'], cache) if x['st'] == 'finished' and
-                          same(r['Visitante'], x['a'] if same(r['Local'], x['h']) else x['h'])), None)
+            for side, other in ((r['Local'], r['Visitante']), (r['Visitante'], r['Local'])):
+                if e:
+                    break
+                for x in team_events(side, cache):
+                    when = datetime.fromtimestamp(x['ts'], TZ).date() if x['ts'] else None
+                    if x['st'] == 'finished' and when and abs((when - d).days) <= 1 and \
+                            (same(other, x['a']) or same(other, x['h'])):
+                        e = x
+                        break
             if not e:
                 miss += 1
                 continue
