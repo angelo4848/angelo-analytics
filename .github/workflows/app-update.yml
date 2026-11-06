@@ -4,7 +4,7 @@ name: Actualizar app (resultados y cierre)
 # Horas en UTC (Lisboa = UTC en invierno, UTC+1 en verano). GitHub puede retrasar los cron unos minutos.
 on:
   schedule:
-    - cron: '50 12-23 * * *'   # resultados cada hora por la tarde/noche
+    - cron: '50 * * * *'       # resultados y estadísticas cada hora, las 24 horas
     - cron: '20 1,3,5 * * *'   # cierre diario de madrugada (03:20 y 05:20 de respaldo; si ya se hizo, no repite)
   workflow_dispatch:
     inputs:
@@ -47,6 +47,8 @@ jobs:
         run: python3 tools/update.py ${{ steps.modo.outputs.m }}
       - name: Registro para Google Sheet (app.csv)
         run: python3 tools/export_csv.py
+      - name: Modelo (pestañas −0,5 / +0,5 / córners / pronósticos)
+        run: python3 tools/model.py || true
       - name: Resultado del pick del bot
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
@@ -55,6 +57,7 @@ jobs:
       - name: Guardar cambios
         run: |
           for f in app.csv data.json bot_pick.json; do [ -f "$f" ] && git add "$f"; done
+          git add data/*.csv 2>/dev/null || true
           python3 -c "import json;json.load(open('data.json'))"
           if git diff --quiet && git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git config user.name "A. Analytics bot"

@@ -40,9 +40,10 @@ jobs:
           python3 tools/export_csv.py || true
           python3 tools/daily_pick.py check || true
           python3 tools/daily_pick.py send
+          python3 tools/model.py || true
       - name: Guardar
         run: |
-          git add bot_pick.json data.json app.csv
+          git add bot_pick.json data.json app.csv data/*.csv
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "A. Analytics bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

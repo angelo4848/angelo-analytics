@@ -197,6 +197,35 @@ def fill_espn(rows, days):
     print(f'ESPN: {n}/{len(pend)} partidos con estadísticas')
 
 
+SOFA = os.path.join(ROOT, 'data', 'sofa_stats.csv')
+
+
+def fill_sofa(rows):
+    """Completa con lo que subió el portátil desde SofaScore (data/sofa_stats.csv) lo que ESPN no tiene."""
+    if not os.path.exists(SOFA):
+        return
+    with open(SOFA, encoding='utf-8') as f:
+        sofa = list(csv.DictReader(f))
+    n = 0
+    for s in sofa:
+        r = rows.get((s['Fecha'], s['Local'].lower(), s['Visitante'].lower()))
+        if not r:
+            continue
+        changed = False
+        for k, v in s.items():
+            if k in FIELDS and k not in ('Fecha', 'Local', 'Visitante') and v and not r.get(k):
+                r[k] = v
+                changed = True
+        if r['Resultado'] and not r['Acierto']:
+            hs, ws = map(int, r['Resultado'].split(' - '))
+            ok = judge(r['Pronóstico'], r['Local'], r['Visitante'], hs, ws)
+            if ok is not None:
+                r['Acierto'] = 'Acertado' if ok else 'Fallado'
+                changed = True
+        n += changed
+    print(f'SofaScore (portátil): {n} partidos completados')
+
+
 def main():
     rows = {}
     if os.path.exists(OUT):
@@ -215,6 +244,7 @@ def main():
     merge(rows, json.load(open(DATA, encoding='utf-8')).get('partidos', []))
     days = int(sys.argv[sys.argv.index('--days') + 1]) if '--days' in sys.argv else 4
     fill_espn(rows, days)
+    fill_sofa(rows)
     for r in rows.values():
         derive(r)
     out = sorted(rows.values(), key=lambda r: (r['Fecha'], r['Hora'], r['Local']), reverse=True)
