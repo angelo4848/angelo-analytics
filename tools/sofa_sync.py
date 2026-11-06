@@ -218,6 +218,11 @@ def run_once():
         body['sha'] = sha
     gh('PUT', PATH, body)
     print(f'  subidos {len(new)} partidos a GitHub ✅')
+    try:  # pedir a GitHub que los meta ya en la app y el Google Sheet (si el token tiene permiso Actions)
+        import github_reloj
+        github_reloj.dispatch('app-update.yml', {'modo': 'results'})
+    except Exception:
+        pass
 
 
 def main():

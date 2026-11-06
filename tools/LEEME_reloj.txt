@@ -1,0 +1,12 @@
+A. ANALYTICS · RELOJ DE GITHUB (para el VPS, 24/7)
+==================================================
+GitHub gratis retrasa sus tareas horas. Este programa, en el VPS, le avisa a su hora:
+cada hora (resultados y Google Sheet), 01:20 cierre, 01:45 pick del día.
+
+1) En GitHub, edita tu token "A Analytics SofaScore":
+   github.com/settings/personal-access-tokens -> el token -> Edit
+   -> Repository permissions -> Actions: Read and write  (Contents sigue en Read and write)
+   -> Update. (El código del token no cambia.)
+2) En el VPS, copia estos archivos en la carpeta del bot y añade a su bot_config.txt:
+   GITHUB_TOKEN=github_pat_...   (el mismo token del PC)
+3) Doble clic en instalar_reloj_inicio.bat  (arranca ya y cada vez que se encienda el VPS).
