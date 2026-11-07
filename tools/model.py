@@ -261,7 +261,7 @@ def judge(market, r):
         return ok, f"Descanso {r['Descanso']}"
     if 'córners' in market:
         c = r.get('Córners total', '')
-        if not c.isdigit():
+        if not c.isdigit() or c == '0':  # 0 córners = la fuente no tenía el dato
             return None, ''
         ok = int(c) <= 10 if market.startswith('Menos') else int(c) >= 8
         return ok, f'{c} córners'
