@@ -1,2 +1,2 @@
-Tipo,Hora,Liga,Partido,Mercado,Probabilidad,Cuota justa,Apostar solo si cuota ≥,Cuota Bet365,Ventaja,Resultado,Acierto
-Hoy no hay apuestas con valor,,,Mejor no apostar hoy: no apostar también es ganar,,,,,,,,
+Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Apostar solo si cuota ≥,Mejor cuota casas,Opción 1 partido (crear apuesta),Prob. opción,Opción: apostar si cuota ≥,Resultado
+Valor,15:00,Scotland: League Two,Annan Athletic vs Kelty Hearts,Empate,30%,3.54,3.60,"Empate y más de 1,5 goles",19%,5.48,
