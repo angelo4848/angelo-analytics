@@ -24,6 +24,14 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 21:00,USA: Major League Soccer,DC United,New York City FC,8.9,58%,71%,68%,56%,11,No,Registro ESPN/SofaScore (muestra baja),
 21:00,USA: Major League Soccer,Chicago Fire,Columbus Crew,8.9,58%,71%,68%,56%,11,No,Registro ESPN/SofaScore (muestra baja),
 21:00,USA: Major League Soccer,CF Montreal,Vancouver Whitecaps,8.9,58%,71%,68%,56%,11,No,Registro ESPN/SofaScore (muestra baja),
+06:30,China: League One,Yanbian Longding,Hebei Kungfu,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1
+06:30,China: League One,Wuxi Wugou,Changchun Yatai,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1
+06:30,China: League One,Shenzhen Juniors,Suzhou Dongwu,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 4
+06:30,China: League One,Shaanxi Union,Guangxi Hengchen,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),4 - 0
+06:30,China: League One,Ningbo Professional,Heilongjiang Lava Spring,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+06:30,China: League One,Nantong Zhiyun,Dongguan United,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),3 - 1
+06:30,China: League One,Guangzhou E-Power,Nanjing City,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 3
+06:30,China: League One,Dalian Huayi,Meizhou Kejia,9.0,60%,79%,79%,60%,5,No,Registro ESPN/SofaScore (muestra baja),3 - 0
 20:05,France: Ligue 1,Paris Saint Germain,Estac Troyes,9.0,55%,67%,69%,57%,1759,Sí,Histórico 5 años,
 14:00,Italy: Serie B,Juve Stabia,Arezzo,9.1,53%,65%,70%,59%,2000,Sí,Histórico 5 años,
 15:00,Scotland: Championship,Inverness CT,Livingston,9.1,51%,62%,71%,60%,964,Sí,Histórico 5 años,
@@ -62,6 +70,9 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 17:30,England: Premier League,Nottingham Forest,Manchester City,9.9,44%,56%,77%,67%,1990,Sí,Histórico 5 años,
 15:00,Scotland: League One,Ross County,Peterhead,9.9,47%,58%,75%,64%,963,Sí,Histórico 5 años,
 19:45,Belgium: Jupiler Pro League,Antwerp,Lommel United,9.9,45%,57%,77%,66%,1631,Sí,Histórico 5 años,
+06:00,Japan: J1 League,FC Tokyo,Kashima,9.9,45%,58%,79%,68%,12,No,Registro ESPN/SofaScore,2 - 0
+06:00,Japan: J1 League,Avispa Fukuoka,V-varen Nagasaki,9.9,45%,58%,79%,68%,12,No,Registro ESPN/SofaScore,1 - 1
+07:00,Japan: J1 League,Kashiwa Reysol,Kawasaki Frontale,9.9,45%,58%,79%,68%,12,No,Registro ESPN/SofaScore,2 - 1
 17:45,Scotland: Premiership,Aberdeen,Hibernian,9.9,42%,54%,78%,68%,1209,Sí,Histórico 5 años,
 15:00,England: Premier League,Arsenal,Hull City,10.0,44%,55%,77%,68%,1990,Sí,Histórico 5 años,
 11:00,Russia: Premier League,Fakel,Dynamo,10.0,41%,59%,89%,76%,6,No,Registro ESPN/SofaScore (muestra baja),
@@ -71,8 +82,6 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 12:30,England: Championship,Bristol City,Norwich,10.1,44%,56%,78%,68%,2928,Sí,Histórico 5 años,
 17:15,Belgium: Jupiler Pro League,OH Leuven,KV Mechelen,10.1,43%,55%,78%,68%,1631,No,Histórico 5 años,
 15:00,England: Championship,Watford,Middlesbrough,10.2,43%,55%,78%,68%,2928,Sí,Histórico 5 años,
-08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,10.2,42%,54%,80%,70%,6,No,Registro ESPN/SofaScore (muestra baja),
-10:45,Australia: A-League,Perth Glory,Newcastle Jets,10.2,42%,54%,80%,70%,6,No,Registro ESPN/SofaScore (muestra baja),
 15:00,Scotland: League Two,Elgin City,Dumbarton,10.2,46%,57%,76%,66%,960,Sí,Histórico 5 años,
 15:00,Scotland: Championship,Queen's Park,Partick,10.3,44%,54%,76%,67%,964,Sí,Histórico 5 años,
 20:00,Spain: La Liga,Valencia,Real Madrid,10.3,45%,57%,76%,66%,2009,Sí,Histórico 5 años,
@@ -85,13 +94,12 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,10.4,41%,53%,79%,70%,1620,Sí,Histórico 5 años,
 15:00,England: Championship,West Brom,Millwall,10.4,42%,53%,80%,69%,2928,Sí,Histórico 5 años,
 15:00,Scotland: Premiership,Dundee Utd,Motherwell,10.5,39%,50%,81%,72%,1209,Sí,Histórico 5 años,
-06:00,Japan: J1 League,FC Tokyo,Kashima,10.6,35%,49%,86%,77%,9,No,Registro ESPN/SofaScore (muestra baja),
-06:00,Japan: J1 League,Avispa Fukuoka,V-varen Nagasaki,10.6,35%,49%,86%,77%,9,No,Registro ESPN/SofaScore (muestra baja),
-07:00,Japan: J1 League,Kashiwa Reysol,Kawasaki Frontale,10.6,35%,49%,86%,77%,9,No,Registro ESPN/SofaScore (muestra baja),
 12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,10.6,40%,52%,80%,71%,1620,Sí,Histórico 5 años,
 15:00,England: Championship,Charlton,Sheffield Utd,10.6,40%,52%,80%,70%,2928,Sí,Histórico 5 años,
 14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,10.7,41%,53%,79%,69%,1601,Sí,Histórico 5 años,
 14:30,Germany: Bundesliga,Borussia Dortmund,SV Elversberg,10.7,41%,52%,79%,69%,1601,Sí,Histórico 5 años,
+08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,10.9,34%,46%,84%,76%,7,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+10:45,Australia: A-League,Perth Glory,Newcastle Jets,10.9,34%,46%,84%,76%,7,No,Registro ESPN/SofaScore (muestra baja),
 15:30,Netherlands: Eerste Divisie,Den Bosch,Jong Utrecht,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,
 13:00,Spain: La Liga,Malaga,Racing Santander,10.9,41%,53%,79%,69%,2009,Sí,Histórico 5 años,
 17:30,Spain: Segunda División,Leganes,Albacete,11.0,42%,54%,78%,68%,2441,Sí,Histórico 5 años,

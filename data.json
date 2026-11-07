@@ -730,14 +730,15 @@
    "liga": "Australia: A-League",
    "local": "Melbourne City",
    "visitante": "Western Sydney Wanderers",
-   "tendencia": "★★★ Melbourne City o empate · cuota ~1,35",
+   "tendencia": "★★★ Melbourne City o empate · cuota ~1,35 · ✓ acertado",
    "cuotas": [
     2.2,
     3.5,
     3.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T08:40:00+00:00"
+   "inicio": "2026-11-07T08:40:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Australia: A-League",
@@ -1237,14 +1238,15 @@
    "liga": "Hong-Kong: Premier League",
    "local": "Shatin",
    "visitante": "BC Rangers",
-   "tendencia": "★★★ Shatin o empate · cuota ~1,28",
+   "tendencia": "★★★ Shatin o empate · cuota ~1,28 · ✓ acertado",
    "cuotas": [
     1.9,
     3.9,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T07:00:00+00:00"
+   "inicio": "2026-11-07T07:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Hungary: NB I",
@@ -1302,14 +1304,15 @@
    "liga": "Indonesia: Liga 1",
    "local": "Pusamania Borneo",
    "visitante": "PSM Makassar",
-   "tendencia": "★★★ Gana Pusamania Borneo · cuota 1,60",
+   "tendencia": "★★★ Gana Pusamania Borneo · cuota 1,60 · ✗ fallado",
    "cuotas": [
     1.6,
     3.8,
     4.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T08:30:00+00:00"
+   "inicio": "2026-11-07T08:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -1497,40 +1500,43 @@
    "liga": "Japan: J1 League",
    "local": "Avispa Fukuoka",
    "visitante": "V-varen Nagasaki",
-   "tendencia": "★★★ Avispa Fukuoka o empate · cuota ~1,25",
+   "tendencia": "★★★ Avispa Fukuoka o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     2.0,
     3.3,
     3.75
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:00:00+00:00"
+   "inicio": "2026-11-07T06:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Japan: J1 League",
    "local": "FC Tokyo",
    "visitante": "Kashima",
-   "tendencia": "★★★ FC Tokyo o empate · cuota ~1,26",
+   "tendencia": "★★★ FC Tokyo o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     2.0,
     3.4,
     3.6
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:00:00+00:00"
+   "inicio": "2026-11-07T06:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Japan: J1 League",
    "local": "Kashiwa Reysol",
    "visitante": "Kawasaki Frontale",
-   "tendencia": "★★★ Kashiwa Reysol o empate · cuota ~1,37",
+   "tendencia": "★★★ Kashiwa Reysol o empate · cuota ~1,37 · ✓ acertado",
    "cuotas": [
     2.15,
     3.75,
     3.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T07:00:00+00:00"
+   "inicio": "2026-11-07T07:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Malta: Premier League",
@@ -2199,14 +2205,15 @@
    "liga": "South-Korea: K League 1",
    "local": "Gimcheon Sangmu FC",
    "visitante": "FC Anyang",
-   "tendencia": "★★★ Gimcheon Sangmu FC o empate · cuota ~1,32",
+   "tendencia": "★★★ Gimcheon Sangmu FC o empate · cuota ~1,32 · ✓ acertado",
    "cuotas": [
     2.15,
     3.4,
     3.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T07:30:00+00:00"
+   "inicio": "2026-11-07T07:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Sweden: Allsvenskan",
@@ -2628,27 +2635,29 @@
    "liga": "Australia: Australian Championship",
    "local": "Wollongong Wolves",
    "visitante": "Preston Lions",
-   "tendencia": "★★★ Preston Lions o empate · cuota ~1,24",
+   "tendencia": "★★★ Preston Lions o empate · cuota ~1,24 · ✓ acertado",
    "cuotas": [
     3.3,
     3.6,
     1.9
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T06:00:00+00:00"
+   "inicio": "2026-11-07T06:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Australia: Australian Championship",
    "local": "South Melbourne",
    "visitante": "Sutherland Sharks",
-   "tendencia": "★★★ Gana South Melbourne · cuota 1,45",
+   "tendencia": "★★★ Gana South Melbourne · cuota 1,45 · ✗ fallado",
    "cuotas": [
     1.45,
     4.2,
     5.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T08:30:00+00:00"
+   "inicio": "2026-11-07T08:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Austria: 2. Liga",
@@ -4500,14 +4509,15 @@
    "liga": "Japan: J3 League",
    "local": "Ehime FC",
    "visitante": "Biwako Shiga",
-   "tendencia": "★★★ Ehime FC o empate · cuota ~1,20",
+   "tendencia": "★★★ Ehime FC o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     1.83,
     3.5,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T07:00:00+00:00"
+   "inicio": "2026-11-07T07:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Jordan: League",
@@ -5293,40 +5303,43 @@
    "liga": "South-Korea: K League 2",
    "local": "Gimhae City",
    "visitante": "Hwaseong",
-   "tendencia": "★★★ Hwaseong o empate · cuota ~1,18",
+   "tendencia": "★★★ Hwaseong o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     4.1,
     3.75,
     1.73
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T07:30:00+00:00"
+   "inicio": "2026-11-07T07:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "South-Korea: K League 2",
    "local": "Gimpo Citizen",
    "visitante": "Ansan Greeners",
-   "tendencia": "★★★ Gana Gimpo Citizen · cuota 1,60",
+   "tendencia": "★★★ Gana Gimpo Citizen · cuota 1,60 · ✗ fallado",
    "cuotas": [
     1.6,
     3.8,
     4.75
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T07:30:00+00:00"
+   "inicio": "2026-11-07T07:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "South-Korea: K League 2",
    "local": "Seoul E-Land FC",
    "visitante": "Jeonnam Dragons",
-   "tendencia": "★★★ Gana Seoul E-Land FC · cuota 1,44",
+   "tendencia": "★★★ Gana Seoul E-Land FC · cuota 1,44 · ✓ acertado",
    "cuotas": [
     1.44,
     4.2,
     6.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T07:30:00+00:00"
+   "inicio": "2026-11-07T07:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "South-Korea: K3 League",
@@ -6463,14 +6476,15 @@
    "liga": "Cambodia: C-League",
    "local": "Kirivong Sok Sen Chey",
    "visitante": "Kompong Dewa",
-   "tendencia": "★★★ Gana Kompong Dewa · cuota 1,50",
+   "tendencia": "★★★ Gana Kompong Dewa · cuota 1,50 · ✓ acertado",
    "cuotas": [
     4.5,
     4.33,
     1.5
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-07T08:30:00+00:00"
+   "inicio": "2026-11-07T08:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Cambodia: C-League",
@@ -6515,157 +6529,169 @@
    "liga": "China: League One",
    "local": "Dalian Huayi",
    "visitante": "Meizhou Kejia",
-   "tendencia": "★★★ Gana Dalian Huayi · cuota 1,33",
+   "tendencia": "★★★ Gana Dalian Huayi · cuota 1,33 · ✓ acertado",
    "cuotas": [
     1.33,
     4.75,
     6.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "China: League One",
    "local": "Guangzhou E-Power",
    "visitante": "Nanjing City",
-   "tendencia": "★★★ Gana Guangzhou E-Power · cuota 1,65",
+   "tendencia": "★★★ Gana Guangzhou E-Power · cuota 1,65 · ✗ fallado",
    "cuotas": [
     1.65,
     3.4,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "China: League One",
    "local": "Nantong Zhiyun",
    "visitante": "Dongguan United",
-   "tendencia": "★★★ Gana Nantong Zhiyun · cuota 1,10",
+   "tendencia": "★★★ Gana Nantong Zhiyun · cuota 1,10 · ✓ acertado",
    "cuotas": [
     1.1,
     10.0,
     13.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "China: League One",
    "local": "Shaanxi Union",
    "visitante": "Guangxi Hengchen",
-   "tendencia": "★★★ Shaanxi Union o empate · cuota ~1,24",
+   "tendencia": "★★★ Shaanxi Union o empate · cuota ~1,24 · ✓ acertado",
    "cuotas": [
     1.95,
     3.4,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "China: League One",
    "local": "Shenzhen Juniors",
    "visitante": "Suzhou Dongwu",
-   "tendencia": "★★★ Shenzhen Juniors o empate · cuota ~1,36",
+   "tendencia": "★★★ Shenzhen Juniors o empate · cuota ~1,36 · ✗ fallado",
    "cuotas": [
     2.35,
     3.25,
     2.75
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "China: League One",
    "local": "Wuxi Wugou",
    "visitante": "Changchun Yatai",
-   "tendencia": "★★★ Wuxi Wugou o empate · cuota ~1,32",
+   "tendencia": "★★★ Wuxi Wugou o empate · cuota ~1,32 · ✓ acertado",
    "cuotas": [
     2.15,
     3.4,
     2.7
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "China: League One",
    "local": "Yanbian Longding",
    "visitante": "Hebei Kungfu",
-   "tendencia": "★★★ Yanbian Longding o empate · cuota ~1,16",
+   "tendencia": "★★★ Yanbian Longding o empate · cuota ~1,16 · ✓ acertado",
    "cuotas": [
     1.75,
     3.4,
     4.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "China: League One",
    "local": "Ningbo Professional",
    "visitante": "Heilongjiang Lava Spring",
-   "tendencia": "★★★ Ningbo Professional o empate · cuota ~1,35",
+   "tendencia": "★★★ Ningbo Professional o empate · cuota ~1,35 · ✓ acertado",
    "cuotas": [
     2.25,
     3.4,
     2.7
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "China: League Two",
    "local": "Changchun Xidu",
    "visitante": "Yichun Grand Tiger",
-   "tendencia": "★★★ Changchun Xidu o empate · cuota ~1,26",
+   "tendencia": "★★★ Changchun Xidu o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     2.25,
     2.88,
     3.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "China: League Two",
    "local": "Guangdong Mingtu",
    "visitante": "Rizhao Yuqi",
-   "tendencia": "★★★ Guangdong Mingtu o empate · cuota ~1,25",
+   "tendencia": "★★★ Guangdong Mingtu o empate · cuota ~1,25 · ✗ fallado",
    "cuotas": [
     2.2,
     2.9,
     3.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "China: League Two",
    "local": "Nantong Haimen Codion",
    "visitante": "Shangyu Pterosaur",
-   "tendencia": "★★★ Gana Nantong Haimen Codion · cuota 1,50",
+   "tendencia": "★★★ Gana Nantong Haimen Codion · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     3.5,
     6.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "China: League Two",
    "local": "Tai'an Tiankuang",
    "visitante": "Xiamen Feilu",
-   "tendencia": "★★★ Tai'an Tiankuang o empate · cuota ~1,14",
+   "tendencia": "★★★ Tai'an Tiankuang o empate · cuota ~1,14 · ✓ acertado",
    "cuotas": [
     1.75,
     3.3,
     4.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T06:30:00+00:00"
+   "inicio": "2026-11-07T06:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Costa-Rica: Liga de Ascenso",
@@ -7100,14 +7126,15 @@
    "liga": "Indonesia: Liga 2",
    "local": "Sumsel United",
    "visitante": "PSIS Semarang",
-   "tendencia": "★★★ PSIS Semarang o empate · cuota ~1,31",
+   "tendencia": "★★★ PSIS Semarang o empate · cuota ~1,31 · ✓ acertado",
    "cuotas": [
     2.88,
     3.5,
     2.1
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T08:30:00+00:00"
+   "inicio": "2026-11-07T08:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Indonesia: Liga 2",
@@ -7984,14 +8011,15 @@
    "liga": "Vietnam: V.League 2",
    "local": "Lam Dong",
    "visitante": "Sanna Khanh Hoa",
-   "tendencia": "★★★ Sanna Khanh Hoa o empate · cuota ~1,35",
+   "tendencia": "★★★ Sanna Khanh Hoa o empate · cuota ~1,35 · ✗ fallado",
    "cuotas": [
     2.62,
     3.2,
     2.35
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T08:30:00+00:00"
+   "inicio": "2026-11-07T08:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Vietnam: V.League 2",
