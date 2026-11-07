@@ -350,18 +350,21 @@ def main():
     vp = valor.picks(today)
     rows = []
     for v in vp:
-        ok, res = valor.resultado({**v, 'Fecha': today.isoformat()}, hidx)
+        pk = {**v, 'Fecha': today.isoformat()}
+        ok, res = valor.resultado(pk, hidx)
+        if ok is not None:
+            ok2 = valor.resultado_opcion(pk, hidx)
+            res = f"{res} · pronóstico {'✅' if ok else '❌'} · opción {'✅' if ok2 else '❌'}"
         rows.append({'Tipo': 'Valor', 'Hora': v['Hora'], 'Liga': v['Liga'],
-                     'Partido': f"{v['Local']} vs {v['Visitante']}", 'Mercado': v['Mercado'],
-                     'Probabilidad': pct(v['p']), 'Cuota justa': f"{v['justa']:.2f}",
-                     'Apostar solo si cuota ≥': f"{v['minima']:.2f}", 'Cuota Bet365': f"{v['casa']:.2f}",
-                     'Ventaja': f"+{100 * v['edge']:.0f}%", 'Resultado': res,
-                     'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
+                     'Partido': f"{v['Local']} vs {v['Visitante']}", 'Pronóstico': v['Mercado'],
+                     'Prob.': pct(v['p']), 'Apostar solo si cuota ≥': f"{v['minima']:.2f}",
+                     'Mejor cuota casas': f"{v['casa']:.2f}",
+                     'Opción 1 partido (crear apuesta)': v['opcion'], 'Prob. opción': pct(v['p_op']),
+                     'Opción: apostar si cuota ≥': f"{v['minima_op']:.2f}", 'Resultado': res})
     if not rows:
-        rows.append({'Tipo': 'Hoy no hay apuestas con valor', 'Hora': '', 'Liga': '',
-                     'Partido': 'Mejor no apostar hoy: no apostar también es ganar', 'Mercado': ''})
-    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Mercado', 'Probabilidad', 'Cuota justa', 'Apostar solo si cuota ≥',
-          'Cuota Bet365', 'Ventaja', 'Resultado', 'Acierto']
+        rows.append({'Tipo': 'Hoy no hay apuestas con valor', 'Partido': 'Mejor no apostar hoy: no apostar también es ganar'})
+    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Pronóstico', 'Prob.', 'Apostar solo si cuota ≥', 'Mejor cuota casas',
+          'Opción 1 partido (crear apuesta)', 'Prob. opción', 'Opción: apostar si cuota ≥', 'Resultado']
     write('pronosticos.csv', PF, rows)
 
     # ---- registro acumulado del filtro, con resultados ----
@@ -369,7 +372,7 @@ def main():
           'Resultado', 'Acierto', 'Ganado (1/0)', 'Tipo', 'Cuota casa', 'Beneficio 10€']
     log = {(r['Fecha'], r['Local'], r['Visitante'], r['Mercado']): r for r in load_csv(LOG)}
     if True:  # se guarda lo seleccionado ANTES de que empiece cada partido
-        for b in top:
+        for b in []:   # el filtro antiguo (córners, goles 1.ª parte...) ya no se registra
             k = (today.isoformat(), b['Local'], b['Visitante'], b['Mercado'])
             start = datetime.strptime(f"{today.isoformat()} {b['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
             if k not in log and start > now:
