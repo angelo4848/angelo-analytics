@@ -104,7 +104,7 @@ def build(rs, now=None):
     return best
 
 
-BC_MIN, BC_MAX = 1.70, 1.95   # cuota total de la combinada (como Bet Consulting: 2 patas, ~1,70-1,90)
+BC_MIN, BC_MAX = 1.60, 2.10   # cuota total de la combinada (rango de Bet Consulting: 1,60-2,10, media 1,82)
 
 
 def es_market(m):
@@ -143,13 +143,20 @@ def build_bc(now=None):
                       'Visitante': v['VisitanteN'], 'Pronóstico': es_market(v['Mercado']),
                       'Cuota': f"{v['casa']:.2f}", 'cuota': round(v['casa'], 2), 'rate': v['p'], 'n': 0, 'bc': True})
     best = None
-    for legs in combinations(cands, 2):
-        tot = legs[0]['cuota'] * legs[1]['cuota']
-        if not (BC_MIN <= tot <= BC_MAX):
-            continue
-        prob = legs[0]['rate'] * legs[1]['rate']
-        if not best or prob > best[0][0]:
-            best = ((prob, 0), list(legs), tot)
+    for size in (2, 3):   # 2 partidos; 3 solo si con 2 no se llega a la cuota
+        for legs in combinations(cands, size):
+            if len({(l['Local'], l['Visitante']) for l in legs}) < size:
+                continue
+            tot, prob = 1.0, 1.0
+            for l in legs:
+                tot *= l['cuota']
+                prob *= l['rate']
+            if not (BC_MIN <= tot <= BC_MAX):
+                continue
+            if not best or prob > best[0][0]:
+                best = ((prob, 0), list(legs), tot)
+        if best:
+            break
     return best
 
 
