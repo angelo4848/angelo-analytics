@@ -949,7 +949,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-07,12:30,Albania: 1st Division,FK Kukesi,Sopoti Librazhd,Gana FK Kukesi,Gana local,1.42,1.42,4.20,5.75,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:30,Cyprus: 2. Division,Enosis,Doxa,Enosis o empate,Doble oport. local,1.30,2.10,3.40,3.00,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:30,Turkey: 3. Lig - Group 2,Bucaspor 1928,Söke 1970,Bucaspor 1928 o empate,Doble oport. local,1.21,1.85,3.50,3.40,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-07,12:30,England: Championship,Bristol City,Norwich,Norwich o empate,Doble oport. visitante,1.41,2.80,3.40,2.40,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-07,12:30,England: Championship,Bristol City,Norwich,Norwich o empate,Doble oport. visitante,1.41,2.80,3.40,2.40,71,"1,35-1,50",0 - 5,Acertado,1,4.10,0 - 1,Sí,1,4,5,Sí,No,22' V · 53' V · 56' V · 70' V · 80' V,8,3,11,15,17,3,7,52.6,47.4,0,0,0,0,LLWDL,WWWWL,Ashton Gate
 2026-11-07,12:30,Albania: 1st Division,Besa Kavajë,Burreli,Gana Besa Kavajë,Gana local,1.30,1.30,4.75,7.50,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:30,Saudi-Arabia: Division 1,Al Jandal,Hajer,Al Jandal o empate,Doble oport. local,1.29,2.15,3.25,2.88,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:30,Cyprus: 2. Division,ASIL Lysi,Spartakos Kitiou,ASIL Lysi o empate,Doble oport. local,1.17,1.83,3.25,3.80,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -990,7 +990,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-07,12:00,Turkey: 3. Lig - Group 1,Kartal Bulvarspor,Zonguldak Kömürspor,Kartal Bulvarspor o empate,Doble oport. local,1.37,2.40,3.20,2.60,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Poland: III Liga - Group 2,Kalisz,Luzino,Luzino o empate,Doble oport. visitante,1.25,3.20,3.90,1.83,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Slovakia: 2. liga,Inter Bratislava,Považská Bystrica,Inter Bratislava o empate,Doble oport. local,1.31,2.05,3.60,3.00,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-07,12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,Holstein Kiel o empate,Doble oport. local,1.39,2.35,3.40,2.70,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-07,12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,Holstein Kiel o empate,Doble oport. local,1.39,2.35,3.40,2.70,72,"1,35-1,50",1 - 2,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,Sí,76' L · 14' V · 80' V,6,5,11,15,5,4,4,74.9,25.1,2,6,0,0,LLWWD,WWLWW,Holstein-Stadion
 2026-11-07,12:00,Denmark: 1. Division,Hillerød,Kolding IF,Kolding IF o empate,Doble oport. visitante,1.36,2.80,3.30,2.30,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Poland: III Liga - Group 3,Górnik Polkowice,Sparta Katowice,Górnik Polkowice o empate,Doble oport. local,1.44,2.35,3.70,2.40,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Kosovo: Superliga,Feronikeli,Ballkani,Ballkani o empate,Doble oport. visitante,1.28,3.00,3.30,2.10,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1002,7 +1002,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-07,12:00,Hungary: NB III - Southwest,Budafoki LC,Kaposvar,Kaposvar o empate,Doble oport. visitante,1.31,2.88,3.80,2.00,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Lithuania: 1 Lyga,Atmosfera,Ekranas,Gana Atmosfera,Gana local,1.42,1.42,4.40,5.70,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-07,12:00,Montenegro: First League,Arsenal Tivat,Jezero,Jezero o empate,Doble oport. visitante,1.30,2.90,3.20,2.20,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-07,12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,Gana 1. FC Nürnberg,Gana local,1.67,1.67,4.00,4.10,60,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-07,12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,Gana 1. FC Nürnberg,Gana local,1.67,1.67,4.00,4.10,60,"1,50+",2 - 0,Acertado,1,6.70,0 - 0,No,0,2,2,No,No,50' L · 88' L,10,3,13,22,10,7,2,62.9,37.1,1,2,0,0,WWLLD,LDWDL,Max-Morlock-Stadion
 2026-11-07,11:45,Croatia: First NL,Segesta Sisak,Opatija,Gana Segesta Sisak,Gana local,1.67,1.67,3.40,4.33,60,"1,50+",0 - 1,Fallado,0,-10.00,,,,,1,No,No,,,,,,,,,,,,,,,,,
 2026-11-07,11:45,Belarus: Premier League,Belshina,FC Isloch Minsk R.,Gana FC Isloch Minsk R.,Gana visitante,1.38,8.50,4.30,1.38,72,"1,35-1,50",2 - 3,Acertado,1,3.80,1 - 0,Sí,1,4,5,Sí,Sí,,0,0,0,,,0,0,36,64,3,1,0,0,,,
 2026-11-07,11:30,Thailand: Thai League 2,Uttaradit,Police Tero,Gana Uttaradit,Gana local,1.48,1.48,4.10,5.25,68,"1,35-1,50",4 - 0,Acertado,1,4.80,2 - 0,Sí,2,2,4,Sí,No,,,,,,,,,,,0,0,0,0,,,

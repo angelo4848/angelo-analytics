@@ -24,7 +24,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 20:00,Netherlands: Eredivisie,Excelsior,GO Ahead Eagles,75%,1.33,41%,2.43,1.38,1629,Sí,Histórico 5 años,,
 13:00,Spain: La Liga,Malaga,Racing Santander,75%,1.33,42%,2.38,1.69,2009,Sí,Histórico 5 años,,
 14:30,Germany: Bundesliga,FSV Mainz 05,Bayern München,75%,1.34,40%,2.49,1.31,1601,Sí,Histórico 5 años,,
-12:30,England: Championship,Bristol City,Norwich,75%,1.34,40%,2.49,1.52,2928,Sí,Histórico 5 años,,
+12:30,England: Championship,Bristol City,Norwich,75%,1.34,40%,2.49,1.52,2928,Sí,Histórico 5 años,0 - 1,0 - 5
 15:00,Scotland: League Two,Annan Athletic,Kelty Hearts,75%,1.34,41%,2.46,1.49,960,Sí,Histórico 5 años,,
 15:00,England: Championship,Birmingham,Swansea,74%,1.35,39%,2.55,1.47,2928,Sí,Histórico 5 años,,
 15:00,Scotland: League Two,Forfar Athletic,Edinburgh City,74%,1.35,40%,2.52,1.44,960,Sí,Histórico 5 años,,
@@ -56,7 +56,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 20:00,Scotland: Premiership,ST Mirren,Rangers,73%,1.37,36%,2.77,1.19,1209,Sí,Histórico 5 años,,
 15:30,Portugal: Primeira Liga,Nacional,Academico Viseu,73%,1.37,38%,2.64,1.41,1620,Sí,Histórico 5 años,,
 19:45,Belgium: Jupiler Pro League,Antwerp,Lommel United,73%,1.38,36%,2.75,1.22,1632,Sí,Histórico 5 años,,
-12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,73%,1.38,37%,2.68,1.27,1620,Sí,Histórico 5 años,,
+12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,73%,1.38,37%,2.68,1.27,1620,Sí,Histórico 5 años,0 - 0,2 - 0
 15:00,Scotland: League Two,Clyde,Spartans,73%,1.38,38%,2.64,1.36,960,Sí,Histórico 5 años,,
 15:00,England: Premier League,Arsenal,Hull City,73%,1.38,37%,2.72,1.26,1990,Sí,Histórico 5 años,,
 15:00,England: Championship,Blackburn,West Ham,72%,1.38,37%,2.73,1.35,2928,Sí,Histórico 5 años,,
@@ -73,7 +73,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 21:00,USA: Major League Soccer,CF Montreal,Vancouver Whitecaps,71%,1.40,36%,2.81,1.27,11,No,Registro ESPN/SofaScore (muestra baja),,
 17:30,Spain: Segunda División,Cordoba,AD Ceuta FC,71%,1.40,36%,2.74,1.45,2441,Sí,Histórico 5 años,,
 15:00,England: Championship,Charlton,Sheffield Utd,71%,1.40,35%,2.83,1.29,2928,Sí,Histórico 5 años,,
-12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,71%,1.40,36%,2.81,1.19,1620,Sí,Histórico 5 años,,
+12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,71%,1.40,36%,2.81,1.19,1620,Sí,Histórico 5 años,0 - 1,1 - 2
 13:00,Turkey: Süper Lig,Samsunspor,Konyaspor,71%,1.41,35%,2.90,1.16,1809,Sí,Histórico 5 años,,
 17:30,Germany: Bundesliga,VfB Stuttgart,Werder Bremen,71%,1.41,35%,2.82,1.09,1601,Sí,Histórico 5 años,,
 18:30,Italy: Serie B,Benevento,Avellino,71%,1.42,34%,2.93,1.19,2000,Sí,Histórico 5 años,,
