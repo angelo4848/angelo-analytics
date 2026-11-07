@@ -8,7 +8,7 @@ Escribe en data/ (los importa el Google Sheet):
   tab_menos05.csv     partidos de HOY ordenados por probabilidad de 0-0 al descanso
   tab_mas05.csv       partidos de HOY ordenados por probabilidad de gol antes del descanso
   tab_corners.csv     partidos de HOY ordenados de menos a más córners esperados
-  pronosticos.csv     solo apuestas de VALOR de HOY (casa paga ≥ 5 % más que la cuota justa Pinnacle)
+  pronosticos.csv     modelo Bet Consulting de HOY (patas de favoritos de ligas grandes, ~1,25-1,50)
   pronosticos_log.csv todos los pronósticos del filtro, con su resultado (para el % de acierto)
 """
 import csv, json, math, os, re, sys, unicodedata
@@ -348,23 +348,21 @@ def main():
     hidx = {(h['fecha'], h['local'], h['visitante']): h for h in hist}
     idx = {(r['Fecha'], r['Local'], r['Visitante']): r for r in reg}
     vp = valor.picks(today)
+    # Modelo copiado de Bet Consulting: patas de favoritos de ligas grandes (~1,25-1,50) para combinar de 2 en 2
+    import bc_model
+    bp = bc_model.picks(today)
     rows = []
-    for v in vp:
-        pk = {**v, 'Fecha': today.isoformat()}
-        ok, res = valor.resultado(pk, hidx)
-        if ok is not None:
-            ok2 = valor.resultado_opcion(pk, hidx)
-            res = f"{res} · pronóstico {'✅' if ok else '❌'} · opción {'✅' if ok2 else '❌'}"
-        rows.append({'Tipo': 'Valor', 'Hora': v['Hora'], 'Liga': v['Liga'],
+    for v in bp:
+        ok, res = bc_model.resultado({**v, 'Fecha': today.isoformat()}, hidx)
+        rows.append({'Tipo': 'Modelo BC', 'Hora': v['Hora'], 'Liga': v['Liga'],
                      'Partido': f"{v['Local']} vs {v['Visitante']}", 'Pronóstico': v['Mercado'],
-                     'Prob.': pct(v['p']), 'Apostar solo si cuota ≥': f"{v['minima']:.2f}",
-                     'Mejor cuota casas': f"{v['casa']:.2f}",
-                     'Opción 1 partido (crear apuesta)': v['opcion'], 'Prob. opción': pct(v['p_op']),
-                     'Opción: apostar si cuota ≥': f"{v['minima_op']:.2f}", 'Resultado': res})
+                     'Prob.': pct(v['p']), 'Cuota justa': f"{v['justa']:.2f}",
+                     'Cuota aprox. 22Bet': f"{v['casa']:.2f}", 'Favorito gana': pct(v['p_fav']),
+                     'Resultado': res, 'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
     if not rows:
-        rows.append({'Tipo': 'Hoy no hay apuestas con valor', 'Partido': 'Mejor no apostar hoy: no apostar también es ganar'})
-    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Pronóstico', 'Prob.', 'Apostar solo si cuota ≥', 'Mejor cuota casas',
-          'Opción 1 partido (crear apuesta)', 'Prob. opción', 'Opción: apostar si cuota ≥', 'Resultado']
+        rows.append({'Tipo': 'Hoy no hay partidos del modelo', 'Partido': 'Sin favoritos claros en ligas grandes hoy'})
+    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Pronóstico', 'Prob.', 'Cuota justa', 'Cuota aprox. 22Bet',
+          'Favorito gana', 'Resultado', 'Acierto']
     write('pronosticos.csv', PF, rows)
 
     # ---- registro acumulado del filtro, con resultados ----
@@ -380,7 +378,18 @@ def main():
                           'Visitante': b['Visitante'], 'Mercado': b['Mercado'], 'Probabilidad': pct(b['p']),
                           'Cuota justa': fair(b['p']), 'Muestra': b['Muestra'], 'Resultado': '', 'Acierto': '',
                           'Ganado (1/0)': ''}
-        for v in vp:   # apuestas de valor: se guardan antes del partido con la cuota de la casa
+        for v in bp:   # modelo Bet Consulting: se guarda antes del partido
+            k = (today.isoformat(), v['Local'], v['Visitante'], v['Mercado'])
+            try:
+                start = datetime.strptime(f"{today.isoformat()} {v['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+            except ValueError:
+                continue
+            if k not in log and start > now:
+                log[k] = {'Fecha': k[0], 'Hora': v['Hora'], 'Liga': v['Liga'], 'Local': v['Local'],
+                          'Visitante': v['Visitante'], 'Mercado': v['Mercado'], 'Probabilidad': pct(v['p']),
+                          'Cuota justa': f"{v['justa']:.2f}", 'Muestra': '', 'Resultado': '', 'Acierto': '',
+                          'Ganado (1/0)': '', 'Tipo': 'Modelo Bet Consulting', 'Cuota casa': f"{v['casa']:.2f}"}
+        for v in []:   # apuestas de valor (desactivado: ahora Pronósticos usa el modelo Bet Consulting)
             k = (today.isoformat(), v['Local'], v['Visitante'], v['Mercado'])
             try:
                 start = datetime.strptime(f"{today.isoformat()} {v['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
@@ -392,8 +401,7 @@ def main():
                           'Cuota justa': f"{v['justa']:.2f}", 'Muestra': '', 'Resultado': '', 'Acierto': '',
                           'Ganado (1/0)': '', 'Tipo': 'Valor 1X2', 'Cuota casa': f"{v['casa']:.2f}"}
     for r in log.values():
-        if r.get('Tipo') == 'Valor 1X2' or r.get('Cuota casa'):
-            r['Tipo'] = 'Valor 1X2'
+        if r.get('Tipo') in ('Valor 1X2', 'Modelo Bet Consulting'):
             continue
         r['Tipo'] = r['Mercado'] if ('1.ª parte' in r['Mercado'] or 'córners' in r['Mercado']) else 'Ganador / doble oportunidad'
     for k, r in log.items():
@@ -401,6 +409,8 @@ def main():
             continue
         if r['Tipo'] == 'Valor 1X2':
             ok, res = valor.resultado(r, hidx)
+        elif r['Tipo'] == 'Modelo Bet Consulting':
+            ok, res = bc_model.resultado(r, hidx)
         else:
             ok, res = judge(r['Mercado'], idx.get((r['Fecha'], r['Local'], r['Visitante']), {}))
         if ok is not None:
