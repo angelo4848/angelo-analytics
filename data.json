@@ -523,8 +523,15 @@
    "liga": "Brazil: Serie A",
    "local": "Cruzeiro",
    "visitante": "Bahia",
-   "tendencia": "★★★ Cruzeiro o empate · cuota ~1,18",
-   "inicio": "2026-11-07T00:30:00+00:00"
+   "tendencia": "★★★ Cruzeiro o empate · cuota ~1,18 · ✓ acertado",
+   "inicio": "2026-11-07T00:30:00+00:00",
+   "cuotas": [
+    1.75,
+    3.9,
+    4.33
+   ],
+   "tipo": "HOME DC ✓",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Bulgaria: First League",
@@ -614,8 +621,15 @@
    "liga": "Honduras: Liga Nacional",
    "local": "CD Marathon",
    "visitante": "Platense FC",
-   "tendencia": "★★★ Gana CD Marathon · cuota 1,33",
-   "inicio": "2026-11-07T01:30:00+00:00"
+   "tendencia": "★★★ Gana CD Marathon · cuota 1,33 · ✓ acertado",
+   "inicio": "2026-11-07T01:30:00+00:00",
+   "cuotas": [
+    1.3,
+    4.75,
+    8.0
+   ],
+   "tipo": "HOME WIN ✓",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -1265,8 +1279,15 @@
    "liga": "Ecuador: Copa Ecuador",
    "local": "Independiente del Valle",
    "visitante": "Delfin SC",
-   "tendencia": "★★★ Gana Independiente del Valle · cuota 1,38",
-   "inicio": "2026-11-07T00:00:00+00:00"
+   "tendencia": "★★★ Gana Independiente del Valle · cuota 1,38 · ✓ acertado",
+   "inicio": "2026-11-07T00:00:00+00:00",
+   "cuotas": [
+    1.3,
+    4.5,
+    7.5
+   ],
+   "tipo": "HOME WIN ✓",
+   "resultado": "2 - 0"
   },
   {
    "liga": "England: FA Cup",

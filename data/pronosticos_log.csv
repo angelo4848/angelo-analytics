@@ -1,10 +1,50 @@
-Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo
-2026-11-06,20:00,England: Championship,Derby,Bolton,"Más de 7,5 córners",77%,1.29,2928,,,,"Más de 7,5 córners"
-2026-11-06,19:45,Belgium: Jupiler Pro League,Standard Liege,SK Beveren,"Más de 7,5 córners",77%,1.29,1631,,,,"Más de 7,5 córners"
-2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Más de 7,5 córners",78%,1.29,2000,7 córners,Fallado,0,"Más de 7,5 córners"
-2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Menos de 1,5 goles 1.ª parte",73%,1.38,2000,Descanso 1 - 0,Acertado,1,"Menos de 1,5 goles 1.ª parte"
-2026-11-06,19:00,France: Ligue 2,Grenoble,Reims,"Menos de 1,5 goles 1.ª parte",72%,1.39,1847,Descanso 2 - 1,Fallado,0,"Menos de 1,5 goles 1.ª parte"
-2026-11-06,18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,Victoria Hammarby FF,86%,1.17,14,4 - 1,Acertado,1,Ganador / doble oportunidad
-2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 7,5 córners",85%,1.18,1620,9 córners,Acertado,1,"Más de 7,5 córners"
-2026-11-06,17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,"Más de 7,5 córners",81%,1.24,1620,12 córners,Acertado,1,"Más de 7,5 córners"
-2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 0,5 goles 1.ª parte",76%,1.31,1620,Descanso 0 - 0,Fallado,0,"Más de 0,5 goles 1.ª parte"
+Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
+2026-11-07,20:00,Scotland: Premiership,ST Mirren,Rangers,"Más de 7,5 córners",84%,1.19,1209,,,,"Más de 7,5 córners",,
+2026-11-07,20:00,Spain: La Liga,Valencia,Real Madrid,"Más de 7,5 córners",76%,1.31,2009,,,,"Más de 7,5 córners",,
+2026-11-07,19:45,Belgium: Jupiler Pro League,Antwerp,Lommel United,"Más de 7,5 córners",77%,1.31,1631,,,,"Más de 7,5 córners",,
+2026-11-07,19:30,Germany: 2. Bundesliga,Hertha BSC,VfL Wolfsburg,"Más de 7,5 córners",85%,1.18,1620,,,,"Más de 7,5 córners",,
+2026-11-07,17:45,Scotland: Premiership,Aberdeen,Hibernian,"Más de 7,5 córners",78%,1.28,1209,,,,"Más de 7,5 córners",,
+2026-11-07,17:30,Germany: Bundesliga,VfB Stuttgart,Werder Bremen,"Más de 7,5 córners",81%,1.24,1601,,,,"Más de 7,5 córners",,
+2026-11-07,17:30,Spain: Segunda División,Leganes,Albacete,"Más de 7,5 córners",78%,1.27,2441,,,,"Más de 7,5 córners",,
+2026-11-07,17:30,England: Premier League,Nottingham Forest,Manchester City,"Más de 7,5 córners",77%,1.30,1990,,,,"Más de 7,5 córners",,
+2026-11-07,17:00,Italy: Serie A,Parma,Bologna,"Menos de 10,5 córners",76%,1.31,2000,,,,"Menos de 10,5 córners",,
+2026-11-07,15:30,Netherlands: Eredivisie,Fortuna Sittard,Telstar,"Más de 7,5 córners",84%,1.19,1629,,,,"Más de 7,5 córners",,
+2026-11-07,15:30,Netherlands: Eerste Divisie,Den Bosch,Jong Utrecht,"Más de 0,5 goles 1.ª parte",79%,1.26,14,,,,"Más de 0,5 goles 1.ª parte",,
+2026-11-07,15:00,England: Championship,Watford,Middlesbrough,Victoria Middlesbrough,87%,1.15,15,,,,Ganador / doble oportunidad,,
+2026-11-07,15:00,England: Championship,QPR,Lincoln,Victoria QPR,87%,1.15,15,,,,Ganador / doble oportunidad,,
+2026-11-07,15:00,England: Championship,Preston,Southampton,Victoria Southampton,87%,1.15,15,,,,Ganador / doble oportunidad,,
+2026-11-07,15:00,England: Championship,Blackburn,West Ham,Victoria West Ham,87%,1.15,15,,,,Ganador / doble oportunidad,,
+2026-11-07,15:00,England: Championship,Blackburn,West Ham,"Más de 7,5 córners",83%,1.21,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,Preston,Southampton,"Más de 7,5 córners",83%,1.21,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Premier League,Fulham,Newcastle,"Más de 7,5 córners",82%,1.21,1990,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,QPR,Lincoln,"Más de 7,5 córners",82%,1.22,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Scotland: League Two,Stranraer,Stirling Albion,"Más de 7,5 córners",82%,1.22,960,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Scotland: Premiership,Dundee Utd,Motherwell,"Más de 7,5 córners",81%,1.24,1209,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,Charlton,Sheffield Utd,"Más de 7,5 córners",80%,1.25,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,West Brom,Millwall,"Más de 7,5 córners",80%,1.26,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Belgium: Jupiler Pro League,KVC Westerlo,Charleroi,"Más de 7,5 córners",79%,1.27,1631,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,Watford,Middlesbrough,"Más de 7,5 córners",78%,1.28,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,Cardiff,Burnley,"Más de 0,5 goles 1.ª parte",78%,1.28,2928,,,,"Más de 0,5 goles 1.ª parte",,
+2026-11-07,15:00,England: Premier League,Arsenal,Hull City,"Más de 7,5 córners",77%,1.29,1990,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Scotland: League Two,Clyde,Spartans,"Más de 7,5 córners",77%,1.30,960,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,England: Championship,Birmingham,Swansea,"Más de 7,5 córners",76%,1.31,2928,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Scotland: League Two,Annan Athletic,Kelty Hearts,"Más de 7,5 córners",76%,1.31,960,,,,"Más de 7,5 córners",,
+2026-11-07,15:00,Scotland: Championship,Queen's Park,Partick,"Más de 7,5 córners",76%,1.31,964,,,,"Más de 7,5 córners",,
+2026-11-07,14:30,Germany: Bundesliga,Borussia Dortmund,SV Elversberg,"Más de 7,5 córners",79%,1.26,1601,,,,"Más de 7,5 córners",,
+2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,"Más de 7,5 córners",79%,1.27,1601,,,,"Más de 7,5 córners",,
+2026-11-07,14:30,Germany: Bundesliga,SC Paderborn 07,Eintracht Frankfurt,"Más de 0,5 goles 1.ª parte",78%,1.29,1601,,,,"Más de 0,5 goles 1.ª parte",,
+2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,"Más de 0,5 goles 1.ª parte",77%,1.29,1601,,,,"Más de 0,5 goles 1.ª parte",,
+2026-11-07,13:00,Spain: La Liga,Malaga,Racing Santander,"Más de 7,5 córners",79%,1.27,2009,,,,"Más de 7,5 córners",,
+2026-11-07,12:30,England: Championship,Portsmouth,Stoke City,"Más de 7,5 córners",83%,1.21,2928,,,,"Más de 7,5 córners",,
+2026-11-07,12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,"Más de 7,5 córners",82%,1.21,1620,,,,"Más de 7,5 córners",,
+2026-11-07,12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,"Más de 7,5 córners",80%,1.25,1620,,,,"Más de 7,5 córners",,
+2026-11-07,12:00,Germany: 2. Bundesliga,1. FC Nürnberg,SV Darmstadt 98,"Más de 7,5 córners",79%,1.26,1620,,,,"Más de 7,5 córners",,
+2026-11-06,20:00,England: Championship,Derby,Bolton,"Más de 7,5 córners",77%,1.29,2928,10 córners,Acertado,1,"Más de 7,5 córners",,
+2026-11-06,19:45,Belgium: Jupiler Pro League,Standard Liege,SK Beveren,"Más de 7,5 córners",77%,1.29,1631,,,,"Más de 7,5 córners",,
+2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Más de 7,5 córners",78%,1.29,2000,7 córners,Fallado,0,"Más de 7,5 córners",,
+2026-11-06,19:30,Italy: Serie B,Ascoli,Palermo,"Menos de 1,5 goles 1.ª parte",73%,1.38,2000,Descanso 1 - 0,Acertado,1,"Menos de 1,5 goles 1.ª parte",,
+2026-11-06,19:00,France: Ligue 2,Grenoble,Reims,"Menos de 1,5 goles 1.ª parte",72%,1.39,1847,Descanso 2 - 1,Fallado,0,"Menos de 1,5 goles 1.ª parte",,
+2026-11-06,18:00,Sweden: Allsvenskan,Hammarby FF,IF Elfsborg,Victoria Hammarby FF,86%,1.17,14,4 - 1,Acertado,1,Ganador / doble oportunidad,,
+2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 7,5 córners",85%,1.18,1620,9 córners,Acertado,1,"Más de 7,5 córners",,
+2026-11-06,17:30,Germany: 2. Bundesliga,Dynamo Dresden,SpVgg Greuther Fürth,"Más de 7,5 córners",81%,1.24,1620,12 córners,Acertado,1,"Más de 7,5 córners",,
+2026-11-06,17:30,Germany: 2. Bundesliga,Eintracht Braunschweig,Energie Cottbus,"Más de 0,5 goles 1.ª parte",76%,1.31,1620,Descanso 0 - 0,Fallado,0,"Más de 0,5 goles 1.ª parte",,
