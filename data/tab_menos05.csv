@@ -8,7 +8,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 21:15,Bolivia: Primera División,Always Ready,ABB,39%,2.57,72%,1.38,1.00,8,No,Registro ESPN/SofaScore (muestra baja),,
 23:30,Bolivia: Primera División,Guabirá,San Antonio Bulo Bulo,39%,2.57,72%,1.38,1.00,8,No,Registro ESPN/SofaScore (muestra baja),,
 18:00,Portugal: Primeira Liga,Alverca,Casa Pia,39%,2.59,72%,1.39,0.83,1620,Sí,Histórico 5 años,,
-13:00,France: Ligue 2,Clermont Foot,Rodez,38%,2.62,72%,1.39,0.90,1847,Sí,Histórico 5 años,,
+13:00,France: Ligue 2,Clermont Foot,Rodez,38%,2.62,72%,1.39,0.90,1847,Sí,Histórico 5 años,0 - 0,1 - 0
 21:05,Colombia: Primera A,Once Caldas,Águilas Doradas,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 23:10,Colombia: Primera A,Atletico Nacional,Deportivo Pereira,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 17:00,Italy: Serie A,Parma,Bologna,38%,2.67,72%,1.39,0.83,2000,Sí,Histórico 5 años,,
@@ -21,7 +21,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 13:30,Russia: Premier League,Akhmat,Rodina Moskva,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 16:30,Russia: Premier League,FC Krasnodar,CSKA Moscow,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Italy: Serie A,AS Roma,Sassuolo,35%,2.87,71%,1.41,0.94,2000,Sí,Histórico 5 años,,
-12:30,England: Championship,Portsmouth,Stoke City,35%,2.88,71%,1.42,0.98,2928,Sí,Histórico 5 años,,
+12:30,England: Championship,Portsmouth,Stoke City,35%,2.88,71%,1.42,0.98,2928,Sí,Histórico 5 años,1 - 0,1 - 2
 14:00,Italy: Serie B,Padova,Empoli,34%,2.94,70%,1.42,0.97,2000,Sí,Histórico 5 años,,
 12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,33%,2.99,69%,1.44,0.97,1620,Sí,Histórico 5 años,0 - 0,0 - 1
 18:00,Peru: Primera División,ADT,Sporting Cristal,33%,3.00,70%,1.43,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
@@ -29,6 +29,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 15:00,England: Championship,QPR,Lincoln,33%,3.01,70%,1.43,1.05,2928,Sí,Histórico 5 años,,
 15:00,England: Championship,West Brom,Millwall,33%,3.02,70%,1.43,1.05,2928,Sí,Histórico 5 años,,
 17:30,Spain: La Liga,Osasuna,Athletic Club,33%,3.06,69%,1.45,1.15,2009,No,Histórico 5 años,,
+15:15,Spain: Segunda División,Cadiz,Oviedo,33%,3.07,69%,1.46,1.21,2441,Sí,Histórico 5 años,,
 15:00,Scotland: Championship,Inverness CT,Livingston,32%,3.09,69%,1.45,1.08,964,Sí,Histórico 5 años,,
 15:00,Scotland: Championship,Arbroath,Ayr Utd,32%,3.15,69%,1.46,1.11,964,Sí,Histórico 5 años,,
 15:00,Scotland: Championship,Queen's Park,Partick,31%,3.18,68%,1.47,1.13,964,Sí,Histórico 5 años,,
@@ -64,7 +65,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 20:05,France: Ligue 1,Paris Saint Germain,Estac Troyes,29%,3.41,66%,1.52,1.20,1759,Sí,Histórico 5 años,,
 18:30,Italy: Serie B,Benevento,Avellino,29%,3.41,66%,1.52,1.19,2000,Sí,Histórico 5 años,,
 17:30,Germany: Bundesliga,VfB Stuttgart,Werder Bremen,29%,3.43,65%,1.55,1.09,1601,Sí,Histórico 5 años,,
-13:00,Turkey: Süper Lig,Samsunspor,Konyaspor,29%,3.45,65%,1.53,1.16,1809,Sí,Histórico 5 años,,
+13:00,Turkey: Süper Lig,Samsunspor,Konyaspor,29%,3.45,65%,1.53,1.16,1809,Sí,Histórico 5 años,1 - 0,1 - 0
 12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,29%,3.47,64%,1.55,1.19,1620,Sí,Histórico 5 años,0 - 1,1 - 2
 15:00,England: Championship,Charlton,Sheffield Utd,29%,3.49,65%,1.55,1.29,2928,Sí,Histórico 5 años,,
 17:30,Spain: Segunda División,Cordoba,AD Ceuta FC,29%,3.49,64%,1.57,1.45,2441,Sí,Histórico 5 años,,
@@ -116,7 +117,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 15:00,Scotland: League Two,Annan Athletic,Kelty Hearts,25%,3.93,59%,1.68,1.49,960,Sí,Histórico 5 años,,
 12:30,England: Championship,Bristol City,Norwich,25%,3.95,60%,1.67,1.52,2928,Sí,Histórico 5 años,0 - 1,0 - 5
 14:30,Germany: Bundesliga,FSV Mainz 05,Bayern München,25%,3.97,60%,1.67,1.31,1601,Sí,Histórico 5 años,,
-13:00,Spain: La Liga,Malaga,Racing Santander,25%,4.02,58%,1.72,1.69,2009,Sí,Histórico 5 años,,
+13:00,Spain: La Liga,Malaga,Racing Santander,25%,4.02,58%,1.72,1.69,2009,Sí,Histórico 5 años,1 - 0,1 - 2
 20:00,Netherlands: Eredivisie,Excelsior,GO Ahead Eagles,25%,4.03,59%,1.70,1.38,1629,Sí,Histórico 5 años,,
 14:00,Italy: Serie B,Pisa,Sudtirol,25%,4.04,59%,1.69,1.51,2000,Sí,Histórico 5 años,,
 15:00,Scotland: League One,Ross County,Peterhead,24%,4.11,57%,1.74,1.61,964,Sí,Histórico 5 años,,
