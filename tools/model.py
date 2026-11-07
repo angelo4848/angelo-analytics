@@ -8,7 +8,7 @@ Escribe en data/ (los importa el Google Sheet):
   tab_menos05.csv     partidos de HOY ordenados por probabilidad de 0-0 al descanso
   tab_mas05.csv       partidos de HOY ordenados por probabilidad de gol antes del descanso
   tab_corners.csv     partidos de HOY ordenados de menos a más córners esperados
-  pronosticos.csv     el filtro "lo mejor de lo mejor" de HOY (+ el pick del día arriba)
+  pronosticos.csv     solo apuestas de VALOR de HOY (casa paga ≥ 5 % más que la cuota justa Pinnacle)
   pronosticos_log.csv todos los pronósticos del filtro, con su resultado (para el % de acierto)
 """
 import csv, json, math, os, re, sys, unicodedata
@@ -340,31 +340,33 @@ def main():
         seen.add(k)
         top.append(b)
     top = top[:40]
-    rows = []
-    try:
-        bp = json.load(open(os.path.join(ROOT, 'bot_pick.json')))
-        if bp.get('fecha') == today.isoformat() and bp.get('legs'):
-            for l in bp['legs']:
-                rows.append({'Tipo': '⭐ PICK DEL DÍA', 'Hora': '', 'Liga': l['Liga'],
-                             'Partido': f"{l['Local']} vs {l['Visitante']}", 'Mercado': l['Pronóstico'],
-                             'Probabilidad': '', 'Cuota justa': '', 'Cuota casa': l['Cuota'], 'Muestra': '',
-                             'Fuente': f"Combinada {str(bp.get('cuota', '')).replace('.', ',')}", 'Resultado': '', 'Acierto': ''})
-    except Exception:
-        pass
+    # ---- PRONÓSTICOS: solo apuestas de VALOR (la casa paga más que la cuota justa) ----
+    # Los filtros de % alto (córners, goles 1.ª parte, favoritos, doble oportunidad) aciertan mucho pero
+    # pagan MENOS que su cuota justa: a la larga pierden dinero (ver "Por cuota y tipo" y reports/backtest.md).
+    # Siguen en sus pestañas, pero ya no salen aquí.
+    import valor
+    hidx = {(h['fecha'], h['local'], h['visitante']): h for h in hist}
     idx = {(r['Fecha'], r['Local'], r['Visitante']): r for r in reg}
-    for b in sorted(top, key=lambda x: (x['Hora'], -x['p'])):
-        ok, res = judge(b['Mercado'], idx.get((today.isoformat(), b['Local'], b['Visitante']), {}))
-        rows.append({'Tipo': 'Filtro', 'Hora': b['Hora'], 'Liga': b['Liga'], 'Partido': f"{b['Local']} vs {b['Visitante']}",
-                     'Mercado': b['Mercado'], 'Probabilidad': pct(b['p']), 'Cuota justa': fair(b['p']),
-                     'Cuota casa': b.get('Cuota casa', ''), 'Muestra': b['Muestra'], 'Fuente': b['Fuente'],
-                     'Resultado': res, 'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
-    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Mercado', 'Probabilidad', 'Cuota justa', 'Cuota casa', 'Muestra',
-          'Fuente', 'Resultado', 'Acierto']
+    vp = valor.picks(today)
+    rows = []
+    for v in vp:
+        ok, res = valor.resultado({**v, 'Fecha': today.isoformat()}, hidx)
+        rows.append({'Tipo': 'Valor', 'Hora': v['Hora'], 'Liga': v['Liga'],
+                     'Partido': f"{v['Local']} vs {v['Visitante']}", 'Mercado': v['Mercado'],
+                     'Probabilidad': pct(v['p']), 'Cuota justa': f"{v['justa']:.2f}",
+                     'Apostar solo si cuota ≥': f"{v['minima']:.2f}", 'Cuota Bet365': f"{v['casa']:.2f}",
+                     'Ventaja': f"+{100 * v['edge']:.0f}%", 'Resultado': res,
+                     'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
+    if not rows:
+        rows.append({'Tipo': 'Hoy no hay apuestas con valor', 'Hora': '', 'Liga': '',
+                     'Partido': 'Mejor no apostar hoy: no apostar también es ganar', 'Mercado': ''})
+    PF = ['Tipo', 'Hora', 'Liga', 'Partido', 'Mercado', 'Probabilidad', 'Cuota justa', 'Apostar solo si cuota ≥',
+          'Cuota Bet365', 'Ventaja', 'Resultado', 'Acierto']
     write('pronosticos.csv', PF, rows)
 
     # ---- registro acumulado del filtro, con resultados ----
     LF = ['Fecha', 'Hora', 'Liga', 'Local', 'Visitante', 'Mercado', 'Probabilidad', 'Cuota justa', 'Muestra',
-          'Resultado', 'Acierto', 'Ganado (1/0)', 'Tipo']
+          'Resultado', 'Acierto', 'Ganado (1/0)', 'Tipo', 'Cuota casa', 'Beneficio 10€']
     log = {(r['Fecha'], r['Local'], r['Visitante'], r['Mercado']): r for r in load_csv(LOG)}
     if True:  # se guarda lo seleccionado ANTES de que empiece cada partido
         for b in top:
@@ -375,14 +377,33 @@ def main():
                           'Visitante': b['Visitante'], 'Mercado': b['Mercado'], 'Probabilidad': pct(b['p']),
                           'Cuota justa': fair(b['p']), 'Muestra': b['Muestra'], 'Resultado': '', 'Acierto': '',
                           'Ganado (1/0)': ''}
+        for v in vp:   # apuestas de valor: se guardan antes del partido con la cuota de la casa
+            k = (today.isoformat(), v['Local'], v['Visitante'], v['Mercado'])
+            try:
+                start = datetime.strptime(f"{today.isoformat()} {v['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+            except ValueError:
+                continue
+            if k not in log and start > now:
+                log[k] = {'Fecha': k[0], 'Hora': v['Hora'], 'Liga': v['Liga'], 'Local': v['Local'],
+                          'Visitante': v['Visitante'], 'Mercado': v['Mercado'], 'Probabilidad': pct(v['p']),
+                          'Cuota justa': f"{v['justa']:.2f}", 'Muestra': '', 'Resultado': '', 'Acierto': '',
+                          'Ganado (1/0)': '', 'Tipo': 'Valor 1X2', 'Cuota casa': f"{v['casa']:.2f}"}
     for r in log.values():
+        if r.get('Tipo') == 'Valor 1X2' or r.get('Cuota casa'):
+            r['Tipo'] = 'Valor 1X2'
+            continue
         r['Tipo'] = r['Mercado'] if ('1.ª parte' in r['Mercado'] or 'córners' in r['Mercado']) else 'Ganador / doble oportunidad'
     for k, r in log.items():
         if r['Acierto']:
             continue
-        ok, res = judge(r['Mercado'], idx.get((r['Fecha'], r['Local'], r['Visitante']), {}))
+        if r['Tipo'] == 'Valor 1X2':
+            ok, res = valor.resultado(r, hidx)
+        else:
+            ok, res = judge(r['Mercado'], idx.get((r['Fecha'], r['Local'], r['Visitante']), {}))
         if ok is not None:
             r['Resultado'], r['Acierto'], r['Ganado (1/0)'] = res, 'Acertado' if ok else 'Fallado', '1' if ok else '0'
+            if r.get('Cuota casa'):
+                r['Beneficio 10€'] = f"{10 * (float(r['Cuota casa']) - 1):.2f}" if ok else '-10.00'
     write('pronosticos_log.csv', LF, sorted(log.values(), key=lambda r: (r['Fecha'], r['Hora']), reverse=True))
     print(f'Ligas con datos: {len(L)} · hoy: {len(hoy)} partidos · −0,5: {len(m05)} · córners: {len(cor)} · '
           f'filtro: {len(top)} · registro filtro: {len(log)}')
