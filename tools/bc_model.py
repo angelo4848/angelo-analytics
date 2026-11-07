@@ -98,15 +98,85 @@ def picks(day):
                         'LocalN': nl, 'VisitanteN': nv,
                         'Favorito': fav, 'p_fav': max(ph, pa), 'Mercado': mk, 'p': p, 'justa': 1 / p,
                         'casa': m / p})
+    out += uefa(day)
     out.sort(key=lambda x: (x['Hora'], -x['p']))
+    return out
+
+
+# ---- competiciones europeas y selecciones (Champions, Europa, Conference, Nations, Mundial) ----
+# football-data no las trae: se usan las cuotas 1X2 de nuestro registro OddSlot (app.csv).
+APP = os.path.join(os.path.dirname(valor.HERE), 'app.csv')
+UEFA_PO = 0.55   # prob. de +2,5 goles por defecto en estas competiciones (no hay cuota de goles)
+
+
+def es_uefa(liga):
+    l = liga.lower()
+    if any(x in l for x in ('women', 'u21', 'u19', 'u17', 'youth', 'afc', 'caf', 'concacaf')):
+        return False
+    return 'uefa' in l or 'world cup' in l or 'nations league' in l
+
+
+def app_rows():
+    try:
+        with open(APP, encoding='utf-8') as f:
+            return list(csv.DictReader(f))
+    except FileNotFoundError:
+        return []
+
+
+def uefa(day):
+    out = []
+    for r in app_rows():
+        if r.get('Fecha') != day.isoformat() or not es_uefa(r.get('Liga', '')):
+            continue
+        q = [valor.f(r.get(k)) for k in ('Cuota 1', 'Cuota X', 'Cuota 2')]
+        if None not in q:
+            inv = [1 / x for x in q]
+            s = sum(inv)
+            ph, pa = inv[0] / s, inv[2] / s
+        else:   # solo hay la cuota del pronóstico: se estima el resto
+            c, pr = valor.f(r.get('Cuota')), r.get('Pronóstico', '')
+            if not c:
+                continue
+            if pr.startswith('Gana '):
+                pw = 0.95 / c
+                pd = (1 - pw) * 0.55
+            elif pr.endswith(' o empate'):
+                pd = 0.27
+                pw = 0.95 / c - pd
+            else:
+                continue
+            pl = max(0.01, 1 - pw - pd)
+            team = pr[5:] if pr.startswith('Gana ') else pr[:-len(' o empate')]
+            ph, pa = (pw, pl) if team == r['Local'] else (pl, pw)
+        if max(ph, pa) < P_FAV:
+            continue
+        loc, vis = r['Local'], r['Visitante']
+        fav = loc if ph >= pa else vis
+        g = valor.grid(*valor.fit(ph, pa, UEFA_PO))
+        ms = [(nm, p, m) for nm, p, m in mercados(fav, loc, vis, g) if LO <= 1 / p <= HI]
+        ms = [x for x in ms if x[0].startswith(fav)] or ms
+        if not ms:
+            continue
+        mk, p, m = min(ms, key=lambda x: abs(1 / x[1] - OBJ))
+        out.append({'Hora': r.get('Hora', ''), 'Liga': r['Liga'], 'Local': loc, 'Visitante': vis,
+                    'LocalN': loc, 'VisitanteN': vis, 'Favorito': fav, 'p_fav': max(ph, pa), 'Mercado': mk,
+                    'p': p, 'justa': 1 / p, 'casa': m / p})
     return out
 
 
 def resultado(pick, hist_idx):
     h = hist_idx.get((pick['Fecha'], pick['Local'], pick['Visitante']))
-    if not h or h.get('gl', '') == '':
-        return None, ''
-    i, j = int(h['gl']), int(h['gv'])
+    if h and h.get('gl', '') != '':
+        i, j = int(h['gl']), int(h['gv'])
+    else:   # competiciones europeas: resultado de nuestro registro (app.csv)
+        import re
+        a = next((r for r in app_rows() if (r['Fecha'], r['Local'], r['Visitante']) ==
+                  (pick['Fecha'], pick['Local'], pick['Visitante'])), None)
+        mm = re.match(r'(\d+) - (\d+)', (a or {}).get('Resultado', '') or '')
+        if not mm:
+            return None, ''
+        i, j = int(mm.group(1)), int(mm.group(2))
     m = pick['Mercado']
     home = m.startswith(name(pick['Local']))
     w = i > j if home else j > i
