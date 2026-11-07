@@ -1,24 +1,23 @@
 {
- "fecha": "2026-11-06",
- "cuota": 2.0,
- "avisado": true,
+ "fecha": "2026-11-07",
+ "cuota": 1.72,
+ "avisado": false,
  "legs": [
   {
-   "Fecha": "2026-11-06",
-   "Local": "Toulouse",
-   "Visitante": "Strasbourg",
-   "Liga": "France: Ligue 1",
-   "Pronóstico": "Toulouse o empate",
-   "Cuota": "1.33"
+   "Fecha": "2026-11-07",
+   "Local": "Mainz 05",
+   "Visitante": "Bayern Munich",
+   "Liga": "Germany: Bundesliga",
+   "Pronóstico": "Victoria Bayern Munich + más de 1,5 goles",
+   "Cuota": "1.30"
   },
   {
-   "Fecha": "2026-11-06",
-   "Local": "Al Zulfi",
-   "Visitante": "Jeddah Club",
-   "Liga": "Saudi-Arabia: Division 1",
-   "Pronóstico": "Gana Al Zulfi",
-   "Cuota": "1.50"
+   "Fecha": "2026-11-07",
+   "Local": "Paris Saint-Germain",
+   "Visitante": "Troyes",
+   "Liga": "France: Ligue 1",
+   "Pronóstico": "Victoria Paris Saint-Germain + menos de 5,5 goles",
+   "Cuota": "1.32"
   }
- ],
- "estado": "perdida"
+ ]
 }
