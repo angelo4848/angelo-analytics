@@ -23,6 +23,7 @@ FIX = os.path.join(ROOT, 'data', 'fixtures.csv')
 URL = 'https://www.football-data.co.uk/fixtures.csv'
 MARGEN = 0.05          # la casa tiene que pagar ≥ 5 % más que la cuota justa
 CUOTA_MAX = 8.0        # por encima de esto la varianza es enorme: fuera
+MIN_PROB = 0.45        # solo pronósticos con al menos un 45 % de probabilidad (cuotas ~1,80-2,20)
 MAXG = 10
 
 
@@ -166,9 +167,11 @@ def picks(day):
                 p = inv[i] / s
                 justa = 1 / p
                 c = casa[i]
-                if c > CUOTA_MAX:
+                if c > CUOTA_MAX or p < MIN_PROB:
                     continue
                 edge = c / justa - 1
+                if edge > 0.25:   # diferencia absurda = cuota mal puesta en los datos
+                    continue
                 if edge >= MARGEN and (best is None or edge > best['edge']):
                     best = {'Hora': (r.get('Time') or '').strip(), 'Liga': LEAGUES[div],
                             'Local': r['HomeTeam'], 'Visitante': r['AwayTeam'], 'Mercado': name,
