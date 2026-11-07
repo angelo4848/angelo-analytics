@@ -3,9 +3,9 @@ Modelo BC,14:30,Germany: Bundesliga,Borussia Dortmund vs Elversberg,"Borussia Do
 Modelo BC,14:30,Germany: Bundesliga,RB Leipzig vs Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,1.17,66%,5 - 2,Acertado
 Modelo BC,14:30,Germany: Bundesliga,Mainz 05 vs Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,1.30,73%,1 - 2,Acertado
 Modelo BC,15:00,England: Premier League,Arsenal vs Hull,"Arsenal vence e +1,5 golos",74%,1.35,1.21,84%,1 - 0,Fallado
-Modelo BC,17:30,England: Premier League,Nottingham Forest vs Manchester City,Manchester City ou empate,79%,1.26,1.18,56%,,
-Modelo BC,17:30,Germany: Bundesliga,Stuttgart vs Werder Bremen,Stuttgart ou empate,78%,1.29,1.21,58%,,
-Modelo BC,19:45,Italy: Serie A,AS Roma vs Sassuolo,"AS Roma/empate e +1,5 golos",80%,1.25,1.11,75%,,
-Modelo BC,20:00,Spain: La Liga,Valencia vs Real Madrid,"Real Madrid/empate e +1,5 golos",80%,1.25,1.12,77%,,
-Modelo BC,20:05,France: Ligue 1,Paris Saint-Germain vs Troyes,"Paris Saint-Germain vence e -5,5 golos",67%,1.49,1.32,89%,,
+Modelo BC,17:30,England: Premier League,Nottingham Forest vs Manchester City,Manchester City ou empate,79%,1.26,1.18,56%,3 - 1,Fallado
+Modelo BC,17:30,Germany: Bundesliga,Stuttgart vs Werder Bremen,Stuttgart ou empate,78%,1.29,1.21,58%,1 - 0,Acertado
+Modelo BC,19:45,Italy: Serie A,AS Roma vs Sassuolo,"AS Roma/empate e +1,5 golos",80%,1.25,1.11,75%,3 - 0,Acertado
+Modelo BC,20:00,Spain: La Liga,Valencia vs Real Madrid,"Real Madrid/empate e +1,5 golos",80%,1.25,1.12,77%,0 - 3,Acertado
+Modelo BC,20:05,France: Ligue 1,Paris Saint-Germain vs Troyes,"Paris Saint-Germain vence e -5,5 golos",67%,1.49,1.32,89%,1 - 0,Acertado
 Modelo BC,20:30,Portugal: Primeira Liga,Sporting CP vs Moreirense,"Sporting CP vence e +1,5 golos",75%,1.34,1.19,84%,,

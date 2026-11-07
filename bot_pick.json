@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-07",
  "cuota": 1.72,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-07",
@@ -19,5 +19,6 @@
    "Pronóstico": "Victoria Paris Saint-Germain + menos de 5,5 goles",
    "Cuota": "1.32"
   }
- ]
+ ],
+ "estado": "ganada"
 }
