@@ -80,6 +80,20 @@ def judge(mercado, local, visit, hs, ws):
     return True
 
 
+def from_registry(fecha, partido):
+    import csv, os, re
+    path = os.path.join(os.path.dirname(DATA), 'app.csv')
+    if ' vs ' not in partido or not os.path.exists(path):
+        return None
+    a, b = [x.strip() for x in partido.split(' vs ', 1)]
+    with open(path, encoding='utf-8') as f:
+        for row in csv.DictReader(f):
+            if row['Fecha'] == fecha and same(a, row['Local']) and same(b, row['Visitante']):
+                m = re.match(r'(\d+) - (\d+)', row.get('Resultado') or '')
+                return (int(m.group(1)), int(m.group(2))) if m else None
+    return None
+
+
 def main():
     d = json.load(open(DATA, encoding='utf-8'))
     today = datetime.now(TZ).date()
@@ -103,6 +117,8 @@ def main():
             if l.get('estado') in ('ganada', 'perdida'):
                 continue
             r = find(games, l['partido'])
+            if not r:  # ligas sin ESPN: resultado del registro (OddSlot / SofaScore del portátil)
+                r = from_registry(p['fecha'], l['partido'])
             if not r:
                 continue
             local, visit = [s.strip() for s in l['partido'].split(' vs ', 1)]
