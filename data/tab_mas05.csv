@@ -38,6 +38,12 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,England: Championship,Watford,Middlesbrough,74%,1.36,38%,2.60,1.44,2928,Sí,Histórico 5 años,,
 14:00,Italy: Serie B,Cesena,Catanzaro,73%,1.36,38%,2.65,1.36,2000,Sí,Histórico 5 años,,
 01:30,Honduras: Liga Nacional,CD Marathon,Platense FC,73%,1.36,38%,2.63,1.40,5,No,Registro ESPN/SofaScore (muestra baja),2 - 0,3 - 1
+09:00,Romania: Liga II,Viitorul Şelimbăr,Ştefăneşti,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,0 - 2
+09:00,Romania: Liga II,Unirea Slobozia,CSM Satu Mare,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 0
+09:00,Romania: Liga II,Metaloglobus,Dumbrăviţa,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,1 - 0
+09:00,Romania: Liga II,Concordia,ASA Targu Mures,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,5 - 0
+09:00,Romania: Liga II,CS Afumati,FC Bacau,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,1 - 1
+10:30,Romania: Liga II,Bihor Oradea,Slatina,73%,1.36,38%,2.63,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 1
 21:00,Honduras: Liga Nacional,Juticalpa,Estrella Roja,73%,1.36,38%,2.63,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,Mexico: Liga MX,Atlas,CF Pachuca,73%,1.36,38%,2.63,1.60,5,No,Registro ESPN/SofaScore (muestra baja),,
 23:15,Honduras: Liga Nacional,Lobos Upnfm,CD Motagua,73%,1.36,38%,2.63,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
@@ -53,6 +59,8 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,Scotland: League Two,Clyde,Spartans,73%,1.38,38%,2.64,1.36,960,Sí,Histórico 5 años,,
 15:00,England: Premier League,Arsenal,Hull City,73%,1.38,37%,2.72,1.26,1990,Sí,Histórico 5 años,,
 15:00,England: Championship,Blackburn,West Ham,72%,1.38,37%,2.73,1.35,2928,Sí,Histórico 5 años,,
+08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,72%,1.38,37%,2.73,1.00,8,No,Registro ESPN/SofaScore (muestra baja),1 - 1,2 - 1
+10:45,Australia: A-League,Perth Glory,Newcastle Jets,72%,1.38,37%,2.73,1.00,8,No,Registro ESPN/SofaScore (muestra baja),1 - 0,2 - 1
 19:00,France: Ligue 2,Saint Etienne,Laval,72%,1.39,37%,2.72,1.43,1847,Sí,Histórico 5 años,,
 17:30,Greece: Super League 1,Aris Thessalonikis,Panetolikos,72%,1.40,36%,2.80,1.27,1250,Sí,Histórico 5 años,,
 21:00,USA: Major League Soccer,Philadelphia Union,Toronto FC,71%,1.40,36%,2.81,1.27,11,No,Registro ESPN/SofaScore (muestra baja),,
@@ -70,8 +78,6 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 18:30,Italy: Serie B,Benevento,Avellino,71%,1.42,34%,2.93,1.19,2000,Sí,Histórico 5 años,,
 20:05,France: Ligue 1,Paris Saint Germain,Estac Troyes,71%,1.42,34%,2.90,1.20,1759,Sí,Histórico 5 años,,
 15:30,Netherlands: Eredivisie,Fortuna Sittard,Telstar,71%,1.42,35%,2.84,1.11,1629,Sí,Histórico 5 años,,
-08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 1,2 - 1
-10:45,Australia: A-League,Perth Glory,Newcastle Jets,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Algeria: Ligue 2,WA Mostaganem,El Bayadh,71%,1.42,35%,2.89,0.86,7,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Algeria: Ligue 2,Usm El Harrach,Sidi Benali,71%,1.42,35%,2.89,0.86,7,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Algeria: Ligue 2,Hussein Dey,Koléa,71%,1.42,35%,2.89,0.86,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -114,7 +120,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:45,Italy: Serie A,AS Roma,Sassuolo,65%,1.54,29%,3.42,0.94,2000,Sí,Histórico 5 años,,
 17:30,Spain: Segunda División,Leganes,Albacete,63%,1.58,29%,3.47,1.01,2441,Sí,Histórico 5 años,,
 15:15,Spain: La Liga,Espanyol,Deportivo La Coruna,63%,1.58,29%,3.47,0.96,2009,Sí,Histórico 5 años,,
-10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,63%,1.59,29%,3.49,0.80,1809,Sí,Histórico 5 años,,
+10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,63%,1.59,29%,3.49,0.80,1809,Sí,Histórico 5 años,0 - 2,0 - 2
 18:00,France: Ligue 1,Auxerre,Paris FC,63%,1.59,29%,3.50,0.84,1759,Sí,Histórico 5 años,,
 14:00,Italy: Serie B,Juve Stabia,Arezzo,63%,1.59,28%,3.53,0.83,2000,Sí,Histórico 5 años,,
 11:00,Russia: Premier League,Fakel,Dynamo,62%,1.60,28%,3.54,0.83,6,No,Registro ESPN/SofaScore (muestra baja),,

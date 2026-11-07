@@ -744,14 +744,15 @@
    "liga": "Australia: A-League",
    "local": "Perth Glory",
    "visitante": "Newcastle Jets",
-   "tendencia": "★★★ Perth Glory o empate · cuota ~1,42",
+   "tendencia": "★★★ Perth Glory o empate · cuota ~1,42 · ✓ acertado",
    "cuotas": [
     2.3,
     3.7,
     2.8
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T10:45:00+00:00"
+   "inicio": "2026-11-07T10:45:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Austria: Bundesliga",
@@ -783,14 +784,15 @@
    "liga": "Belarus: Premier League",
    "local": "Naftan",
    "visitante": "ML Vitebsk",
-   "tendencia": "★★★ Gana ML Vitebsk · cuota 1,17",
+   "tendencia": "★★★ Gana ML Vitebsk · cuota 1,17 · ✓ acertado",
    "cuotas": [
     15.75,
     6.3,
     1.17
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "0 - 5"
   },
   {
    "liga": "Belarus: Premier League",
@@ -1160,53 +1162,57 @@
    "liga": "Estonia: Meistriliiga",
    "local": "Kuressaare",
    "visitante": "Nõmme United",
-   "tendencia": "★★★ Nõmme United o empate · cuota ~1,26",
+   "tendencia": "★★★ Nõmme United o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     3.0,
     3.6,
     1.95
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
    "local": "FC Levadia Tallinn",
    "visitante": "Kalju Nomme",
-   "tendencia": "★★★ FC Levadia Tallinn o empate · cuota ~1,19",
+   "tendencia": "★★★ FC Levadia Tallinn o empate · cuota ~1,19 · ✓ acertado",
    "cuotas": [
     1.75,
     3.75,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Estonia: Meistriliiga",
    "local": "Trans Narva",
    "visitante": "Laagri",
-   "tendencia": "★★★ Laagri o empate · cuota ~1,32",
+   "tendencia": "★★★ Laagri o empate · cuota ~1,32 · ✗ fallado",
    "cuotas": [
     2.88,
     3.7,
     2.05
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Estonia: Meistriliiga",
    "local": "Paide",
    "visitante": "Flora Tallinn",
-   "tendencia": "★★★ Flora Tallinn o empate · cuota ~1,40",
+   "tendencia": "★★★ Flora Tallinn o empate · cuota ~1,40 · ✓ acertado",
    "cuotas": [
     2.5,
     3.6,
     2.3
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Georgia: Erovnuli Liga",
@@ -2427,14 +2433,15 @@
    "liga": "Turkey: Süper Lig",
    "local": "Eyüpspor",
    "visitante": "Kocaelispor",
-   "tendencia": "★★★ Kocaelispor o empate · cuota ~1,23",
+   "tendencia": "★★★ Kocaelispor o empate · cuota ~1,23 · ✓ acertado",
    "cuotas": [
     3.7,
     3.3,
     1.95
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Turkey: Süper Lig",
@@ -3040,27 +3047,29 @@
    "liga": "Czech-Republic: 3. liga - CFL A",
    "local": "Motorlet Praha",
    "visitante": "Admira Praha",
-   "tendencia": "★★★ Motorlet Praha o empate · cuota ~1,21",
+   "tendencia": "★★★ Motorlet Praha o empate · cuota ~1,21 · ✓ acertado",
    "cuotas": [
     1.73,
     4.0,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:15:00+00:00"
+   "inicio": "2026-11-07T09:15:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL A",
    "local": "Slavia III",
    "visitante": "České Budějovice",
-   "tendencia": "★★★ České Budějovice o empate · cuota ~1,21",
+   "tendencia": "★★★ České Budějovice o empate · cuota ~1,21 · ✗ fallado",
    "cuotas": [
     3.5,
     4.0,
     1.73
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T09:15:00+00:00"
+   "inicio": "2026-11-07T09:15:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL A",
@@ -3079,14 +3088,15 @@
    "liga": "Czech-Republic: 3. liga - CFL B",
    "local": "Velké Hamry",
    "visitante": "Horní Ředice",
-   "tendencia": "★★★ Velké Hamry o empate · cuota ~1,41",
+   "tendencia": "★★★ Velké Hamry o empate · cuota ~1,41 · ✓ acertado",
    "cuotas": [
     2.25,
     3.75,
     2.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:30:00+00:00"
+   "inicio": "2026-11-07T09:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Czech-Republic: 3. liga - CFL B",
@@ -5017,53 +5027,57 @@
    "liga": "Romania: Liga II",
    "local": "Concordia",
    "visitante": "ASA Targu Mures",
-   "tendencia": "★★★ Concordia o empate · cuota ~1,18",
+   "tendencia": "★★★ Concordia o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     1.72,
     3.75,
     4.25
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:00:00+00:00"
+   "inicio": "2026-11-07T09:00:00+00:00",
+   "resultado": "5 - 0"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Metaloglobus",
    "visitante": "Dumbrăviţa",
-   "tendencia": "★★★ Gana Metaloglobus · cuota 1,40",
+   "tendencia": "★★★ Gana Metaloglobus · cuota 1,40 · ✓ acertado",
    "cuotas": [
     1.4,
     4.3,
     7.3
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T09:00:00+00:00"
+   "inicio": "2026-11-07T09:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Viitorul Şelimbăr",
    "visitante": "Ştefăneşti",
-   "tendencia": "★★★ Viitorul Şelimbăr o empate · cuota ~1,18",
+   "tendencia": "★★★ Viitorul Şelimbăr o empate · cuota ~1,18 · ✗ fallado",
    "cuotas": [
     1.78,
     3.5,
     4.35
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:00:00+00:00"
+   "inicio": "2026-11-07T09:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Unirea Slobozia",
    "visitante": "CSM Satu Mare",
-   "tendencia": "★★★ Unirea Slobozia o empate · cuota ~1,21",
+   "tendencia": "★★★ Unirea Slobozia o empate · cuota ~1,21 · ✓ acertado",
    "cuotas": [
     1.9,
     3.35,
     3.95
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:00:00+00:00"
+   "inicio": "2026-11-07T09:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Russia: First League",
@@ -5173,14 +5187,15 @@
    "liga": "Slovakia: 2. liga",
    "local": "Malženice",
    "visitante": "Šamorín",
-   "tendencia": "★★★ Šamorín o empate · cuota ~1,33",
+   "tendencia": "★★★ Šamorín o empate · cuota ~1,33 · ✓ acertado",
    "cuotas": [
     3.0,
     3.6,
     2.1
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "3 - 5"
   },
   {
    "liga": "Slovakia: 2. liga",
@@ -5722,27 +5737,29 @@
    "liga": "Turkey: 1. Lig",
    "local": "Keçiörengücü",
    "visitante": "Manisa F.K.",
-   "tendencia": "★★★ Gana Keçiörengücü · cuota 1,62",
+   "tendencia": "★★★ Gana Keçiörengücü · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.75,
     4.33
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Turkey: 1. Lig",
    "local": "Vanspor FK",
    "visitante": "Sivasspor",
-   "tendencia": "★★★ Vanspor FK o empate · cuota ~1,22",
+   "tendencia": "★★★ Vanspor FK o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     1.9,
     3.4,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Turkey: 1. Lig",
@@ -5774,14 +5791,15 @@
    "liga": "Turkey: 2. Lig",
    "local": "Serik Spor",
    "visitante": "İskenderunspor",
-   "tendencia": "★★★ Gana Serik Spor · cuota 1,30",
+   "tendencia": "★★★ Gana Serik Spor · cuota 1,30 · ✗ fallado",
    "cuotas": [
     1.3,
     4.75,
     7.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Turkey: 2. Lig",
@@ -5800,14 +5818,15 @@
    "liga": "Ukraine: Persha Liga",
    "local": "Metal Kharkiv",
    "visitante": "Lokomotiv Kyiv",
-   "tendencia": "★★★ Lokomotiv Kyiv o empate · cuota ~1,43",
+   "tendencia": "★★★ Lokomotiv Kyiv o empate · cuota ~1,43 · ✓ acertado",
    "cuotas": [
     2.65,
     3.75,
     2.32
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "United-Arab-Emirates: Pro League",
@@ -6060,14 +6079,15 @@
    "liga": "Hong-Kong: Premier League",
    "local": "Warriors",
    "visitante": "Southern District",
-   "tendencia": "★★★ Gana Warriors · cuota 1,45",
+   "tendencia": "★★★ Gana Warriors · cuota 1,45 · ✓ acertado",
    "cuotas": [
     1.45,
     4.5,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Kenya: FKF Premier League",
@@ -6892,14 +6912,15 @@
    "liga": "Czech-Republic: 4. liga - Divizie C",
    "local": "Hlinsko",
    "visitante": "Letohrad",
-   "tendencia": "★★★ Hlinsko o empate · cuota ~1,23",
+   "tendencia": "★★★ Hlinsko o empate · cuota ~1,23 · ✗ fallado",
    "cuotas": [
     1.73,
     4.2,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:30:00+00:00"
+   "inicio": "2026-11-07T09:30:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Czech-Republic: 4. liga - Divizie C",
@@ -6918,14 +6939,15 @@
    "liga": "Czech-Republic: 4. liga - Divizie D",
    "local": "Tatran Bohunice",
    "visitante": "Havlíčkův Brod",
-   "tendencia": "★★★ Gana Tatran Bohunice · cuota 1,62",
+   "tendencia": "★★★ Gana Tatran Bohunice · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.9,
     4.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T09:15:00+00:00"
+   "inicio": "2026-11-07T09:15:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Czech-Republic: 4. liga - Divizie E",
@@ -6944,14 +6966,15 @@
    "liga": "Czech-Republic: 4. liga - Divizie F",
    "local": "Břidličná",
    "visitante": "Frýdlant",
-   "tendencia": "★★★ Gana Břidličná · cuota 1,40",
+   "tendencia": "★★★ Gana Břidličná · cuota 1,40 · ✓ acertado",
    "cuotas": [
     1.4,
     4.75,
     5.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-07T09:15:00+00:00"
+   "inicio": "2026-11-07T09:15:00+00:00",
+   "resultado": "6 - 2"
   },
   {
    "liga": "Czech-Republic: FNL",
@@ -7061,14 +7084,15 @@
    "liga": "Georgia: Erovnuli Liga 2",
    "local": "Gareji",
    "visitante": "Merani Martvili",
-   "tendencia": "★★★ Gareji o empate · cuota ~1,38",
+   "tendencia": "★★★ Gareji o empate · cuota ~1,38 · ✓ acertado",
    "cuotas": [
     2.4,
     3.25,
     2.55
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Georgia: Erovnuli Liga 2",
@@ -7556,27 +7580,29 @@
    "liga": "Romania: Liga II",
    "local": "CS Afumati",
    "visitante": "FC Bacau",
-   "tendencia": "★★★ CS Afumati o empate · cuota ~1,36",
+   "tendencia": "★★★ CS Afumati o empate · cuota ~1,36 · ✓ acertado",
    "cuotas": [
     2.3,
     3.3,
     2.62
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T09:00:00+00:00"
+   "inicio": "2026-11-07T09:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Bihor Oradea",
    "visitante": "Slatina",
-   "tendencia": "★★★ Bihor Oradea o empate · cuota ~1,26",
+   "tendencia": "★★★ Bihor Oradea o empate · cuota ~1,26 · ✗ fallado",
    "cuotas": [
     2.05,
     3.3,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-07T10:30:00+00:00"
+   "inicio": "2026-11-07T10:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "San-Marino: Campionato",
@@ -7959,14 +7985,15 @@
    "liga": "Vietnam: V.League 1",
    "local": "Hoang Anh Gia Lai",
    "visitante": "Ha Noi",
-   "tendencia": "★★★ Gana Ha Noi · cuota 1,55",
+   "tendencia": "★★★ Gana Ha Noi · cuota 1,55 · ✗ fallado",
    "cuotas": [
     4.5,
     3.9,
     1.55
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-07T10:00:00+00:00"
+   "inicio": "2026-11-07T10:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Vietnam: V.League 1",

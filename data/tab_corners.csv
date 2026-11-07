@@ -7,7 +7,7 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 21:15,Bolivia: Primera División,Always Ready,ABB,7.5,70%,78%,50%,40%,8,No,Registro ESPN/SofaScore (muestra baja),
 23:30,Bolivia: Primera División,Guabirá,San Antonio Bulo Bulo,7.5,70%,78%,50%,40%,8,No,Registro ESPN/SofaScore (muestra baja),
 17:00,Italy: Serie A,Parma,Bologna,7.5,66%,76%,58%,46%,2000,Sí,Histórico 5 años,
-10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,8.3,59%,71%,65%,53%,1809,Sí,Histórico 5 años,
+10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,8.3,59%,71%,65%,53%,1809,Sí,Histórico 5 años,0 - 2
 14:00,Italy: Serie B,Pisa,Sudtirol,8.5,58%,69%,66%,54%,2000,Sí,Histórico 5 años,
 15:00,Scotland: League One,Montrose,East Fife,8.7,55%,67%,68%,56%,963,Sí,Histórico 5 años,
 15:00,Scotland: League One,Queen of the South,East Kilbride,8.7,55%,66%,69%,57%,963,Sí,Histórico 5 años,
@@ -98,8 +98,8 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 15:00,England: Championship,Charlton,Sheffield Utd,10.6,40%,52%,80%,70%,2928,Sí,Histórico 5 años,
 14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,10.7,41%,53%,79%,69%,1601,Sí,Histórico 5 años,
 14:30,Germany: Bundesliga,Borussia Dortmund,SV Elversberg,10.7,41%,52%,79%,69%,1601,Sí,Histórico 5 años,
-08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,10.9,34%,46%,84%,76%,7,No,Registro ESPN/SofaScore (muestra baja),2 - 1
-10:45,Australia: A-League,Perth Glory,Newcastle Jets,10.9,34%,46%,84%,76%,7,No,Registro ESPN/SofaScore (muestra baja),
+08:40,Australia: A-League,Melbourne City,Western Sydney Wanderers,10.9,33%,45%,86%,78%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+10:45,Australia: A-League,Perth Glory,Newcastle Jets,10.9,33%,45%,86%,78%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
 15:30,Netherlands: Eerste Divisie,Den Bosch,Jong Utrecht,10.9,30%,44%,89%,81%,14,No,Registro ESPN/SofaScore,
 13:00,Spain: La Liga,Malaga,Racing Santander,10.9,41%,53%,79%,69%,2009,Sí,Histórico 5 años,
 17:30,Spain: Segunda División,Leganes,Albacete,11.0,42%,54%,78%,68%,2441,Sí,Histórico 5 años,
