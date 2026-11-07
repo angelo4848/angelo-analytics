@@ -26,6 +26,27 @@ P_FAV = 0.55          # favorito claro: al menos 55 % de ganar
 OBJ, LO, HI = 1.35, 1.22, 1.50   # cuota justa buscada por pata
 MARGEN_SIMPLE, MARGEN_CREAR = 0.94, 0.89   # cuota casa ≈ cuota justa × esto (simple / crear apuesta)
 
+# nombres de football-data -> nombres completos (para la app, la hoja y los marcadores de ESPN)
+NAMES = {
+    'Man City': 'Manchester City', 'Man United': 'Manchester United', "Nott'm Forest": 'Nottingham Forest',
+    'Newcastle': 'Newcastle United', 'Tottenham': 'Tottenham Hotspur', 'West Ham': 'West Ham United',
+    'Wolves': 'Wolverhampton', 'Brighton': 'Brighton', 'Leeds': 'Leeds United', 'Sheffield United': 'Sheffield United',
+    'Paris SG': 'Paris Saint-Germain', 'St Etienne': 'Saint-Etienne', 'Ath Madrid': 'Atletico Madrid',
+    'Ath Bilbao': 'Athletic Club', 'Sociedad': 'Real Sociedad', 'Betis': 'Real Betis', 'Vallecano': 'Rayo Vallecano',
+    'Espanol': 'Espanyol', 'Celta': 'Celta Vigo', 'Alaves': 'Alaves', 'Sevilla': 'Sevilla',
+    'Bayern Munich': 'Bayern Munich', 'Dortmund': 'Borussia Dortmund', "M'gladbach": 'Borussia Monchengladbach',
+    'Leverkusen': 'Bayer Leverkusen', 'Ein Frankfurt': 'Eintracht Frankfurt', 'FC Koln': 'Koln',
+    'RB Leipzig': 'RB Leipzig', 'Mainz': 'Mainz 05', 'Hamburg': 'Hamburger SV', 'Werder Bremen': 'Werder Bremen',
+    'Inter': 'Inter Milan', 'Milan': 'AC Milan', 'Roma': 'AS Roma', 'Verona': 'Hellas Verona',
+    'Sp Lisbon': 'Sporting CP', 'Sp Braga': 'Braga', 'Porto': 'FC Porto', 'Benfica': 'Benfica',
+    'Guimaraes': 'Vitoria Guimaraes', 'PSV Eindhoven': 'PSV', 'Ajax': 'Ajax', 'Feyenoord': 'Feyenoord',
+    'AZ Alkmaar': 'AZ Alkmaar', 'For Sittard': 'Fortuna Sittard', 'Nijmegen': 'NEC Nijmegen', 'Twente': 'FC Twente',
+}
+
+
+def name(n):
+    return NAMES.get(n, n)
+
 
 def mercados(fav, loc, vis, g):
     n = valor.MAXG + 1
@@ -60,20 +81,22 @@ def picks(day):
             s = sum(inv)
             ph, pa = inv[0] / s, inv[2] / s
             loc, vis = r['HomeTeam'], r['AwayTeam']
+            nl, nv = name(loc), name(vis)
             if max(ph, pa) < P_FAV:
                 continue
-            fav = loc if ph >= pa else vis
+            fav = nl if ph >= pa else nv
             ou = valor.first(r, ('BFE>2.5', 'BFE<2.5'), ('P>2.5', 'P<2.5'), ('Avg>2.5', 'Avg<2.5'))
             po = (1 / ou[0]) / (1 / ou[0] + 1 / ou[1]) if ou else 0.52
             g = valor.grid(*valor.fit(ph, pa, po))
-            ms = [(name, p, m) for name, p, m in mercados(fav, loc, vis, g) if LO <= 1 / p <= HI]
+            ms = [(nm, p, m) for nm, p, m in mercados(fav, nl, nv, g) if LO <= 1 / p <= HI]
             equipo = [x for x in ms if x[0].startswith(fav)]   # como él: primero mercados del favorito
             ms = equipo or ms
             if not ms:
                 continue
-            name, p, m = min(ms, key=lambda x: abs(1 / x[1] - OBJ))
+            mk, p, m = min(ms, key=lambda x: abs(1 / x[1] - OBJ))
             out.append({'Hora': (r.get('Time') or '').strip(), 'Liga': LEAGUES[div], 'Local': loc, 'Visitante': vis,
-                        'Favorito': fav, 'p_fav': max(ph, pa), 'Mercado': name, 'p': p, 'justa': 1 / p,
+                        'LocalN': nl, 'VisitanteN': nv,
+                        'Favorito': fav, 'p_fav': max(ph, pa), 'Mercado': mk, 'p': p, 'justa': 1 / p,
                         'casa': m / p})
     out.sort(key=lambda x: (x['Hora'], -x['p']))
     return out
@@ -85,7 +108,7 @@ def resultado(pick, hist_idx):
         return None, ''
     i, j = int(h['gl']), int(h['gv'])
     m = pick['Mercado']
-    home = m.startswith(pick['Local'])
+    home = m.startswith(name(pick['Local']))
     w = i > j if home else j > i
     wd = i >= j if home else j >= i
     ok = {'vence e -5,5 golos': w and i + j <= 5, 'vence e +1,5 golos': w and i + j >= 2,

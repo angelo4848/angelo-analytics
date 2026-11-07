@@ -5,7 +5,10 @@
   python3 tools/daily_pick.py check   -> si el pick ya terminó, manda el resultado (una vez)
   python3 tools/daily_pick.py preview -> muestra el pick en pantalla sin mandarlo
 
-Reglas:
+AHORA usa el modelo BC (tools/bc_model.py, copiado de Bet Consulting): 2 favoritos claros de ligas grandes,
+cuota total 1,70-1,95, la combinación de mayor probabilidad. build() de abajo es el método antiguo (ya no se usa).
+
+Reglas antiguas:
   · partidos de HOY de ligas distintas que empiecen dentro de ≥ 45 min
   · "Gana X" o doble oportunidad, lo que sea más seguro según el % de acierto del registro
     (por liga y tipo de pronóstico; mín. 5 partidos)
@@ -101,6 +104,55 @@ def build(rs, now=None):
     return best
 
 
+BC_MIN, BC_MAX = 1.70, 1.95   # cuota total de la combinada (como Bet Consulting: 2 patas, ~1,70-1,90)
+
+
+def es_market(m):
+    """Mercado del modelo BC (portugués) -> texto de la app (lo entiende picks.py)."""
+    import re
+    m2 = re.match(r'(.+) vence e ([+-])(\d),5 golos$', m)
+    if m2:
+        return f"Victoria {m2.group(1)} + {'más' if m2.group(2) == '+' else 'menos'} de {m2.group(3)},5 goles"
+    m2 = re.match(r'(.+)/empate e \+(\d),5 golos$', m)
+    if m2:
+        return f"{m2.group(1)} o empate + más de {m2.group(2)},5 goles"
+    if m.endswith(' ou empate'):
+        return m[:-len(' ou empate')] + ' o empate'
+    if m == '+2,5 golos':
+        return 'Más de 2,5 goles'
+    if m == 'Ambas marcam':
+        return 'Ambos marcan'
+    return m
+
+
+def build_bc(now=None):
+    """Combinada del día con el modelo Bet Consulting: 2 patas de partidos distintos, cuota 1,70-1,95,
+    la de mayor probabilidad conjunta. Solo partidos que empiezan dentro de ≥ 45 min."""
+    import bc_model
+    now = now or datetime.now(TZ)
+    today = now.strftime('%Y-%m-%d')
+    cands = []
+    for v in bc_model.picks(now.date()):
+        try:
+            start = datetime.strptime(f"{today} {v['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+        except ValueError:
+            continue
+        if start < now + timedelta(minutes=45):
+            continue
+        cands.append({'Fecha': today, 'Hora': v['Hora'], 'Liga': v['Liga'], 'Local': v['LocalN'],
+                      'Visitante': v['VisitanteN'], 'Pronóstico': es_market(v['Mercado']),
+                      'Cuota': f"{v['casa']:.2f}", 'cuota': round(v['casa'], 2), 'rate': v['p'], 'n': 0, 'bc': True})
+    best = None
+    for legs in combinations(cands, 2):
+        tot = legs[0]['cuota'] * legs[1]['cuota']
+        if not (BC_MIN <= tot <= BC_MAX):
+            continue
+        prob = legs[0]['rate'] * legs[1]['rate']
+        if not best or prob > best[0][0]:
+            best = ((prob, 0), list(legs), tot)
+    return best
+
+
 def f2(v):
     return f'{v:.2f}'.replace('.', ',')
 
@@ -113,17 +165,19 @@ def message(best):
         out += [f"{i}️⃣ <b>{l['Local']} vs {l['Visitante']}</b>",
                 f"🏆 {l['Liga']} · ⏰ {l['Hora']}",
                 f"✅ <b>{l['Pronóstico']}</b> · cuota {f2(l['cuota'])}",
-                f"📊 Acierto en esta liga ({'a ganar' if kind(l) == 'gana' else 'doble oportunidad'}): "
-                f"{l['rate'] * 100:.0f}% ({l['n']} partidos)", '']
+                (f"📊 Probabilidad estimada: {l['rate'] * 100:.0f}%" if l.get('bc') else
+                 f"📊 Acierto en esta liga ({'a ganar' if kind(l) == 'gana' else 'doble oportunidad'}): "
+                 f"{l['rate'] * 100:.0f}% ({l['n']} partidos)"), '']
     prob = 1.0
     for l in legs:
         prob *= l['rate']
     out += [f"💰 <b>Cuota combinada: {f2(tot)}</b>",
             f"📈 Probabilidad estimada: {prob * 100:.0f}%",
             '💶 Stake 10 € · revisa la cuota en tu casa de apuestas antes de entrar',
-            '🤖 Pick automático según el acierto por liga del registro APP',
+            ('🤖 Pick automático · modelo BC (favoritos claros de ligas grandes)' if legs[0].get('bc')
+             else '🤖 Pick automático según el acierto por liga del registro APP'),
             '+18 · Apuesta con responsabilidad']
-    if min(l['rate'] for l in legs) < 0.8:
+    if not legs[0].get('bc') and min(l['rate'] for l in legs) < 0.8:
         out.insert(3, '⚠️ Una de las ligas está por debajo del 80 %: pick con menos garantías\n')
     return '\n'.join(out)
 
@@ -142,11 +196,18 @@ def to_app(legs, tot):
         pron = l['Pronóstico']
         mercado = 'Victoria ' + pron[5:] if pron.startswith('Gana ') else pron
         tipo = 'a ganar' if kind(l) == 'gana' else 'doble oportunidad'
+        if l.get('bc'):
+            mercado = pron
+            analisis = [f"Favorito claro de liga grande · probabilidad estimada {l['rate'] * 100:.0f}%",
+                        f"Cuota aproximada {f2(float(l['Cuota']))} · revisa la cuota en tu casa",
+                        'Elegido por el pick automático: la combinación más segura del día']
+        else:
+            analisis = [f"En esta liga nuestro modelo acierta el {l['rate'] * 100:.0f}% ({tipo}, {l['n']} partidos)",
+                        f"Pronóstico ★★★ del modelo · cuota {f2(float(l['Cuota']))}",
+                        'Elegido por el pick automático: la combinación más segura del día']
         patas.append({'liga': l['Liga'], 'hora': l['Hora'], 'partido': f"{l['Local']} vs {l['Visitante']}",
                       'mercado': mercado, 'cuota': round(float(l['Cuota']), 2), 'estado': 'pendiente',
-                      'analisis': [f"En esta liga nuestro modelo acierta el {l['rate'] * 100:.0f}% ({tipo}, {l['n']} partidos)",
-                                   f"Pronóstico ★★★ del modelo · cuota {f2(float(l['Cuota']))}",
-                                   'Elegido por el pick automático: la combinación más segura del día']})
+                      'analisis': analisis})
     d['picks'].append({'fecha': fecha, 'titulo': 'Combinada del día', 'estado': 'pendiente',
                        'cuota_total': round(tot, 2), 'patas': patas})
     json.dump(d, open(DATA, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
@@ -154,8 +215,7 @@ def to_app(legs, tot):
 
 
 def send():
-    rs = rows()
-    best = build(rs)
+    best = build_bc()   # modelo BC (Bet Consulting)
     cid = chat_id()
     if not TOKEN or not cid:
         sys.exit('Falta TELEGRAM_TOKEN o chat_id')
@@ -169,7 +229,7 @@ def send():
         return
     if not best:
         tg('sendMessage', chat_id=cid, parse_mode='HTML',
-           text='🎯 <b>Pick del día</b>\n\nHoy no hay 2 partidos de ligas fiables que lleguen a cuota 1,80. '
+           text='🎯 <b>Pick del día</b>\n\nHoy no hay 2 favoritos claros de ligas grandes que lleguen a cuota 1,70. '
                 'Mejor no forzar: hoy sin pick. 🧘')
         state = {'fecha': today, 'legs': [], 'avisado': True}
     else:
@@ -238,5 +298,5 @@ if __name__ == '__main__':
         if len(sys.argv) > 2:  # preview AAAA-MM-DD [HH:MM]
             when = datetime.strptime(' '.join(sys.argv[2:4]) if len(sys.argv) > 3 else sys.argv[2] + ' 09:00',
                                      '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
-        b = build(rows(), when)
+        b = build_bc(when)
         print(message(b) if b else 'Sin pick')

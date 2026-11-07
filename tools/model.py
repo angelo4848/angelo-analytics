@@ -355,7 +355,7 @@ def main():
     for v in bp:
         ok, res = bc_model.resultado({**v, 'Fecha': today.isoformat()}, hidx)
         rows.append({'Tipo': 'Modelo BC', 'Hora': v['Hora'], 'Liga': v['Liga'],
-                     'Partido': f"{v['Local']} vs {v['Visitante']}", 'Pronóstico': v['Mercado'],
+                     'Partido': f"{v['LocalN']} vs {v['VisitanteN']}", 'Pronóstico': v['Mercado'],
                      'Prob.': pct(v['p']), 'Cuota justa': f"{v['justa']:.2f}",
                      'Cuota aprox. 22Bet': f"{v['casa']:.2f}", 'Favorito gana': pct(v['p_fav']),
                      'Resultado': res, 'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
@@ -380,7 +380,7 @@ def main():
         if ok is not None:
             judged += 1
             all_ok = all_ok and ok
-        crow.append({'Hora': v['Hora'], 'Liga': v['Liga'], 'Partido': f"{v['Local']} vs {v['Visitante']}",
+        crow.append({'Hora': v['Hora'], 'Liga': v['Liga'], 'Partido': f"{v['LocalN']} vs {v['VisitanteN']}",
                      'Pronóstico': v['Mercado'], 'Prob.': pct(v['p']), 'Cuota aprox. 22Bet': f"{v['casa']:.2f}",
                      'Resultado': res, 'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
     if len(combo) >= 5:
@@ -399,7 +399,7 @@ def main():
                     for v in combo)
         if today.isoformat() not in clog and first > now:
             clog[today.isoformat()] = {'Fecha': today.isoformat(), 'Patas': str(len(combo)),
-                                       'Partidos': ' · '.join(f"{v['Mercado']} ({v['Local']}-{v['Visitante']})" for v in combo),
+                                       'Partidos': ' · '.join(f"{v['Mercado']} ({v['LocalN']}-{v['VisitanteN']})" for v in combo),
                                        'Cuota': f"{tot:.2f}", 'Prob.': pct(p_all), 'Resultado': '', 'Beneficio 10€': ''}
         r = clog.get(today.isoformat())
         if r and not r['Resultado'] and (not all_ok or judged == len(combo)):
