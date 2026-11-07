@@ -1,8 +1,8 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
-Modelo BC,14:30,Germany: Bundesliga,Borussia Dortmund vs Elversberg,"Borussia Dortmund/empate e +1,5 golos",80%,1.25,1.11,74%,,
-Modelo BC,14:30,Germany: Bundesliga,RB Leipzig vs Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,1.17,66%,,
-Modelo BC,14:30,Germany: Bundesliga,Mainz 05 vs Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,1.30,73%,,
-Modelo BC,15:00,England: Premier League,Arsenal vs Hull,"Arsenal vence e +1,5 golos",74%,1.35,1.21,84%,,
+Modelo BC,14:30,Germany: Bundesliga,Borussia Dortmund vs Elversberg,"Borussia Dortmund/empate e +1,5 golos",80%,1.25,1.11,74%,2 - 1,Acertado
+Modelo BC,14:30,Germany: Bundesliga,RB Leipzig vs Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,1.17,66%,5 - 2,Acertado
+Modelo BC,14:30,Germany: Bundesliga,Mainz 05 vs Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,1.30,73%,1 - 2,Acertado
+Modelo BC,15:00,England: Premier League,Arsenal vs Hull,"Arsenal vence e +1,5 golos",74%,1.35,1.21,84%,1 - 0,Fallado
 Modelo BC,17:30,England: Premier League,Nottingham Forest vs Manchester City,Manchester City ou empate,79%,1.26,1.18,56%,,
 Modelo BC,17:30,Germany: Bundesliga,Stuttgart vs Werder Bremen,Stuttgart ou empate,78%,1.29,1.21,58%,,
 Modelo BC,19:45,Italy: Serie A,AS Roma vs Sassuolo,"AS Roma/empate e +1,5 golos",80%,1.25,1.11,75%,,

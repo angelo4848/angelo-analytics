@@ -171,8 +171,14 @@ def resultado(pick, hist_idx):
         i, j = int(h['gl']), int(h['gv'])
     else:   # competiciones europeas: resultado de nuestro registro (app.csv)
         import re
-        a = next((r for r in app_rows() if (r['Fecha'], r['Local'], r['Visitante']) ==
-                  (pick['Fecha'], pick['Local'], pick['Visitante'])), None)
+        rows = [r for r in app_rows() if r['Fecha'] == pick['Fecha']]
+        a = next((r for r in rows if (r['Local'], r['Visitante']) == (pick['Local'], pick['Visitante'])), None)
+        if not a:  # nombres distintos entre football-data y OddSlot (p. ej. "Dortmund" / "Borussia Dortmund")
+            from model import match_team
+            for r in rows:
+                if match_team(pick['Local'], [r['Local']]) and match_team(pick['Visitante'], [r['Visitante']]):
+                    a = r
+                    break
         mm = re.match(r'(\d+) - (\d+)', (a or {}).get('Resultado', '') or '')
         if not mm:
             return None, ''

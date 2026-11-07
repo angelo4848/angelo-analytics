@@ -41,15 +41,15 @@ Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resulta
 2026-11-07,15:00,Scotland: League Two,Annan Athletic,Kelty Hearts,"Más de 7,5 córners",76%,1.31,960,,,,"Más de 7,5 córners",,
 2026-11-07,15:00,Scotland: Championship,Queen's Park,Partick,"Más de 7,5 córners",76%,1.31,964,,,,"Más de 7,5 córners",,
 2026-11-07,15:00,Scotland: League Two,Annan Athletic,Kelty Hearts,Empate,30%,3.37,,,,,Valor 1X2,3.60,
-2026-11-07,15:00,England: Premier League,Arsenal,Hull,"Arsenal vence e +1,5 golos",74%,1.35,,,,,Modelo Bet Consulting,1.21,
+2026-11-07,15:00,England: Premier League,Arsenal,Hull,"Arsenal vence e +1,5 golos",74%,1.35,,1 - 0,Fallado,0,Modelo Bet Consulting,1.21,-10.00
 2026-11-07,14:30,Germany: Bundesliga,Borussia Dortmund,SV Elversberg,"Más de 7,5 córners",79%,1.26,1601,12 córners,Acertado,1,"Más de 7,5 córners",,
 2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,"Más de 7,5 córners",79%,1.27,1601,4 córners,Fallado,0,"Más de 7,5 córners",,
 2026-11-07,14:30,Germany: Bundesliga,SC Paderborn 07,Eintracht Frankfurt,"Más de 0,5 goles 1.ª parte",78%,1.29,1601,Descanso 1 - 1,Acertado,1,"Más de 0,5 goles 1.ª parte",,
 2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,FC Augsburg,"Más de 0,5 goles 1.ª parte",77%,1.29,1601,Descanso 3 - 1,Acertado,1,"Más de 0,5 goles 1.ª parte",,
-2026-11-07,14:30,Germany: Bundesliga,Dortmund,Elversberg,"Dortmund/empate e +1,5 golos",80%,1.25,,,,,Modelo Bet Consulting,1.11,
-2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,,,,,Modelo Bet Consulting,1.17,
-2026-11-07,14:30,Germany: Bundesliga,Mainz,Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,,,,,Modelo Bet Consulting,1.30,
-2026-11-07,14:30,Germany: Bundesliga,Dortmund,Elversberg,"Borussia Dortmund/empate e +1,5 golos",80%,1.25,,,,,Modelo Bet Consulting,1.11,
+2026-11-07,14:30,Germany: Bundesliga,Dortmund,Elversberg,"Dortmund/empate e +1,5 golos",80%,1.25,,2 - 1,Fallado,0,Modelo Bet Consulting,1.11,-10.00
+2026-11-07,14:30,Germany: Bundesliga,RB Leipzig,Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,,5 - 2,Acertado,1,Modelo Bet Consulting,1.17,1.70
+2026-11-07,14:30,Germany: Bundesliga,Mainz,Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,,1 - 2,Acertado,1,Modelo Bet Consulting,1.30,3.00
+2026-11-07,14:30,Germany: Bundesliga,Dortmund,Elversberg,"Borussia Dortmund/empate e +1,5 golos",80%,1.25,,2 - 1,Acertado,1,Modelo Bet Consulting,1.11,1.10
 2026-11-07,13:00,Spain: La Liga,Malaga,Racing Santander,"Más de 7,5 córners",79%,1.27,2009,9 córners,Acertado,1,"Más de 7,5 córners",,
 2026-11-07,12:30,England: Championship,Portsmouth,Stoke City,"Más de 7,5 córners",83%,1.21,2928,7 córners,Fallado,0,"Más de 7,5 córners",,
 2026-11-07,12:00,Germany: 2. Bundesliga,Holstein Kiel,Arminia Bielefeld,"Más de 7,5 córners",82%,1.21,1620,11 córners,Acertado,1,"Más de 7,5 córners",,
