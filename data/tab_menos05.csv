@@ -1,6 +1,6 @@
 Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.ª parte","Cuota justa −1,5",Goles esperados 1.ª parte,Muestra liga,Datos de equipos,Fuente,Descanso,Resultado
-16:30,Sweden: Allsvenskan,Orgryte IS,Vasteras SK FK,42%,2.38,73%,1.36,0.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:30,Sweden: Allsvenskan,Degerfors IF,Gais,42%,2.38,73%,1.36,0.67,9,No,Registro ESPN/SofaScore (muestra baja),,
+16:30,Sweden: Allsvenskan,Orgryte IS,Vasteras SK FK,48%,2.10,75%,1.33,0.55,11,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 0
+16:30,Sweden: Allsvenskan,Degerfors IF,Gais,48%,2.10,75%,1.33,0.55,11,No,Registro ESPN/SofaScore (muestra baja),0 - 0,1 - 2
 20:00,Spain: La Liga,Valencia,Real Madrid,40%,2.49,72%,1.38,0.82,2009,Sí,Histórico 5 años,,
 17:30,England: Premier League,Nottingham Forest,Manchester City,40%,2.49,72%,1.39,0.70,1990,Sí,Histórico 5 años,,
 00:30,Brazil: Serie A,Cruzeiro,Bahia,40%,2.50,73%,1.38,1.50,10,No,Registro ESPN/SofaScore (muestra baja),1 - 1,3 - 2
@@ -19,26 +19,25 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 13:00,France: Ligue 2,Clermont Foot,Rodez,38%,2.62,72%,1.39,0.90,1847,Sí,Histórico 5 años,0 - 0,1 - 0
 21:05,Colombia: Primera A,Once Caldas,Águilas Doradas,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 23:10,Colombia: Primera A,Atletico Nacional,Deportivo Pereira,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
-17:00,Italy: Serie A,Parma,Bologna,38%,2.67,72%,1.39,0.83,2000,Sí,Histórico 5 años,,
+17:00,Italy: Serie A,Parma,Bologna,38%,2.67,72%,1.39,0.83,2000,Sí,Histórico 5 años,0 - 0,1 - 2
 14:00,Italy: Serie B,Juve Stabia,Arezzo,37%,2.68,72%,1.40,0.83,2000,Sí,Histórico 5 años,1 - 0,1 - 0
 18:00,France: Ligue 1,Auxerre,Paris FC,37%,2.69,71%,1.40,0.84,1759,Sí,Histórico 5 años,,
 10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,37%,2.71,71%,1.40,0.80,1809,Sí,Histórico 5 años,0 - 2,0 - 2
 15:15,Spain: La Liga,Espanyol,Deportivo La Coruna,37%,2.72,71%,1.41,0.96,2009,Sí,Histórico 5 años,0 - 0,0 - 0
 17:30,Spain: Segunda División,Leganes,Albacete,37%,2.74,71%,1.40,1.01,2441,Sí,Histórico 5 años,,
-11:00,Russia: Premier League,Fakel,Dynamo,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 2
-13:30,Russia: Premier League,Akhmat,Rodina Moskva,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
 15:00,Northern-Ireland: Championship,H&W Welders,Ards,35%,2.83,71%,1.41,1.29,7,No,Registro ESPN/SofaScore (muestra baja),1 - 0,3 - 0
 15:00,Northern-Ireland: Championship,Glenavon FC,Institute,35%,2.83,71%,1.41,1.29,7,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 0
 15:00,Northern-Ireland: Championship,Dundela,Loughgall,35%,2.83,71%,1.41,1.29,7,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 3
 15:00,Northern-Ireland: Championship,Armagh City,Newington Youth,35%,2.83,71%,1.41,1.29,7,No,Registro ESPN/SofaScore (muestra baja),0 - 4,0 - 6
-16:30,Russia: Premier League,FC Krasnodar,CSKA Moscow,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Italy: Serie A,AS Roma,Sassuolo,35%,2.87,71%,1.41,0.94,2000,Sí,Histórico 5 años,,
 12:30,England: Championship,Portsmouth,Stoke City,35%,2.88,71%,1.42,0.98,2928,Sí,Histórico 5 años,1 - 0,1 - 2
 14:00,Italy: Serie B,Padova,Empoli,34%,2.94,70%,1.42,0.97,2000,Sí,Histórico 5 años,2 - 1,2 - 2
 12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,33%,2.99,69%,1.44,0.97,1620,Sí,Histórico 5 años,0 - 0,0 - 1
 10:30,Turkey: 1. Lig,Vanspor FK,Sivasspor,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,3 - 1
 10:30,Turkey: 1. Lig,Keçiörengücü,Manisa F.K.,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,1 - 0
+11:00,Russia: Premier League,Fakel,Dynamo,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 2
 13:00,Turkey: 1. Lig,Muğlaspor,Esenler Erokspor,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,0 - 5
+13:30,Russia: Premier League,Akhmat,Rodina Moskva,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
 15:00,England: National League - South,Weston-super-Mare,Braintree,33%,3.00,70%,1.43,1.38,8,No,Registro ESPN/SofaScore (muestra baja),2 - 0,4 - 1
 15:00,England: National League - South,Slough Town,Walton & Hersham,33%,3.00,70%,1.43,1.38,8,No,Registro ESPN/SofaScore (muestra baja),0 - 0,3 - 1
 15:00,Northern-Ireland: Premiership,Portadown,Ballymena United,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,1 - 1
@@ -54,6 +53,8 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 15:00,Northern-Ireland: Premiership,Carrick Rangers,Glentoran,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 0
 15:00,Northern-Ireland: Premiership,Bangor,Crusaders FC,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,1 - 0
 16:00,Turkey: 1. Lig,Pendikspor,İstanbulspor,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 2
+16:30,Russia: Premier League,FC Krasnodar,CSKA Moscow,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1,4 - 2
+17:00,Denmark: Superliga,Odense,Viborg,33%,3.00,70%,1.43,1.20,5,No,Registro ESPN/SofaScore (muestra baja),0 - 2,1 - 2
 18:00,Northern-Ireland: Premiership,Linfield,Coleraine FC,33%,3.00,70%,1.43,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,
 18:00,Peru: Primera División,ADT,Sporting Cristal,33%,3.00,70%,1.43,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
 20:30,Peru: Primera División,FC Cajamarca,Alianza Atletico,33%,3.00,70%,1.43,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
@@ -200,6 +201,6 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 14:30,Poland: I Liga,Arka Gdynia,Podbeskidzie,22%,4.44,52%,1.92,1.20,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,3 - 1
 15:30,Netherlands: Eerste Divisie,Den Bosch,Jong Utrecht,22%,4.44,52%,1.92,1.47,15,No,Registro ESPN/SofaScore,0 - 0,1 - 1
 14:30,Germany: Bundesliga,SC Paderborn 07,Eintracht Frankfurt,22%,4.48,51%,1.94,1.73,1601,Sí,Histórico 5 años,1 - 1,2 - 2
-15:00,Norway: Eliteserien,Kristiansund BK,Valerenga,22%,4.57,50%,1.99,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
-17:00,Norway: Eliteserien,Rosenborg,Start,22%,4.57,50%,1.99,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: Championship,Cardiff,Burnley,22%,4.57,48%,2.10,2.23,2928,Sí,Histórico 5 años,1 - 2,5 - 4
+15:00,Norway: Eliteserien,Kristiansund BK,Valerenga,21%,4.69,48%,2.07,2.43,7,No,Registro ESPN/SofaScore (muestra baja),,
+17:00,Norway: Eliteserien,Rosenborg,Start,21%,4.69,48%,2.07,2.43,7,No,Registro ESPN/SofaScore (muestra baja),2 - 0,4 - 1
