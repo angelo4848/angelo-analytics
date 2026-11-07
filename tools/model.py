@@ -365,6 +365,49 @@ def main():
           'Favorito gana', 'Resultado', 'Acierto']
     write('pronosticos.csv', PF, rows)
 
+    # ---- COMBINADA (modelo BIG ODDS de Bet Consulting): 5-9 patas de favoritos, cuota total ~6-12 ----
+    combo, tot = [], 1.0
+    for v in sorted(bp, key=lambda x: -x['p']):
+        if len(combo) >= 9 or (len(combo) >= 5 and tot >= 6):
+            break
+        combo.append(v)
+        tot *= v['casa']
+    CF = ['Hora', 'Liga', 'Partido', 'Pronóstico', 'Prob.', 'Cuota aprox. 22Bet', 'Resultado', 'Acierto']
+    crow, p_all, judged, all_ok = [], 1.0, 0, True
+    for v in sorted(combo, key=lambda x: x['Hora']):
+        ok, res = bc_model.resultado({**v, 'Fecha': today.isoformat()}, hidx)
+        p_all *= v['p']
+        if ok is not None:
+            judged += 1
+            all_ok = all_ok and ok
+        crow.append({'Hora': v['Hora'], 'Liga': v['Liga'], 'Partido': f"{v['Local']} vs {v['Visitante']}",
+                     'Pronóstico': v['Mercado'], 'Prob.': pct(v['p']), 'Cuota aprox. 22Bet': f"{v['casa']:.2f}",
+                     'Resultado': res, 'Acierto': '' if ok is None else 'Acertado' if ok else 'Fallado'})
+    if len(combo) >= 5:
+        crow.append({})
+        crow.append({'Partido': 'CUOTA TOTAL aprox.', 'Pronóstico': f"{len(combo)} partidos",
+                     'Cuota aprox. 22Bet': f"{tot:.2f}"})
+        crow.append({'Partido': 'Probabilidad de que salga TODA', 'Prob.': pct(p_all)})
+    else:
+        crow = [{'Partido': 'Hoy no hay suficientes favoritos (mínimo 5) para la combinada grande'}]
+    write('combinada.csv', CF, crow)
+    # registro de combinadas (una por día) con su resultado
+    CL = os.path.join(D, 'combinada_log.csv')
+    clog = {r['Fecha']: r for r in load_csv(CL)}
+    if len(combo) >= 5:
+        first = min(datetime.strptime(f"{today.isoformat()} {v['Hora']}", '%Y-%m-%d %H:%M').replace(tzinfo=TZ)
+                    for v in combo)
+        if today.isoformat() not in clog and first > now:
+            clog[today.isoformat()] = {'Fecha': today.isoformat(), 'Patas': str(len(combo)),
+                                       'Partidos': ' · '.join(f"{v['Mercado']} ({v['Local']}-{v['Visitante']})" for v in combo),
+                                       'Cuota': f"{tot:.2f}", 'Prob.': pct(p_all), 'Resultado': '', 'Beneficio 10€': ''}
+        r = clog.get(today.isoformat())
+        if r and not r['Resultado'] and (not all_ok or judged == len(combo)):
+            r['Resultado'] = 'Acertada' if all_ok else 'Fallada'
+            r['Beneficio 10€'] = f"{10 * (float(r['Cuota']) - 1):.2f}" if all_ok else '-10.00'
+    write('combinada_log.csv', ['Fecha', 'Patas', 'Partidos', 'Cuota', 'Prob.', 'Resultado', 'Beneficio 10€'],
+          sorted(clog.values(), key=lambda r: r['Fecha'], reverse=True))
+
     # ---- registro acumulado del filtro, con resultados ----
     LF = ['Fecha', 'Hora', 'Liga', 'Local', 'Visitante', 'Mercado', 'Probabilidad', 'Cuota justa', 'Muestra',
           'Resultado', 'Acierto', 'Ganado (1/0)', 'Tipo', 'Cuota casa', 'Beneficio 10€']
