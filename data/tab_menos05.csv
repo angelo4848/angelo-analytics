@@ -12,18 +12,18 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 21:05,Colombia: Primera A,Once Caldas,Águilas Doradas,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 23:10,Colombia: Primera A,Atletico Nacional,Deportivo Pereira,38%,2.62,72%,1.39,1.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 17:00,Italy: Serie A,Parma,Bologna,38%,2.67,72%,1.39,0.83,2000,Sí,Histórico 5 años,,
-11:00,Russia: Premier League,Fakel,Dynamo,38%,2.67,72%,1.39,0.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-13:30,Russia: Premier League,Akhmat,Rodina Moskva,38%,2.67,72%,1.39,0.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-16:30,Russia: Premier League,FC Krasnodar,CSKA Moscow,38%,2.67,72%,1.39,0.83,6,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Italy: Serie B,Juve Stabia,Arezzo,37%,2.68,72%,1.40,0.83,2000,Sí,Histórico 5 años,,
 18:00,France: Ligue 1,Auxerre,Paris FC,37%,2.69,71%,1.40,0.84,1759,Sí,Histórico 5 años,,
 10:30,Turkey: Süper Lig,Eyüpspor,Kocaelispor,37%,2.71,71%,1.40,0.80,1809,Sí,Histórico 5 años,0 - 2,0 - 2
 15:15,Spain: La Liga,Espanyol,Deportivo La Coruna,37%,2.72,71%,1.41,0.96,2009,Sí,Histórico 5 años,,
 17:30,Spain: Segunda División,Leganes,Albacete,37%,2.74,71%,1.40,1.01,2441,Sí,Histórico 5 años,,
+11:00,Russia: Premier League,Fakel,Dynamo,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 2
+13:30,Russia: Premier League,Akhmat,Rodina Moskva,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
+16:30,Russia: Premier League,FC Krasnodar,CSKA Moscow,35%,2.83,71%,1.41,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Italy: Serie A,AS Roma,Sassuolo,35%,2.87,71%,1.41,0.94,2000,Sí,Histórico 5 años,,
 12:30,England: Championship,Portsmouth,Stoke City,35%,2.88,71%,1.42,0.98,2928,Sí,Histórico 5 años,,
 14:00,Italy: Serie B,Padova,Empoli,34%,2.94,70%,1.42,0.97,2000,Sí,Histórico 5 años,,
-12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,33%,2.99,69%,1.44,0.97,1620,Sí,Histórico 5 años,,
+12:00,Germany: 2. Bundesliga,VfL Osnabrück,1. FC Kaiserslautern,33%,2.99,69%,1.44,0.97,1620,Sí,Histórico 5 años,0 - 0,0 - 1
 18:00,Peru: Primera División,ADT,Sporting Cristal,33%,3.00,70%,1.43,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
 20:30,Peru: Primera División,FC Cajamarca,Alianza Atletico,33%,3.00,70%,1.43,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: Championship,QPR,Lincoln,33%,3.01,70%,1.43,1.05,2928,Sí,Histórico 5 años,,
@@ -98,6 +98,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 09:00,Romania: Liga II,Concordia,ASA Targu Mures,27%,3.75,62%,1.62,0.80,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,5 - 0
 09:00,Romania: Liga II,CS Afumati,FC Bacau,27%,3.75,62%,1.62,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,1 - 1
 10:30,Romania: Liga II,Bihor Oradea,Slatina,27%,3.75,62%,1.62,0.80,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 1
+11:30,India: Indian Super League,Inter Kashi,SC Delhi,27%,3.75,62%,1.62,1.00,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 3
 21:00,Honduras: Liga Nacional,Juticalpa,Estrella Roja,27%,3.75,62%,1.62,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,Mexico: Liga MX,Atlas,CF Pachuca,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),,
 23:15,Honduras: Liga Nacional,Lobos Upnfm,CD Motagua,27%,3.75,62%,1.62,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
