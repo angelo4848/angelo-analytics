@@ -1,11 +1,12 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
-Modelo BC,14:30,Germany: Bundesliga,Borussia Dortmund vs Elversberg,"Borussia Dortmund/empate e +1,5 golos",80%,1.25,1.11,74%,2 - 1,Acertado
-Modelo BC,14:30,Germany: Bundesliga,RB Leipzig vs Augsburg,"RB Leipzig/empate e +1,5 golos",76%,1.31,1.17,66%,5 - 2,Acertado
-Modelo BC,14:30,Germany: Bundesliga,Mainz 05 vs Bayern Munich,"Bayern Munich vence e +1,5 golos",68%,1.47,1.30,73%,1 - 2,Acertado
-Modelo BC,15:00,England: Premier League,Arsenal vs Hull,"Arsenal vence e +1,5 golos",74%,1.35,1.21,84%,1 - 0,Fallado
-Modelo BC,17:30,England: Premier League,Nottingham Forest vs Manchester City,Manchester City ou empate,79%,1.26,1.18,56%,3 - 1,Fallado
-Modelo BC,17:30,Germany: Bundesliga,Stuttgart vs Werder Bremen,Stuttgart ou empate,78%,1.29,1.21,58%,1 - 0,Acertado
-Modelo BC,19:45,Italy: Serie A,AS Roma vs Sassuolo,"AS Roma/empate e +1,5 golos",80%,1.25,1.11,75%,3 - 0,Acertado
-Modelo BC,20:00,Spain: La Liga,Valencia vs Real Madrid,"Real Madrid/empate e +1,5 golos",80%,1.25,1.12,77%,0 - 3,Acertado
-Modelo BC,20:05,France: Ligue 1,Paris Saint-Germain vs Troyes,"Paris Saint-Germain vence e -5,5 golos",67%,1.49,1.32,89%,1 - 0,Acertado
-Modelo BC,20:30,Portugal: Primeira Liga,Sporting CP vs Moreirense,"Sporting CP vence e +1,5 golos",75%,1.34,1.19,84%,,
+Modelo BC,11:15,Netherlands: Eredivisie,Heerenveen vs Feyenoord,Feyenoord ou empate,76%,1.31,1.23,56%,,
+Modelo BC,14:00,England: Premier League,Crystal Palace vs Liverpool,"Liverpool/empate e +1,5 golos",69%,1.45,1.29,61%,,
+Modelo BC,15:15,Spain: La Liga,Real Sociedad vs Rayo Vallecano,Real Sociedad ou empate,78%,1.28,1.20,56%,,
+Modelo BC,15:45,Netherlands: Eredivisie,Cambuur vs PSV,"PSV/empate e +1,5 golos",78%,1.28,1.14,69%,,
+Modelo BC,15:45,Netherlands: Eredivisie,AZ Alkmaar vs Groningen,"AZ Alkmaar/empate e +1,5 golos",70%,1.42,1.26,62%,,
+Modelo BC,16:15,France: Ligue 1,Le Mans vs Monaco,Monaco ou empate,78%,1.27,1.20,57%,,
+Modelo BC,16:30,Germany: Bundesliga,Freiburg vs Union Berlin,"Freiburg/empate e +1,5 golos",71%,1.41,1.26,66%,,
+Modelo BC,17:30,Spain: La Liga,Villarreal vs Getafe,"Villarreal/empate e +1,5 golos",69%,1.44,1.29,67%,,
+Modelo BC,18:30,Germany: Bundesliga,Hoffenheim vs Schalke 04,"Hoffenheim/empate e +1,5 golos",69%,1.44,1.29,60%,,
+Modelo BC,20:30,Portugal: Primeira Liga,Estrela vs Benfica,"Benfica vence e +1,5 golos",69%,1.44,1.28,78%,,
+Modelo BC,20:30,Portugal: Primeira Liga,Rio Ave vs Braga,"Braga/empate e +1,5 golos",67%,1.49,1.33,64%,,
