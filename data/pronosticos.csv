@@ -1,12 +1,12 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
 Modelo BC,11:15,Netherlands: Eredivisie,Heerenveen vs Feyenoord,Feyenoord ou empate,76%,1.31,1.23,56%,5 - 3,Fallado
-Modelo BC,14:00,England: Premier League,Crystal Palace vs Liverpool,"Liverpool/empate e +1,5 golos",69%,1.45,1.29,61%,0 - 3,Acertado
-Modelo BC,15:15,Spain: La Liga,Real Sociedad vs Rayo Vallecano,Real Sociedad ou empate,78%,1.28,1.20,56%,,
-Modelo BC,15:45,Netherlands: Eredivisie,Cambuur vs PSV,"PSV/empate e +1,5 golos",78%,1.28,1.14,69%,,
-Modelo BC,15:45,Netherlands: Eredivisie,AZ Alkmaar vs Groningen,"AZ Alkmaar/empate e +1,5 golos",70%,1.42,1.26,62%,,
-Modelo BC,16:15,France: Ligue 1,Le Mans vs Monaco,Monaco ou empate,78%,1.27,1.20,57%,,
-Modelo BC,16:30,Germany: Bundesliga,Freiburg vs Union Berlin,"Freiburg/empate e +1,5 golos",71%,1.41,1.26,66%,,
-Modelo BC,17:30,Spain: La Liga,Villarreal vs Getafe,"Villarreal/empate e +1,5 golos",69%,1.44,1.29,67%,,
+Modelo BC,14:00,England: Premier League,Crystal Palace vs Liverpool,"Liverpool/empate e +1,5 golos",69%,1.45,1.29,61%,1 - 3,Acertado
+Modelo BC,15:15,Spain: La Liga,Real Sociedad vs Rayo Vallecano,Real Sociedad ou empate,78%,1.28,1.20,56%,1 - 0,Acertado
+Modelo BC,15:45,Netherlands: Eredivisie,Cambuur vs PSV,"PSV/empate e +1,5 golos",78%,1.28,1.14,69%,2 - 5,Acertado
+Modelo BC,15:45,Netherlands: Eredivisie,AZ Alkmaar vs Groningen,"AZ Alkmaar/empate e +1,5 golos",70%,1.42,1.26,62%,4 - 3,Acertado
+Modelo BC,16:15,France: Ligue 1,Le Mans vs Monaco,Monaco ou empate,78%,1.27,1.20,57%,1 - 1,Acertado
+Modelo BC,16:30,Germany: Bundesliga,Freiburg vs Union Berlin,"Freiburg/empate e +1,5 golos",71%,1.41,1.26,66%,2 - 0,Acertado
+Modelo BC,17:30,Spain: La Liga,Villarreal vs Getafe,"Villarreal/empate e +1,5 golos",69%,1.44,1.29,67%,2 - 0,Acertado
 Modelo BC,18:30,Germany: Bundesliga,Hoffenheim vs Schalke 04,"Hoffenheim/empate e +1,5 golos",69%,1.44,1.29,60%,,
 Modelo BC,20:30,Portugal: Primeira Liga,Estrela vs Benfica,"Benfica vence e +1,5 golos",69%,1.44,1.28,78%,,
 Modelo BC,20:30,Portugal: Primeira Liga,Rio Ave vs Braga,"Braga/empate e +1,5 golos",67%,1.49,1.33,64%,,
