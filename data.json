@@ -1141,14 +1141,15 @@
    "liga": "Australia: A-League",
    "local": "Adelaide United",
    "visitante": "Melbourne Victory",
-   "tendencia": "★★★ Melbourne Victory o empate · cuota ~1,40",
+   "tendencia": "★★★ Melbourne Victory o empate · cuota ~1,40 · ✓ acertado",
    "cuotas": [
     2.88,
     3.6,
     2.3
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-08T06:00:00+00:00"
+   "inicio": "2026-11-08T06:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Austria: Bundesliga",
@@ -1843,14 +1844,15 @@
    "liga": "Japan: J1 League",
    "local": "Gamba Osaka",
    "visitante": "Cerezo Osaka",
-   "tendencia": "★★★ Gamba Osaka o empate · cuota ~1,37",
+   "tendencia": "★★★ Gamba Osaka o empate · cuota ~1,37 · ✗ fallado",
    "cuotas": [
     2.25,
     3.5,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-08T06:00:00+00:00"
+   "inicio": "2026-11-08T06:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Japan: J1 League",
@@ -4378,14 +4380,15 @@
    "liga": "Japan: J2 League",
    "local": "Vegalta Sendai",
    "visitante": "Ventforet Kofu",
-   "tendencia": "★★★ Gana Vegalta Sendai · cuota 1,40",
+   "tendencia": "★★★ Gana Vegalta Sendai · cuota 1,40 · ✓ acertado",
    "cuotas": [
     1.4,
     4.5,
     7.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-08T06:00:00+00:00"
+   "inicio": "2026-11-08T06:00:00+00:00",
+   "resultado": "5 - 1"
   },
   {
    "liga": "Japan: J3 League",
@@ -6419,27 +6422,29 @@
    "liga": "China: League Two",
    "local": "Langfang Glory City",
    "visitante": "Dalian Kewei",
-   "tendencia": "★★★ Gana Dalian Kewei · cuota 1,57",
+   "tendencia": "★★★ Gana Dalian Kewei · cuota 1,57 · ✓ acertado",
    "cuotas": [
     4.75,
     3.75,
     1.57
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-08T06:30:00+00:00"
+   "inicio": "2026-11-08T06:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "China: League Two",
    "local": "Jiangxi Liansheng",
    "visitante": "Xi'an Ronghai",
-   "tendencia": "★★★ Xi'an Ronghai o empate · cuota ~1,13",
+   "tendencia": "★★★ Xi'an Ronghai o empate · cuota ~1,13 · ✗ fallado",
    "cuotas": [
     4.33,
     3.3,
     1.73
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-08T06:30:00+00:00"
+   "inicio": "2026-11-08T06:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Costa-Rica: Liga de Ascenso",
