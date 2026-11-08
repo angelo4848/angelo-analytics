@@ -398,6 +398,40 @@
      "resultado": "1 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-08",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.64,
+   "patas": [
+    {
+     "liga": "Netherlands: Eredivisie",
+     "hora": "11:15",
+     "partido": "Heerenveen vs Feyenoord",
+     "mercado": "Feyenoord o empate",
+     "cuota": 1.23,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 76%",
+      "Cuota aproximada 1,23 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "Portugal: Primeira Liga",
+     "hora": "20:30",
+     "partido": "Rio Ave vs Braga",
+     "mercado": "Braga o empate + más de 1,5 goles",
+     "cuota": 1.33,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 67%",
+      "Cuota aproximada 1,33 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
