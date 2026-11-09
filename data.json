@@ -1204,14 +1204,15 @@
    "liga": "Bulgaria: Second League",
    "local": "Chernomorets 1919 Burgas",
    "visitante": "Yantra 2019",
-   "tendencia": "★★★ Chernomorets 1919 Burgas o empate · cuota ~1,18",
+   "tendencia": "★★★ Chernomorets 1919 Burgas o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     1.8,
     3.4,
     3.8
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T12:30:00+00:00"
+   "inicio": "2026-11-09T12:30:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Bulgaria: Second League",
@@ -1321,14 +1322,15 @@
    "liga": "Greece: Super League 2",
    "local": "Zakynthos",
    "visitante": "Niki Volos",
-   "tendencia": "★★★ Gana Niki Volos · cuota 1,22",
+   "tendencia": "★★★ Gana Niki Volos · cuota 1,22 · ✓ acertado",
    "cuotas": [
     15.0,
     5.5,
     1.22
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-09T13:00:00+00:00"
+   "inicio": "2026-11-09T13:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Guatemala: Liga Nacional",
@@ -1347,27 +1349,29 @@
    "liga": "Iran: Azadegan League",
    "local": "Mes Soongoun",
    "visitante": "Naft Gachsaran",
-   "tendencia": "★★★ Mes Soongoun o empate · cuota ~1,14",
+   "tendencia": "★★★ Mes Soongoun o empate · cuota ~1,14 · ✓ acertado",
    "cuotas": [
     1.88,
     2.89,
     4.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T11:30:00+00:00"
+   "inicio": "2026-11-09T11:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Iran: Azadegan League",
    "local": "Saipa",
    "visitante": "Havadar",
-   "tendencia": "★★★ Saipa o empate · cuota ~1,19",
+   "tendencia": "★★★ Saipa o empate · cuota ~1,19 · ✗ fallado",
    "cuotas": [
     2.16,
     2.64,
     3.73
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T12:00:00+00:00"
+   "inicio": "2026-11-09T12:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Italy: Serie C - Girone B",
@@ -1464,14 +1468,15 @@
    "liga": "Romania: Liga II",
    "local": "FC Politehnica Timisoara",
    "visitante": "CSM Reşiţa",
-   "tendencia": "★★★ FC Politehnica Timisoara o empate · cuota ~1,23",
+   "tendencia": "★★★ FC Politehnica Timisoara o empate · cuota ~1,23 · ✗ fallado",
    "cuotas": [
     1.93,
     3.4,
     3.7
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T12:30:00+00:00"
+   "inicio": "2026-11-09T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Russia: First League",
@@ -1568,14 +1573,15 @@
    "liga": "Egypt: Cup",
    "local": "Wadi Degla",
    "visitante": "Kahraba Ismailia",
-   "tendencia": "★★★ Wadi Degla o empate · cuota ~1,19",
+   "tendencia": "★★★ Wadi Degla o empate · cuota ~1,19 · ✓ acertado",
    "cuotas": [
     1.85,
     3.3,
     3.7
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T12:30:00+00:00"
+   "inicio": "2026-11-09T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "England: National League - South",
@@ -1698,40 +1704,43 @@
    "liga": "Uzbekistan: Pro League A",
    "local": "Gazalkent",
    "visitante": "Respublika FA",
-   "tendencia": "★★★ Gana Gazalkent · cuota 1,61",
+   "tendencia": "★★★ Gana Gazalkent · cuota 1,61 · ✗ fallado",
    "cuotas": [
     1.61,
     4.08,
     4.1
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T09:00:00+00:00"
+   "inicio": "2026-11-09T09:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Uzbekistan: Pro League A",
    "local": "Shortan",
    "visitante": "BuxDu",
-   "tendencia": "★★★ Gana Shortan · cuota 1,19",
+   "tendencia": "★★★ Gana Shortan · cuota 1,19 · ✓ acertado",
    "cuotas": [
     1.19,
     5.81,
     10.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T09:00:00+00:00"
+   "inicio": "2026-11-09T09:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Uzbekistan: Pro League A",
    "local": "Yaypan",
    "visitante": "Lochin",
-   "tendencia": "★★★ Lochin o empate · cuota ~1,28",
+   "tendencia": "★★★ Lochin o empate · cuota ~1,28 · ✗ fallado",
    "cuotas": [
     3.06,
     3.84,
     1.91
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T09:00:00+00:00"
+   "inicio": "2026-11-09T09:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
