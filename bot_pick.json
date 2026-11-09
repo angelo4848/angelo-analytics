@@ -1,24 +1,5 @@
 {
- "fecha": "2026-11-08",
- "cuota": 1.64,
- "avisado": true,
- "legs": [
-  {
-   "Fecha": "2026-11-08",
-   "Local": "Heerenveen",
-   "Visitante": "Feyenoord",
-   "Liga": "Netherlands: Eredivisie",
-   "Pronóstico": "Feyenoord o empate",
-   "Cuota": "1.23"
-  },
-  {
-   "Fecha": "2026-11-08",
-   "Local": "Rio Ave",
-   "Visitante": "Braga",
-   "Liga": "Portugal: Primeira Liga",
-   "Pronóstico": "Braga o empate + más de 1,5 goles",
-   "Cuota": "1.33"
-  }
- ],
- "estado": "perdida"
+ "fecha": "2026-11-09",
+ "legs": [],
+ "avisado": true
 }
