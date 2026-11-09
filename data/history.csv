@@ -40997,6 +40997,7 @@ fecha,temporada,liga,local,visitante,gl,gv,htl,htv,cl,cv,tl,tv,pl,pv,p1,px,p2
 2026-11-02,2627,Spain: La Liga,La Coruna,Osasuna,2,1,0,1,8,2,18,11,7,2,2.13,3.22,3.42
 2026-11-02,2627,Spain: Segunda División,Mallorca,Cadiz,2,1,0,0,10,2,23,10,6,3,1.46,4.01,6.17
 2026-11-02,2627,Spain: Segunda División,Oviedo,Las Palmas,2,3,0,2,7,4,22,10,7,5,1.71,3.58,4.37
+2026-11-02,2627,Spain: Segunda División,Tenerife,Andorra,2,2,2,0,0,3,5,11,2,4,2.13,3.21,3.19
 2026-11-02,2627,Spain: Segunda División,Valladolid,Leganes,4,3,3,1,6,4,17,21,10,10,1.77,3.49,4.07
 2026-11-02,2627,Turkey: Süper Lig,Genclerbirligi,Alanyaspor,5,0,1,0,3,1,12,9,7,3,2.61,3.22,2.54
 2026-11-03,2627,England: Championship,Birmingham,Millwall,3,0,3,0,6,2,19,16,9,2,1.94,3.62,3.64
@@ -41016,3 +41017,160 @@ fecha,temporada,liga,local,visitante,gl,gv,htl,htv,cl,cv,tl,tv,pl,pv,p1,px,p2
 2026-11-04,2627,England: Championship,Cardiff,West Ham,3,3,3,0,4,6,7,18,4,10,3.24,3.94,1.98
 2026-11-04,2627,England: Championship,Wrexham,Middlesbrough,2,0,0,0,3,2,15,12,4,2,4.07,3.90,1.78
 2026-11-04,2627,England: League One,Oxford,Reading,2,0,0,0,5,8,12,13,7,3,2.60,3.54,2.44
+2026-11-06,2627,Belgium: Jupiler Pro League,Standard,Beveren,3,0,1,0,3,5,16,9,5,3,1.93,3.63,3.53
+2026-11-06,2627,England: Championship,Derby,Bolton,3,1,0,1,4,6,9,17,5,6,2.61,3.51,2.49
+2026-11-06,2627,England: Premier League,Everton,Coventry,3,1,0,0,2,2,15,15,7,4,1.67,3.95,4.79
+2026-11-06,2627,France: Ligue 1,Toulouse,Strasbourg,3,1,1,0,7,1,10,9,5,4,2.19,3.64,3.01
+2026-11-06,2627,France: Ligue 2,Boulogne,Annecy,3,0,1,0,2,6,14,10,6,4,2.36,2.99,2.99
+2026-11-06,2627,France: Ligue 2,Dijon,Red Star,1,0,0,0,4,2,15,7,3,0,2.59,3.35,2.45
+2026-11-06,2627,France: Ligue 2,Dunkerque,Guingamp,3,0,1,0,6,1,19,15,6,5,2.68,3.42,2.32
+2026-11-06,2627,France: Ligue 2,Grenoble,Reims,3,2,2,1,1,8,10,16,6,9,3.75,3.43,1.87
+2026-11-06,2627,France: Ligue 2,Montpellier,Metz,2,3,0,2,9,4,24,7,5,2,1.90,3.46,3.59
+2026-11-06,2627,France: Ligue 2,Nancy,Sochaux,1,0,0,0,4,2,9,8,4,2,1.59,3.70,5.09
+2026-11-06,2627,Germany: 2. Bundesliga,Braunschweig,Cottbus,0,0,0,0,5,4,9,10,1,2,1.91,3.79,3.35
+2026-11-06,2627,Germany: 2. Bundesliga,Dresden,Greuther Furth,3,0,2,0,3,9,11,20,4,5,1.93,3.58,3.48
+2026-11-06,2627,Germany: Bundesliga,Hamburg,M'gladbach,3,1,1,1,5,3,18,19,9,6,2.33,3.57,2.81
+2026-11-06,2627,Italy: Serie A,Venezia,Udinese,2,1,0,0,3,7,15,13,4,5,2.27,3.37,3.08
+2026-11-06,2627,Italy: Serie B,Ascoli,Palermo,1,1,1,0,5,2,10,18,3,5,3.01,3.41,2.17
+2026-11-06,2627,Netherlands: Eredivisie,Willem II,Zwolle,1,1,1,1,2,7,13,14,5,2,3.20,3.59,2.06
+2026-11-06,2627,Portugal: Primeira Liga,Famalicao,Arouca,1,0,0,0,9,2,14,7,5,3,2.25,3.23,3.10
+2026-11-06,2627,Scotland: Championship,Raith Rvs,Dunfermline,0,0,0,0,1,2,7,5,1,2,2.70,3.06,2.47
+2026-11-06,2627,Spain: La Liga,Sevilla,Alaves,0,0,0,0,5,4,13,9,3,2,1.86,3.40,4.38
+2026-11-06,2627,Turkey: Süper Lig,Gaziantep,Kasimpasa,0,2,0,2,7,2,16,11,4,5,2.46,3.36,2.63
+2026-11-07,2627,Belgium: Jupiler Pro League,Antwerp,Lommel SK,2,2,1,0,9,8,25,13,5,4,1.85,3.76,3.60
+2026-11-07,2627,Belgium: Jupiler Pro League,Oud-Heverlee Leuven,Mechelen,2,0,0,0,6,16,17,17,6,2,2.27,3.44,2.85
+2026-11-07,2627,Belgium: Jupiler Pro League,RAAL La Louviere,Cercle Brugge,0,1,0,1,6,2,19,12,1,5,2.61,3.35,2.49
+2026-11-07,2627,Belgium: Jupiler Pro League,Westerlo,Charleroi,1,5,0,0,1,5,10,21,3,10,2.79,3.61,2.24
+2026-11-07,2627,England: Championship,Birmingham,Swansea,2,1,1,0,8,5,21,8,8,3,1.83,3.60,4.10
+2026-11-07,2627,England: Championship,Blackburn,West Ham,2,1,0,0,4,9,5,21,3,5,4.72,4.03,1.64
+2026-11-07,2627,England: Championship,Bristol City,Norwich,0,5,0,1,8,3,15,17,4,7,2.66,3.43,2.49
+2026-11-07,2627,England: Championship,Cardiff,Burnley,5,4,1,2,5,6,25,15,11,8,2.12,3.75,3.02
+2026-11-07,2627,England: Championship,Charlton,Sheffield United,2,1,1,1,1,6,9,13,2,7,3.47,3.47,2.04
+2026-11-07,2627,England: Championship,Portsmouth,Stoke,1,2,1,0,7,0,8,4,3,3,2.31,3.22,3.09
+2026-11-07,2627,England: Championship,Preston,Southampton,1,0,1,0,3,9,15,23,2,8,4.73,4.05,1.63
+2026-11-07,2627,England: Championship,QPR,Lincoln,2,1,1,1,6,2,20,12,4,3,1.65,3.92,4.83
+2026-11-07,2627,England: Championship,Watford,Middlesbrough,0,0,0,0,5,6,8,18,1,4,5.14,4.44,1.54
+2026-11-07,2627,England: Championship,West Brom,Millwall,3,0,0,0,7,4,18,6,6,1,2.00,3.51,3.51
+2026-11-07,2627,England: Championship,Wrexham,Wolves,1,1,1,1,2,7,6,22,3,5,3.19,3.40,2.18
+2026-11-07,2627,England: Premier League,Arsenal,Hull,1,0,0,0,7,4,21,7,10,2,1.15,7.42,16.19
+2026-11-07,2627,England: Premier League,Fulham,Newcastle,1,1,0,0,3,3,11,9,5,5,2.05,3.63,3.33
+2026-11-07,2627,England: Premier League,Leeds,Tottenham,1,0,0,0,6,4,16,7,4,4,2.69,3.33,2.54
+2026-11-07,2627,England: Premier League,Nott'm Forest,Man City,3,1,2,0,3,7,11,12,5,4,4.54,3.94,1.69
+2026-11-07,2627,France: Ligue 1,Auxerre,Paris FC,0,1,0,0,1,5,7,10,2,3,4.20,3.87,1.75
+2026-11-07,2627,France: Ligue 1,Paris SG,Troyes,1,0,1,0,5,1,15,8,7,3,1.10,9.63,18.59
+2026-11-07,2627,France: Ligue 2,Clermont,Rodez,1,0,0,0,4,6,12,9,4,2,2.96,3.37,2.17
+2026-11-07,2627,France: Ligue 2,Pau FC,Nantes,0,2,0,1,2,3,11,9,3,4,2.89,3.21,2.29
+2026-11-07,2627,France: Ligue 2,St Etienne,Laval,2,0,1,0,7,0,14,4,6,1,1.33,4.76,7.52
+2026-11-07,2627,Germany: 2. Bundesliga,Hertha,Wolfsburg,2,1,2,0,10,3,16,9,6,4,2.07,3.81,2.89
+2026-11-07,2627,Germany: 2. Bundesliga,Holstein Kiel,Bielefeld,1,2,0,1,6,5,15,5,4,4,2.38,3.33,2.71
+2026-11-07,2627,Germany: 2. Bundesliga,Nurnberg,Darmstadt,2,0,0,0,10,3,22,10,7,2,1.70,4.03,3.98
+2026-11-07,2627,Germany: 2. Bundesliga,Osnabruck,Kaiserslautern,0,1,0,0,5,3,16,13,7,7,2.56,3.54,2.40
+2026-11-07,2627,Germany: Bundesliga,Dortmund,Elversberg,2,1,0,0,6,6,19,16,6,7,1.30,5.79,8.21
+2026-11-07,2627,Germany: Bundesliga,Mainz,Bayern Munich,1,2,0,1,7,8,10,26,1,9,6.91,6.13,1.31
+2026-11-07,2627,Germany: Bundesliga,Paderborn,Ein Frankfurt,2,2,1,1,2,6,11,16,3,3,2.98,3.78,2.14
+2026-11-07,2627,Germany: Bundesliga,RB Leipzig,Augsburg,5,2,3,1,2,2,17,13,7,8,1.45,5.14,5.53
+2026-11-07,2627,Germany: Bundesliga,Stuttgart,Werder Bremen,1,0,1,0,4,4,13,23,5,5,1.64,4.47,4.25
+2026-11-07,2627,Greece: Super League 1,Aris,Panetolikos,3,0,1,0,3,5,18,10,6,1,1.35,4.49,7.32
+2026-11-07,2627,Greece: Super League 1,Volos NFC,Kifisia,1,3,1,1,2,7,6,11,2,4,2.75,3.28,2.33
+2026-11-07,2627,Italy: Serie A,Cagliari,Frosinone,1,0,1,0,3,13,14,29,4,9,2.70,3.64,2.41
+2026-11-07,2627,Italy: Serie A,Parma,Bologna,1,2,0,0,1,15,11,33,2,10,4.36,3.48,1.83
+2026-11-07,2627,Italy: Serie A,Roma,Sassuolo,3,0,2,0,12,1,28,6,9,1,1.29,5.93,8.75
+2026-11-07,2627,Italy: Serie A,Torino,Lecce,1,1,0,0,4,5,9,6,2,1,1.80,3.61,4.38
+2026-11-07,2627,Italy: Serie B,Benevento,Avellino,1,1,0,0,9,3,26,8,5,5,1.84,3.44,3.88
+2026-11-07,2627,Italy: Serie B,Cesena,Catanzaro,1,0,0,0,3,9,12,11,4,4,2.07,3.42,3.18
+2026-11-07,2627,Italy: Serie B,Juve Stabia,Arezzo,1,0,1,0,6,8,9,14,3,3,1.74,3.48,4.32
+2026-11-07,2627,Italy: Serie B,Mantova,Verona,0,0,0,0,3,3,15,13,1,3,2.45,3.32,2.64
+2026-11-07,2627,Italy: Serie B,Padova,Empoli,2,2,2,1,8,6,17,16,6,5,2.15,3.25,3.14
+2026-11-07,2627,Italy: Serie B,Pisa,Sudtirol,2,2,1,1,8,4,15,11,5,4,1.55,3.90,5.24
+2026-11-07,2627,Netherlands: Eredivisie,Den Haag,Sparta Rotterdam,3,1,1,0,5,9,13,16,7,6,2.42,3.61,2.60
+2026-11-07,2627,Netherlands: Eredivisie,Excelsior,Go Ahead Eagles,0,1,0,0,7,0,14,6,2,2,2.68,3.68,2.32
+2026-11-07,2627,Netherlands: Eredivisie,For Sittard,Telstar,2,2,2,2,4,4,10,14,4,8,2.04,3.64,3.23
+2026-11-07,2627,Portugal: Primeira Liga,Alverca,Casa Pia,1,1,0,1,9,2,15,11,5,4,1.74,3.62,4.42
+2026-11-07,2627,Portugal: Primeira Liga,Sp Lisbon,Moreirense,1,0,0,0,8,4,19,9,5,2,1.16,7.24,12.97
+2026-11-07,2627,Scotland: Championship,Arbroath,Ayr,4,1,2,0,4,4,6,5,6,3,2.81,3.13,2.34
+2026-11-07,2627,Scotland: Championship,Inverness C,Livingston,1,1,0,0,8,2,4,5,2,3,2.24,3.24,2.87
+2026-11-07,2627,Scotland: Championship,Morton,Stenhousemuir,4,3,2,2,2,7,6,15,4,9,2.57,3.21,2.47
+2026-11-07,2627,Scotland: Championship,Queens Park,Partick,0,1,0,0,6,9,7,9,1,1,6.86,4.56,1.35
+2026-11-07,2627,Scotland: League One,Alloa,Airdrie Utd,2,3,1,2,3,5,8,12,5,7,2.40,3.38,2.52
+2026-11-07,2627,Scotland: League One,Cove Rangers,Hamilton,4,0,1,0,1,6,12,7,7,5,4.12,3.71,1.69
+2026-11-07,2627,Scotland: League One,Montrose,East Fife,1,2,1,1,3,7,6,8,6,5,2.17,3.29,2.89
+2026-11-07,2627,Scotland: League One,Queen of Sth,East Kilbride,1,2,1,1,5,4,7,11,4,5,3.92,3.93,1.67
+2026-11-07,2627,Scotland: League One,Ross County,Peterhead,4,1,1,0,10,2,14,3,7,1,1.17,6.46,10.87
+2026-11-07,2627,Scotland: League Two,Annan Athletic,Kelty Hearts,1,2,0,1,3,6,4,8,2,6,2.37,3.43,2.54
+2026-11-07,2627,Scotland: League Two,Clyde,Spartans,3,2,1,2,6,2,7,12,4,7,2.03,3.58,2.97
+2026-11-07,2627,Scotland: League Two,Elgin,Dumbarton,0,2,0,1,7,4,14,8,5,2,1.67,3.80,4.06
+2026-11-07,2627,Scotland: League Two,Forfar,Edinburgh City,1,1,1,1,4,7,4,9,2,6,2.98,3.47,2.06
+2026-11-07,2627,Scotland: League Two,Stranraer,Stirling,3,0,2,0,13,5,17,9,12,6,1.71,3.70,3.90
+2026-11-07,2627,Scotland: Premiership,Aberdeen,Hibernian,0,4,0,0,8,6,15,21,2,6,2.43,3.44,2.66
+2026-11-07,2627,Scotland: Premiership,Dundee United,Motherwell,1,1,1,1,13,7,24,17,6,6,2.02,3.71,3.22
+2026-11-07,2627,Scotland: Premiership,St Johnstone,Dundee,2,1,1,0,4,5,17,8,4,3,2.40,3.48,2.68
+2026-11-07,2627,Scotland: Premiership,St Mirren,Rangers,0,2,0,1,7,4,11,17,4,7,6.59,4.70,1.40
+2026-11-07,2627,Spain: La Liga,Espanol,La Coruna,0,0,0,0,9,5,11,5,4,1,2.30,3.30,3.10
+2026-11-07,2627,Spain: La Liga,Malaga,Santander,1,2,1,0,6,3,16,21,8,7,2.39,3.54,2.78
+2026-11-07,2627,Spain: La Liga,Osasuna,Ath Bilbao,1,1,0,0,6,4,17,16,5,4,3.59,3.38,2.05
+2026-11-07,2627,Spain: La Liga,Valencia,Real Madrid,0,3,0,2,2,5,4,19,2,11,9.25,6.14,1.27
+2026-11-07,2627,Spain: Segunda División,Burgos,Celta B,2,1,0,1,10,1,19,8,6,1,1.63,3.72,4.75
+2026-11-07,2627,Spain: Segunda División,Cadiz,Oviedo,1,2,0,2,7,4,15,11,4,4,2.68,3.16,2.48
+2026-11-07,2627,Spain: Segunda División,Cordoba,Ceuta,3,0,2,0,11,5,14,12,7,5,1.48,4.48,5.14
+2026-11-07,2627,Spain: Segunda División,Leganes,Albacete,1,3,0,2,9,5,17,13,7,4,1.98,3.35,3.45
+2026-11-07,2627,Turkey: Süper Lig,Eyupspor,Kocaelispor,0,2,0,2,4,1,6,12,3,7,3.81,3.29,1.93
+2026-11-07,2627,Turkey: Süper Lig,Galatasaray,Amedspor,4,3,2,0,3,6,17,14,6,5,1.39,4.85,6.23
+2026-11-07,2627,Turkey: Süper Lig,Goztep,Buyuksehyr,1,2,1,1,7,7,19,15,4,5,2.01,3.60,3.23
+2026-11-07,2627,Turkey: Süper Lig,Samsunspor,Konyaspor,1,0,1,0,2,3,6,7,3,1,2.25,3.28,2.96
+2026-11-08,2627,Belgium: Jupiler Pro League,Club Brugge,Anderlecht,1,1,1,0,9,1,24,7,8,1,1.48,4.58,5.31
+2026-11-08,2627,Belgium: Jupiler Pro League,Gent,Kortrijk,1,0,1,0,4,1,12,12,4,7,1.43,4.37,6.43
+2026-11-08,2627,Belgium: Jupiler Pro League,St Truiden,Waregem,4,1,2,1,5,4,16,11,9,2,1.76,3.81,3.95
+2026-11-08,2627,Belgium: Jupiler Pro League,St. Gilloise,Genk,1,0,0,0,10,3,23,10,4,0,1.60,4.05,4.71
+2026-11-08,2627,England: Premier League,Brighton,Brentford,2,0,2,0,7,3,20,5,6,0,1.90,3.82,3.59
+2026-11-08,2627,England: Premier League,Crystal Palace,Liverpool,1,3,0,1,4,7,19,20,7,8,5.15,4.27,1.57
+2026-11-08,2627,England: Premier League,Ipswich,Bournemouth,1,2,0,1,2,7,10,15,2,4,3.72,3.69,1.90
+2026-11-08,2627,England: Premier League,Man United,Aston Villa,4,4,2,2,8,1,26,12,9,6,2.13,3.68,3.07
+2026-11-08,2627,England: Premier League,Sunderland,Chelsea,1,0,1,0,2,2,9,10,2,4,3.68,3.60,1.93
+2026-11-08,2627,France: Ligue 1,Angers,Nice,0,2,0,1,6,4,11,16,5,8,3.38,3.61,2.00
+2026-11-08,2627,France: Ligue 1,Brest,Lyon,2,0,1,0,1,8,13,10,6,2,2.74,3.43,2.41
+2026-11-08,2627,France: Ligue 1,Le Havre,Lorient,0,2,0,1,5,0,21,7,5,3,2.78,3.26,2.47
+2026-11-08,2627,France: Ligue 1,Le Mans,Monaco,1,1,0,1,8,7,19,6,5,3,4.25,3.99,1.71
+2026-11-08,2627,France: Ligue 1,Lens,Marseille,1,2,1,1,4,6,13,16,6,5,2.17,3.79,2.89
+2026-11-08,2627,France: Ligue 1,Rennes,Lille,1,2,1,1,7,2,15,8,2,3,2.11,3.62,3.11
+2026-11-08,2627,Germany: 2. Bundesliga,Bochum,Karlsruhe,3,2,1,1,4,1,27,14,10,4,1.79,3.84,3.73
+2026-11-08,2627,Germany: 2. Bundesliga,Heidenheim,Hannover,2,2,1,0,7,9,14,15,3,5,2.02,3.73,3.07
+2026-11-08,2627,Germany: 2. Bundesliga,Magdeburg,St Pauli,4,1,1,0,3,7,11,12,6,3,2.30,3.50,2.69
+2026-11-08,2627,Germany: Bundesliga,FC Koln,Leverkusen,1,2,0,1,2,6,12,14,6,8,3.85,4.03,1.78
+2026-11-08,2627,Germany: Bundesliga,Freiburg,Union Berlin,2,0,0,0,5,1,20,4,9,0,1.49,4.39,5.89
+2026-11-08,2627,Germany: Bundesliga,Hoffenheim,Schalke 04,2,1,2,0,6,4,15,23,7,6,1.59,4.33,4.81
+2026-11-08,2627,Greece: Super League 1,AEK,Levadeiakos,2,1,0,1,10,6,16,7,5,2,1.18,5.90,13.20
+2026-11-08,2627,Greece: Super League 1,Asteras Tripolis,Kalamata,1,1,1,0,6,3,8,9,1,3,1.97,3.30,3.47
+2026-11-08,2627,Greece: Super League 1,Iraklis,Panathinaikos,1,2,1,0,1,4,9,14,3,4,7.55,4.63,1.33
+2026-11-08,2627,Greece: Super League 1,OFI Crete,Atromitos,0,0,0,0,9,5,10,7,2,0,2.02,3.29,3.34
+2026-11-08,2627,Greece: Super League 1,Olympiakos,PAOK,1,1,0,0,5,4,15,8,5,2,1.55,3.91,5.03
+2026-11-08,2627,Italy: Serie A,Fiorentina,Juventus,2,2,1,1,5,12,22,18,6,6,3.36,3.53,2.06
+2026-11-08,2627,Italy: Serie A,Genoa,Milan,1,2,0,2,3,0,17,6,5,2,4.45,3.49,1.80
+2026-11-08,2627,Italy: Serie A,Inter,Como,2,0,2,0,4,2,14,5,4,1,1.86,4.01,3.58
+2026-11-08,2627,Italy: Serie A,Monza,Atalanta,0,1,0,0,7,2,22,13,7,7,3.22,3.74,2.06
+2026-11-08,2627,Italy: Serie A,Napoli,Lazio,1,1,0,1,6,6,15,15,6,6,2.25,3.52,2.97
+2026-11-08,2627,Italy: Serie B,Carrarese,Sampdoria,0,1,0,1,6,2,13,4,1,1,2.38,3.17,2.79
+2026-11-08,2627,Italy: Serie B,Vicenza,Cremonese,1,4,1,1,4,3,10,16,5,6,2.81,3.20,2.37
+2026-11-08,2627,Italy: Serie B,Virtus Entella,Modena,0,2,0,2,3,3,9,15,2,7,2.84,3.14,2.36
+2026-11-08,2627,Netherlands: Eredivisie,AZ Alkmaar,Groningen,4,3,1,1,7,0,19,9,5,5,1.52,4.52,5.17
+2026-11-08,2627,Netherlands: Eredivisie,Cambuur,PSV Eindhoven,2,5,1,3,1,1,10,16,3,7,6.13,5.48,1.36
+2026-11-08,2627,Netherlands: Eredivisie,Heerenveen,Feyenoord,5,3,1,2,4,1,18,9,9,3,4.06,4.25,1.69
+2026-11-08,2627,Netherlands: Eredivisie,Twente,Ajax,2,2,0,1,9,2,22,6,5,2,2.23,3.80,2.75
+2026-11-08,2627,Netherlands: Eredivisie,Utrecht,Nijmegen,2,3,0,2,3,8,16,16,5,7,2.38,3.73,2.57
+2026-11-08,2627,Portugal: Primeira Liga,Estrela,Benfica,2,3,0,1,1,10,7,15,2,5,9.75,5.99,1.24
+2026-11-08,2627,Portugal: Primeira Liga,Guimaraes,Porto,1,2,0,1,4,5,16,12,6,4,4.83,3.85,1.63
+2026-11-08,2627,Portugal: Primeira Liga,Nacional,Academico Viseu,1,0,0,0,6,5,19,11,6,6,2.94,3.27,2.33
+2026-11-08,2627,Portugal: Primeira Liga,Rio Ave,Sp Braga,0,1,0,0,0,8,4,13,3,2,5.66,4.10,1.52
+2026-11-08,2627,Portugal: Primeira Liga,Santa Clara,Gil Vicente,1,2,1,0,1,9,9,20,0,4,2.20,3.05,3.36
+2026-11-08,2627,Scotland: Premiership,Celtic,Kilmarnock,1,0,1,0,8,3,20,7,5,3,1.15,7.69,12.28
+2026-11-08,2627,Scotland: Premiership,Hearts,Falkirk,2,5,0,4,4,5,16,14,6,7,1.54,4.33,5.08
+2026-11-08,2627,Spain: La Liga,Ath Madrid,Barcelona,1,2,1,1,4,2,9,19,4,4,3.61,4.21,1.81
+2026-11-08,2627,Spain: La Liga,Celta,Levante,0,0,0,0,6,1,23,6,8,0,1.86,3.56,4.02
+2026-11-08,2627,Spain: La Liga,Elche,Betis,0,2,0,0,9,8,13,18,1,9,3.20,3.64,2.07
+2026-11-08,2627,Spain: La Liga,Sociedad,Vallecano,1,0,0,0,7,6,17,11,3,3,1.66,4.09,4.50
+2026-11-08,2627,Spain: La Liga,Villarreal,Getafe,2,0,0,0,9,4,22,9,7,1,1.42,4.41,7.10
+2026-11-08,2627,Spain: Segunda División,Girona,Almeria,0,1,0,0,7,2,16,12,3,3,2.01,3.44,3.31
+2026-11-08,2627,Spain: Segunda División,Sp Gijon,Valladolid,1,2,0,2,9,6,21,15,6,6,2.30,3.14,2.95
+2026-11-08,2627,Turkey: Süper Lig,Alanyaspor,Trabzonspor,0,2,0,2,5,4,14,21,2,5,4.63,3.86,1.63
+2026-11-08,2627,Turkey: Süper Lig,Besiktas,Genclerbirligi,3,0,2,0,4,1,20,3,10,1,1.21,6.33,10.38
+2026-11-08,2627,Turkey: Süper Lig,Corum,Fenerbahce,0,5,0,2,7,1,22,10,8,6,4.08,3.82,1.72
+2026-11-08,2627,Turkey: Süper Lig,Rizespor,Erzurumspor,2,1,1,1,8,2,24,9,6,4,1.91,3.50,3.58

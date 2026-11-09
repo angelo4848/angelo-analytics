@@ -1,6 +1,6 @@
 {
  "futbol": {
-  "partidos": 35226,
+  "partidos": 35369,
   "temporadas": [
    "2122",
    "2223",
@@ -11,38 +11,38 @@
   ],
   "F1_favorito": {
    "1,21-1,35": {
-    "n": 1698,
-    "acierto": 77.4,
+    "n": 1707,
+    "acierto": 77.6,
     "cuota_media": 1.28,
-    "roi": -0.68,
-    "beneficio_u": -11.5,
-    "max_caida_u": 22.8,
-    "peor_racha": 6
+    "roi": -0.52,
+    "beneficio_u": -8.9,
+    "max_caida_u": 23.3,
+    "peor_racha": 7
    },
    "todos": {
-    "n": 5545,
+    "n": 5570,
     "acierto": 74.8,
     "cuota_media": 1.34,
-    "roi": -0.94,
-    "beneficio_u": -52.2,
-    "max_caida_u": 93.5,
-    "peor_racha": 5
-   },
-   "1,36-1,50": {
-    "n": 2840,
-    "acierto": 69.1,
-    "cuota_media": 1.43,
-    "roi": -1.13,
-    "beneficio_u": -32.2,
-    "max_caida_u": 73.3,
+    "roi": -0.85,
+    "beneficio_u": -47.3,
+    "max_caida_u": 93.1,
     "peor_racha": 6
    },
+   "1,36-1,50": {
+    "n": 2850,
+    "acierto": 69.1,
+    "cuota_media": 1.43,
+    "roi": -1.08,
+    "beneficio_u": -30.7,
+    "max_caida_u": 72.0,
+    "peor_racha": 7
+   },
    "≤1,20": {
-    "n": 1007,
-    "acierto": 86.3,
+    "n": 1013,
+    "acierto": 86.4,
     "cuota_media": 1.15,
-    "roi": -0.84,
-    "beneficio_u": -8.5,
+    "roi": -0.76,
+    "beneficio_u": -7.7,
     "max_caida_u": 14.3,
     "peor_racha": 3
    }
@@ -54,8 +54,8 @@
     "cuota_media": 4.56,
     "roi": -0.59,
     "beneficio_u": -23.4,
-    "max_caida_u": 104.1,
-    "peor_racha": 16
+    "max_caida_u": 106.6,
+    "peor_racha": 18
    },
    "margen 2%": {
     "n": 1608,
@@ -63,8 +63,8 @@
     "cuota_media": 5.41,
     "roi": -1.39,
     "beneficio_u": -22.4,
-    "max_caida_u": 68.6,
-    "peor_racha": 23
+    "max_caida_u": 65.6,
+    "peor_racha": 20
    },
    "margen 5%": {
     "n": 520,
@@ -73,7 +73,7 @@
     "roi": 5.5,
     "beneficio_u": 28.6,
     "max_caida_u": 37.7,
-    "peor_racha": 21
+    "peor_racha": 20
    },
    "margen 8%": {
     "n": 220,
@@ -92,8 +92,8 @@
     "cuota_media": 5.68,
     "roi": -1.07,
     "beneficio_u": -15.7,
-    "max_caida_u": 61.5,
-    "peor_racha": 23
+    "max_caida_u": 60.5,
+    "peor_racha": 19
    },
    "<1,80": {
     "n": 11,
@@ -158,7 +158,7 @@
     "roi": -11.2,
     "beneficio_u": -5.2,
     "max_caida_u": 16.6,
-    "peor_racha": 8
+    "peor_racha": 7
    },
    "España 2": {
     "n": 122,
@@ -166,7 +166,7 @@
     "cuota_media": 3.65,
     "roi": 12.76,
     "beneficio_u": 15.6,
-    "max_caida_u": 10.6,
+    "max_caida_u": 10.0,
     "peor_racha": 7
    },
    "Francia 1": {
@@ -230,7 +230,7 @@
     "roi": -10.36,
     "beneficio_u": -14.3,
     "max_caida_u": 31.2,
-    "peor_racha": 13
+    "peor_racha": 15
    },
    "Inglaterra 4": {
     "n": 109,
@@ -238,7 +238,7 @@
     "cuota_media": 4.46,
     "roi": -0.28,
     "beneficio_u": -0.3,
-    "max_caida_u": 19.5,
+    "max_caida_u": 20.5,
     "peor_racha": 14
    },
    "Italia 1": {
@@ -285,8 +285,8 @@
     "cuota_media": 2.61,
     "roi": -2.73,
     "beneficio_u": -23.7,
-    "max_caida_u": 56.3,
-    "peor_racha": 14
+    "max_caida_u": 55.4,
+    "peor_racha": 13
    },
    "margen 2%": {
     "n": 416,
@@ -294,8 +294,8 @@
     "cuota_media": 2.82,
     "roi": -5.22,
     "beneficio_u": -21.7,
-    "max_caida_u": 44.9,
-    "peor_racha": 17
+    "max_caida_u": 44.0,
+    "peor_racha": 16
    },
    "margen 5%": {
     "n": 160,
@@ -304,7 +304,7 @@
     "roi": -6.06,
     "beneficio_u": -9.7,
     "max_caida_u": 13.8,
-    "peor_racha": 8
+    "peor_racha": 9
    },
    "margen 8%": {
     "n": 86,
@@ -318,16 +318,16 @@
   },
   "descanso_0_0": {
    "España 2": {
-    "pct": 36.0,
-    "n": 2441
+    "pct": 35.9,
+    "n": 2448
    },
    "Francia 2": {
     "pct": 34.1,
-    "n": 1847
+    "n": 1856
    },
    "España 1": {
-    "pct": 32.7,
-    "n": 2009
+    "pct": 32.8,
+    "n": 2019
    },
    "Inglaterra 4": {
     "pct": 31.3,
@@ -335,23 +335,23 @@
    },
    "Inglaterra 2": {
     "pct": 31.2,
-    "n": 2928
+    "n": 2940
    },
    "Portugal 1": {
-    "pct": 31.0,
-    "n": 1620
+    "pct": 31.1,
+    "n": 1628
    },
    "Italia 2": {
     "pct": 30.4,
-    "n": 2000
+    "n": 2010
    },
    "Grecia 1": {
     "pct": 30.3,
-    "n": 1250
+    "n": 1257
    },
    "Italia 1": {
     "pct": 30.1,
-    "n": 2000
+    "n": 2010
    },
    "Inglaterra 3": {
     "pct": 29.7,
@@ -359,35 +359,35 @@
    },
    "Francia 1": {
     "pct": 28.1,
-    "n": 1759
-   },
-   "Turquía 1": {
-    "pct": 26.9,
-    "n": 1809
+    "n": 1768
    },
    "Inglaterra 1": {
+    "pct": 26.9,
+    "n": 2000
+   },
+   "Turquía 1": {
     "pct": 26.8,
-    "n": 1990
+    "n": 1818
    },
    "Alemania 2": {
-    "pct": 26.5,
-    "n": 1620
+    "pct": 26.6,
+    "n": 1629
    },
    "Bélgica 1": {
-    "pct": 26.2,
-    "n": 1632
+    "pct": 26.3,
+    "n": 1641
    },
    "Escocia 1": {
     "pct": 25.7,
-    "n": 1209
+    "n": 1215
    },
    "Holanda 1": {
-    "pct": 24.6,
-    "n": 1629
+    "pct": 24.5,
+    "n": 1638
    },
    "Alemania 1": {
     "pct": 22.9,
-    "n": 1601
+    "n": 1610
    }
   }
  },
