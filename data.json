@@ -1134,14 +1134,15 @@
    "liga": "Argentina: Liga Profesional Argentina",
    "local": "Instituto Cordoba",
    "visitante": "Newells Old Boys",
-   "tendencia": "★★★ Instituto Cordoba o empate · cuota ~1,20",
+   "tendencia": "★★★ Instituto Cordoba o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     1.91,
     3.2,
     4.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Argentina: Liga Profesional Argentina",
@@ -1481,27 +1482,29 @@
    "liga": "Costa-Rica: Primera División",
    "local": "San Carlos",
    "visitante": "Perez Zeledon",
-   "tendencia": "★★★ Gana San Carlos · cuota 1,52",
+   "tendencia": "★★★ Gana San Carlos · cuota 1,52 · ✗ fallado",
    "cuotas": [
     1.52,
     4.22,
     5.73
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Costa-Rica: Primera División",
    "local": "LD Alajuelense",
    "visitante": "Sporting San Jose",
-   "tendencia": "★★★ Gana LD Alajuelense · cuota 1,65",
+   "tendencia": "★★★ Gana LD Alajuelense · cuota 1,65 · ✓ acertado",
    "cuotas": [
     1.65,
     3.6,
     4.33
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T02:00:00+00:00"
+   "inicio": "2026-11-09T02:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Croatia: HNL",
@@ -1881,27 +1884,29 @@
    "liga": "Japan: J1 League",
    "local": "Machida Zelvia",
    "visitante": "Sanfrecce Hiroshima",
-   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,37",
+   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,37 · ✓ acertado",
    "cuotas": [
     3.0,
     3.4,
     2.3
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Japan: J1 League",
    "local": "Vissel Kobe",
    "visitante": "Urawa",
-   "tendencia": "★★★ Vissel Kobe o empate · cuota ~1,30",
+   "tendencia": "★★★ Vissel Kobe o empate · cuota ~1,30 · ✓ acertado",
    "cuotas": [
     2.1,
     3.4,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Japan: J1 League",
@@ -2060,40 +2065,43 @@
    "liga": "Mexico: Liga MX",
    "local": "Tigres UANL",
    "visitante": "Cruz Azul",
-   "tendencia": "★★★ Cruz Azul o empate · cuota ~1,37",
+   "tendencia": "★★★ Cruz Azul o empate · cuota ~1,37 · ✓ acertado",
    "cuotas": [
     3.0,
     3.5,
     2.25
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Mexico: Liga MX",
    "local": "Toluca",
    "visitante": "Monterrey",
-   "tendencia": "★★★ Gana Toluca · cuota 1,62",
+   "tendencia": "★★★ Gana Toluca · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     4.2,
     4.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Mexico: Liga MX",
    "local": "U.N.A.M. - Pumas",
    "visitante": "Club America",
-   "tendencia": "★★★ Club America o empate · cuota ~1,33",
+   "tendencia": "★★★ Club America o empate · cuota ~1,33 · ✓ acertado",
    "cuotas": [
     3.1,
     3.5,
     2.15
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T03:10:00+00:00"
+   "inicio": "2026-11-09T03:10:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Morocco: Botola Pro",
@@ -2596,27 +2604,29 @@
    "liga": "South-Korea: K League 1",
    "local": "Daejeon Citizen",
    "visitante": "Incheon United",
-   "tendencia": "★★★ Daejeon Citizen o empate · cuota ~1,25",
+   "tendencia": "★★★ Daejeon Citizen o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     1.95,
     3.5,
     3.75
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "South-Korea: K League 1",
    "local": "FC Seoul",
    "visitante": "Ulsan Hyundai FC",
-   "tendencia": "★★★ FC Seoul o empate · cuota ~1,21",
+   "tendencia": "★★★ FC Seoul o empate · cuota ~1,21 · ✗ fallado",
    "cuotas": [
     1.91,
     3.3,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "South-Korea: K League 1",
@@ -2914,79 +2924,85 @@
    "liga": "USA: Major League Soccer",
    "local": "Seattle Sounders",
    "visitante": "Los Angeles FC",
-   "tendencia": "★★★ Seattle Sounders o empate · cuota ~1,26",
+   "tendencia": "★★★ Seattle Sounders o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     1.9,
     3.75,
     3.6
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Real Salt Lake",
    "visitante": "Los Angeles Galaxy",
-   "tendencia": "★★★ Gana Real Salt Lake · cuota 1,65",
+   "tendencia": "★★★ Gana Real Salt Lake · cuota 1,65 · ✓ acertado",
    "cuotas": [
     1.65,
     4.2,
     4.33
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "FC Dallas",
    "visitante": "Colorado Rapids",
-   "tendencia": "★★★ FC Dallas o empate · cuota ~1,29",
+   "tendencia": "★★★ FC Dallas o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     2.0,
     3.6,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Austin",
    "visitante": "Portland Timbers",
-   "tendencia": "★★★ Gana Portland Timbers · cuota 1,62",
+   "tendencia": "★★★ Gana Portland Timbers · cuota 1,62 · ✓ acertado",
    "cuotas": [
     4.5,
     4.1,
     1.62
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "San Diego",
    "visitante": "Sporting Kansas City",
-   "tendencia": "★★★ Gana San Diego · cuota 1,42",
+   "tendencia": "★★★ Gana San Diego · cuota 1,42 · ✗ fallado",
    "cuotas": [
     1.42,
     5.0,
     6.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "USA: Major League Soccer",
    "local": "Minnesota United FC",
    "visitante": "San Jose Earthquakes",
-   "tendencia": "★★★ Minnesota United FC o empate · cuota ~1,20",
+   "tendencia": "★★★ Minnesota United FC o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     1.73,
     3.9,
     3.9
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Algeria: Ligue 1",
@@ -3140,27 +3156,29 @@
    "liga": "Australia: Australian Championship",
    "local": "Avondale",
    "visitante": "Adelaide City",
-   "tendencia": "★★★ Gana Avondale · cuota 1,40",
+   "tendencia": "★★★ Gana Avondale · cuota 1,40 · ✓ acertado",
    "cuotas": [
     1.4,
     4.5,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T04:00:00+00:00"
+   "inicio": "2026-11-09T04:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Australia: Australian Championship",
    "local": "South Hobart",
    "visitante": "Lions",
-   "tendencia": "★★★ Gana Lions · cuota 1,33",
+   "tendencia": "★★★ Gana Lions · cuota 1,33 · ✓ acertado",
    "cuotas": [
     6.0,
     5.0,
     1.33
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-09T04:00:00+00:00"
+   "inicio": "2026-11-09T04:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Austria: Regionalliga - West",
@@ -3343,14 +3361,15 @@
    "liga": "Brazil: Serie B",
    "local": "Nautico Recife",
    "visitante": "CRB",
-   "tendencia": "★★★ Gana CRB · cuota 1,45",
+   "tendencia": "★★★ Gana CRB · cuota 1,45 · ✓ acertado",
    "cuotas": [
     6.0,
     4.1,
     1.45
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-09T00:30:00+00:00"
+   "inicio": "2026-11-09T00:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Brazil: Serie B",
@@ -3505,14 +3524,15 @@
    "liga": "Colombia: Primera A",
    "local": "America de Cali",
    "visitante": "Deportivo Cali",
-   "tendencia": "★★★ America de Cali o empate · cuota ~1,18",
+   "tendencia": "★★★ America de Cali o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     1.85,
     3.25,
     4.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T01:15:00+00:00"
+   "inicio": "2026-11-09T01:15:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Colombia: Primera A",
@@ -4548,40 +4568,43 @@
    "liga": "Japan: J2 League",
    "local": "Vanraure Hachinohe",
    "visitante": "Consadole Sapporo",
-   "tendencia": "★★★ Consadole Sapporo o empate · cuota ~1,39",
+   "tendencia": "★★★ Consadole Sapporo o empate · cuota ~1,39 · ✓ acertado",
    "cuotas": [
     2.8,
     3.3,
     2.4
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T04:00:00+00:00"
+   "inicio": "2026-11-09T04:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Japan: J2 League",
    "local": "Tochigi City",
    "visitante": "Omiya Ardija",
-   "tendencia": "★★★ Omiya Ardija o empate · cuota ~1,33",
+   "tendencia": "★★★ Omiya Ardija o empate · cuota ~1,33 · ✓ acertado",
    "cuotas": [
     3.1,
     3.75,
     2.05
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Japan: J2 League",
    "local": "Jubilo Iwata",
    "visitante": "Shonan Bellmare",
-   "tendencia": "★★★ Jubilo Iwata o empate · cuota ~1,27",
+   "tendencia": "★★★ Jubilo Iwata o empate · cuota ~1,27 · ✓ acertado",
    "cuotas": [
     2.0,
     3.5,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Japan: J2 League",
@@ -4601,40 +4624,43 @@
    "liga": "Japan: J3 League",
    "local": "Gainare Tottori",
    "visitante": "Tochigi SC",
-   "tendencia": "★★★ Tochigi SC o empate · cuota ~1,24",
+   "tendencia": "★★★ Tochigi SC o empate · cuota ~1,24 · ✓ acertado",
    "cuotas": [
     3.2,
     3.4,
     1.95
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Japan: J3 League",
    "local": "Parceiro Nagano",
    "visitante": "Kamatamare Sanuki",
-   "tendencia": "★★★ Parceiro Nagano o empate · cuota ~1,30",
+   "tendencia": "★★★ Parceiro Nagano o empate · cuota ~1,30 · ✗ fallado",
    "cuotas": [
     2.15,
     3.3,
     2.88
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Japan: J3 League",
    "local": "Sagamihara",
    "visitante": "Kagoshima United",
-   "tendencia": "★★★ Kagoshima United o empate · cuota ~1,25",
+   "tendencia": "★★★ Kagoshima United o empate · cuota ~1,25 · ✗ fallado",
    "cuotas": [
     3.2,
     3.3,
     2.0
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Jordan: League",
@@ -4654,27 +4680,29 @@
    "liga": "Mexico: Liga de Expansión MX",
    "local": "Monarcas",
    "visitante": "Venados FC",
-   "tendencia": "★★★ Gana Monarcas · cuota 1,57",
+   "tendencia": "★★★ Gana Monarcas · cuota 1,57 · ✓ acertado",
    "cuotas": [
     1.57,
     4.3,
     4.76
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Mexico: Liga de Expansión MX",
    "local": "CA La Paz",
    "visitante": "Tlaxcala",
-   "tendencia": "★★★ Gana CA La Paz · cuota 1,57",
+   "tendencia": "★★★ Gana CA La Paz · cuota 1,57 · ✗ fallado",
    "cuotas": [
     1.57,
     4.55,
     4.74
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T03:05:00+00:00"
+   "inicio": "2026-11-09T03:05:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "Netherlands: Derde Divisie",
@@ -4875,14 +4903,15 @@
    "liga": "Peru: Primera División",
    "local": "Cienciano",
    "visitante": "Sport Huancayo",
-   "tendencia": "★★★ Cienciano o empate · cuota ~1,34",
+   "tendencia": "★★★ Cienciano o empate · cuota ~1,34 · ✗ fallado",
    "cuotas": [
     2.25,
     3.3,
     2.9
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T01:30:00+00:00"
+   "inicio": "2026-11-09T01:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Peru: Primera División",
@@ -5470,27 +5499,29 @@
    "liga": "South-Korea: K League 2",
    "local": "Cheonan City",
    "visitante": "Busan I Park",
-   "tendencia": "★★★ Busan I Park o empate · cuota ~1,38",
+   "tendencia": "★★★ Busan I Park o empate · cuota ~1,38 · ✗ fallado",
    "cuotas": [
     2.98,
     3.92,
     2.13
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "South-Korea: K League 2",
    "local": "Suwon Bluewings",
    "visitante": "Yongin City",
-   "tendencia": "★★★ Gana Suwon Bluewings · cuota 1,33",
+   "tendencia": "★★★ Gana Suwon Bluewings · cuota 1,33 · ✓ acertado",
    "cuotas": [
     1.33,
     5.44,
     7.68
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "South-Korea: K League 2",
@@ -6539,53 +6570,57 @@
    "liga": "USA: USL Championship",
    "local": "Louisville City",
    "visitante": "Miami FC",
-   "tendencia": "★★★ Gana Louisville City · cuota 1,50",
+   "tendencia": "★★★ Gana Louisville City · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     4.0,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "USA: USL Championship",
    "local": "Charleston Battery",
    "visitante": "Hartford Athletic",
-   "tendencia": "★★★ Charleston Battery o empate · cuota ~1,15",
+   "tendencia": "★★★ Charleston Battery o empate · cuota ~1,15 · ✗ fallado",
    "cuotas": [
     1.7,
     3.6,
     4.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T00:30:00+00:00"
+   "inicio": "2026-11-09T00:30:00+00:00",
+   "resultado": "3 - 3"
   },
   {
    "liga": "USA: USL Championship",
    "local": "New Mexico United",
    "visitante": "Colorado Springs",
-   "tendencia": "★★★ Colorado Springs o empate · cuota ~1,37",
+   "tendencia": "★★★ Colorado Springs o empate · cuota ~1,37 · ✗ fallado",
    "cuotas": [
     2.5,
     3.3,
     2.35
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T02:30:00+00:00"
+   "inicio": "2026-11-09T02:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "USA: USL Championship",
    "local": "Sacramento Republic",
    "visitante": "El Paso Locomotive",
-   "tendencia": "★★★ Gana Sacramento Republic · cuota 1,55",
+   "tendencia": "★★★ Gana Sacramento Republic · cuota 1,55 · ✓ acertado",
    "cuotas": [
     1.55,
     3.6,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T03:00:00+00:00"
+   "inicio": "2026-11-09T03:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Albania: Superliga",
@@ -6646,14 +6681,15 @@
    "liga": "Honduras: Liga Nacional",
    "local": "CD Olimpia",
    "visitante": "Olancho",
-   "tendencia": "★★★ Gana CD Olimpia · cuota 1,33",
+   "tendencia": "★★★ Gana CD Olimpia · cuota 1,33 · ✗ fallado",
    "cuotas": [
     1.33,
     4.5,
     7.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T01:30:00+00:00"
+   "inicio": "2026-11-09T01:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Honduras: Liga Nacional",
@@ -6782,14 +6818,15 @@
    "liga": "Costa-Rica: Liga de Ascenso",
    "local": "Cariari Pococi",
    "visitante": "Municipal Grecia",
-   "tendencia": "★★★ Cariari Pococi o empate · cuota ~1,25",
+   "tendencia": "★★★ Cariari Pococi o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     2.0,
     3.3,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Egypt: Cup",
@@ -6837,27 +6874,29 @@
    "liga": "El-Salvador: Primera Division",
    "local": "Inter",
    "visitante": "Firpo",
-   "tendencia": "★★★ Firpo o empate · cuota ~1,39",
+   "tendencia": "★★★ Firpo o empate · cuota ~1,39 · ✓ acertado",
    "cuotas": [
     2.55,
     3.4,
     2.35
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T00:00:00+00:00"
+   "inicio": "2026-11-09T00:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "El-Salvador: Primera Division",
    "local": "Alianza",
    "visitante": "Águila",
-   "tendencia": "★★★ Águila o empate · cuota ~1,38",
+   "tendencia": "★★★ Águila o empate · cuota ~1,38 · ✗ fallado",
    "cuotas": [
     2.55,
     3.3,
     2.38
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T02:00:00+00:00"
+   "inicio": "2026-11-09T02:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "El-Salvador: Primera Division",
@@ -6945,14 +6984,15 @@
    "liga": "Guatemala: Liga Nacional",
    "local": "Marquense",
    "visitante": "Comunicaciones",
-   "tendencia": "★★★ Marquense o empate · cuota ~1,16",
+   "tendencia": "★★★ Marquense o empate · cuota ~1,16 · ✗ fallado",
    "cuotas": [
     1.83,
     3.2,
     3.9
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T02:00:00+00:00"
+   "inicio": "2026-11-09T02:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Guatemala: Liga Nacional",
@@ -7278,14 +7318,15 @@
    "liga": "Mexico: Liga Premier Serie A",
    "local": "Vaqueros Reynosa",
    "visitante": "Artesanos Metepec",
-   "tendencia": "★★★ Artesanos Metepec o empate · cuota ~1,20",
+   "tendencia": "★★★ Artesanos Metepec o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     3.6,
     3.4,
     1.85
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Mexico: Primera Premier",
@@ -7304,14 +7345,15 @@
    "liga": "Mexico: Primera Premier",
    "local": "Celaya",
    "visitante": "Tigres de Alica",
-   "tendencia": "★★★ Celaya o empate · cuota ~1,22",
+   "tendencia": "★★★ Celaya o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     1.95,
     3.25,
     3.6
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T01:00:00+00:00"
+   "inicio": "2026-11-09T01:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Morocco: Botola 2",
@@ -7371,14 +7413,15 @@
    "liga": "Russia: Second League A - Division A Gold",
    "local": "Dinamo Vladivostok",
    "visitante": "Kaluga",
-   "tendencia": "★★★ Gana Dinamo Vladivostok · cuota 1,31",
+   "tendencia": "★★★ Gana Dinamo Vladivostok · cuota 1,31 · ✓ acertado",
    "cuotas": [
     1.31,
     4.95,
     6.35
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T04:00:00+00:00"
+   "inicio": "2026-11-09T04:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Russia: Second League A - Division A Gold",
@@ -7426,66 +7469,71 @@
    "liga": "South-Korea: K4 League",
    "local": "Geoje Citizen",
    "visitante": "Geumsan Insam",
-   "tendencia": "★★★ Geoje Citizen o empate · cuota ~1,29",
+   "tendencia": "★★★ Geoje Citizen o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     2.0,
     3.6,
     3.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "South-Korea: K4 League",
    "local": "Jincheon",
    "visitante": "Pyeongtaek Citizen",
-   "tendencia": "★★★ Gana Jincheon · cuota 1,40",
+   "tendencia": "★★★ Gana Jincheon · cuota 1,40 · ✓ acertado",
    "cuotas": [
     1.4,
     4.5,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "South-Korea: K4 League",
    "local": "Jinju Citizen",
    "visitante": "Haman",
-   "tendencia": "★★★ Gana Jinju Citizen · cuota 1,33",
+   "tendencia": "★★★ Gana Jinju Citizen · cuota 1,33 · ✓ acertado",
    "cuotas": [
     1.33,
     4.75,
     6.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "South-Korea: K4 League",
    "local": "Namyangju",
    "visitante": "Sejong SA",
-   "tendencia": "★★★ Namyangju o empate · cuota ~1,27",
+   "tendencia": "★★★ Namyangju o empate · cuota ~1,27 · ✓ acertado",
    "cuotas": [
     1.91,
     3.75,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "South-Korea: K4 League",
    "local": "Seosan Pioneer",
    "visitante": "Jecheon Citizen",
-   "tendencia": "★★★ Jecheon Citizen o empate · cuota ~1,29",
+   "tendencia": "★★★ Jecheon Citizen o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     3.0,
     3.6,
     2.0
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-09T05:00:00+00:00"
+   "inicio": "2026-11-09T05:00:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "Spain: Segunda División RFEF - Group 5",
@@ -7616,14 +7664,15 @@
    "liga": "USA: USL League One",
    "local": "Boise",
    "visitante": "Chattanooga Red Wolves",
-   "tendencia": "★★★ Gana Boise · cuota 1,53",
+   "tendencia": "★★★ Gana Boise · cuota 1,53 · ✓ acertado",
    "cuotas": [
     1.53,
     4.0,
     4.75
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T02:00:00+00:00"
+   "inicio": "2026-11-09T02:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Austria: Bundesliga",
