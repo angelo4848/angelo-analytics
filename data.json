@@ -2072,6 +2072,45 @@
    ],
    "tipo": "AWAY WIN",
    "inicio": "2026-11-10T19:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Copa Fares Lopes",
+   "local": "Vila Real",
+   "visitante": "Ceara B",
+   "tendencia": "★★★ Vila Real o empate · cuota ~1,37",
+   "cuotas": [
+    2.38,
+    3.25,
+    2.6
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-09T22:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Segunda División",
+   "local": "Las Palmas",
+   "visitante": "Eldense",
+   "tendencia": "★★★ Las Palmas o empate · cuota ~1,27",
+   "cuotas": [
+    2.0,
+    3.5,
+    3.6
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-09T19:30:00+00:00"
+  },
+  {
+   "liga": "Uruguay: Copa Uruguay",
+   "local": "Lito",
+   "visitante": "Danubio",
+   "tendencia": "★★★ Gana Danubio · cuota 1,53",
+   "cuotas": [
+    5.25,
+    4.1,
+    1.53
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-09T19:30:00+00:00"
   }
  ],
  "historial_pronosticos": [
