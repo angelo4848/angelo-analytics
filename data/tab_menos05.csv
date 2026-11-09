@@ -1,42 +1,54 @@
 Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.ª parte","Cuota justa −1,5",Goles esperados 1.ª parte,Muestra liga,Datos de equipos,Fuente,Descanso,Resultado
-00:00,El-Salvador: Primera Division,Inter,Firpo,40%,2.50,73%,1.38,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,1 - 2
-02:00,Guatemala: Liga Nacional,Marquense,Comunicaciones,40%,2.50,73%,1.38,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,0 - 2
-02:00,El-Salvador: Primera Division,Alianza,Águila,40%,2.50,73%,1.38,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,3 - 2
-01:30,Peru: Primera División,Cienciano,Sport Huancayo,38%,2.60,72%,1.39,1.12,16,No,Registro ESPN/SofaScore,,1 - 2
-00:00,Costa-Rica: Primera División,San Carlos,Perez Zeledon,38%,2.67,72%,1.39,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,1 - 1
-02:00,Costa-Rica: Primera División,LD Alajuelense,Sporting San Jose,38%,2.67,72%,1.39,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,2 - 0
+00:00,Costa-Rica: Primera División,San Carlos,Perez Zeledon,44%,2.25,74%,1.35,0.75,8,No,Registro ESPN/SofaScore (muestra baja),0 - 0,1 - 1
+02:00,Costa-Rica: Primera División,LD Alajuelense,Sporting San Jose,44%,2.25,74%,1.35,0.75,8,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 0
+04:00,Australia: Australian Championship,South Hobart,Lions,44%,2.29,74%,1.35,0.50,6,No,Registro ESPN/SofaScore (muestra baja),0 - 1,2 - 4
+04:00,Australia: Australian Championship,Avondale,Adelaide City,44%,2.29,74%,1.35,0.50,6,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 1
+00:00,Mexico: Primera Premier,Inter Playa del Carmen,Lobos ULMX,40%,2.50,73%,1.38,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+01:00,Mexico: Primera Premier,Celaya,Tigres de Alica,40%,2.50,73%,1.38,0.40,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0,1 - 1
+02:00,Guatemala: Liga Nacional,Marquense,Comunicaciones,38%,2.67,72%,1.39,0.83,6,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 2
 01:15,Colombia: Primera A,America de Cali,Deportivo Cali,37%,2.70,72%,1.40,1.29,17,No,Registro ESPN/SofaScore,0 - 0,0 - 0
-04:00,Japan: J2 League,Vanraure Hachinohe,Consadole Sapporo,35%,2.89,71%,1.42,1.06,16,No,Registro ESPN/SofaScore,,0 - 1
-05:00,Japan: J2 League,Tochigi City,Omiya Ardija,35%,2.89,71%,1.42,1.06,16,No,Registro ESPN/SofaScore,,0 - 3
-05:00,Japan: J2 League,Jubilo Iwata,Shonan Bellmare,35%,2.89,71%,1.42,1.06,16,No,Registro ESPN/SofaScore,,1 - 1
-00:30,Brazil: Serie B,Nautico Recife,CRB,33%,3.00,70%,1.43,1.15,20,No,Registro ESPN/SofaScore,,0 - 3
-01:00,Mexico: Liga MX,Toluca,Monterrey,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),,4 - 0
-01:00,Mexico: Liga MX,Tigres UANL,Cruz Azul,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),,2 - 3
-01:00,Argentina: Liga Profesional Argentina,Instituto Cordoba,Newells Old Boys,33%,3.00,70%,1.43,0.94,17,No,Registro ESPN/SofaScore,,2 - 2
-03:10,Mexico: Liga MX,U.N.A.M. - Pumas,Club America,33%,3.00,70%,1.43,1.25,8,No,Registro ESPN/SofaScore (muestra baja),,2 - 2
-05:00,South-Korea: K League 2,Suwon Bluewings,Yongin City,33%,3.00,70%,1.43,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,2 - 0
-05:00,South-Korea: K League 2,Cheonan City,Busan I Park,33%,3.00,70%,1.43,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
+01:30,Peru: Primera División,Cienciano,Sport Huancayo,37%,2.70,72%,1.40,1.18,17,No,Registro ESPN/SofaScore,1 - 1,1 - 2
+00:00,El-Salvador: Primera Division,Inter,Firpo,35%,2.83,71%,1.41,1.57,7,No,Registro ESPN/SofaScore (muestra baja),0 - 1,1 - 2
+02:00,El-Salvador: Primera Division,Alianza,Águila,35%,2.83,71%,1.41,1.57,7,No,Registro ESPN/SofaScore (muestra baja),3 - 0,3 - 2
+04:00,Japan: J2 League,Vanraure Hachinohe,Consadole Sapporo,34%,2.90,70%,1.42,1.05,19,No,Registro ESPN/SofaScore,0 - 0,0 - 1
+05:00,Japan: J2 League,Tochigi City,Omiya Ardija,34%,2.90,70%,1.42,1.05,19,No,Registro ESPN/SofaScore,0 - 2,0 - 3
+05:00,Japan: J2 League,Jubilo Iwata,Shonan Bellmare,34%,2.90,70%,1.42,1.05,19,No,Registro ESPN/SofaScore,1 - 0,1 - 1
 19:45,England: National League - South,Chelmsford City,Ebbsfleet United,33%,3.00,70%,1.43,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
+00:30,Brazil: Serie B,Nautico Recife,CRB,32%,3.10,69%,1.45,1.19,21,No,Registro ESPN/SofaScore,0 - 2,0 - 3
+01:00,Argentina: Liga Profesional Argentina,Instituto Cordoba,Newells Old Boys,32%,3.11,69%,1.46,0.94,18,No,Registro ESPN/SofaScore,1 - 0,2 - 2
+05:00,Japan: J3 League,Sagamihara,Kagoshima United,32%,3.17,68%,1.47,1.00,9,No,Registro ESPN/SofaScore (muestra baja),0 - 0,1 - 0
+05:00,Japan: J3 League,Parceiro Nagano,Kamatamare Sanuki,32%,3.17,68%,1.47,1.00,9,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 1
+05:00,Japan: J3 League,Gainare Tottori,Tochigi SC,32%,3.17,68%,1.47,1.00,9,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 1
+05:00,South-Korea: K League 1,FC Seoul,Ulsan Hyundai FC,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),0 - 1,1 - 2
+05:00,South-Korea: K League 1,Daejeon Citizen,Incheon United,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 0
+01:00,Mexico: Liga MX,Toluca,Monterrey,30%,3.33,66%,1.51,1.40,10,No,Registro ESPN/SofaScore (muestra baja),2 - 0,4 - 0
+01:00,Mexico: Liga MX,Tigres UANL,Cruz Azul,30%,3.33,66%,1.51,1.40,10,No,Registro ESPN/SofaScore (muestra baja),1 - 1,2 - 3
+03:10,Mexico: Liga MX,U.N.A.M. - Pumas,Club America,30%,3.33,66%,1.51,1.40,10,No,Registro ESPN/SofaScore (muestra baja),,2 - 2
 20:00,Paraguay: Division Profesional - Clausura,Club Sp. San Lorenzo,Rubio NU,30%,3.33,66%,1.51,1.40,10,No,Registro ESPN/SofaScore (muestra baja),,
 22:30,Paraguay: Division Profesional - Clausura,Sportivo Luqueno,2 de Mayo,30%,3.33,66%,1.51,1.40,10,No,Registro ESPN/SofaScore (muestra baja),,
-00:00,USA: Major League Soccer,Seattle Sounders,Los Angeles FC,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,2 - 1
-00:00,USA: Major League Soccer,San Diego,Sporting Kansas City,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,0 - 1
-00:00,USA: Major League Soccer,Real Salt Lake,Los Angeles Galaxy,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,2 - 1
-00:00,USA: Major League Soccer,Minnesota United FC,San Jose Earthquakes,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,3 - 1
-00:00,USA: Major League Soccer,FC Dallas,Colorado Rapids,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,3 - 1
-00:00,USA: Major League Soccer,Austin,Portland Timbers,29%,3.50,64%,1.55,1.50,18,No,Registro ESPN/SofaScore,,0 - 2
+00:00,USA: Major League Soccer,Seattle Sounders,Los Angeles FC,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,2 - 0,2 - 1
+00:00,USA: Major League Soccer,San Diego,Sporting Kansas City,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,0 - 0,0 - 1
+00:00,USA: Major League Soccer,Real Salt Lake,Los Angeles Galaxy,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,2 - 1,2 - 1
+00:00,USA: Major League Soccer,Minnesota United FC,San Jose Earthquakes,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,0 - 1,3 - 1
+00:00,USA: Major League Soccer,FC Dallas,Colorado Rapids,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,0 - 0,3 - 1
+00:00,USA: Major League Soccer,Austin,Portland Timbers,29%,3.40,65%,1.53,1.42,24,No,Registro ESPN/SofaScore,0 - 1,0 - 2
+05:00,South-Korea: K League 2,Suwon Bluewings,Yongin City,29%,3.40,65%,1.53,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 0,2 - 0
+05:00,South-Korea: K League 2,Cheonan City,Busan I Park,29%,3.40,65%,1.53,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 0,1 - 0
 05:00,Japan: J1 League,Vissel Kobe,Urawa,29%,3.50,64%,1.55,1.17,18,No,Registro ESPN/SofaScore,1 - 0,2 - 2
 05:00,Japan: J1 League,Machida Zelvia,Sanfrecce Hiroshima,29%,3.50,64%,1.55,1.17,18,No,Registro ESPN/SofaScore,0 - 0,0 - 0
 18:00,Ecuador: Liga Pro,Mushuc Runa SC,Delfin SC,27%,3.67,63%,1.59,1.42,12,No,Registro ESPN/SofaScore,,
 20:30,Ecuador: Liga Pro,Tecnico Universitario,Manta FC,27%,3.67,63%,1.59,1.42,12,No,Registro ESPN/SofaScore,,
-00:00,USA: USL Championship,Louisville City,Miami FC,27%,3.75,62%,1.62,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,3 - 2
-00:30,USA: USL Championship,Charleston Battery,Hartford Athletic,27%,3.75,62%,1.62,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,3 - 3
-02:30,USA: USL Championship,New Mexico United,Colorado Springs,27%,3.75,62%,1.62,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,4 - 0
-03:00,USA: USL Championship,Sacramento Republic,El Paso Locomotive,27%,3.75,62%,1.62,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,2 - 1
+05:00,South-Korea: K4 League,Seosan Pioneer,Jecheon Citizen,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 5
+05:00,South-Korea: K4 League,Namyangju,Sejong SA,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),2 - 1,3 - 1
+05:00,South-Korea: K4 League,Jinju Citizen,Haman,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),0 - 0,2 - 1
+05:00,South-Korea: K4 League,Jincheon,Pyeongtaek Citizen,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),1 - 0,4 - 1
+05:00,South-Korea: K4 League,Geoje Citizen,Geumsan Insam,27%,3.75,62%,1.62,1.60,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1,2 - 2
 12:30,Romania: Liga II,FC Politehnica Timisoara,CSM Reşiţa,27%,3.75,62%,1.62,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,0 - 0
+18:00,Romania: Liga I,FC Botosani,Oţelul,27%,3.75,62%,1.62,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,
+01:30,Honduras: Liga Nacional,CD Olimpia,Olancho,25%,4.00,60%,1.68,1.20,10,No,Registro ESPN/SofaScore (muestra baja),0 - 0,1 - 1
 19:30,England: FA Cup,Plymouth Parkway,Berkhamsted,24%,4.08,58%,1.72,1.33,15,No,Registro ESPN/SofaScore,,
-01:30,Honduras: Liga Nacional,CD Olimpia,Olancho,24%,4.24,56%,1.80,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,1 - 1
+00:00,USA: USL Championship,Louisville City,Miami FC,23%,4.34,54%,1.86,1.67,9,No,Registro ESPN/SofaScore (muestra baja),0 - 2,3 - 2
+00:30,USA: USL Championship,Charleston Battery,Hartford Athletic,23%,4.34,54%,1.86,1.67,9,No,Registro ESPN/SofaScore (muestra baja),0 - 3,3 - 3
+02:30,USA: USL Championship,New Mexico United,Colorado Springs,23%,4.34,54%,1.86,1.67,9,No,Registro ESPN/SofaScore (muestra baja),3 - 0,4 - 0
+03:00,USA: USL Championship,Sacramento Republic,El Paso Locomotive,23%,4.34,54%,1.86,1.67,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1,2 - 1
 12:30,Egypt: Cup,Wadi Degla,Kahraba Ismailia,22%,4.44,52%,1.92,2.20,5,No,Registro ESPN/SofaScore (muestra baja),,0 - 0
-05:00,Japan: J3 League,Sagamihara,Kagoshima United,22%,4.57,50%,1.99,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
-05:00,Japan: J3 League,Parceiro Nagano,Kamatamare Sanuki,22%,4.57,50%,1.99,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,0 - 1
-05:00,Japan: J3 League,Gainare Tottori,Tochigi SC,22%,4.57,50%,1.99,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,0 - 1

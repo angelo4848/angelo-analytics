@@ -1218,27 +1218,29 @@
    "liga": "Bulgaria: Second League",
    "local": "Etar Veliko Tarnovo",
    "visitante": "Montana",
-   "tendencia": "★★★ Etar Veliko Tarnovo o empate · cuota ~1,22",
+   "tendencia": "★★★ Etar Veliko Tarnovo o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     1.85,
     3.6,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-09T15:00:00+00:00"
+   "inicio": "2026-11-09T15:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Bulgaria: Second League",
    "local": "Fratria",
    "visitante": "Sportist Svoge",
-   "tendencia": "★★★ Gana Fratria · cuota 1,36",
+   "tendencia": "★★★ Gana Fratria · cuota 1,36 · ✓ acertado",
    "cuotas": [
     1.36,
     4.2,
     7.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T15:30:00+00:00"
+   "inicio": "2026-11-09T15:30:00+00:00",
+   "resultado": "6 - 2"
   },
   {
    "liga": "Colombia: Primera A",
@@ -1495,14 +1497,15 @@
    "liga": "Serbia: Prva Liga",
    "local": "Napredak",
    "visitante": "OFK Bor 1919",
-   "tendencia": "★★★ Gana Napredak · cuota 1,59",
+   "tendencia": "★★★ Gana Napredak · cuota 1,59 · ✓ acertado",
    "cuotas": [
     1.59,
     3.6,
     5.43
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T15:00:00+00:00"
+   "inicio": "2026-11-09T15:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Serbia: Prva Liga",
@@ -1521,14 +1524,15 @@
    "liga": "Slovakia: 2. liga",
    "local": "Liptovský Mikuláš",
    "visitante": "MFK Bytča",
-   "tendencia": "★★★ Gana Liptovský Mikuláš · cuota 1,18",
+   "tendencia": "★★★ Gana Liptovský Mikuláš · cuota 1,18 · ✓ acertado",
    "cuotas": [
     1.18,
     6.5,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T16:00:00+00:00"
+   "inicio": "2026-11-09T16:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "USA: USL League One",
@@ -1547,27 +1551,29 @@
    "liga": "Georgia: Erovnuli Liga",
    "local": "FC Iberia 1999",
    "visitante": "Gagra",
-   "tendencia": "★★★ Gana FC Iberia 1999 · cuota 1,36",
+   "tendencia": "★★★ Gana FC Iberia 1999 · cuota 1,36 · ✓ acertado",
    "cuotas": [
     1.36,
     4.33,
     7.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T16:00:00+00:00"
+   "inicio": "2026-11-09T16:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Nigeria: NPFL",
    "local": "Ikorodu City",
    "visitante": "Inter Lagos",
-   "tendencia": "★★★ Gana Ikorodu City · cuota 1,33",
+   "tendencia": "★★★ Gana Ikorodu City · cuota 1,33 · ✗ fallado",
    "cuotas": [
     1.33,
     4.2,
     7.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-09T15:00:00+00:00"
+   "inicio": "2026-11-09T15:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Egypt: Cup",
