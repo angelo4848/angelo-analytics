@@ -8,6 +8,7 @@ Escribe en data/ (los importa el Google Sheet):
   tab_menos05.csv     partidos de HOY ordenados por probabilidad de 0-0 al descanso
   tab_mas05.csv       partidos de HOY ordenados por probabilidad de gol antes del descanso
   tab_corners.csv     partidos de HOY ordenados de menos a más córners esperados
+  tab_menos35.csv     partidos de HOY ordenados por probabilidad de menos de 3,5 goles (partido completo)
   pronosticos.csv     modelo Bet Consulting de HOY (patas de favoritos de ligas grandes, ~1,25-1,50)
   pronosticos_log.csv todos los pronósticos del filtro, con su resultado (para el % de acierto)
 """
@@ -165,6 +166,81 @@ def team_stats(hist, today):
     return T
 
 
+def poisson_le(lam, k):
+    """P(X <= k) con X ~ Poisson(lam)."""
+    return sum(math.exp(-lam) * lam ** i / math.factorial(i) for i in range(k + 1))
+
+
+def ft_stats(hist, reg, today):
+    """Goles del PARTIDO COMPLETO: por liga (media local/visitante y % real de ≤2, ≤3, ≤4 goles) y por equipo."""
+    F = {}
+    by = defaultdict(list)
+    for r in hist:
+        if r['gl'] != '' and r['gv'] != '':
+            by[r['liga']].append((int(r['gl']), int(r['gv'])))
+    for liga, gs in by.items():
+        if len(gs) < MIN_HIST:
+            continue
+        tot = [h + a for h, a in gs]
+        F[liga] = {'n': len(gs), 'fuente': 'Histórico 5 años',
+                   'fh': mean([h for h, _ in gs]), 'fa': mean([a for _, a in gs]),
+                   'e_le2': mean([t <= 2 for t in tot]), 'e_le3': mean([t <= 3 for t in tot]),
+                   'e_le4': mean([t <= 4 for t in tot])}
+    rb = defaultdict(list)
+    for r in reg:
+        m = re.match(r'(\d+) - (\d+)', r.get('Resultado', '') or '')
+        if m and r['Liga'] not in F and r.get('Acierto') in ('Acertado', 'Fallado'):
+            rb[r['Liga']].append((int(m.group(1)), int(m.group(2))))
+    for liga, gs in rb.items():
+        if len(gs) < MIN_SHOW:
+            continue
+        n = len(gs)
+        tot = [h + a for h, a in gs]
+        # con pocas muestras se acerca a la media general de las ligas para no exagerar
+        shr = lambda p, g: (n * p + SHRINK * g) / (n + SHRINK)
+        F[liga] = {'n': n, 'fuente': 'Registro ESPN/SofaScore' + ('' if n >= MIN_REG else ' (muestra baja)'),
+                   'fh': mean([h for h, _ in gs]), 'fa': mean([a for _, a in gs]),
+                   'e_le2': shr(mean([t <= 2 for t in tot]), 0.55),
+                   'e_le3': shr(mean([t <= 3 for t in tot]), 0.76),
+                   'e_le4': shr(mean([t <= 4 for t in tot]), 0.90)}
+    cut = (today - timedelta(days=TEAM_DAYS)).isoformat()
+    T = defaultdict(lambda: defaultdict(lambda: defaultdict(list)))
+    for r in hist:
+        if r['fecha'] < cut or r['gl'] == '':
+            continue
+        h, a, lg = r['local'], r['visitante'], r['liga']
+        T[lg][h]['h_gf'].append(int(r['gl'])); T[lg][h]['h_ga'].append(int(r['gv']))
+        T[lg][a]['a_gf'].append(int(r['gv'])); T[lg][a]['a_ga'].append(int(r['gl']))
+    return F, T
+
+
+def predict_ft(row, F, TF):
+    """Probabilidad de menos de 2,5 / 3,5 / 4,5 goles en el partido completo."""
+    lg = F.get(row['Liga'])
+    if not lg or lg['fh'] is None:
+        return None
+    teams = TF.get(row['Liga'], {})
+    th = match_team(row['Local'], teams) if teams else None
+    ta = match_team(row['Visitante'], teams) if teams else None
+    lh, la = lg['fh'], lg['fa']
+    if th and ta:
+        att_h, _ = ratio(teams[th]['h_gf'], lg['fh']); def_a, _ = ratio(teams[ta]['a_ga'], lg['fh'])
+        att_a, _ = ratio(teams[ta]['a_gf'], lg['fa']); def_h, _ = ratio(teams[th]['h_ga'], lg['fa'])
+        lh, la = lg['fh'] * att_h * def_a, lg['fa'] * att_a * def_h
+    lam = lh + la
+    out = {'xg': lam, 'n': lg['n'], 'fuente': lg['fuente'], 'equipos': 'Sí' if th and ta else 'No'}
+    for k, key in ((2, 'le2'), (3, 'le3'), (4, 'le4')):
+        p = poisson_le(lam, k)
+        # mezcla prudente con la frecuencia real de la liga (Poisson se pasa de optimista con los "menos")
+        w = BLEND if th and ta else 0.4
+        out[key] = min(w * p + (1 - w) * lg['e_' + key], 0.97)
+    # calibración medida fuera de muestra (temporada 2025-26 de las 22 ligas): arriba se pasaba de optimista
+    for key, top, f in (('le2', 0.45, 0.5), ('le3', 0.70, 0.5), ('le4', 0.88, 0.2)):
+        if out[key] > top:
+            out[key] = top + (out[key] - top) * f
+    return out
+
+
 def ratio(xs, base):
     """Factor del equipo respecto a la media de la liga, encogido hacia 1 con pocas muestras."""
     if not xs or not base:
@@ -277,12 +353,24 @@ def main():
     hist, reg = load_csv(HIST), load_csv(APP)
     L, T = league_stats(hist, reg), team_stats(hist, today)
     rates = reg_rates(reg)
+    F, TF = ft_stats(hist, reg, today)
     hoy = [r for r in reg if r['Fecha'] == today.isoformat()]
-    m05, p05, cor, best = [], [], [], []
+    m05, p05, cor, best, m35 = [], [], [], [], []
     for r in hoy:
         pr = predict(r, L, T) or {}
         base = {'Hora': r['Hora'], 'Liga': r['Liga'], 'Local': r['Local'], 'Visitante': r['Visitante'],
                 'Resultado': r.get('Resultado', ''), 'Descanso': r.get('Descanso', '')}
+        ft = predict_ft(r, F, TF)
+        if ft:
+            m = re.match(r'(\d+) - (\d+)', r.get('Resultado', '') or '')
+            fin = r.get('Acierto') in ('Acertado', 'Fallado')
+            acierto = ('Acertado' if int(m.group(1)) + int(m.group(2)) <= 3 else 'Fallado') if m and fin else ''
+            m35.append({**base, 'Prob −3,5 goles': pct(ft['le3']), 'Cuota justa −3,5': fair(ft['le3']),
+                        'Prob −2,5 goles': pct(ft['le2']), 'Cuota justa −2,5': fair(ft['le2']),
+                        'Prob −4,5 goles': pct(ft['le4']), 'Cuota justa −4,5': fair(ft['le4']),
+                        'Goles esperados': f"{ft['xg']:.2f}", 'Muestra liga': ft['n'],
+                        'Datos de equipos': ft['equipos'], 'Fuente': ft['fuente'],
+                        'Acierto −3,5': acierto, '_k': ft['le3']})
         src = pr.get('fuente', 'Sin datos')
         if 'p00' in pr:
             m05.append({**base, 'Prob 0-0 descanso': pct(pr['p00']), 'Cuota justa −0,5': fair(pr['p00']),
@@ -315,8 +403,8 @@ def main():
             best.append({**base, 'Mercado': mk, 'p': rate, 'Muestra': n, 'Fuente': 'Acierto ★★★ en la liga',
                          'Equipos': '', 'Cuota casa': r.get('Cuota', '')})
     key = lambda x: (-x['_k'], x['Hora'])
-    m05.sort(key=key); p05.sort(key=key); cor.sort(key=lambda x: (x['_k'], x['Hora']))
-    for rows in (m05, p05, cor):
+    m05.sort(key=key); p05.sort(key=key); m35.sort(key=key); cor.sort(key=lambda x: (x['_k'], x['Hora']))
+    for rows in (m05, p05, cor, m35):
         for x in rows:
             x.pop('_k')
     base_f = ['Hora', 'Liga', 'Local', 'Visitante']
@@ -328,6 +416,9 @@ def main():
                                      'Descanso', 'Resultado'], p05)
     write('tab_corners.csv', base_f + ['Córners esperados', 'Prob menos 9,5', 'Prob menos 10,5', 'Prob más 7,5',
                                        'Prob más 8,5', 'Muestra liga', 'Datos de equipos', 'Fuente', 'Resultado'], cor)
+    write('tab_menos35.csv', base_f + ['Prob −3,5 goles', 'Cuota justa −3,5', 'Prob −2,5 goles', 'Cuota justa −2,5',
+                                       'Prob −4,5 goles', 'Cuota justa −4,5', 'Goles esperados', 'Muestra liga',
+                                       'Datos de equipos', 'Fuente', 'Resultado', 'Acierto −3,5'], m35)
 
     # ---- filtro: lo mejor de lo mejor (máx. 1 mercado de goles y 1 de córners por partido) ----
     best.sort(key=lambda x: -x['p'])
