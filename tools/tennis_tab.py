@@ -2,7 +2,7 @@
 """Pestaña "Tenis 1.er set" del Google Sheet (corre en GitHub cada hora, sin Claude).
 
 Lee data/tenis_hoy.csv (partidos con cuotas que sube tu PC desde SofaScore) y data/tenis_calib.csv
-(histórico ATP/WTA: cuántas veces gana el favorito el 1.er set según su cuota). Escribe:
+(histórico ATP/Challenger/WTA: % de 1.er set del favorito según su % de partido). Escribe:
   data/tab_tenis_1set.csv   favoritos claros de hoy y mañana, de más a menos probable
   data/tenis_1set_log.csv   todos los favoritos claros con su resultado (para el % de acierto real)
 """
@@ -49,15 +49,24 @@ def surface(g):
     return 'Tierra' if 'clay' in g else 'Hierba' if 'grass' in g else 'Dura'
 
 
-def prob_set1(p, tour, surf, calib):
-    """Tramo real del histórico (ajustado dentro del tramo con la fórmula teórica); si no hay histórico, la fórmula."""
+def prob_set1(p, circ, surf, calib):
+    """Curva real del histórico (partido % -> 1.er set %) del circuito y superficie; si no hay, la fórmula."""
     theory = set_from_match(p)
-    for s in (surf, 'Todas'):
-        for r in calib:
-            if r['Circuito'] == tour and r['Superficie'] == s and float(r['Prob min']) <= p < float(r['Prob max']) \
-                    and int(r['Partidos']) >= MIN_BIN:
-                pm = float(r['Prob media partido'])
-                return min(float(r['Fav gana 1.er set']) + theory - set_from_match(pm), 0.97), f'Histórico {tour} ({r["Partidos"]})'
+    for c in (circ, 'ATP' if circ == 'Challenger' else circ, 'Todos'):
+        for s in (surf, 'Todas'):
+            pts = sorted((float(r['Fav gana partido']), float(r['Fav gana 1.er set'])) for r in calib
+                         if r['Circuito'] == c and r['Superficie'] == s and int(r['Partidos']) >= MIN_BIN)
+            if len(pts) < 5:
+                continue
+            pts = [(0.5, 0.5)] + [q for q in pts if q[0] > 0.5]
+            n = sum(int(r['Partidos']) for r in calib if r['Circuito'] == c and r['Superficie'] == s)
+            src = f'Histórico {c} · {s} ({n} partidos)'
+            if p >= pts[-1][0]:     # más allá del último tramo: se sigue la forma de la fórmula
+                m, v = pts[-1]
+                return min(v + theory - set_from_match(m), 0.97), src
+            for (m0, v0), (m1, v1) in zip(pts, pts[1:]):
+                if m0 <= p <= m1:
+                    return v0 + (v1 - v0) * (p - m0) / (m1 - m0 or 1), src
     return theory, 'Fórmula (sin histórico)'
 
 
@@ -80,7 +89,7 @@ def main():
         p = (1 / cf) / (1 / c1 + 1 / c2)
         if p < CLEAR:
             continue
-        tour = 'WTA' if r['Categoría'].startswith('WTA') else 'ATP'
+        tour = 'WTA' if r['Categoría'].startswith('WTA') else 'Challenger' if r['Categoría'] == 'Challenger' else 'ATP'
         surf = surface(r['Superficie'])
         ps, fuente = prob_set1(p, tour, surf, calib)
         casa = r.get(f'Cuota set {fav}', '')
