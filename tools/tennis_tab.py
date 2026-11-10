@@ -91,7 +91,7 @@ def main():
         if s1 and fav == 2:
             s1 = '-'.join(reversed(s1.split('-')))     # marcador desde el lado del favorito
         acierto = ('Acertado' if wset == str(fav) else 'Fallado') if wset else ''
-        x = {'Fecha': start.strftime('%d/%m'), 'Hora': start.strftime('%H:%M'), 'Circuito': r['Categoría'],
+        x = {'Fecha': 'Hoy' if start.date() == today else 'Mañana' if start.date() > today else 'Ayer', 'Hora': start.strftime('%H:%M'), 'Circuito': r['Categoría'],
              'Torneo': r['Torneo'], 'Superficie': surf,
              'Favorito': r[f'Jugador {fav}'], 'Rival': r[f'Jugador {3 - fav}'],
              'Ranking fav.': r[f'Ranking {fav}'], 'Ranking rival': r[f'Ranking {3 - fav}'],
