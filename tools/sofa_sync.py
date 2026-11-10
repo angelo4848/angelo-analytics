@@ -203,7 +203,9 @@ def run_once():
     now = datetime.now(TZ)
     try:  # tenis: partidos de hoy/mañana con favorito claro -> pestaña "Tenis 1.er set"
         import tennis_sync
-        if tennis_sync.run(gh, datetime.now(timezone.utc)):
+        changed = tennis_sync.run(gh, datetime.now(timezone.utc))
+        changed = tennis_sync.backfill(gh, datetime.now(timezone.utc), os.path.join(HERE, 'tennis_backfill.json')) or changed
+        if changed:
             import github_reloj
             github_reloj.dispatch('app-update.yml', {'modo': 'results'})
     except Exception as ex:

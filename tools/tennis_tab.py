@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Pestaña "Tenis 1.er set" del Google Sheet (corre en GitHub cada hora, sin Claude).
 
-Lee data/tenis_hoy.csv (partidos con cuotas que sube tu PC desde SofaScore) y data/tenis_calib.csv
-(histórico ATP/Challenger/WTA: % de 1.er set del favorito según su % de partido). Escribe:
+Lee data/tenis_hoy.csv (partidos con cuotas que sube tu PC desde SofaScore) y data/tenis_hist.csv
+(histórico propio de SofaScore de los últimos 90 días, con cuotas reales). Escribe:
   data/tab_tenis_1set.csv   favoritos claros de hoy y mañana, de más a menos probable
   data/tenis_1set_log.csv   todos los favoritos claros con su resultado (para el % de acierto real)
 """
@@ -14,7 +14,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = os.path.join(ROOT, 'data')
 TZ, UTC = ZoneInfo('Europe/Lisbon'), ZoneInfo('UTC')
 CLEAR = 0.70            # favorito claro: ≥ 70 % de ganar el partido (cuota justa ≤ 1,43)
-MIN_BIN = 150           # mínimo de partidos en un tramo del histórico para fiarse de él
+MIN_BIN = 60            # mínimo de partidos en un tramo del histórico para fiarse de él
 
 
 def load(name):
@@ -49,29 +49,41 @@ def surface(g):
     return 'Tierra' if 'clay' in g else 'Hierba' if 'grass' in g else 'Dura'
 
 
-def prob_set1(p, circ, surf, calib):
-    """Curva real del histórico (partido % -> 1.er set %) del circuito y superficie; si no hay, la fórmula."""
+def build_calib(hist):
+    """Histórico propio (SofaScore, cuotas reales): por grupo y tramo de prob. de partido, % de 1.er set del favorito."""
+    cal = {}
+    for r in hist:
+        try:
+            c1, c2, w1 = float(r['Cuota 1']), float(r['Cuota 2']), r['Ganador 1.er set']
+        except (ValueError, KeyError):
+            continue
+        if w1 not in ('1', '2'):
+            continue
+        fav = '1' if c1 <= c2 else '2'
+        cf = c1 if fav == '1' else c2
+        p = (1 / cf) / (1 / c1 + 1 / c2)
+        grp = 'WTA' if r['Categoría'].startswith('WTA') else 'ATP'
+        b = min(int(p * 20) / 20, 0.95)
+        for g in (grp, 'Todos'):
+            x = cal.setdefault((g, b), [0, 0.0, 0])
+            x[0] += 1; x[1] += p; x[2] += w1 == fav
+    return cal
+
+
+def prob_set1(p, circ, surf, cal):
+    """Tramo real del histórico propio (ajustado dentro del tramo con la fórmula); si no hay muestra, la fórmula."""
     theory = set_from_match(p)
-    for c in (circ, 'ATP' if circ == 'Challenger' else circ, 'Todos'):
-        for s in (surf, 'Todas'):
-            pts = sorted((float(r['Fav gana partido']), float(r['Fav gana 1.er set'])) for r in calib
-                         if r['Circuito'] == c and r['Superficie'] == s and int(r['Partidos']) >= MIN_BIN)
-            if len(pts) < 5:
-                continue
-            pts = [(0.5, 0.5)] + [q for q in pts if q[0] > 0.5]
-            n = sum(int(r['Partidos']) for r in calib if r['Circuito'] == c and r['Superficie'] == s)
-            src = f'Histórico {c} · {s} ({n} partidos)'
-            if p >= pts[-1][0]:     # más allá del último tramo: se sigue la forma de la fórmula
-                m, v = pts[-1]
-                return min(v + theory - set_from_match(m), 0.97), src
-            for (m0, v0), (m1, v1) in zip(pts, pts[1:]):
-                if m0 <= p <= m1:
-                    return v0 + (v1 - v0) * (p - m0) / (m1 - m0 or 1), src
-    return theory, 'Fórmula (sin histórico)'
+    b = min(int(p * 20) / 20, 0.95)
+    for g in ('WTA' if circ == 'WTA' else 'ATP', 'Todos'):
+        x = cal.get((g, b))
+        if x and x[0] >= MIN_BIN:
+            n, sp, ok = x
+            return min(ok / n + theory - set_from_match(sp / n), 0.97), f'Histórico SofaScore {g} ({n} partidos)'
+    return theory, 'Fórmula (aún sin histórico)'
 
 
 def main():
-    rows, calib = load('tenis_hoy.csv'), load('tenis_calib.csv')
+    rows, calib = load('tenis_hoy.csv'), build_calib(load('tenis_hist.csv'))
     now = datetime.now(TZ)
     today = now.date()
     log = {r['Id']: r for r in load('tenis_1set_log.csv')}

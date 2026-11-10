@@ -58,6 +58,66 @@ def set1(e):
     return f'{g1}-{g2}', '1' if g1 > g2 else '2'
 
 
+HIST = 'data/tenis_hist.csv'
+HIST_FIELDS = ['Id', 'Fecha', 'Categoría', 'Superficie', 'Cuota 1', 'Cuota 2', 'Ganador partido', 'Ganador 1.er set']
+BACK_DAYS, DAYS_PER_RUN = 90, 3
+
+
+def backfill(gh, now_utc, cache_path):
+    """Histórico propio para calibrar: partidos terminados de los últimos 90 días con cuota de
+    partido y ganador del 1.er set. Hace 3 días por pasada (unos minutos) hasta completar los 90."""
+    import json, os
+    try:
+        done = set(json.load(open(cache_path)))
+    except Exception:
+        done = set()
+    todo = [(now_utc.date() - timedelta(days=k)).isoformat() for k in range(2, BACK_DAYS + 1)]
+    todo = [d for d in todo if d not in done][:DAYS_PER_RUN]
+    if not todo:
+        return False
+    cur = gh('GET', HIST)
+    have, sha = {}, None
+    if cur:
+        sha = cur['sha']
+        have = {r['Id']: r for r in csv.DictReader(io.StringIO(base64.b64decode(cur['content']).decode('utf-8')))}
+    added = 0
+    for d in todo:
+        data = base.sget(f'/sport/tennis/scheduled-events/{d}')
+        if data is None:
+            break                       # SofaScore no responde: se reintenta en la siguiente pasada
+        for e in data.get('events', []):
+            if not keep(e) or (e.get('status') or {}).get('type') != 'finished' or str(e['id']) in have:
+                continue
+            s1, w1 = set1(e)
+            win = e.get('winnerCode')
+            if not w1 or win not in (1, 2):
+                continue
+            m = odds(e['id']).get('match') or {}
+            c1, c2 = m.get('1'), m.get('2')
+            time.sleep(0.3)
+            if not c1 or not c2 or min(c1, c2) > 1.90:
+                continue
+            have[str(e['id'])] = {'Id': e['id'], 'Fecha': d, 'Categoría': (e['tournament'].get('category') or {}).get('name', ''),
+                                  'Superficie': e.get('groundType') or '', 'Cuota 1': f'{c1:.2f}', 'Cuota 2': f'{c2:.2f}',
+                                  'Ganador partido': win, 'Ganador 1.er set': w1}
+            added += 1
+        done.add(d)
+    json.dump(sorted(done), open(cache_path, 'w'))
+    print(f'  tenis histórico: días {", ".join(todo)} · +{added} partidos (total {len(have)})')
+    if not added:
+        return False
+    buf = io.StringIO()
+    w = csv.DictWriter(buf, fieldnames=HIST_FIELDS, extrasaction='ignore')
+    w.writeheader()
+    w.writerows(sorted(have.values(), key=lambda r: r['Fecha']))
+    body = {'message': f'Tenis histórico SofaScore (+{added})',
+            'content': base64.b64encode(buf.getvalue().encode('utf-8')).decode()}
+    if sha:
+        body['sha'] = sha
+    gh('PUT', HIST, body)
+    return True
+
+
 def run(gh, now_utc):
     """gh = función gh() de sofa_sync. Devuelve True si subió cambios."""
     cur = gh('GET', PATH)
