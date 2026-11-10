@@ -664,196 +664,211 @@
    "liga": "England: EFL Trophy",
    "local": "Crewe",
    "visitante": "Wigan",
-   "tendencia": "★★★ Crewe o empate · cuota ~1,21",
+   "tendencia": "★★★ Crewe o empate · cuota ~1,21 · ✗ fallado",
    "cuotas": [
     1.91,
     3.3,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Mansfield Town",
    "visitante": "Chesterfield",
-   "tendencia": "★★★ Mansfield Town o empate · cuota ~1,33",
+   "tendencia": "★★★ Mansfield Town o empate · cuota ~1,33 · ✗ fallado",
    "cuotas": [
     2.05,
     3.75,
     2.75
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "3 - 5"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Stockport County",
    "visitante": "Tranmere",
-   "tendencia": "★★★ Gana Stockport County · cuota 1,33",
+   "tendencia": "★★★ Gana Stockport County · cuota 1,33 · ✗ fallado",
    "cuotas": [
     1.33,
     4.75,
     6.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Burton Albion",
    "visitante": "Notts County",
-   "tendencia": "★★★ Burton Albion o empate · cuota ~1,31",
+   "tendencia": "★★★ Burton Albion o empate · cuota ~1,31 · ✗ fallado",
    "cuotas": [
     2.0,
     3.8,
     2.9
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Oxford United",
    "visitante": "Cheltenham",
-   "tendencia": "★★★ Gana Oxford United · cuota 1,18",
+   "tendencia": "★★★ Gana Oxford United · cuota 1,18 · ✓ acertado",
    "cuotas": [
     1.18,
     6.5,
     10.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Leicester",
    "visitante": "Walsall",
-   "tendencia": "★★★ Gana Leicester · cuota 1,33",
+   "tendencia": "★★★ Gana Leicester · cuota 1,33 · ✓ acertado",
    "cuotas": [
     1.33,
     5.0,
     6.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "England: EFL Trophy",
    "local": "Bradford",
    "visitante": "York",
-   "tendencia": "★★★ Bradford o empate · cuota ~1,22",
+   "tendencia": "★★★ Bradford o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     1.75,
     4.0,
     3.4
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:30:00+00:00"
+   "inicio": "2026-11-10T19:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "England: National League - North",
    "local": "Morecambe",
    "visitante": "Hereford",
-   "tendencia": "★★★ Morecambe o empate · cuota ~1,35",
+   "tendencia": "★★★ Morecambe o empate · cuota ~1,35 · ✓ acertado",
    "cuotas": [
     2.2,
     3.5,
     2.7
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:45:00+00:00"
+   "inicio": "2026-11-10T19:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "England: National League - North",
    "local": "Scarborough Athletic",
    "visitante": "Marine",
-   "tendencia": "★★★ Scarborough Athletic o empate · cuota ~1,28",
+   "tendencia": "★★★ Scarborough Athletic o empate · cuota ~1,28 · ✗ fallado",
    "cuotas": [
     2.05,
     3.4,
     3.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T19:45:00+00:00"
+   "inicio": "2026-11-10T19:45:00+00:00",
+   "resultado": "1 - 3"
   },
   {
    "liga": "England: National League - North",
    "local": "Darlington 1883",
    "visitante": "Oxford City",
-   "tendencia": "★★★ Oxford City o empate · cuota ~1,26",
+   "tendencia": "★★★ Oxford City o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     3.1,
     3.6,
     1.95
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-10T19:45:00+00:00"
+   "inicio": "2026-11-10T19:45:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "England: National League - South",
    "local": "Hemel Hempstead Town",
    "visitante": "Torquay",
-   "tendencia": "★★★ Torquay o empate · cuota ~1,22",
+   "tendencia": "★★★ Torquay o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     3.4,
     3.6,
     1.85
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-10T19:45:00+00:00"
+   "inicio": "2026-11-10T19:45:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "England: National League - South",
    "local": "Salisbury",
    "visitante": "Braintree",
-   "tendencia": "★★★ Gana Salisbury · cuota 1,36",
+   "tendencia": "★★★ Gana Salisbury · cuota 1,36 · ✓ acertado",
    "cuotas": [
     1.36,
     4.75,
     6.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T19:45:00+00:00"
+   "inicio": "2026-11-10T19:45:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Romania: Liga II",
    "local": "Metalul Buzău",
    "visitante": "CSA Steaua Bucureşti",
-   "tendencia": "★★★ Metalul Buzău o empate · cuota ~1,28",
+   "tendencia": "★★★ Metalul Buzău o empate · cuota ~1,28 · ✓ acertado",
    "cuotas": [
     2.12,
     3.25,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T17:30:00+00:00"
+   "inicio": "2026-11-10T17:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Spain: Copa del Rey",
    "local": "Anaitasuna",
    "visitante": "Alaves",
-   "tendencia": "★★★ Gana Alaves · cuota 1,03",
+   "tendencia": "★★★ Gana Alaves · cuota 1,03 · ✓ acertado",
    "cuotas": [
     41.0,
     15.0,
     1.03
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-10T18:00:00+00:00"
+   "inicio": "2026-11-10T18:00:00+00:00",
+   "resultado": "1 - 6"
   },
   {
    "liga": "Spain: Copa del Rey",
    "local": "Pamplona",
    "visitante": "Eibar",
-   "tendencia": "★★★ Gana Eibar · cuota 1,22",
+   "tendencia": "★★★ Gana Eibar · cuota 1,22 · ✓ acertado",
    "cuotas": [
     12.0,
     6.0,
     1.22
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-10T18:00:00+00:00"
+   "inicio": "2026-11-10T18:00:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Spain: Copa del Rey",
@@ -872,27 +887,29 @@
    "liga": "Spain: Copa del Rey",
    "local": "Mijas Las Lagunas",
    "visitante": "Real Jaén",
-   "tendencia": "★★★ Real Jaén o empate · cuota ~1,26",
+   "tendencia": "★★★ Real Jaén o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     3.25,
     3.25,
     2.05
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Spain: Copa del Rey",
    "local": "Trival Valderas",
    "visitante": "Leganes",
-   "tendencia": "★★★ Gana Leganes · cuota 1,15",
+   "tendencia": "★★★ Gana Leganes · cuota 1,15 · ✓ acertado",
    "cuotas": [
     17.0,
     7.0,
     1.15
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
@@ -925,27 +942,29 @@
    "liga": "Colombia: Primera B",
    "local": "Envigado",
    "visitante": "Popayan",
-   "tendencia": "★★★ Gana Envigado · cuota 1,62",
+   "tendencia": "★★★ Gana Envigado · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.6,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T20:30:00+00:00"
+   "inicio": "2026-11-10T20:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Egypt: Cup",
    "local": "El Mokawloon",
    "visitante": "Itesalat",
-   "tendencia": "★★★ Gana El Mokawloon · cuota 1,60",
+   "tendencia": "★★★ Gana El Mokawloon · cuota 1,60 · ✓ acertado",
    "cuotas": [
     1.6,
     3.4,
     5.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T15:00:00+00:00"
+   "inicio": "2026-11-10T15:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "El-Salvador: Primera Division",
@@ -964,40 +983,43 @@
    "liga": "Spain: Copa del Rey",
    "local": "Amorebieta",
    "visitante": "UD Logroñés",
-   "tendencia": "★★★ UD Logroñés o empate · cuota ~1,31",
+   "tendencia": "★★★ UD Logroñés o empate · cuota ~1,31 · ✗ fallado",
    "cuotas": [
     3.4,
     3.5,
     2.1
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-10T19:00:00+00:00"
+   "inicio": "2026-11-10T19:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Spain: Copa del Rey",
    "local": "Tavernes",
    "visitante": "Valencia",
-   "tendencia": "★★★ Gana Valencia · cuota 1,00",
+   "tendencia": "★★★ Gana Valencia · cuota 1,00 · ✓ acertado",
    "cuotas": [
     67.0,
     26.0,
     1.0
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-10T20:00:00+00:00"
+   "inicio": "2026-11-10T20:00:00+00:00",
+   "resultado": "0 - 6"
   },
   {
    "liga": "Uruguay: Copa Uruguay",
    "local": "Boston River",
    "visitante": "Atletico Torque",
-   "tendencia": "★★★ Atletico Torque o empate · cuota ~1,30",
+   "tendencia": "★★★ Atletico Torque o empate · cuota ~1,30 · ✓ acertado",
    "cuotas": [
     3.25,
     3.1,
     2.25
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-10T19:30:00+00:00"
+   "inicio": "2026-11-10T19:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Brazil: Serie B",

@@ -1,11 +1,11 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-18:00,Spain: Copa del Rey,Pamplona,Eibar,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-18:00,Spain: Copa del Rey,Anaitasuna,Alaves,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Spain: Copa del Rey,Trival Valderas,Leganes,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Spain: Copa del Rey,Mijas Las Lagunas,Real Jaén,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Spain: Copa del Rey,Badajoz,Tenerife,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-19:00,Spain: Copa del Rey,Amorebieta,UD Logroñés,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-20:00,Spain: Copa del Rey,Tavernes,Valencia,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
+18:00,Spain: Copa del Rey,Pamplona,Eibar,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,0 - 3
+18:00,Spain: Copa del Rey,Anaitasuna,Alaves,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,1 - 6
+19:00,Spain: Copa del Rey,Trival Valderas,Leganes,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,0 - 1
+19:00,Spain: Copa del Rey,Mijas Las Lagunas,Real Jaén,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,1 - 2
+19:00,Spain: Copa del Rey,Badajoz,Tenerife,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
+19:00,Spain: Copa del Rey,Amorebieta,UD Logroñés,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,1 - 0
+20:00,Spain: Copa del Rey,Tavernes,Valencia,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,0 - 6
 14:00,Algeria: Ligue 2,WA Tlemcen,RC Arba,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,0 - 0
 14:00,Algeria: Ligue 2,Paradou AC,JSM Skikda,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,1 - 0
 14:00,Algeria: Ligue 2,MO Bejaia,IRB Nezla,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,2 - 1
@@ -13,6 +13,13 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 01:30,Peru: Primera División,Universitario,UCV Moquegua,10.3,40%,53%,83%,73%,18,No,Registro ESPN/SofaScore,2 - 2
 01:00,El-Salvador: Primera Division,FAS,Fuerte San Francisco,10.4,33%,52%,92%,82%,5,No,Registro ESPN/SofaScore (muestra baja),2 - 2
 21:30,El-Salvador: Primera Division,Cacahuatique,Firpo,10.4,33%,52%,92%,82%,5,No,Registro ESPN/SofaScore (muestra baja),
+19:00,England: EFL Trophy,Stockport County,Tranmere,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),0 - 0
+19:00,England: EFL Trophy,Oxford United,Cheltenham,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),4 - 0
+19:00,England: EFL Trophy,Mansfield Town,Chesterfield,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),3 - 5
+19:00,England: EFL Trophy,Leicester,Walsall,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+19:00,England: EFL Trophy,Crewe,Wigan,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),1 - 2
+19:00,England: EFL Trophy,Burton Albion,Notts County,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),0 - 3
+19:30,England: EFL Trophy,Bradford,York,10.9,41%,48%,72%,66%,7,No,Registro ESPN/SofaScore (muestra baja),4 - 0
 01:15,Colombia: Primera A,Alianza Valledupar,Llaneros,10.9,35%,45%,82%,74%,18,No,Registro ESPN/SofaScore,1 - 2
 00:00,Mexico: Liga MX,Club Queretaro,Puebla,11.2,29%,41%,89%,82%,12,No,Registro ESPN/SofaScore,0 - 2
 02:10,Mexico: Liga MX,Leon,Guadalajara Chivas,11.2,29%,41%,89%,82%,12,No,Registro ESPN/SofaScore,1 - 1
