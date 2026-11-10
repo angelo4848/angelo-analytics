@@ -1,6 +1,6 @@
 {
  "futbol": {
-  "partidos": 35369,
+  "partidos": 35371,
   "temporadas": [
    "2122",
    "2223",
@@ -16,8 +16,8 @@
     "cuota_media": 1.28,
     "roi": -0.52,
     "beneficio_u": -8.9,
-    "max_caida_u": 23.3,
-    "peor_racha": 7
+    "max_caida_u": 23.1,
+    "peor_racha": 8
    },
    "todos": {
     "n": 5570,
@@ -25,8 +25,8 @@
     "cuota_media": 1.34,
     "roi": -0.85,
     "beneficio_u": -47.3,
-    "max_caida_u": 93.1,
-    "peor_racha": 6
+    "max_caida_u": 92.6,
+    "peor_racha": 5
    },
    "1,36-1,50": {
     "n": 2850,
@@ -34,8 +34,8 @@
     "cuota_media": 1.43,
     "roi": -1.08,
     "beneficio_u": -30.7,
-    "max_caida_u": 72.0,
-    "peor_racha": 7
+    "max_caida_u": 72.5,
+    "peor_racha": 9
    },
    "≤1,20": {
     "n": 1013,
@@ -44,7 +44,7 @@
     "roi": -0.76,
     "beneficio_u": -7.7,
     "max_caida_u": 14.3,
-    "peor_racha": 3
+    "peor_racha": 2
    }
   },
   "F2_valor_1x2": {
@@ -54,7 +54,7 @@
     "cuota_media": 4.56,
     "roi": -0.59,
     "beneficio_u": -23.4,
-    "max_caida_u": 106.6,
+    "max_caida_u": 105.3,
     "peor_racha": 18
    },
    "margen 2%": {
@@ -63,8 +63,8 @@
     "cuota_media": 5.41,
     "roi": -1.39,
     "beneficio_u": -22.4,
-    "max_caida_u": 65.6,
-    "peor_racha": 20
+    "max_caida_u": 67.3,
+    "peor_racha": 18
    },
    "margen 5%": {
     "n": 520,
@@ -92,8 +92,8 @@
     "cuota_media": 5.68,
     "roi": -1.07,
     "beneficio_u": -15.7,
-    "max_caida_u": 60.5,
-    "peor_racha": 19
+    "max_caida_u": 61.4,
+    "peor_racha": 22
    },
    "<1,80": {
     "n": 11,
@@ -158,7 +158,7 @@
     "roi": -11.2,
     "beneficio_u": -5.2,
     "max_caida_u": 16.6,
-    "peor_racha": 7
+    "peor_racha": 8
    },
    "España 2": {
     "n": 122,
@@ -193,7 +193,7 @@
     "cuota_media": 6.61,
     "roi": 7.55,
     "beneficio_u": 13.2,
-    "max_caida_u": 14.7,
+    "max_caida_u": 15.7,
     "peor_racha": 11
    },
    "Holanda 1": {
@@ -202,8 +202,8 @@
     "cuota_media": 6.76,
     "roi": 24.25,
     "beneficio_u": 32.0,
-    "max_caida_u": 18.6,
-    "peor_racha": 10
+    "max_caida_u": 19.4,
+    "peor_racha": 11
    },
    "Inglaterra 1": {
     "n": 57,
@@ -229,7 +229,7 @@
     "cuota_media": 4.7,
     "roi": -10.36,
     "beneficio_u": -14.3,
-    "max_caida_u": 31.2,
+    "max_caida_u": 30.2,
     "peor_racha": 15
    },
    "Inglaterra 4": {
@@ -285,8 +285,8 @@
     "cuota_media": 2.61,
     "roi": -2.73,
     "beneficio_u": -23.7,
-    "max_caida_u": 55.4,
-    "peor_racha": 13
+    "max_caida_u": 56.9,
+    "peor_racha": 14
    },
    "margen 2%": {
     "n": 416,
@@ -294,8 +294,8 @@
     "cuota_media": 2.82,
     "roi": -5.22,
     "beneficio_u": -21.7,
-    "max_caida_u": 44.0,
-    "peor_racha": 16
+    "max_caida_u": 44.9,
+    "peor_racha": 17
    },
    "margen 5%": {
     "n": 160,
@@ -304,7 +304,7 @@
     "roi": -6.06,
     "beneficio_u": -9.7,
     "max_caida_u": 13.8,
-    "peor_racha": 9
+    "peor_racha": 8
    },
    "margen 8%": {
     "n": 86,
@@ -318,8 +318,8 @@
   },
   "descanso_0_0": {
    "España 2": {
-    "pct": 35.9,
-    "n": 2448
+    "pct": 36.0,
+    "n": 2450
    },
    "Francia 2": {
     "pct": 34.1,
