@@ -201,6 +201,13 @@ def run_once():
         print('Falta GITHUB_TOKEN en bot_config.txt (mira el archivo LEEME_sofa_sync.txt)')
         return
     now = datetime.now(TZ)
+    try:  # tenis: partidos de hoy/mañana con favorito claro -> pestaña "Tenis 1.er set"
+        import tennis_sync
+        if tennis_sync.run(gh, datetime.now(timezone.utc)):
+            import github_reloj
+            github_reloj.dispatch('app-update.yml', {'modo': 'results'})
+    except Exception as ex:
+        print('  tenis: error', str(ex)[:150])
     reg = list(csv.DictReader(io.StringIO(raw('app.csv'))))
     cur = gh('GET', PATH)
     have, sha = {}, None

@@ -27,9 +27,11 @@ jobs:
       - run: python3 tools/history.py
       - run: python3 tools/calibrate.py
       - run: python3 tools/backtest.py
+      - run: python3 tools/tennis_calib.py || true
       - name: Guardar informe e histórico
         run: |
           git add reports data/history.csv data/calibracion.csv
+          if [ -f data/tenis_calib.csv ]; then git add data/tenis_calib.csv; fi
           if git diff --cached --quiet; then exit 0; fi
           git config user.name "A. Analytics bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"

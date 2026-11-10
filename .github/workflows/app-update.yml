@@ -49,6 +49,8 @@ jobs:
         run: python3 tools/export_csv.py
       - name: Modelo (pestañas −0,5 / +0,5 / córners / pronósticos)
         run: python3 tools/model.py || true
+      - name: Tenis 1.er set (partidos que sube el PC desde SofaScore)
+        run: python3 tools/tennis_tab.py || true
       - name: Resultado del pick del bot
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
