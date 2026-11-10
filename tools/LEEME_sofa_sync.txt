@@ -25,6 +25,6 @@ No compartas nunca el token ni bot_config.txt.
 
 TENIS (nuevo): el mismo programa sube también cada hora los partidos de tenis de hoy y mañana
 (ATP, WTA, Challenger y WTA 125, sin ITF ni UTR) con sus cuotas, y va descargando poco a poco los
-partidos de los últimos 90 días (con cuotas reales) para calcular la probabilidad real. GitHub calcula la de
-que el favorito gane el 1.er set y la pone en la pestaña "Tenis 1.er set" del Google Sheet.
+partidos de los últimos 90 días (con cuotas reales) para calcular la probabilidad real.
+GitHub calcula la probabilidad de que el favorito gane el 1.er set y la pone en la pestaña "Tenis 1.er set" del Google Sheet.
 Solo hace falta tener en la carpeta tools los archivos sofa_sync.py y tennis_sync.py actualizados.
