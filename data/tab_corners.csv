@@ -6,11 +6,13 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 19:00,Spain: Copa del Rey,Badajoz,Tenerife,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
 19:00,Spain: Copa del Rey,Amorebieta,UD Logroñés,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
 20:00,Spain: Copa del Rey,Tavernes,Valencia,1.8,98%,99%,6%,3%,10,No,Registro ESPN/SofaScore (muestra baja),
-14:00,Algeria: Ligue 2,WA Tlemcen,RC Arba,9.1,55%,70%,73%,60%,7,No,Registro ESPN/SofaScore (muestra baja),
-14:00,Algeria: Ligue 2,Paradou AC,JSM Skikda,9.1,55%,70%,73%,60%,7,No,Registro ESPN/SofaScore (muestra baja),
-14:00,Algeria: Ligue 2,MO Bejaia,IRB Nezla,9.1,55%,70%,73%,60%,7,No,Registro ESPN/SofaScore (muestra baja),
-14:00,Algeria: Ligue 2,JS Jijel,CR Béni Thour,9.1,55%,70%,73%,60%,7,No,Registro ESPN/SofaScore (muestra baja),
-01:30,Peru: Primera División,Universitario,UCV Moquegua,9.9,44%,60%,83%,71%,17,No,Registro ESPN/SofaScore,
-01:15,Colombia: Primera A,Alianza Valledupar,Llaneros,10.8,37%,47%,80%,72%,17,No,Registro ESPN/SofaScore,
-00:00,Mexico: Liga MX,Club Queretaro,Puebla,11.7,23%,34%,92%,86%,10,No,Registro ESPN/SofaScore (muestra baja),
-02:10,Mexico: Liga MX,Leon,Guadalajara Chivas,11.7,23%,34%,92%,86%,10,No,Registro ESPN/SofaScore (muestra baja),
+14:00,Algeria: Ligue 2,WA Tlemcen,RC Arba,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,0 - 0
+14:00,Algeria: Ligue 2,Paradou AC,JSM Skikda,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,1 - 0
+14:00,Algeria: Ligue 2,MO Bejaia,IRB Nezla,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,2 - 1
+14:00,Algeria: Ligue 2,JS Jijel,CR Béni Thour,9.3,53%,69%,77%,63%,10,No,Registro ESPN/SofaScore,2 - 1
+01:30,Peru: Primera División,Universitario,UCV Moquegua,10.3,40%,53%,83%,73%,18,No,Registro ESPN/SofaScore,2 - 2
+01:00,El-Salvador: Primera Division,FAS,Fuerte San Francisco,10.4,33%,52%,92%,82%,5,No,Registro ESPN/SofaScore (muestra baja),2 - 2
+21:30,El-Salvador: Primera Division,Cacahuatique,Firpo,10.4,33%,52%,92%,82%,5,No,Registro ESPN/SofaScore (muestra baja),
+01:15,Colombia: Primera A,Alianza Valledupar,Llaneros,10.9,35%,45%,82%,74%,18,No,Registro ESPN/SofaScore,1 - 2
+00:00,Mexico: Liga MX,Club Queretaro,Puebla,11.2,29%,41%,89%,82%,12,No,Registro ESPN/SofaScore,0 - 2
+02:10,Mexico: Liga MX,Leon,Guadalajara Chivas,11.2,29%,41%,89%,82%,12,No,Registro ESPN/SofaScore,1 - 1

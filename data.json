@@ -570,40 +570,43 @@
    "liga": "Algeria: Ligue 2",
    "local": "MO Bejaia",
    "visitante": "IRB Nezla",
-   "tendencia": "★★★ Gana MO Bejaia · cuota 1,62",
+   "tendencia": "★★★ Gana MO Bejaia · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.2,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T14:00:00+00:00"
+   "inicio": "2026-11-10T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "WA Tlemcen",
    "visitante": "RC Arba",
-   "tendencia": "★★★ WA Tlemcen o empate · cuota ~1,12",
+   "tendencia": "★★★ WA Tlemcen o empate · cuota ~1,12 · ✓ acertado",
    "cuotas": [
     1.86,
     2.84,
     4.21
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-10T14:00:00+00:00"
+   "inicio": "2026-11-10T14:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Algeria: Ligue 2",
    "local": "Paradou AC",
    "visitante": "JSM Skikda",
-   "tendencia": "★★★ Gana Paradou AC · cuota 1,57",
+   "tendencia": "★★★ Gana Paradou AC · cuota 1,57 · ✓ acertado",
    "cuotas": [
     1.57,
     3.4,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T14:00:00+00:00"
+   "inicio": "2026-11-10T14:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Bolivia: Primera División",
@@ -895,14 +898,15 @@
    "liga": "Algeria: Ligue 2",
    "local": "JS Jijel",
    "visitante": "CR Béni Thour",
-   "tendencia": "★★★ Gana JS Jijel · cuota 1,50",
+   "tendencia": "★★★ Gana JS Jijel · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     3.3,
     6.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-10T14:00:00+00:00"
+   "inicio": "2026-11-10T14:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Brazil: Copa Fares Lopes",
