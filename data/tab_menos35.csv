@@ -1,37 +1,9 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
-20:30,Colombia: Primera B,Envigado,Popayan,78%,1.28,58%,1.72,89%,1.12,1.80,5,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-00:00,Guatemala: Liga Nacional,Antigua GFC,Malacateco,76%,1.32,55%,1.83,89%,1.12,1.89,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-00:30,Costa-Rica: Primera División,CS Herediano,Inter San Carlos,75%,1.32,52%,1.91,88%,1.13,2.33,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
-01:15,Colombia: Primera A,Alianza Valledupar,Llaneros,73%,1.37,49%,2.04,88%,1.13,2.58,19,No,Registro ESPN/SofaScore,1 - 2,Acertado
-14:00,Algeria: Ligue 2,WA Tlemcen,RC Arba,73%,1.37,50%,2.00,85%,1.17,2.46,24,No,Registro ESPN/SofaScore,0 - 0,Acertado
-14:00,Algeria: Ligue 2,Paradou AC,JSM Skikda,73%,1.37,50%,2.00,85%,1.17,2.46,24,No,Registro ESPN/SofaScore,1 - 0,Acertado
-14:00,Algeria: Ligue 2,MO Bejaia,IRB Nezla,73%,1.37,50%,2.00,85%,1.17,2.46,24,No,Registro ESPN/SofaScore,2 - 1,Acertado
-14:00,Algeria: Ligue 2,JS Jijel,CR Béni Thour,73%,1.37,50%,2.00,85%,1.17,2.46,24,No,Registro ESPN/SofaScore,2 - 1,Acertado
-15:00,Egypt: Cup,El Mokawloon,Itesalat,73%,1.38,51%,1.94,84%,1.18,2.45,11,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-17:30,Romania: Liga II,Metalul Buzău,CSA Steaua Bucureşti,72%,1.39,49%,2.04,87%,1.15,2.58,19,No,Registro ESPN/SofaScore,2 - 1,Acertado
-01:30,Peru: Primera División,Universitario,UCV Moquegua,70%,1.44,48%,2.08,86%,1.17,2.64,22,No,Registro ESPN/SofaScore,2 - 2,Fallado
-01:30,Honduras: Liga Nacional,CD Marathon,Atlético Choloma,68%,1.46,49%,2.03,85%,1.18,2.91,11,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-00:00,Mexico: Liga MX,Club Queretaro,Puebla,65%,1.54,45%,2.21,85%,1.17,3.00,14,No,Registro ESPN/SofaScore,0 - 2,Acertado
-02:10,Mexico: Liga MX,Leon,Guadalajara Chivas,65%,1.54,45%,2.21,85%,1.17,3.00,14,No,Registro ESPN/SofaScore,1 - 1,Acertado
-18:00,Spain: Copa del Rey,Pamplona,Eibar,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,0 - 3,Acertado
-18:00,Spain: Copa del Rey,Anaitasuna,Alaves,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,1 - 6,Fallado
-19:00,Spain: Copa del Rey,Trival Valderas,Leganes,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,0 - 1,Acertado
-19:00,Spain: Copa del Rey,Mijas Las Lagunas,Real Jaén,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,1 - 2,Acertado
-19:00,Spain: Copa del Rey,Badajoz,Tenerife,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,,
-19:00,Spain: Copa del Rey,Amorebieta,UD Logroñés,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,1 - 0,Acertado
-20:00,Spain: Copa del Rey,Tavernes,Valencia,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,0 - 6,Fallado
-19:00,England: EFL Trophy,Stockport County,Tranmere,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
-19:00,England: EFL Trophy,Oxford United,Cheltenham,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),4 - 0,Fallado
-19:00,England: EFL Trophy,Mansfield Town,Chesterfield,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),3 - 5,Fallado
-19:00,England: EFL Trophy,Leicester,Walsall,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),2 - 1,Acertado
-19:00,England: EFL Trophy,Crewe,Wigan,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
-19:00,England: EFL Trophy,Burton Albion,Notts County,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),0 - 3,Acertado
-19:30,England: EFL Trophy,Bradford,York,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),4 - 0,Fallado
-19:45,England: National League - South,Salisbury,Braintree,61%,1.64,39%,2.58,82%,1.22,3.18,22,No,Registro ESPN/SofaScore,2 - 0,Acertado
-19:45,England: National League - South,Hemel Hempstead Town,Torquay,61%,1.64,39%,2.58,82%,1.22,3.18,22,No,Registro ESPN/SofaScore,0 - 2,Acertado
-19:30,Uruguay: Copa Uruguay,Boston River,Atletico Torque,60%,1.67,40%,2.53,77%,1.30,4.00,5,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
-01:00,El-Salvador: Primera Division,FAS,Fuerte San Francisco,57%,1.75,39%,2.59,73%,1.37,3.88,8,No,Registro ESPN/SofaScore (muestra baja),2 - 2,Fallado
-21:30,El-Salvador: Primera Division,Cacahuatique,Firpo,57%,1.75,39%,2.59,73%,1.37,3.88,8,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,England: National League - North,Scarborough Athletic,Marine,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),1 - 3,Fallado
-19:45,England: National League - North,Morecambe,Hereford,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),2 - 2,Fallado
-19:45,England: National League - North,Darlington 1883,Oxford City,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
+23:00,Colombia: Primera B,Real Cundinamarca,Real Cartagena,78%,1.28,58%,1.72,89%,1.12,1.80,5,No,Registro ESPN/SofaScore (muestra baja),,
+00:00,Colombia: Primera A,Junior,Cucuta,73%,1.37,49%,2.04,88%,1.13,2.58,19,No,Registro ESPN/SofaScore,,
+22:00,Brazil: Serie B,Londrina,Nautico Recife,71%,1.40,46%,2.19,88%,1.13,2.67,21,No,Registro ESPN/SofaScore,,
+00:30,Bolivia: Primera División,Aurora,Universitario de Vinto,63%,1.58,42%,2.37,79%,1.27,3.27,15,No,Registro ESPN/SofaScore,,
+19:00,England: EFL Trophy,Sheffield Wednesday,Accrington ST,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,England: EFL Trophy,Barnsley,Oldham,62%,1.62,35%,2.84,81%,1.23,3.57,7,No,Registro ESPN/SofaScore (muestra baja),,
+21:30,El-Salvador: Primera Division,Fuerte San Francisco,Alianza,60%,1.67,42%,2.40,75%,1.33,3.67,9,No,Registro ESPN/SofaScore (muestra baja),,
+01:00,Costa-Rica: Liga de Ascenso,Aserri FC,Pitbulls Santa Barbara FC,59%,1.69,35%,2.83,77%,1.30,3.50,10,No,Registro ESPN/SofaScore (muestra baja),,
