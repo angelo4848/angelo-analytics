@@ -596,14 +596,15 @@
    "liga": "Belgium: First Amateur Division",
    "local": "Onhaye",
    "visitante": "Habay-la-Neuve",
-   "tendencia": "★★★ Habay-la-Neuve o empate · cuota ~1,42",
+   "tendencia": "★★★ Habay-la-Neuve o empate · cuota ~1,42 · ✗ fallado",
    "cuotas": [
     2.45,
     3.5,
     2.38
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T13:30:00+00:00"
+   "inicio": "2026-11-11T13:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Bosnia: 1st League - RS",
@@ -674,14 +675,15 @@
    "liga": "Slovakia: Cup",
    "local": "Podbrezová",
    "visitante": "Zlaté Moravce",
-   "tendencia": "★★★ Gana Podbrezová · cuota 1,18",
+   "tendencia": "★★★ Gana Podbrezová · cuota 1,18 · ✓ acertado",
    "cuotas": [
     1.18,
     7.0,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T15:00:00+00:00"
+   "inicio": "2026-11-11T15:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Spain: Segunda División RFEF - Group 3",
@@ -713,92 +715,99 @@
    "liga": "Turkey: 3. Lig - Group 1",
    "local": "Pazarspor",
    "visitante": "Kartal Bulvarspor",
-   "tendencia": "★★★ Pazarspor o empate · cuota ~1,18",
+   "tendencia": "★★★ Pazarspor o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     1.83,
     3.3,
     3.75
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-11T10:00:00+00:00"
+   "inicio": "2026-11-11T10:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Turkey: 3. Lig - Group 1",
    "local": "Küçükçekmece Sinopspor",
    "visitante": "Fatsa Belediyespor",
-   "tendencia": "★★★ Fatsa Belediyespor o empate · cuota ~1,30",
+   "tendencia": "★★★ Fatsa Belediyespor o empate · cuota ~1,30 · ✗ fallado",
    "cuotas": [
     2.88,
     3.2,
     2.2
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T11:00:00+00:00"
+   "inicio": "2026-11-11T11:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Turkey: 3. Lig - Group 1",
    "local": "Beykoz Anadolu",
    "visitante": "Yalova Yeşilovaspor",
-   "tendencia": "★★★ Gana Beykoz Anadolu · cuota 1,55",
+   "tendencia": "★★★ Gana Beykoz Anadolu · cuota 1,55 · ✗ fallado",
    "cuotas": [
     1.55,
     3.7,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T12:00:00+00:00"
+   "inicio": "2026-11-11T12:00:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "Turkey: 3. Lig - Group 2",
    "local": "Kepezspor",
    "visitante": "Balıkesirspor",
-   "tendencia": "★★★ Gana Balıkesirspor · cuota 1,55",
+   "tendencia": "★★★ Gana Balıkesirspor · cuota 1,55 · ✓ acertado",
    "cuotas": [
     5.0,
     3.7,
     1.55
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-11T10:00:00+00:00"
+   "inicio": "2026-11-11T10:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Turkey: 3. Lig - Group 2",
    "local": "Karsiyaka",
    "visitante": "Nilüfer Belediye",
-   "tendencia": "★★★ Karsiyaka o empate · cuota ~1,25",
+   "tendencia": "★★★ Karsiyaka o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     1.91,
     3.6,
     3.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-11T12:30:00+00:00"
+   "inicio": "2026-11-11T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Turkey: 3. Lig - Group 2",
    "local": "Gaziemirspor",
    "visitante": "Akşehirspor",
-   "tendencia": "★★★ Gana Gaziemirspor · cuota 1,48",
+   "tendencia": "★★★ Gana Gaziemirspor · cuota 1,48 · ✓ acertado",
    "cuotas": [
     1.48,
     4.1,
     5.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T12:30:00+00:00"
+   "inicio": "2026-11-11T12:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Turkey: 3. Lig - Group 3",
    "local": "Adana Adaletgucu",
    "visitante": "Karaköprü Belediyespor",
-   "tendencia": "★★★ Karaköprü Belediyespor o empate · cuota ~1,21",
+   "tendencia": "★★★ Karaköprü Belediyespor o empate · cuota ~1,21 · ✓ acertado",
    "cuotas": [
     3.5,
     4.0,
     1.73
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T10:00:00+00:00"
+   "inicio": "2026-11-11T10:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Turkey: 3. Lig - Group 3",
@@ -830,40 +839,43 @@
    "liga": "Friendlies",
    "local": "Vietnam",
    "visitante": "Chinese Taipei",
-   "tendencia": "★★★ Gana Vietnam · cuota 1,12",
+   "tendencia": "★★★ Gana Vietnam · cuota 1,12 · ✓ acertado",
    "cuotas": [
     1.12,
     8.0,
     17.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T12:00:00+00:00"
+   "inicio": "2026-11-11T12:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "SAFF Championship",
    "local": "India",
    "visitante": "Maldives",
-   "tendencia": "★★★ Gana India · cuota 1,22",
+   "tendencia": "★★★ Gana India · cuota 1,22 · ✓ acertado",
    "cuotas": [
     1.22,
     5.75,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T09:30:00+00:00"
+   "inicio": "2026-11-11T09:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "SAFF Championship",
    "local": "Bangladesh",
    "visitante": "Sri Lanka",
-   "tendencia": "★★★ Bangladesh o empate · cuota ~1,24",
+   "tendencia": "★★★ Bangladesh o empate · cuota ~1,24 · ✓ acertado",
    "cuotas": [
     2.1,
     3.0,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-11T14:00:00+00:00"
+   "inicio": "2026-11-11T14:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "UEFA Nations League",
