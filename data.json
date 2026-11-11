@@ -649,14 +649,15 @@
    "liga": "France: National 2 - Group C",
    "local": "Saint-Priest",
    "visitante": "Rumilly Vallières",
-   "tendencia": "★★★ Rumilly Vallières o empate · cuota ~1,20",
+   "tendencia": "★★★ Rumilly Vallières o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     3.5,
     3.5,
     1.83
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T16:00:00+00:00"
+   "inicio": "2026-11-11T16:00:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Lithuania: 1 Lyga",
@@ -702,14 +703,15 @@
    "liga": "Spain: Tercera División RFEF - Group 11",
    "local": "Manacor",
    "visitante": "Inter Ibiza",
-   "tendencia": "★★★ Gana Manacor · cuota 1,25",
+   "tendencia": "★★★ Gana Manacor · cuota 1,25 · ✓ acertado",
    "cuotas": [
     1.25,
     5.25,
     9.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T16:30:00+00:00"
+   "inicio": "2026-11-11T16:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Turkey: 3. Lig - Group 1",
@@ -813,14 +815,15 @@
    "liga": "Turkey: 3. Lig - Group 3",
    "local": "Silifke Belediyespor",
    "visitante": "Yeni Mersin Idmanyurdu",
-   "tendencia": "★★★ Yeni Mersin Idmanyurdu o empate · cuota ~1,32",
+   "tendencia": "★★★ Yeni Mersin Idmanyurdu o empate · cuota ~1,32 · ✓ acertado",
    "cuotas": [
     2.8,
     3.4,
     2.15
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T16:00:00+00:00"
+   "inicio": "2026-11-11T16:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Ukraine: Persha Liga",
@@ -1453,14 +1456,15 @@
    "liga": "Mali: Première Division",
    "local": "Derby Academie",
    "visitante": "AS Kayes",
-   "tendencia": "★★★ Derby Academie o empate · cuota ~1,11",
+   "tendencia": "★★★ Derby Academie o empate · cuota ~1,11 · ✓ acertado",
    "cuotas": [
     1.7,
     3.2,
     5.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-11T18:30:00+00:00"
+   "inicio": "2026-11-11T18:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Spain: Tercera División RFEF - Group 6",
