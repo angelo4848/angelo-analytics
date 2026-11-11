@@ -1423,6 +1423,84 @@
    ],
    "tipo": "HOME DC",
    "inicio": "2026-11-12T15:00:00+00:00"
+  },
+  {
+   "liga": "Bolivia: Copa de la División Profesional",
+   "local": "Independiente Petrolero",
+   "visitante": "Always Ready",
+   "tendencia": "★★★ Always Ready o empate · cuota ~1,21",
+   "cuotas": [
+    3.5,
+    4.0,
+    1.73
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-11T22:00:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "Derby Academie",
+   "visitante": "AS Kayes",
+   "tendencia": "★★★ Derby Academie o empate · cuota ~1,11",
+   "cuotas": [
+    1.7,
+    3.2,
+    5.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-11T18:30:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 6",
+   "local": "Ontinyent 1931",
+   "visitante": "Utiel",
+   "tendencia": "★★★ Gana Ontinyent 1931 · cuota 1,48",
+   "cuotas": [
+    1.48,
+    3.9,
+    5.75
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-11T19:00:00+00:00"
+  },
+  {
+   "liga": "Venezuela: Segunda División",
+   "local": "Zamora FC B",
+   "visitante": "Deportivo Lara",
+   "tendencia": "★★★ Deportivo Lara o empate · cuota ~1,19",
+   "cuotas": [
+    3.7,
+    3.4,
+    1.83
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-11T19:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Serie B",
+   "local": "Ponte Preta",
+   "visitante": "Operario-PR",
+   "tendencia": "★★★ Gana Operario-PR · cuota 1,55",
+   "cuotas": [
+    5.0,
+    4.0,
+    1.55
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-12T22:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Serie B",
+   "local": "São Bernardo",
+   "visitante": "Athletic Club",
+   "tendencia": "★★★ São Bernardo o empate · cuota ~1,20",
+   "cuotas": [
+    1.91,
+    3.2,
+    4.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-12T23:00:00+00:00"
   }
  ],
  "historial_pronosticos": [
