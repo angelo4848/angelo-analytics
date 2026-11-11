@@ -623,27 +623,29 @@
    "liga": "Cameroon: Elite One",
    "local": "Colombe",
    "visitante": "Victoria United",
-   "tendencia": "★★★ Gana Colombe · cuota 1,27",
+   "tendencia": "★★★ Gana Colombe · cuota 1,27 · ✓ acertado",
    "cuotas": [
     1.27,
     4.33,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-11T17:00:00+00:00"
+   "inicio": "2026-11-11T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Czech-Republic: Cup",
    "local": "Artis",
    "visitante": "FK Jablonec",
-   "tendencia": "★★★ FK Jablonec o empate · cuota ~1,21",
+   "tendencia": "★★★ FK Jablonec o empate · cuota ~1,21 · ✗ fallado",
    "cuotas": [
     3.6,
     3.3,
     1.9
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T17:00:00+00:00"
+   "inicio": "2026-11-11T17:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "France: National 2 - Group C",
@@ -663,14 +665,15 @@
    "liga": "Lithuania: 1 Lyga",
    "local": "Babrungas",
    "visitante": "Minija",
-   "tendencia": "★★★ Minija o empate · cuota ~1,37",
+   "tendencia": "★★★ Minija o empate · cuota ~1,37 · ✓ acertado",
    "cuotas": [
     2.55,
     3.6,
     2.2
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-11T16:30:00+00:00"
+   "inicio": "2026-11-11T16:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Slovakia: Cup",
@@ -690,14 +693,15 @@
    "liga": "Spain: Segunda División RFEF - Group 3",
    "local": "Castellonense",
    "visitante": "La Nucía",
-   "tendencia": "★★★ Castellonense o empate · cuota ~1,39",
+   "tendencia": "★★★ Castellonense o empate · cuota ~1,39 · ✓ acertado",
    "cuotas": [
     2.4,
     3.3,
     2.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-11T17:45:00+00:00"
+   "inicio": "2026-11-11T17:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Spain: Tercera División RFEF - Group 11",
