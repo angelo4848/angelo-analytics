@@ -1,9 +1,9 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
-2026-11-12,19:45,UEFA Nations League,Italy,France,France ou empate,78%,1.28,,,,,Modelo Bet Consulting,1.20,
-2026-11-12,19:45,UEFA Nations League,Czechia,Spain,"Spain/empate e +1,5 golos",75%,1.34,,,,,Modelo Bet Consulting,1.19,
-2026-11-12,19:45,UEFA Nations League,San Marino,Belarus,"Belarus vence e -5,5 golos",74%,1.35,,,,,Modelo Bet Consulting,1.20,
-2026-11-12,19:45,UEFA Nations League,England,Croatia,"England/empate e +1,5 golos",73%,1.36,,,,,Modelo Bet Consulting,1.21,
-2026-11-12,19:45,UEFA Nations League,Montenegro,Latvia,"Montenegro/empate e +1,5 golos",72%,1.39,,,,,Modelo Bet Consulting,1.24,
+2026-11-12,19:45,UEFA Nations League,Italy,France,France ou empate,78%,1.28,,3 - 1,Fallado,0,Modelo Bet Consulting,1.20,-10.00
+2026-11-12,19:45,UEFA Nations League,Czechia,Spain,"Spain/empate e +1,5 golos",75%,1.34,,0 - 2,Acertado,1,Modelo Bet Consulting,1.19,1.90
+2026-11-12,19:45,UEFA Nations League,San Marino,Belarus,"Belarus vence e -5,5 golos",74%,1.35,,0 - 2,Acertado,1,Modelo Bet Consulting,1.20,2.00
+2026-11-12,19:45,UEFA Nations League,England,Croatia,"England/empate e +1,5 golos",73%,1.36,,2 - 1,Acertado,1,Modelo Bet Consulting,1.21,2.10
+2026-11-12,19:45,UEFA Nations League,Montenegro,Latvia,"Montenegro/empate e +1,5 golos",72%,1.39,,2 - 1,Acertado,1,Modelo Bet Consulting,1.24,2.40
 2026-11-08,20:30,Portugal: Primeira Liga,Estrela,Benfica,"Benfica vence e +1,5 golos",69%,1.44,,2 - 3,Acertado,1,Modelo Bet Consulting,1.28,2.80
 2026-11-08,20:30,Portugal: Primeira Liga,Rio Ave,Sp Braga,"Braga/empate e +1,5 golos",67%,1.49,,0 - 1,Fallado,0,Modelo Bet Consulting,1.33,-10.00
 2026-11-08,18:30,Germany: Bundesliga,Hoffenheim,Schalke 04,"Hoffenheim/empate e +1,5 golos",69%,1.44,,2 - 1,Acertado,1,Modelo Bet Consulting,1.29,2.90

@@ -80,38 +80,38 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-12,21:00,Colombia: Primera A,Cucuta,Jaguares,Gana Cucuta,Gana local,1.65,1.65,3.82,4.76,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,21:00,Colombia: Primera A,Atletico Nacional,Once Caldas,Atletico Nacional o empate,Doble oport. local,1.32,2.20,3.30,3.20,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,20:00,Jamaica: Premier League,Mount Pleasant Academy,Portmore United,Mount Pleasant Academy o empate,Doble oport. local,1.29,2.20,3.10,3.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,20:00,CONCACAF Nations League,Bonaire,Cuba,Gana Cuba,Gana visitante,1.08,20.00,8.70,1.08,93,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,San Marino,Belarus,Gana Belarus,Gana visitante,1.14,13.00,8.50,1.14,88,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,Montenegro,Latvia,Gana Montenegro,Gana local,1.30,1.30,5.50,9.00,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,Italy,France,France o empate,Doble oport. visitante,1.21,4.50,4.00,1.73,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,England,Croatia,Gana England,Gana local,1.25,1.25,7.00,9.50,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,Czechia,Spain,Gana Spain,Gana visitante,1.20,12.00,7.50,1.20,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:45,UEFA Nations League,Albania,Finland,Albania o empate,Doble oport. local,1.21,1.90,3.30,4.20,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:30,Uruguay: Segunda División,Plaza Colonia,Rentistas,Rentistas o empate,Doble oport. visitante,1.29,2.88,3.10,2.20,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:30,Uruguay: Segunda División,Cerrito,Colón,Gana Colón,Gana visitante,1.67,4.10,3.60,1.67,60,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:30,Uruguay: Segunda División,Atenas,Oriental,Atenas o empate,Doble oport. local,1.17,1.83,3.25,3.70,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,Africa Cup of Nations - Qualification,Senegal,Sudan,Gana Senegal,Gana local,1.11,1.11,7.50,21.00,90,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,Africa Cup of Nations - Qualification,Ivory Coast,Gambia,Gana Ivory Coast,Gana local,1.22,1.22,5.75,11.00,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,CONCACAF Nations League,Cayman Islands,Guyana,Gana Guyana,Gana visitante,1.06,45.00,9.10,1.06,94,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,Africa Cup of Nations - Qualification,Cameroon,Namibia,Gana Cameroon,Gana local,1.27,1.27,5.25,9.50,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,Africa Cup of Nations - Qualification,Benin,Central African Republic,Gana Benin,Gana local,1.57,1.57,3.30,6.00,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,19:00,CONCACAF Nations League,Barbados,Guadeloupe,Guadeloupe o empate,Doble oport. visitante,1.31,3.10,3.60,2.06,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,18:00,Spain: Copa del Rey,Tarancón,Levante,Gana Levante,Gana visitante,1.11,15.00,9.50,1.11,90,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,Gana Real Betis,Gana visitante,1.11,17.00,9.50,1.11,90,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,18:00,Brazil: Copa Fares Lopes,Ceara B,Uniclinic Atletico Clube,Gana Ceara B,Gana local,1.53,1.53,3.80,5.00,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,17:30,Friendlies,Malta,Eswatini,Gana Malta,Gana local,1.53,1.53,4.10,4.75,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,Gana Albacete,Gana visitante,1.55,5.50,4.20,1.55,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,17:00,UEFA Nations League,Türkiye,Belgium,Belgium o empate,Doble oport. visitante,1.26,3.70,4.00,1.85,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,17:00,UEFA Nations League,Armenia,Cyprus,Armenia o empate,Doble oport. local,1.35,2.30,3.25,3.20,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,16:00,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,Guinea-Bissau o empate,Doble oport. visitante,1.29,3.00,3.00,2.25,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,16:00,Africa Cup of Nations - Qualification,Guinea,Eritrea,Gana Guinea,Gana local,1.14,1.14,6.50,17.00,88,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,16:00,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,Equatorial Guinea o empate,Doble oport. local,1.22,2.10,2.90,3.70,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,16:00,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,Gana Congo DR,Gana local,1.20,1.20,5.25,15.00,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,20:00,CONCACAF Nations League,Bonaire,Cuba,Gana Cuba,Gana visitante,1.08,20.00,8.70,1.08,93,"1,01-1,20",1 - 7,Acertado,1,0.80,0 - 1,Sí,1,7,8,Sí,Sí,58' L · 7' V · 51' V · 56' V · 69' V · 74' V · 77' V · 79' V,1,4,5,7,30,2,12,37.8,62.2,2,1,0,0,LWLLL,WDDWW,Estadio La Polar
+2026-11-12,19:45,UEFA Nations League,San Marino,Belarus,Gana Belarus,Gana visitante,1.14,13.00,8.50,1.14,88,"1,01-1,20",0 - 2,Acertado,1,1.40,0 - 2,Sí,2,0,2,No,No,12' V · 17' V,2,6,8,5,18,1,7,39.6,60.4,3,1,0,1,LLLLL,WWWDL,San Marino Stadium
+2026-11-12,19:45,UEFA Nations League,Montenegro,Latvia,Gana Montenegro,Gana local,1.30,1.30,5.50,9.00,77,"1,20-1,35",2 - 1,Acertado,1,3.00,0 - 0,No,0,3,3,Sí,Sí,70' L · 90'+1' L · 72' V,11,6,17,21,15,7,5,50.2,49.8,5,4,1,0,WDWWW,LLLDL,Podgorica City Stadium
+2026-11-12,19:45,UEFA Nations League,Italy,France,France o empate,Doble oport. visitante,1.21,4.50,4.00,1.73,83,"1,20-1,35",3 - 1,Fallado,0,-10.00,1 - 1,Sí,2,2,4,Sí,Sí,26' L · 63' L · 75' L · 10' V,4,3,7,11,18,5,5,35.1,64.9,2,2,0,0,WWDWL,LWDWW,San Siro
+2026-11-12,19:45,UEFA Nations League,England,Croatia,Gana England,Gana local,1.25,1.25,7.00,9.50,80,"1,20-1,35",2 - 1,Acertado,1,2.50,1 - 0,Sí,1,2,3,Sí,Sí,24' L · 64' L · 59' V,6,7,13,15,13,4,5,54.2,45.8,0,1,0,0,WWWWL,LLLLW,Wembley Stadium
+2026-11-12,19:45,UEFA Nations League,Czechia,Spain,Gana Spain,Gana visitante,1.20,12.00,7.50,1.20,83,"1,20-1,35",0 - 2,Acertado,1,2.00,0 - 1,Sí,1,1,2,No,No,39' V · 90'+6' V,4,10,14,13,22,0,5,29.8,70.2,0,2,1,0,LLLLL,WWWWW,Generali Arena
+2026-11-12,19:45,UEFA Nations League,Albania,Finland,Albania o empate,Doble oport. local,1.21,1.90,3.30,4.20,83,"1,20-1,35",2 - 0,Acertado,1,2.10,1 - 0,Sí,1,1,2,No,No,35' L · 50' L,5,0,5,18,13,6,1,55.7,44.3,1,2,0,1,WWLWW,LLWDW,Air Albania Stadium
+2026-11-12,19:30,Uruguay: Segunda División,Plaza Colonia,Rentistas,Rentistas o empate,Doble oport. visitante,1.29,2.88,3.10,2.20,78,"1,20-1,35",0 - 1,Acertado,1,2.90,,,,,1,No,No,,,,,,,,,,,,,,,,,
+2026-11-12,19:30,Uruguay: Segunda División,Cerrito,Colón,Gana Colón,Gana visitante,1.67,4.10,3.60,1.67,60,"1,50+",0 - 1,Acertado,1,6.70,,,,,1,No,No,,,,,,,,,,,,,,,,,
+2026-11-12,19:30,Uruguay: Segunda División,Atenas,Oriental,Atenas o empate,Doble oport. local,1.17,1.83,3.25,3.70,85,"1,01-1,20",1 - 0,Acertado,1,1.70,,,,,1,No,No,,,,,,,,,,,,,,,,,
+2026-11-12,19:00,Africa Cup of Nations - Qualification,Senegal,Sudan,Gana Senegal,Gana local,1.11,1.11,7.50,21.00,90,"1,01-1,20",4 - 1,Acertado,1,1.10,1 - 1,Sí,2,3,5,Sí,Sí,31' L · 61' L · 64' L · 86' L · 45' V,7,3,10,16,4,8,2,66,34,2,2,0,0,WWWDL,LLWLL,Stade Léopold Sédar Senghor
+2026-11-12,19:00,Africa Cup of Nations - Qualification,Ivory Coast,Gambia,Gana Ivory Coast,Gana local,1.22,1.22,5.75,11.00,82,"1,20-1,35",2 - 1,Acertado,1,2.20,2 - 1,Sí,3,0,3,Sí,Sí,17' L · 24' L · 38' V,12,8,20,21,7,7,3,63.4,36.6,2,0,0,0,DLWWL,DWWLL,Stade de Bouaké
+2026-11-12,19:00,CONCACAF Nations League,Cayman Islands,Guyana,Gana Guyana,Gana visitante,1.06,45.00,9.10,1.06,94,"1,01-1,20",0 - 6,Acertado,1,0.60,0 - 4,Sí,4,2,6,Sí,No,5' V · 12' V · 39' V · 42' V · 48' V · 50' V,0,9,9,5,20,1,9,29.4,70.6,1,2,0,0,LLLLD,WWWWW,Leonora National Track and Field Facility
+2026-11-12,19:00,Africa Cup of Nations - Qualification,Cameroon,Namibia,Gana Cameroon,Gana local,1.27,1.27,5.25,9.50,79,"1,20-1,35",2 - 0,Acertado,1,2.70,2 - 0,Sí,2,0,2,No,No,16' L · 29' L,7,0,7,15,8,4,3,63.6,36.4,0,2,0,0,DWDWW,DLLWW,Stade Omnisport de Douala
+2026-11-12,19:00,Africa Cup of Nations - Qualification,Benin,Central African Republic,Gana Benin,Gana local,1.57,1.57,3.30,6.00,64,"1,50+",4 - 1,Acertado,1,5.70,3 - 1,Sí,4,1,5,Sí,Sí,7' L · 31' L · 36' L · 56' L · 19' V,5,8,13,18,14,8,5,43.5,56.5,0,1,0,0,WLWDL,LLLLW,Felix Houphouet-Boigny
+2026-11-12,19:00,CONCACAF Nations League,Barbados,Guadeloupe,Guadeloupe o empate,Doble oport. visitante,1.31,3.10,3.60,2.06,76,"1,20-1,35",0 - 3,Acertado,1,3.10,0 - 2,Sí,2,1,3,Sí,No,10' V · 41' V · 80' V,7,4,11,18,21,8,5,64.7,35.3,0,0,0,0,LWWDW,WLLDW,Stade Roger Zami
+2026-11-12,18:00,Spain: Copa del Rey,Tarancón,Levante,Gana Levante,Gana visitante,1.11,15.00,9.50,1.11,90,"1,01-1,20",1 - 2,Acertado,1,1.10,0 - 0,No,0,3,3,Sí,Sí,53' L · 80' V · 120'+4' V,3,14,17,10,27,2,6,28.1,71.9,4,1,1,0,L,WDLLW,Polideportivo Estadio Municipal Tarancón
+2026-11-12,18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,Gana Real Betis,Gana visitante,1.11,17.00,9.50,1.11,90,"1,01-1,20",2 - 3,Acertado,1,1.10,0 - 1,Sí,1,4,5,Sí,Sí,49' L · 79' L · 5' V · 90'+2' V · 96' V,3,13,16,12,29,4,11,26.6,73.4,4,3,0,1,DLWLL,DWLWD,Municipal de Santo Domingo
+2026-11-12,18:00,Brazil: Copa Fares Lopes,Ceara B,Uniclinic Atletico Clube,Gana Ceara B,Gana local,1.53,1.53,3.80,5.00,65,"1,50+",2 - 0,Acertado,1,5.30,,,,,2,No,No,,,,,,,,,,,,,,,,,
+2026-11-12,17:30,Friendlies,Malta,Eswatini,Gana Malta,Gana local,1.53,1.53,4.10,4.75,65,"1,50+",1 - 1,Fallado,0,-10.00,0 - 1,Sí,1,1,2,No,Sí,46' L · 45' V,,,,,,,,,,0,0,0,0,DWDWW,DLLLD,Ta' Qali National Stadium
+2026-11-12,17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,Gana Albacete,Gana visitante,1.55,5.50,4.20,1.55,65,"1,50+",0 - 3,Acertado,1,5.50,,,,,3,Sí,No,,,,,,,,,,,,,,,,,
+2026-11-12,17:00,UEFA Nations League,Türkiye,Belgium,Belgium o empate,Doble oport. visitante,1.26,3.70,4.00,1.85,79,"1,20-1,35",1 - 2,Acertado,1,2.60,1 - 2,Sí,3,0,3,Sí,Sí,20' L · 27' V · 30' V,2,3,5,10,12,7,6,53.2,46.8,2,0,0,0,LLLLL,WLWLW,Göztepe Gürsel Aksel Stadi
+2026-11-12,17:00,UEFA Nations League,Armenia,Cyprus,Armenia o empate,Doble oport. local,1.35,2.30,3.25,3.20,74,"1,35-1,50",1 - 1,Acertado,1,3.50,0 - 1,Sí,1,1,2,No,Sí,58' L · 9' V,11,4,15,26,10,7,2,68.6,31.4,3,2,0,0,DDLLW,DWWDL,Vazgen Sargsyan Republican Stadium
+2026-11-12,16:00,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,Guinea-Bissau o empate,Doble oport. visitante,1.29,3.00,3.00,2.25,78,"1,20-1,35",1 - 1,Acertado,1,2.90,0 - 0,No,0,2,2,No,Sí,59' L · 84' V,2,8,10,14,16,5,6,39.4,60.6,3,1,0,0,DDLLW,DWWLL,Stade d'honneur de Meknès
+2026-11-12,16:00,Africa Cup of Nations - Qualification,Guinea,Eritrea,Gana Guinea,Gana local,1.14,1.14,6.50,17.00,88,"1,01-1,20",2 - 1,Acertado,1,1.40,1 - 0,Sí,1,2,3,Sí,Sí,13' L · 53' L · 82' V,1,5,6,12,12,5,5,39.9,60.1,1,1,0,0,WWLLL,LLDWW,Stade du 28 Septembre
+2026-11-12,16:00,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,Equatorial Guinea o empate,Doble oport. local,1.22,2.10,2.90,3.70,82,"1,20-1,35",0 - 0,Acertado,1,2.20,0 - 0,No,0,0,0,No,No,,6,0,6,18,7,8,1,65,35,0,2,0,0,DWLLW,DLWWL,Stade Omnisport Ahmadou Ahidjo
+2026-11-12,16:00,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,Gana Congo DR,Gana local,1.20,1.20,5.25,15.00,83,"1,20-1,35",3 - 1,Acertado,1,2.00,2 - 0,Sí,2,2,4,Sí,Sí,4' L · 35' L · 58' L · 83' V,3,4,7,20,7,6,3,53.1,46.9,0,2,0,0,DDLWW,DLLLL,Stade des Martyrs
 2026-11-12,15:00,Friendlies,Uzbekistan,Russia,Russia o empate,Doble oport. visitante,1.25,4.04,3.36,2.00,80,"1,20-1,35",2 - 3,Acertado,1,2.50,1 - 0,Sí,1,4,5,Sí,Sí,5' L · 46' L · 70' V · 75' V · 79' V,2,8,10,12,20,5,7,44.4,55.6,2,1,0,0,LLWWL,WDWWW,Pakhtakor Markaziy Stadium
 2026-11-12,15:00,Africa Cup of Nations - Qualification,Ghana,Somalia,Gana Ghana,Gana local,1.08,1.08,9.00,29.00,93,"1,01-1,20",2 - 0,Acertado,1,0.80,1 - 0,Sí,1,1,2,No,No,45'+2' L · 62' L,7,3,10,23,3,8,2,75.8,24.2,0,1,0,0,WLLLL,LLLWD,
 2026-11-12,15:00,Friendlies Clubs,BK Hacken,Fredrikstad,BK Hacken o empate,Doble oport. local,1.32,1.99,3.96,2.82,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,13:55,Oman: FA Cup,Smail,Bahla,Bahla o empate,Doble oport. visitante,1.18,3.80,3.30,1.83,85,"1,01-1,20",1 - 2,Acertado,1,1.80,,,,,3,Sí,Sí,,,,,,,,,,,,,,,,,
-2026-11-12,13:50,Oman: FA Cup,Oman Club,Al Nasr,Oman Club o empate,Doble oport. local,1.33,2.25,3.25,2.75,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,13:50,Oman: FA Cup,Oman Club,Al Nasr,Oman Club o empate,Doble oport. local,1.33,2.25,3.25,2.75,75,"1,20-1,35",1 - 0,Acertado,1,3.30,,,,,1,No,No,,,,,,,,,,,,,,,,,
 2026-11-12,12:30,Egypt: Second League,Mega Sport,El Seka El Hadid,El Seka El Hadid o empate,Doble oport. visitante,1.15,4.10,3.10,1.83,87,"1,01-1,20",1 - 0,Fallado,0,-10.00,,,,,1,No,No,,,,,,,,,,,,,,,,,
 2026-11-12,12:30,Egypt: Second League,Masar,Tersana,Masar o empate,Doble oport. local,1.14,1.80,3.10,4.20,88,"1,01-1,20",0 - 0,Acertado,1,1.40,,,,,0,No,No,,,,,,,,,,,,,,,,,
 2026-11-12,12:30,Egypt: Second League,El Entag EL Harby,Baladiyyat Al Mehalla,El Entag EL Harby o empate,Doble oport. local,1.30,2.30,3.00,2.88,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,

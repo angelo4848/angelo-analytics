@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-12",
  "cuota": 1.71,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-12",
@@ -27,5 +27,6 @@
    "Pronóstico": "Victoria Belarus + menos de 5,5 goles",
    "Cuota": "1.20"
   }
- ]
+ ],
+ "estado": "perdida"
 }

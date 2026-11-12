@@ -1,11 +1,28 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
-18:00,Spain: Copa del Rey,Tarancón,Levante,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
-18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
+17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,0 - 3
+18:00,Spain: Copa del Rey,Tarancón,Levante,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,1 - 2
+18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,2 - 3
 20:00,Jamaica: Premier League,Mount Pleasant Academy,Portmore United,8.0,77%,89%,60%,40%,5,No,Registro ESPN/SofaScore (muestra baja),
 01:00,El-Salvador: Primera Division,Isidro Metapán,Platense,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
 21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
 21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
+15:00,Africa Cup of Nations - Qualification,Ghana,Somalia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0
+16:00,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1
+16:00,Africa Cup of Nations - Qualification,Guinea,Eritrea,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+16:00,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),0 - 0
+16:00,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),3 - 1
+19:00,Africa Cup of Nations - Qualification,Senegal,Sudan,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),4 - 1
+19:00,Africa Cup of Nations - Qualification,Ivory Coast,Gambia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+19:00,Africa Cup of Nations - Qualification,Cameroon,Namibia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0
+19:00,Africa Cup of Nations - Qualification,Benin,Central African Republic,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),4 - 1
+17:00,UEFA Nations League,Türkiye,Belgium,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 2
+17:00,UEFA Nations League,Armenia,Cyprus,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 1
+19:45,UEFA Nations League,San Marino,Belarus,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),0 - 2
+19:45,UEFA Nations League,Montenegro,Latvia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+19:45,UEFA Nations League,Italy,France,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),3 - 1
+19:45,UEFA Nations League,England,Croatia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+19:45,UEFA Nations League,Czechia,Spain,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),0 - 2
+19:45,UEFA Nations League,Albania,Finland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 0
 22:00,Brazil: Serie B,Ponte Preta,Operario-PR,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
 23:00,Brazil: Serie B,São Bernardo,Athletic Club,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
 21:00,Colombia: Primera A,Águilas Doradas,Independiente Medellin,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
