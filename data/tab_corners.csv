@@ -1,8 +1,16 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-00:30,Bolivia: Primera División,Aurora,Universitario de Vinto,8.4,63%,74%,60%,48%,14,No,Registro ESPN/SofaScore,1 - 1
-21:30,El-Salvador: Primera Division,Fuerte San Francisco,Alianza,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
-19:00,England: EFL Trophy,Sheffield Wednesday,Accrington ST,9.8,48%,55%,66%,59%,9,No,Registro ESPN/SofaScore (muestra baja),0 - 4
-19:00,England: EFL Trophy,Barnsley,Oldham,9.8,48%,55%,66%,59%,9,No,Registro ESPN/SofaScore (muestra baja),5 - 2
-13:30,Belgium: First Amateur Division,Onhaye,Habay-la-Neuve,10.6,36%,48%,84%,75%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 0
-00:00,Colombia: Primera A,Junior,Cucuta,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,2 - 0
-22:00,Brazil: Serie B,Londrina,Nautico Recife,10.9,34%,45%,83%,75%,20,No,Registro ESPN/SofaScore,
+17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
+18:00,Spain: Copa del Rey,Tarancón,Levante,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
+18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,2.2,97%,98%,8%,5%,16,No,Registro ESPN/SofaScore,
+01:00,El-Salvador: Primera Division,Isidro Metapán,Platense,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
+21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
+21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
+22:00,Brazil: Serie B,Ponte Preta,Operario-PR,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
+23:00,Brazil: Serie B,São Bernardo,Athletic Club,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Águilas Doradas,Independiente Medellin,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Millonarios,Alianza Valledupar,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Llaneros,Chico,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Deportivo Pereira,America de Cali,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Deportivo Cali,Deportes Tolima,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Cucuta,Jaguares,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+21:00,Colombia: Primera A,Atletico Nacional,Once Caldas,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,

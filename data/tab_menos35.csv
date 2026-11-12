@@ -1,20 +1,23 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
-23:00,Colombia: Primera B,Real Cundinamarca,Real Cartagena,78%,1.28,58%,1.72,89%,1.12,1.80,5,No,Registro ESPN/SofaScore (muestra baja),,
-10:00,Turkey: 3. Lig - Group 2,Kepezspor,Balıkesirspor,74%,1.36,49%,2.05,89%,1.13,2.40,5,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
-12:30,Turkey: 3. Lig - Group 2,Karsiyaka,Nilüfer Belediye,74%,1.36,49%,2.05,89%,1.13,2.40,5,No,Registro ESPN/SofaScore (muestra baja),2 - 1,Acertado
-12:30,Turkey: 3. Lig - Group 2,Gaziemirspor,Akşehirspor,74%,1.36,49%,2.05,89%,1.13,2.40,5,No,Registro ESPN/SofaScore (muestra baja),3 - 1,Fallado
-00:00,Colombia: Primera A,Junior,Cucuta,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,2 - 0,Acertado
-22:00,Brazil: Serie B,Londrina,Nautico Recife,71%,1.40,46%,2.19,88%,1.13,2.67,21,No,Registro ESPN/SofaScore,,
-13:30,Belgium: First Amateur Division,Onhaye,Habay-la-Neuve,71%,1.41,48%,2.08,88%,1.13,2.65,20,No,Registro ESPN/SofaScore,1 - 0,Acertado
-10:00,Turkey: 3. Lig - Group 1,Pazarspor,Kartal Bulvarspor,70%,1.42,50%,2.02,82%,1.21,2.83,6,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
-11:00,Turkey: 3. Lig - Group 1,Küçükçekmece Sinopspor,Fatsa Belediyespor,70%,1.42,50%,2.02,82%,1.21,2.83,6,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-12:00,Turkey: 3. Lig - Group 1,Beykoz Anadolu,Yalova Yeşilovaspor,70%,1.42,50%,2.02,82%,1.21,2.83,6,No,Registro ESPN/SofaScore (muestra baja),1 - 5,Fallado
-17:45,Spain: Segunda División RFEF - Group 3,Castellonense,La Nucía,67%,1.50,46%,2.15,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),2 - 2,Fallado
-00:30,Bolivia: Primera División,Aurora,Universitario de Vinto,65%,1.54,44%,2.27,80%,1.25,3.19,16,No,Registro ESPN/SofaScore,1 - 1,Acertado
-09:30,Ukraine: Persha Liga,Chernihiv,Inhulets,65%,1.54,40%,2.53,82%,1.22,3.40,5,No,Registro ESPN/SofaScore (muestra baja),,
-16:30,Lithuania: 1 Lyga,Babrungas,Minija,64%,1.57,45%,2.22,85%,1.18,3.22,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
-21:30,El-Salvador: Primera Division,Fuerte San Francisco,Alianza,60%,1.67,42%,2.40,75%,1.33,3.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-01:00,Costa-Rica: Liga de Ascenso,Aserri FC,Pitbulls Santa Barbara FC,59%,1.69,35%,2.83,77%,1.30,3.50,10,No,Registro ESPN/SofaScore (muestra baja),,
-17:00,Czech-Republic: Cup,Artis,FK Jablonec,54%,1.84,34%,2.91,72%,1.40,4.20,5,No,Registro ESPN/SofaScore (muestra baja),2 - 1,Acertado
-19:00,England: EFL Trophy,Sheffield Wednesday,Accrington ST,54%,1.85,30%,3.33,76%,1.32,4.00,9,No,Registro ESPN/SofaScore (muestra baja),0 - 4,Fallado
-19:00,England: EFL Trophy,Barnsley,Oldham,54%,1.85,30%,3.33,76%,1.32,4.00,9,No,Registro ESPN/SofaScore (muestra baja),5 - 2,Fallado
+12:30,Egypt: Second League,Mega Sport,El Seka El Hadid,76%,1.32,49%,2.03,89%,1.13,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+12:30,Egypt: Second League,Masar,Tersana,76%,1.32,49%,2.03,89%,1.13,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+12:30,Egypt: Second League,El Entag EL Harby,Baladiyyat Al Mehalla,76%,1.32,49%,2.03,89%,1.13,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+12:30,Egypt: Second League,Dayrout,Proxy,76%,1.32,49%,2.03,89%,1.13,2.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+22:00,Guatemala: Liga Nacional,Aurora,Mixco,76%,1.32,55%,1.83,89%,1.12,1.89,9,No,Registro ESPN/SofaScore (muestra baja),,
+23:00,Uruguay: Primera División,Cerro Largo,Progreso,74%,1.34,50%,1.99,89%,1.12,2.33,6,No,Registro ESPN/SofaScore (muestra baja),,
+21:00,Colombia: Primera A,Águilas Doradas,Independiente Medellin,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Millonarios,Alianza Valledupar,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Llaneros,Chico,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Deportivo Pereira,America de Cali,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Deportivo Cali,Deportes Tolima,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Cucuta,Jaguares,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+21:00,Colombia: Primera A,Atletico Nacional,Once Caldas,74%,1.36,50%,2.02,88%,1.13,2.55,20,No,Registro ESPN/SofaScore,,
+22:00,Brazil: Serie B,Ponte Preta,Operario-PR,71%,1.40,45%,2.22,88%,1.13,2.68,22,No,Registro ESPN/SofaScore,,
+23:00,Brazil: Serie B,São Bernardo,Athletic Club,71%,1.40,45%,2.22,88%,1.13,2.68,22,No,Registro ESPN/SofaScore,,
+17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,,
+18:00,Spain: Copa del Rey,Tarancón,Levante,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,,
+18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,63%,1.58,40%,2.48,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,,
+01:00,El-Salvador: Primera Division,Isidro Metapán,Platense,63%,1.58,45%,2.22,78%,1.29,3.40,10,No,Registro ESPN/SofaScore (muestra baja),,
+21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,63%,1.58,45%,2.22,78%,1.29,3.40,10,No,Registro ESPN/SofaScore (muestra baja),,
+21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,63%,1.58,45%,2.22,78%,1.29,3.40,10,No,Registro ESPN/SofaScore (muestra baja),,
+00:00,Uruguay: Copa Uruguay,Liverpool Montevideo,Juventud,60%,1.67,40%,2.53,77%,1.30,4.00,5,No,Registro ESPN/SofaScore (muestra baja),,
