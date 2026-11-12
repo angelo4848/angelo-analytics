@@ -760,27 +760,29 @@
    "liga": "Egypt: Second League",
    "local": "Mega Sport",
    "visitante": "El Seka El Hadid",
-   "tendencia": "★★★ El Seka El Hadid o empate · cuota ~1,15",
+   "tendencia": "★★★ El Seka El Hadid o empate · cuota ~1,15 · ✗ fallado",
    "cuotas": [
     4.1,
     3.1,
     1.83
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-12T12:30:00+00:00"
+   "inicio": "2026-11-12T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Egypt: Second League",
    "local": "Dayrout",
    "visitante": "Proxy",
-   "tendencia": "★★★ Proxy o empate · cuota ~1,29",
+   "tendencia": "★★★ Proxy o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     3.0,
     3.0,
     2.25
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-12T12:30:00+00:00"
+   "inicio": "2026-11-12T12:30:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Egypt: Second League",
@@ -799,14 +801,15 @@
    "liga": "Egypt: Second League",
    "local": "Masar",
    "visitante": "Tersana",
-   "tendencia": "★★★ Masar o empate · cuota ~1,14",
+   "tendencia": "★★★ Masar o empate · cuota ~1,14 · ✓ acertado",
    "cuotas": [
     1.8,
     3.1,
     4.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-12T12:30:00+00:00"
+   "inicio": "2026-11-12T12:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "El-Salvador: Primera Division",
@@ -1176,14 +1179,15 @@
    "liga": "Oman: FA Cup",
    "local": "Smail",
    "visitante": "Bahla",
-   "tendencia": "★★★ Bahla o empate · cuota ~1,18",
+   "tendencia": "★★★ Bahla o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     3.8,
     3.3,
     1.83
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-12T13:55:00+00:00"
+   "inicio": "2026-11-12T13:55:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Uruguay: Segunda División",
