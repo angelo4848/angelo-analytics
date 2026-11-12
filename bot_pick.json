@@ -1,5 +1,31 @@
 {
- "fecha": "2026-11-11",
- "legs": [],
- "avisado": true
+ "fecha": "2026-11-12",
+ "cuota": 1.71,
+ "avisado": false,
+ "legs": [
+  {
+   "Fecha": "2026-11-12",
+   "Local": "Italy",
+   "Visitante": "France",
+   "Liga": "UEFA Nations League",
+   "Pronóstico": "France o empate",
+   "Cuota": "1.20"
+  },
+  {
+   "Fecha": "2026-11-12",
+   "Local": "Czechia",
+   "Visitante": "Spain",
+   "Liga": "UEFA Nations League",
+   "Pronóstico": "Spain o empate + más de 1,5 goles",
+   "Cuota": "1.19"
+  },
+  {
+   "Fecha": "2026-11-12",
+   "Local": "San Marino",
+   "Visitante": "Belarus",
+   "Liga": "UEFA Nations League",
+   "Pronóstico": "Victoria Belarus + menos de 5,5 goles",
+   "Cuota": "1.20"
+  }
+ ]
 }

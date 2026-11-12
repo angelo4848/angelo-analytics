@@ -433,6 +433,53 @@
      ]
     }
    ]
+  },
+  {
+   "fecha": "2026-11-12",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.71,
+   "patas": [
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Italy vs France",
+     "mercado": "France o empate",
+     "cuota": 1.2,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 78%",
+      "Cuota aproximada 1,20 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Czechia vs Spain",
+     "mercado": "Spain o empate + más de 1,5 goles",
+     "cuota": 1.19,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 75%",
+      "Cuota aproximada 1,19 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "San Marino vs Belarus",
+     "mercado": "Victoria Belarus + menos de 5,5 goles",
+     "cuota": 1.2,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 74%",
+      "Cuota aproximada 1,20 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
