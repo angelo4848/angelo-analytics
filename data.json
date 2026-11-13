@@ -483,6 +483,40 @@
      "resultado": "0 - 2"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-13",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.62,
+   "patas": [
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Liechtenstein vs Azerbaijan",
+     "mercado": "Azerbaijan o empate + más de 1,5 goles",
+     "cuota": 1.23,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 73%",
+      "Cuota aproximada 1,23 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Netherlands vs Greece",
+     "mercado": "Netherlands o empate + más de 1,5 goles",
+     "cuota": 1.32,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 67%",
+      "Cuota aproximada 1,32 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
