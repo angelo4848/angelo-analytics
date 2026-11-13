@@ -1,4 +1,10 @@
 Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª parte","Cuota justa +1,5",Goles esperados 1.ª parte,Muestra liga,Datos de equipos,Fuente,Descanso,Resultado
+12:00,Friendlies,Singapore,Paraguay,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),1 - 2,1 - 4
+12:00,Friendlies,Chinese Taipei,Kyrgyzstan,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),,
+14:10,Friendlies,United Arab Emirates,Honduras,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),1 - 0,3 - 1
+14:30,Friendlies,Saudi Arabia,South Korea,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),1 - 0,3 - 2
+14:45,Friendlies,Qatar,Australia,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),0 - 3,0 - 3
+23:00,Friendlies,Argentina,Uruguay,79%,1.27,52%,1.93,1.57,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:30,Italy: Serie C - Girone B,Latina,Campobasso FC,78%,1.28,50%,2.01,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,UEFA Nations League,Slovenia,Switzerland,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,UEFA Nations League,Slovakia,Faroe Islands,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
@@ -13,16 +19,6 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 23:00,Russia: First League,Ska-khabarovsk,Leningradets,75%,1.33,40%,2.48,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,Russia: First League,FC Sochi,Shinnik Yaroslavl,75%,1.33,40%,2.48,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,Spain: Copa del Rey,Salamanca UDS,Celta Vigo,74%,1.35,39%,2.56,1.47,17,No,Registro ESPN/SofaScore,,
-13:00,Africa Cup of Nations - Qualification,Mozambique,Ethiopia,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-13:00,Africa Cup of Nations - Qualification,Comoros,Congo,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Africa Cup of Nations - Qualification,South Africa,Kenya,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Africa Cup of Nations - Qualification,Nigeria,Tanzania,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Africa Cup of Nations - Qualification,Gabon,Lesotho,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Africa Cup of Nations - Qualification,Cape Verde Islands,Liberia,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Africa Cup of Nations - Qualification,Burkina Faso,Mauritania,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-19:00,Africa Cup of Nations - Qualification,Mali,Rwanda,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-19:00,Africa Cup of Nations - Qualification,Egypt,Malawi,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,Africa Cup of Nations - Qualification,Morocco,Niger,74%,1.36,39%,2.59,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Serbia: Prva Liga,Dubočica,Naftagas,73%,1.36,38%,2.63,1.20,5,No,Registro ESPN/SofaScore (muestra baja),,
 17:00,Nigeria: NPFL,Shooting Stars,Bendel Insurance,73%,1.36,38%,2.63,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,CONCACAF Nations League,Puerto Rico,Dominica,73%,1.36,38%,2.63,2.20,5,No,Registro ESPN/SofaScore (muestra baja),,
@@ -40,9 +36,19 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 20:00,Uruguay: Primera División,Atletico Torque,Racing Montevideo,69%,1.45,32%,3.09,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,
 01:00,El-Salvador: Primera Division,FAS,Inter,68%,1.47,32%,3.15,1.50,12,No,Registro ESPN/SofaScore,,
 19:30,Spain: Segunda División,Leganes,Burgos,67%,1.48,31%,3.19,1.20,2450,Sí,Histórico 5 años,,
+13:00,Africa Cup of Nations - Qualification,Mozambique,Ethiopia,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 1
+13:00,Africa Cup of Nations - Qualification,Comoros,Congo,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),0 - 0,0 - 0
+16:00,Africa Cup of Nations - Qualification,South Africa,Kenya,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Slovenia: 2. SNL,Primorje,Jesenice,67%,1.50,30%,3.33,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+16:00,Africa Cup of Nations - Qualification,Nigeria,Tanzania,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
+16:00,Africa Cup of Nations - Qualification,Gabon,Lesotho,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
+16:00,Africa Cup of Nations - Qualification,Cape Verde Islands,Liberia,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
+16:00,Africa Cup of Nations - Qualification,Burkina Faso,Mauritania,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
 16:30,Slovenia: 2. SNL,Triglav,Bilje,67%,1.50,30%,3.33,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 16:30,Slovenia: 2. SNL,Dravinja,Krka,67%,1.50,30%,3.33,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,Africa Cup of Nations - Qualification,Mali,Rwanda,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,Africa Cup of Nations - Qualification,Egypt,Malawi,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
+20:00,Africa Cup of Nations - Qualification,Morocco,Niger,67%,1.50,30%,3.33,1.36,11,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Northern-Ireland: Championship,Loughgall,Glenavon FC,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Northern-Ireland: Championship,Institute,Armagh City,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 19:45,Northern-Ireland: Championship,Ards,Moyola Park,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
