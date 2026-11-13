@@ -1,35 +1,32 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-17:30,Spain: Copa del Rey,Calvo Sotelo,Albacete,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,0 - 3
-18:00,Spain: Copa del Rey,Tarancón,Levante,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,1 - 2
-18:00,Spain: Copa del Rey,Navalcarnero,Real Betis,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,2 - 3
-20:00,Jamaica: Premier League,Mount Pleasant Academy,Portmore United,8.0,77%,89%,60%,40%,5,No,Registro ESPN/SofaScore (muestra baja),
-01:00,El-Salvador: Primera Division,Isidro Metapán,Platense,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
-21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
-21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore (muestra baja),
-15:00,Africa Cup of Nations - Qualification,Ghana,Somalia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0
-16:00,Africa Cup of Nations - Qualification,Madagascar,Guinea-Bissau,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1
-16:00,Africa Cup of Nations - Qualification,Guinea,Eritrea,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 1
-16:00,Africa Cup of Nations - Qualification,Equatorial Guinea,Zimbabwe,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),0 - 0
-16:00,Africa Cup of Nations - Qualification,Congo DR,Sierra Leone,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),3 - 1
-19:00,Africa Cup of Nations - Qualification,Senegal,Sudan,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),4 - 1
-19:00,Africa Cup of Nations - Qualification,Ivory Coast,Gambia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 1
-19:00,Africa Cup of Nations - Qualification,Cameroon,Namibia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0
-19:00,Africa Cup of Nations - Qualification,Benin,Central African Republic,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),4 - 1
-17:00,UEFA Nations League,Türkiye,Belgium,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 2
-17:00,UEFA Nations League,Armenia,Cyprus,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 1
-19:45,UEFA Nations League,San Marino,Belarus,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),0 - 2
-19:45,UEFA Nations League,Montenegro,Latvia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
-19:45,UEFA Nations League,Italy,France,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),3 - 1
-19:45,UEFA Nations League,England,Croatia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 1
-19:45,UEFA Nations League,Czechia,Spain,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),0 - 2
-19:45,UEFA Nations League,Albania,Finland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),2 - 0
-22:00,Brazil: Serie B,Ponte Preta,Operario-PR,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
-23:00,Brazil: Serie B,São Bernardo,Athletic Club,10.7,37%,48%,81%,73%,21,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Águilas Doradas,Independiente Medellin,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Millonarios,Alianza Valledupar,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Llaneros,Chico,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Deportivo Pereira,America de Cali,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Deportivo Cali,Deportes Tolima,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Cucuta,Jaguares,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-21:00,Colombia: Primera A,Atletico Nacional,Once Caldas,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
-22:00,Colombia: Primera A,Deportivo Pasto,Junior,10.8,37%,47%,81%,73%,19,No,Registro ESPN/SofaScore,
+20:00,Spain: Copa del Rey,Salamanca UDS,Celta Vigo,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,
+17:00,Algeria: Ligue 1,JS Saoura,Khenchela,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
+19:30,Wales: FAW Championship,Swansea University,Treowen Stars,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,
+19:30,Wales: FAW Championship,Denbigh Town,Gresford Athletic,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,
+19:00,CONCACAF Nations League,Puerto Rico,Dominica,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
+19:00,CONCACAF Nations League,Bermuda,St. Lucia,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
+20:00,CONCACAF Nations League,Grenada,St. Kitts and Nevis,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
+23:00,CONCACAF Nations League,Saint Martin,El Salvador,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
+19:30,Italy: Serie C - Girone A,Ospitaletto,Dolomiti Bellunesi,8.4,67%,80%,64%,48%,8,No,Registro ESPN/SofaScore (muestra baja),
+01:00,El-Salvador: Primera Division,FAS,Inter,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore,
+18:00,Spain: Primera División RFEF - Group 1,Ponferradina,Cacereño,9.0,58%,72%,72%,58%,7,No,Registro ESPN/SofaScore (muestra baja),
+19:30,Spain: Segunda División,Leganes,Burgos,9.5,52%,64%,72%,60%,2450,Sí,Histórico 5 años,
+13:00,Africa Cup of Nations - Qualification,Mozambique,Ethiopia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+13:00,Africa Cup of Nations - Qualification,Comoros,Congo,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+16:00,Africa Cup of Nations - Qualification,South Africa,Kenya,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+16:00,Africa Cup of Nations - Qualification,Nigeria,Tanzania,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+16:00,Africa Cup of Nations - Qualification,Gabon,Lesotho,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+16:00,Africa Cup of Nations - Qualification,Cape Verde Islands,Liberia,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+16:00,Africa Cup of Nations - Qualification,Burkina Faso,Mauritania,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+19:00,Africa Cup of Nations - Qualification,Mali,Rwanda,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+19:00,Africa Cup of Nations - Qualification,Egypt,Malawi,9.9,46%,56%,72%,63%,9,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Slovenia,Switzerland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Slovakia,Faroe Islands,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Serbia,Germany,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Scotland,FYR Macedonia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Netherlands,Greece,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Luxembourg,Estonia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Liechtenstein,Azerbaijan,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Bulgaria,Iceland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:45,UEFA Nations League,Andorra,Gibraltar,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:30,Italy: Serie C - Girone B,Latina,Campobasso FC,11.2,31%,42%,86%,78%,6,No,Registro ESPN/SofaScore (muestra baja),

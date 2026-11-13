@@ -61,20 +61,20 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-13,01:10,Colombia: Primera B,Quindio,Tigres FC,Gana Quindio,Gana local,1.65,1.65,3.50,5.50,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-13,01:00,El-Salvador: Primera Division,FAS,Inter,FAS o empate,Doble oport. local,1.19,1.83,3.40,3.60,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-13,00:00,Mexico: Liga de Expansión MX,Piratas,CA La Paz,Piratas o empate,Doble oport. local,1.24,1.80,4.00,4.00,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,23:00,Brazil: Serie B,São Bernardo,Athletic Club,São Bernardo o empate,Doble oport. local,1.20,1.91,3.20,4.10,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,23:00,Brazil: Serie B,São Bernardo,Athletic Club,São Bernardo o empate,Doble oport. local,1.20,1.91,3.20,4.10,83,"1,20-1,35",2 - 2,Acertado,1,2.00,0 - 0,No,0,4,4,Sí,Sí,50' L · 82' L · 46' V · 85' V,2,1,3,14,13,5,5,46.7,53.3,3,4,1,0,DLWWL,DLWLD,Estádio Primeiro de Maio
 2026-11-12,23:00,Argentina: Super Copa,Independ. Rivadavia,Estudiantes L.P.,Independ. Rivadavia o empate,Doble oport. local,1.30,2.30,3.00,3.10,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,23:00,Uruguay: Primera División,Cerro Largo,Progreso,Cerro Largo o empate,Doble oport. local,1.16,1.80,3.30,4.10,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,23:00,CONCACAF Nations League,Antigua and Barbuda,Trinidad and Tobago,Gana Trinidad and Tobago,Gana visitante,1.30,7.50,5.00,1.30,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,22:00,Brazil: Serie B,Ponte Preta,Operario-PR,Gana Operario-PR,Gana visitante,1.55,5.00,4.00,1.55,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,23:00,Uruguay: Primera División,Cerro Largo,Progreso,Cerro Largo o empate,Doble oport. local,1.16,1.80,3.30,4.10,86,"1,01-1,20",2 - 2,Acertado,1,1.60,1 - 0,Sí,1,3,4,Sí,Sí,29' L · 90'+5' L · 52' V · 62' V,,,,,,,,,,0,0,0,0,DLWDL,DLWWD,Estadio Arquitecto Antonio Eleuterio Ubilla
+2026-11-12,23:00,CONCACAF Nations League,Antigua and Barbuda,Trinidad and Tobago,Gana Trinidad and Tobago,Gana visitante,1.30,7.50,5.00,1.30,77,"1,20-1,35",2 - 3,Acertado,1,3.00,1 - 3,Sí,4,1,5,Sí,Sí,3' L · 90'+3' L · 15' V · 25' V · 45' V,5,1,6,8,11,3,8,33.1,66.9,1,2,0,0,LWWWL,WDLLL,Sir Vivian Richards Stadium
+2026-11-12,22:00,Brazil: Serie B,Ponte Preta,Operario-PR,Gana Operario-PR,Gana visitante,1.55,5.00,4.00,1.55,65,"1,50+",0 - 2,Acertado,1,5.50,0 - 0,No,0,2,2,No,No,72' V · 90'+2' V,2,2,4,8,8,3,4,48.2,51.8,2,2,0,0,LLLDD,WWLWL,Estádio Italo Mário Limongi
 2026-11-12,22:00,Bolivia: Copa de la División Profesional,Nacional Potosí,Real Potosí,Nacional Potosí o empate,Doble oport. local,1.38,2.38,3.30,2.55,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,22:00,Colombia: Primera A,Deportivo Pasto,Junior,Gana Junior,Gana visitante,1.12,15.00,8.00,1.12,89,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,22:00,Guatemala: Liga Nacional,Aurora,Mixco,Aurora o empate,Doble oport. local,1.19,1.85,3.30,3.70,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,22:00,CONCACAF Nations League,Aruba,Martinique,Gana Martinique,Gana visitante,1.48,4.75,4.50,1.48,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,Gana Águila,Gana local,1.62,1.62,3.70,4.50,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,Atletico Balboa o empate,Doble oport. local,1.14,1.70,3.50,4.00,88,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,22:00,Colombia: Primera A,Deportivo Pasto,Junior,Gana Junior,Gana visitante,1.12,15.00,8.00,1.12,89,"1,01-1,20",0 - 1,Acertado,1,1.20,0 - 0,No,0,1,1,No,No,60' V,6,6,12,16,13,5,4,38.6,61.4,1,4,0,1,LLWLW,WWLDW,Departamental Libertad
+2026-11-12,22:00,Guatemala: Liga Nacional,Aurora,Mixco,Aurora o empate,Doble oport. local,1.19,1.85,3.30,3.70,84,"1,01-1,20",0 - 1,Fallado,0,-10.00,0 - 1,Sí,1,0,1,No,No,45' V,,,,,,,,,,0,0,0,0,LLWDW,WWLDW,Estadio Cementos Progreso
+2026-11-12,22:00,CONCACAF Nations League,Aruba,Martinique,Gana Martinique,Gana visitante,1.48,4.75,4.50,1.48,68,"1,35-1,50",0 - 0,Fallado,0,-10.00,0 - 0,No,0,0,0,No,No,,1,2,3,6,14,1,3,31.2,68.8,1,2,0,0,DLWWW,DDWLL,Guillermo Prospero Trinidad Stadium
+2026-11-12,21:30,El-Salvador: Primera Division,Águila,Municipal Limeño,Gana Águila,Gana local,1.62,1.62,3.70,4.50,62,"1,50+",1 - 1,Fallado,0,-10.00,1 - 0,Sí,1,1,2,No,Sí,44' L · 90'+7' V,,,,,,,,,,0,0,0,0,DLWWD,DLDDD,Estadio Juan Francisco Barraza
+2026-11-12,21:30,El-Salvador: Primera Division,Atletico Balboa,Inca Aruba,Atletico Balboa o empate,Doble oport. local,1.14,1.70,3.50,4.00,88,"1,01-1,20",4 - 1,Acertado,1,1.40,3 - 1,Sí,4,1,5,Sí,Sí,30' L · 33' L · 45'+4' L · 90'+2' L · 11' V,,,,,,,,,,0,0,0,0,WWWWD,LDLLL,Estadio Marcelino Imbers
 2026-11-12,21:00,Colombia: Primera A,Águilas Doradas,Independiente Medellin,Águilas Doradas o empate,Doble oport. local,1.39,2.40,3.30,2.90,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,21:00,Colombia: Primera A,Millonarios,Alianza Valledupar,Gana Millonarios,Gana local,1.28,1.28,5.25,11.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-12,21:00,Colombia: Primera A,Llaneros,Chico,Gana Llaneros,Gana local,1.57,1.57,3.80,6.00,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-12,21:00,Colombia: Primera A,Llaneros,Chico,Gana Llaneros,Gana local,1.57,1.57,3.80,6.00,64,"1,50+",0 - 0,Fallado,0,-10.00,0 - 0,No,0,0,0,No,No,,10,4,14,10,10,4,2,61.5,38.5,2,2,0,0,DWWLL,DWLDW,Estadio Bello Horizonte - Rey Pele
 2026-11-12,21:00,Colombia: Primera A,Deportivo Pereira,America de Cali,America de Cali o empate,Doble oport. visitante,1.18,4.75,3.60,1.75,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,21:00,Colombia: Primera A,Deportivo Cali,Deportes Tolima,Deportivo Cali o empate,Doble oport. local,1.28,2.10,3.30,3.50,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-12,21:00,Colombia: Primera A,Cucuta,Jaguares,Gana Cucuta,Gana local,1.65,1.65,3.82,4.76,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
