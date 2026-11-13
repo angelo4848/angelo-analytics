@@ -864,40 +864,43 @@
    "liga": "Egypt: Second League",
    "local": "Haras El Hodood",
    "visitante": "El Dakhleya",
-   "tendencia": "★★★ Haras El Hodood o empate · cuota ~1,13",
+   "tendencia": "★★★ Haras El Hodood o empate · cuota ~1,13 · ✓ acertado",
    "cuotas": [
     1.73,
     3.25,
     4.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T12:30:00+00:00"
+   "inicio": "2026-11-13T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Egypt: Second League",
    "local": "Maleyet Kafr El Zayiat",
    "visitante": "Team",
-   "tendencia": "★★★ Maleyet Kafr El Zayiat o empate · cuota ~1,16",
+   "tendencia": "★★★ Maleyet Kafr El Zayiat o empate · cuota ~1,16 · ✓ acertado",
    "cuotas": [
     1.9,
     3.0,
     3.8
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T12:30:00+00:00"
+   "inicio": "2026-11-13T12:30:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Egypt: Second League",
    "local": "Tanta SC",
    "visitante": "La Viena FC",
-   "tendencia": "★★★ Tanta SC o empate · cuota ~1,26",
+   "tendencia": "★★★ Tanta SC o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     2.3,
     2.8,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T12:30:00+00:00"
+   "inicio": "2026-11-13T12:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Egypt: Second League",
@@ -968,14 +971,15 @@
    "liga": "Poland: III Liga - Group 3",
    "local": "Goczałkowice Zdrój",
    "visitante": "Stilon Gorzów",
-   "tendencia": "★★★ Goczałkowice Zdrój o empate · cuota ~1,26",
+   "tendencia": "★★★ Goczałkowice Zdrój o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     2.05,
     3.3,
     3.15
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T12:00:00+00:00"
+   "inicio": "2026-11-13T12:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Russia: First League",
@@ -1020,27 +1024,29 @@
    "liga": "Slovenia: 2. SNL",
    "local": "Dravinja",
    "visitante": "Krka",
-   "tendencia": "★★★ Krka o empate · cuota ~1,41",
+   "tendencia": "★★★ Krka o empate · cuota ~1,41 · ✗ fallado",
    "cuotas": [
     2.45,
     3.4,
     2.4
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T16:30:00+00:00"
+   "inicio": "2026-11-13T16:30:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Slovenia: 2. SNL",
    "local": "Triglav",
    "visitante": "Bilje",
-   "tendencia": "★★★ Gana Triglav · cuota 1,36",
+   "tendencia": "★★★ Gana Triglav · cuota 1,36 · ✓ acertado",
    "cuotas": [
     1.36,
     4.75,
     6.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:30:00+00:00"
+   "inicio": "2026-11-13T16:30:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Spain: Copa del Rey",
@@ -1124,92 +1130,99 @@
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Comoros",
    "visitante": "Congo",
-   "tendencia": "★★★ Comoros o empate · cuota ~1,18",
+   "tendencia": "★★★ Comoros o empate · cuota ~1,18 · ✓ acertado",
    "cuotas": [
     1.8,
     3.4,
     4.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T13:00:00+00:00"
+   "inicio": "2026-11-13T13:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Mozambique",
    "visitante": "Ethiopia",
-   "tendencia": "★★★ Gana Mozambique · cuota 1,53",
+   "tendencia": "★★★ Gana Mozambique · cuota 1,53 · ✗ fallado",
    "cuotas": [
     1.53,
     3.5,
     6.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T13:00:00+00:00"
+   "inicio": "2026-11-13T13:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Burkina Faso",
    "visitante": "Mauritania",
-   "tendencia": "★★★ Gana Burkina Faso · cuota 1,50",
+   "tendencia": "★★★ Gana Burkina Faso · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     3.5,
     7.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Cape Verde Islands",
    "visitante": "Liberia",
-   "tendencia": "★★★ Gana Cape Verde Islands · cuota 1,25",
+   "tendencia": "★★★ Gana Cape Verde Islands · cuota 1,25 · ✓ acertado",
    "cuotas": [
     1.25,
     4.75,
     9.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Gabon",
    "visitante": "Lesotho",
-   "tendencia": "★★★ Gana Gabon · cuota 1,22",
+   "tendencia": "★★★ Gana Gabon · cuota 1,22 · ✓ acertado",
    "cuotas": [
     1.22,
     5.5,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "Nigeria",
    "visitante": "Tanzania",
-   "tendencia": "★★★ Gana Nigeria · cuota 1,14",
+   "tendencia": "★★★ Gana Nigeria · cuota 1,14 · ✓ acertado",
    "cuotas": [
     1.14,
     8.0,
     11.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
    "local": "South Africa",
    "visitante": "Kenya",
-   "tendencia": "★★★ Gana South Africa · cuota 1,27",
+   "tendencia": "★★★ Gana South Africa · cuota 1,27 · ✗ fallado",
    "cuotas": [
     1.27,
     5.0,
     9.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Africa Cup of Nations - Qualification",
@@ -1306,27 +1319,29 @@
    "liga": "Friendlies Clubs",
    "local": "Vasteras SK FK",
    "visitante": "IF Brommapojkarna",
-   "tendencia": "★★★ Vasteras SK FK o empate · cuota ~1,30",
+   "tendencia": "★★★ Vasteras SK FK o empate · cuota ~1,30 · ✓ acertado",
    "cuotas": [
     1.86,
     4.33,
     2.93
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T11:00:00+00:00"
+   "inicio": "2026-11-13T11:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Friendlies Clubs",
    "local": "Turku PS",
    "visitante": "Ilves",
-   "tendencia": "★★★ Ilves o empate · cuota ~1,28",
+   "tendencia": "★★★ Ilves o empate · cuota ~1,28 · ✗ fallado",
    "cuotas": [
     3.06,
     3.84,
     1.91
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T11:30:00+00:00"
+   "inicio": "2026-11-13T11:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Nigeria: NPFL",
@@ -1541,14 +1556,15 @@
    "liga": "Saudi-Arabia: Division 2",
    "local": "Afif",
    "visitante": "Al Rayan",
-   "tendencia": "★★★ Afif o empate · cuota ~1,30",
+   "tendencia": "★★★ Afif o empate · cuota ~1,30 · ✓ acertado",
    "cuotas": [
     2.15,
     3.3,
     2.9
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T12:25:00+00:00"
+   "inicio": "2026-11-13T12:25:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Saudi-Arabia: Division 2",
@@ -1567,27 +1583,29 @@
    "liga": "Saudi-Arabia: Division 2",
    "local": "Al-Wajj",
    "visitante": "Al Qwarah",
-   "tendencia": "★★★ Al-Wajj o empate · cuota ~1,25",
+   "tendencia": "★★★ Al-Wajj o empate · cuota ~1,25 · ✓ acertado",
    "cuotas": [
     2.0,
     3.3,
     3.25
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T13:45:00+00:00"
+   "inicio": "2026-11-13T13:45:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Serbia: Prva Liga",
    "local": "Dubočica",
    "visitante": "Naftagas",
-   "tendencia": "★★★ Dubočica o empate · cuota ~1,28",
+   "tendencia": "★★★ Dubočica o empate · cuota ~1,28 · ✗ fallado",
    "cuotas": [
     2.1,
     3.3,
     3.0
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T16:00:00+00:00"
+   "inicio": "2026-11-13T16:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Slovakia: 3. liga - West",
@@ -1606,14 +1624,15 @@
    "liga": "Ukraine: Druha Liga",
    "local": "Karbon Cherkasy",
    "visitante": "Atlet",
-   "tendencia": "★★★ Gana Karbon Cherkasy · cuota 1,67",
+   "tendencia": "★★★ Gana Karbon Cherkasy · cuota 1,67 · ✗ fallado",
    "cuotas": [
     1.67,
     4.06,
     3.76
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T10:30:00+00:00"
+   "inicio": "2026-11-13T10:30:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Wales: Welsh Cup",
@@ -1684,14 +1703,15 @@
    "liga": "Friendlies",
    "local": "Singapore",
    "visitante": "Paraguay",
-   "tendencia": "★★★ Gana Paraguay · cuota 1,06",
+   "tendencia": "★★★ Gana Paraguay · cuota 1,06 · ✓ acertado",
    "cuotas": [
     29.0,
     11.0,
     1.06
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-13T12:00:00+00:00"
+   "inicio": "2026-11-13T12:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Friendlies",
@@ -1710,40 +1730,43 @@
    "liga": "Friendlies",
    "local": "United Arab Emirates",
    "visitante": "Honduras",
-   "tendencia": "★★★ United Arab Emirates o empate · cuota ~1,26",
+   "tendencia": "★★★ United Arab Emirates o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     2.0,
     3.4,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T14:10:00+00:00"
+   "inicio": "2026-11-13T14:10:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Friendlies",
    "local": "Saudi Arabia",
    "visitante": "South Korea",
-   "tendencia": "★★★ South Korea o empate · cuota ~1,20",
+   "tendencia": "★★★ South Korea o empate · cuota ~1,20 · ✗ fallado",
    "cuotas": [
     3.6,
     3.6,
     1.8
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T14:30:00+00:00"
+   "inicio": "2026-11-13T14:30:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Friendlies",
    "local": "Qatar",
    "visitante": "Australia",
-   "tendencia": "★★★ Australia o empate · cuota ~1,26",
+   "tendencia": "★★★ Australia o empate · cuota ~1,26 · ✓ acertado",
    "cuotas": [
     3.25,
     3.4,
     2.0
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T14:45:00+00:00"
+   "inicio": "2026-11-13T14:45:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Friendlies",
@@ -1762,14 +1785,15 @@
    "liga": "Friendlies Clubs",
    "local": "Schwarz-Weiß Bregenz",
    "visitante": "SCR Altach",
-   "tendencia": "★★★ SCR Altach o empate · cuota ~1,23",
+   "tendencia": "★★★ SCR Altach o empate · cuota ~1,23 · ✓ acertado",
    "cuotas": [
     3.4,
     3.93,
     1.78
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T10:00:00+00:00"
+   "inicio": "2026-11-13T10:00:00+00:00",
+   "resultado": "1 - 5"
   },
   {
    "liga": "Friendlies Clubs",
@@ -1788,66 +1812,71 @@
    "liga": "Friendlies Clubs",
    "local": "VfL Bochum",
    "visitante": "Verl",
-   "tendencia": "★★★ Gana VfL Bochum · cuota 1,42",
+   "tendencia": "★★★ Gana VfL Bochum · cuota 1,42 · ✓ acertado",
    "cuotas": [
     1.42,
     4.5,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T11:30:00+00:00"
+   "inicio": "2026-11-13T11:30:00+00:00",
+   "resultado": "4 - 1"
   },
   {
    "liga": "Friendlies Clubs",
    "local": "TSV Hartberg",
    "visitante": "Floridsdorfer AC",
-   "tendencia": "★★★ Gana TSV Hartberg · cuota 1,42",
+   "tendencia": "★★★ Gana TSV Hartberg · cuota 1,42 · ✗ fallado",
    "cuotas": [
     1.42,
     4.5,
     5.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T11:30:00+00:00"
+   "inicio": "2026-11-13T11:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Friendlies Clubs",
    "local": "Dynamo Dresden",
    "visitante": "Dukla Praha",
-   "tendencia": "★★★ Gana Dynamo Dresden · cuota 1,50",
+   "tendencia": "★★★ Gana Dynamo Dresden · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     4.58,
     4.43
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T12:00:00+00:00"
+   "inicio": "2026-11-13T12:00:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Friendlies Clubs",
    "local": "Raków Częstochowa",
    "visitante": "Lechia Gdansk",
-   "tendencia": "★★★ Raków Częstochowa o empate · cuota ~1,19",
+   "tendencia": "★★★ Raków Częstochowa o empate · cuota ~1,19 · ✓ acertado",
    "cuotas": [
     1.75,
     3.74,
     3.69
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T13:30:00+00:00"
+   "inicio": "2026-11-13T13:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Friendlies Clubs",
    "local": "HNK Rijeka",
    "visitante": "Orijent 1919",
-   "tendencia": "★★★ Gana HNK Rijeka · cuota 1,50",
+   "tendencia": "★★★ Gana HNK Rijeka · cuota 1,50 · ✓ acertado",
    "cuotas": [
     1.5,
     4.2,
     4.75
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T14:00:00+00:00"
+   "inicio": "2026-11-13T14:00:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Friendlies Clubs",
