@@ -1,44 +1,44 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-20:00,Spain: Copa del Rey,Salamanca UDS,Celta Vigo,3.8,84%,88%,26%,21%,18,No,Registro ESPN/SofaScore,
+20:00,Spain: Copa del Rey,Salamanca UDS,Celta Vigo,3.9,84%,88%,26%,21%,19,No,Registro ESPN/SofaScore,0 - 5
 12:00,Friendlies,Singapore,Paraguay,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),1 - 4
 12:00,Friendlies,Chinese Taipei,Kyrgyzstan,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),
 14:10,Friendlies,United Arab Emirates,Honduras,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),3 - 1
 14:30,Friendlies,Saudi Arabia,South Korea,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),3 - 2
 14:45,Friendlies,Qatar,Australia,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),0 - 3
 23:00,Friendlies,Argentina,Uruguay,4.2,94%,97%,17%,11%,6,No,Registro ESPN/SofaScore (muestra baja),
-17:00,Algeria: Ligue 1,JS Saoura,Khenchela,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
-19:30,Wales: FAW Championship,Swansea University,Treowen Stars,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,
-19:30,Wales: FAW Championship,Denbigh Town,Gresford Athletic,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,
-19:00,CONCACAF Nations League,Puerto Rico,Dominica,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
-19:00,CONCACAF Nations League,Bermuda,St. Lucia,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
-20:00,CONCACAF Nations League,Grenada,St. Kitts and Nevis,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
-23:00,CONCACAF Nations League,Saint Martin,El Salvador,6.8,83%,90%,40%,28%,5,No,Registro ESPN/SofaScore (muestra baja),
+17:00,Algeria: Ligue 1,JS Saoura,Khenchela,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),1 - 1
+19:30,Wales: FAW Championship,Swansea University,Treowen Stars,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,2 - 3
+19:30,Wales: FAW Championship,Denbigh Town,Gresford Athletic,5.5,81%,86%,33%,26%,11,No,Registro ESPN/SofaScore,7 - 1
 19:45,Northern-Ireland: Championship,Loughgall,Glenavon FC,7.7,61%,66%,51%,45%,6,No,Registro ESPN/SofaScore (muestra baja),
 19:45,Northern-Ireland: Championship,Institute,Armagh City,7.7,61%,66%,51%,45%,6,No,Registro ESPN/SofaScore (muestra baja),
 19:45,Northern-Ireland: Championship,Ards,Moyola Park,7.7,61%,66%,51%,45%,6,No,Registro ESPN/SofaScore (muestra baja),
 19:45,Northern-Ireland: Championship,Annagh United,Ballinamallard United,7.7,61%,66%,51%,45%,6,No,Registro ESPN/SofaScore (muestra baja),
-19:30,Italy: Serie C - Girone A,Ospitaletto,Dolomiti Bellunesi,8.4,67%,80%,64%,48%,8,No,Registro ESPN/SofaScore (muestra baja),
+19:30,Italy: Serie C - Girone A,Ospitaletto,Dolomiti Bellunesi,8.4,67%,80%,64%,48%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 0
+19:00,CONCACAF Nations League,Puerto Rico,Dominica,8.6,61%,72%,63%,52%,8,No,Registro ESPN/SofaScore (muestra baja),4 - 2
+19:00,CONCACAF Nations League,Bermuda,St. Lucia,8.6,61%,72%,63%,52%,8,No,Registro ESPN/SofaScore (muestra baja),1 - 2
+20:00,CONCACAF Nations League,Grenada,St. Kitts and Nevis,8.6,61%,72%,63%,52%,8,No,Registro ESPN/SofaScore (muestra baja),3 - 2
+23:00,CONCACAF Nations League,Saint Martin,El Salvador,8.6,61%,72%,63%,52%,8,No,Registro ESPN/SofaScore (muestra baja),
 01:00,El-Salvador: Primera Division,FAS,Inter,8.7,58%,66%,61%,52%,6,No,Registro ESPN/SofaScore,
-18:00,Spain: Primera División RFEF - Group 1,Ponferradina,Cacereño,9.0,58%,72%,72%,58%,7,No,Registro ESPN/SofaScore (muestra baja),
-19:30,Spain: Segunda División,Leganes,Burgos,9.5,52%,64%,72%,60%,2450,Sí,Histórico 5 años,
-13:00,Africa Cup of Nations - Qualification,Mozambique,Ethiopia,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,0 - 1
-13:00,Africa Cup of Nations - Qualification,Comoros,Congo,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,0 - 0
-16:00,Africa Cup of Nations - Qualification,South Africa,Kenya,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,2 - 2
-16:00,Africa Cup of Nations - Qualification,Nigeria,Tanzania,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,3 - 1
-16:00,Africa Cup of Nations - Qualification,Gabon,Lesotho,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,2 - 0
-16:00,Africa Cup of Nations - Qualification,Cape Verde Islands,Liberia,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,4 - 2
-16:00,Africa Cup of Nations - Qualification,Burkina Faso,Mauritania,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,1 - 0
-19:00,Africa Cup of Nations - Qualification,Mali,Rwanda,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,
-19:00,Africa Cup of Nations - Qualification,Egypt,Malawi,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,
-20:00,Africa Cup of Nations - Qualification,Morocco,Niger,10.2,42%,54%,78%,68%,16,No,Registro ESPN/SofaScore,
-19:45,UEFA Nations League,Slovenia,Switzerland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Slovakia,Faroe Islands,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Serbia,Germany,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Scotland,FYR Macedonia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Netherlands,Greece,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Luxembourg,Estonia,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Liechtenstein,Azerbaijan,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Bulgaria,Iceland,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-19:45,UEFA Nations League,Andorra,Gibraltar,10.5,41%,50%,75%,67%,8,No,Registro ESPN/SofaScore (muestra baja),
-17:00,Nigeria: NPFL,Shooting Stars,Bendel Insurance,10.6,39%,49%,78%,70%,5,No,Registro ESPN/SofaScore (muestra baja),
-19:30,Italy: Serie C - Girone B,Latina,Campobasso FC,11.2,31%,42%,86%,78%,6,No,Registro ESPN/SofaScore (muestra baja),
+18:00,Spain: Primera División RFEF - Group 1,Ponferradina,Cacereño,9.0,58%,72%,72%,58%,7,No,Registro ESPN/SofaScore (muestra baja),1 - 2
+19:30,Spain: Segunda División,Leganes,Burgos,9.5,52%,64%,72%,60%,2450,Sí,Histórico 5 años,3 - 1
+19:45,UEFA Nations League,Slovenia,Switzerland,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,0 - 0
+19:45,UEFA Nations League,Slovakia,Faroe Islands,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,2 - 2
+19:45,UEFA Nations League,Serbia,Germany,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,1 - 3
+19:45,UEFA Nations League,Scotland,FYR Macedonia,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,2 - 1
+19:45,UEFA Nations League,Netherlands,Greece,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,7 - 0
+19:45,UEFA Nations League,Luxembourg,Estonia,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,0 - 1
+19:45,UEFA Nations League,Liechtenstein,Azerbaijan,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,0 - 1
+19:45,UEFA Nations League,Bulgaria,Iceland,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,0 - 5
+19:45,UEFA Nations League,Andorra,Gibraltar,9.7,48%,57%,68%,60%,16,No,Registro ESPN/SofaScore,2 - 0
+13:00,Africa Cup of Nations - Qualification,Mozambique,Ethiopia,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,0 - 1
+13:00,Africa Cup of Nations - Qualification,Comoros,Congo,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,0 - 0
+16:00,Africa Cup of Nations - Qualification,South Africa,Kenya,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,2 - 2
+16:00,Africa Cup of Nations - Qualification,Nigeria,Tanzania,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,3 - 1
+16:00,Africa Cup of Nations - Qualification,Gabon,Lesotho,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,2 - 0
+16:00,Africa Cup of Nations - Qualification,Cape Verde Islands,Liberia,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,4 - 2
+16:00,Africa Cup of Nations - Qualification,Burkina Faso,Mauritania,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,1 - 0
+19:00,Africa Cup of Nations - Qualification,Mali,Rwanda,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,3 - 2
+19:00,Africa Cup of Nations - Qualification,Egypt,Malawi,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,5 - 0
+20:00,Africa Cup of Nations - Qualification,Morocco,Niger,10.2,42%,53%,79%,70%,19,No,Registro ESPN/SofaScore,5 - 1
+17:00,Nigeria: NPFL,Shooting Stars,Bendel Insurance,10.6,39%,49%,78%,70%,5,No,Registro ESPN/SofaScore (muestra baja),2 - 1
+19:30,Italy: Serie C - Girone B,Latina,Campobasso FC,11.2,31%,42%,86%,78%,6,No,Registro ESPN/SofaScore (muestra baja),4 - 0

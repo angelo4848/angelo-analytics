@@ -1,10 +1,10 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
-2026-11-13,19:45,UEFA Nations League,Slovenia,Switzerland,Switzerland ou empate,80%,1.24,,,,,Modelo Bet Consulting,1.17,
-2026-11-13,19:45,UEFA Nations League,Scotland,FYR Macedonia,"Scotland/empate e +1,5 golos",75%,1.34,,,,,Modelo Bet Consulting,1.19,
-2026-11-13,19:45,UEFA Nations League,Liechtenstein,Azerbaijan,"Azerbaijan/empate e +1,5 golos",73%,1.38,,,,,Modelo Bet Consulting,1.23,
-2026-11-13,19:45,UEFA Nations League,Serbia,Germany,"Germany/empate e +1,5 golos",72%,1.38,,,,,Modelo Bet Consulting,1.23,
-2026-11-13,19:45,UEFA Nations League,Slovakia,Faroe Islands,"Slovakia/empate e +1,5 golos",70%,1.42,,,,,Modelo Bet Consulting,1.27,
-2026-11-13,19:45,UEFA Nations League,Netherlands,Greece,"Netherlands/empate e +1,5 golos",67%,1.48,,,,,Modelo Bet Consulting,1.32,
+2026-11-13,19:45,UEFA Nations League,Slovenia,Switzerland,Switzerland ou empate,80%,1.24,,0 - 0,Acertado,1,Modelo Bet Consulting,1.17,1.70
+2026-11-13,19:45,UEFA Nations League,Scotland,FYR Macedonia,"Scotland/empate e +1,5 golos",75%,1.34,,2 - 1,Acertado,1,Modelo Bet Consulting,1.19,1.90
+2026-11-13,19:45,UEFA Nations League,Liechtenstein,Azerbaijan,"Azerbaijan/empate e +1,5 golos",73%,1.38,,0 - 1,Fallado,0,Modelo Bet Consulting,1.23,-10.00
+2026-11-13,19:45,UEFA Nations League,Serbia,Germany,"Germany/empate e +1,5 golos",72%,1.38,,1 - 3,Acertado,1,Modelo Bet Consulting,1.23,2.30
+2026-11-13,19:45,UEFA Nations League,Slovakia,Faroe Islands,"Slovakia/empate e +1,5 golos",70%,1.42,,2 - 2,Acertado,1,Modelo Bet Consulting,1.27,2.70
+2026-11-13,19:45,UEFA Nations League,Netherlands,Greece,"Netherlands/empate e +1,5 golos",67%,1.48,,7 - 0,Acertado,1,Modelo Bet Consulting,1.32,3.20
 2026-11-12,19:45,UEFA Nations League,Italy,France,France ou empate,78%,1.28,,3 - 1,Fallado,0,Modelo Bet Consulting,1.20,-10.00
 2026-11-12,19:45,UEFA Nations League,Czechia,Spain,"Spain/empate e +1,5 golos",75%,1.34,,0 - 2,Acertado,1,Modelo Bet Consulting,1.19,1.90
 2026-11-12,19:45,UEFA Nations League,San Marino,Belarus,"Belarus vence e -5,5 golos",74%,1.35,,0 - 2,Acertado,1,Modelo Bet Consulting,1.20,2.00

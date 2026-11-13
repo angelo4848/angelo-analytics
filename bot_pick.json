@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-13",
  "cuota": 1.62,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-13",
@@ -19,5 +19,6 @@
    "Pronóstico": "Netherlands o empate + más de 1,5 goles",
    "Cuota": "1.32"
   }
- ]
+ ],
+ "estado": "perdida"
 }
