@@ -784,27 +784,29 @@
    "liga": "Australia: Australian Championship",
    "local": "Oakleigh Cannons",
    "visitante": "Marconi Stallions",
-   "tendencia": "★★★ Gana Oakleigh Cannons · cuota 1,55",
+   "tendencia": "★★★ Gana Oakleigh Cannons · cuota 1,55 · ✗ fallado",
    "cuotas": [
     1.55,
     4.0,
     4.5
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-13T08:30:00+00:00"
+   "inicio": "2026-11-13T08:30:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Australia: Australian Championship",
    "local": "Preston Lions",
    "visitante": "Lions",
-   "tendencia": "★★★ Preston Lions o empate · cuota ~1,40",
+   "tendencia": "★★★ Preston Lions o empate · cuota ~1,40 · ✓ acertado",
    "cuotas": [
     2.38,
     3.4,
     2.45
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-13T08:30:00+00:00"
+   "inicio": "2026-11-13T08:30:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Denmark: 2. Division",
@@ -1408,14 +1410,15 @@
    "liga": "Mongolia: Premier League",
    "local": "Deren",
    "visitante": "Central Stallions",
-   "tendencia": "★★★ Central Stallions o empate · cuota ~1,34",
+   "tendencia": "★★★ Central Stallions o empate · cuota ~1,34 · ✗ fallado",
    "cuotas": [
     2.8,
     4.5,
     1.9
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-13T08:00:00+00:00"
+   "inicio": "2026-11-13T08:00:00+00:00",
+   "resultado": "4 - 3"
   },
   {
    "liga": "Netherlands: Tweede Divisie",
