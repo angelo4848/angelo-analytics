@@ -1,4 +1,7 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
+16:00,Senegal: Ligue 1,Génération Foot,Wally Daan,81%,1.24,62%,1.60,90%,1.11,0.57,7,No,Registro ESPN/SofaScore (muestra baja),,
+16:30,Senegal: Ligue 1,Diambars,Stade de Mbour,81%,1.24,62%,1.60,90%,1.11,0.57,7,No,Registro ESPN/SofaScore (muestra baja),,
+16:30,Senegal: Ligue 1,AJEL,DSC,81%,1.24,62%,1.60,90%,1.11,0.57,7,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Spain: Tercera División RFEF - Group 18,Marchamalo,Villarrubia,79%,1.27,59%,1.69,89%,1.12,1.60,5,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Spain: Tercera División RFEF - Group 18,La Solana,Socuéllamos,79%,1.27,59%,1.69,89%,1.12,1.60,5,No,Registro ESPN/SofaScore (muestra baja),,
 10:00,Ukraine: Premier League,Livyi Bereh,Bukovyna,78%,1.29,55%,1.82,89%,1.12,2.00,13,No,Registro ESPN/SofaScore,0 - 3,Acertado
@@ -11,6 +14,7 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 13:30,Tunisia: Ligue 2,Mégrine,AS Agareb,76%,1.31,58%,1.74,89%,1.12,1.92,12,No,Registro ESPN/SofaScore,,
 13:30,Tunisia: Ligue 2,M'saken,AS Soliman,76%,1.31,58%,1.74,89%,1.12,1.92,12,No,Registro ESPN/SofaScore,,
 13:30,Tunisia: Ligue 2,AS Gabes,Sporting Ben Arous,76%,1.31,58%,1.74,89%,1.12,1.92,12,No,Registro ESPN/SofaScore,,
+21:00,Guatemala: Liga Nacional,Xelajú,Guastatoya,76%,1.31,56%,1.79,90%,1.12,1.80,10,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,Guatemala: Liga Nacional,Comunicaciones,Cobán Imperial,76%,1.31,56%,1.79,90%,1.12,1.80,10,No,Registro ESPN/SofaScore (muestra baja),,
 18:00,Argentina: Primera Nacional,Atlanta,CA Estudiantes,76%,1.32,55%,1.83,89%,1.12,1.93,14,No,Registro ESPN/SofaScore,,
 19:00,Argentina: Primera Nacional,Temperley,Ciudad de Bolívar,76%,1.32,55%,1.83,89%,1.12,1.93,14,No,Registro ESPN/SofaScore,,
@@ -25,12 +29,15 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 20:30,Colombia: Primera A,Deportivo Pereira,America de Cali,75%,1.34,51%,1.94,89%,1.13,2.36,22,No,Registro ESPN/SofaScore,,
 20:30,Colombia: Primera A,Deportivo Cali,Deportes Tolima,75%,1.34,51%,1.94,89%,1.13,2.36,22,No,Registro ESPN/SofaScore,,
 20:30,Colombia: Primera A,Cucuta,Jaguares,75%,1.34,51%,1.94,89%,1.13,2.36,22,No,Registro ESPN/SofaScore,,
+20:30,Colombia: Primera A,Bucaramanga,Fortaleza FC,75%,1.34,51%,1.94,89%,1.13,2.36,22,No,Registro ESPN/SofaScore,,
 15:00,England: League Two,Salford City,Northampton,75%,1.34,52%,1.92,89%,1.13,2.16,2924,Sí,Histórico 5 años,,
 11:00,Poland: III Liga - Group 2,Luzino,Flota Świnoujście,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
 11:00,Poland: III Liga - Group 2,Grom Nowy Staw,Kalisz,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
 12:00,Poland: III Liga - Group 2,Unia Swarzędz,Gedania Gdansk,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),4 - 3,Fallado
+12:00,Poland: III Liga - Group 2,Noteć Czarnków,Lipno Stęszew,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
 12:00,Poland: III Liga - Group 2,Kluczevia Stargard,Victoria Września,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
 12:00,Poland: III Liga - Group 2,Elana Toruń,Stargard Szczeciński,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
+12:30,Poland: III Liga - Group 2,Wda Świecie,Chemik Bydgoszcz,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Poland: III Liga - Group 2,Polonia Środa,Kotwica Kórnik,75%,1.34,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
 13:30,Russia: First League,Volga Ulyanovsk,Torpedo Moskva,75%,1.34,49%,2.02,89%,1.12,2.42,12,No,Registro ESPN/SofaScore,,
 21:00,Argentina: Primera B Metropolitana,Comunicaciones,Arsenal Sarandi,74%,1.34,51%,1.97,88%,1.13,2.50,8,No,Registro ESPN/SofaScore (muestra baja),,
@@ -53,7 +60,7 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 15:30,Spain: Segunda División RFEF - Group 1,Atlético Astorga,Arosa,73%,1.38,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),,
 17:00,Spain: Segunda División RFEF - Group 1,Portugalete,Marino de Luanco,73%,1.38,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),,
 12:30,England: League Two,Exeter City,Cheltenham,72%,1.38,49%,2.03,88%,1.13,2.52,2924,Sí,Histórico 5 años,1 - 0,Acertado
-13:00,Spain: Segunda División,Valladolid,Castellón,72%,1.38,49%,2.03,88%,1.13,2.60,2450,Sí,Histórico 5 años,,
+13:00,Spain: Segunda División,Valladolid,Castellón,72%,1.38,49%,2.03,88%,1.13,2.60,2450,Sí,Histórico 5 años,0 - 1,Acertado
 15:00,Scotland: League One,Cove Rangers,Montrose,72%,1.38,49%,2.04,88%,1.14,2.34,969,Sí,Histórico 5 años,,
 15:00,England: National League,Hartlepool,Wealdstone,72%,1.39,49%,2.04,88%,1.14,2.39,2903,Sí,Histórico 5 años,,
 15:00,England: League Two,Colchester,Gillingham,72%,1.39,49%,2.05,88%,1.14,2.57,2924,Sí,Histórico 5 años,,
@@ -93,6 +100,7 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 15:00,England: League Two,Crewe,Newport County,71%,1.42,47%,2.12,86%,1.16,2.80,2924,Sí,Histórico 5 años,,
 14:00,UEFA Nations League,Kosovo,Israel,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
 17:00,UEFA Nations League,Norway,Wales,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
+17:00,UEFA Nations League,Georgia,Hungary,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Sweden,Bosnia & Herzegovina,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Romania,Poland,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Portugal,Denmark,71%,1.42,47%,2.14,87%,1.15,2.82,17,No,Registro ESPN/SofaScore,,
@@ -101,6 +109,7 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 15:00,Scotland: League One,East Kilbride,Alloa Athletic,70%,1.42,46%,2.15,86%,1.17,2.67,969,Sí,Histórico 5 años,,
 17:30,Scotland: League One,Hamilton Academical,Ross County,70%,1.43,46%,2.16,86%,1.17,2.69,969,Sí,Histórico 5 años,,
 19:30,Uruguay: Primera División,Deportivo Maldonado,Cerro,70%,1.43,46%,2.16,89%,1.13,2.75,8,No,Registro ESPN/SofaScore (muestra baja),,
+23:00,Uruguay: Primera División,Club Nacional,Albion FC,70%,1.43,46%,2.16,89%,1.13,2.75,8,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: League One,Stockport County,Reading,70%,1.43,46%,2.17,85%,1.17,2.87,2918,Sí,Histórico 5 años,,
 21:00,Peru: Primera División,UCV Moquegua,Atletico Grau,70%,1.44,48%,2.08,86%,1.17,2.64,22,No,Registro ESPN/SofaScore,,
 21:00,Peru: Primera División,Sporting Cristal,Cienciano,70%,1.44,48%,2.08,86%,1.17,2.64,22,No,Registro ESPN/SofaScore,,
@@ -140,6 +149,15 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 15:00,Poland: II Liga - East,Chojniczanka Chojnice,Zawisza Bydgoszcz,67%,1.49,36%,2.77,84%,1.18,3.13,15,No,Registro ESPN/SofaScore,,
 11:55,Saudi-Arabia: Division 2,Al Najoom,Jubbah,67%,1.50,46%,2.18,88%,1.13,3.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 12:05,Saudi-Arabia: Division 2,Al Shoalah,Qilwah,67%,1.50,46%,2.18,88%,1.13,3.00,7,No,Registro ESPN/SofaScore (muestra baja),,
+10:30,Friendlies Clubs,Legia Warszawa,Pogoń Grod. Mazowiecki,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,,
+11:00,Friendlies Clubs,Widzew Łódź,Unia Skierniewice,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,1 - 0,Acertado
+11:00,Friendlies Clubs,Obolon'-Brovar,Nyva Vinnytsya,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,,
+11:00,Friendlies Clubs,CSKA Moscow,Arsenal Tula,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,4 - 1,Fallado
+12:00,Friendlies Clubs,Novi Pazar,Otrant-Olympic,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,0 - 0,Acertado
+12:00,Friendlies Clubs,BFC Dynamo,Tasmania Berlin,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,4 - 1,Fallado
+13:00,Friendlies Clubs,Zorya Luhansk,FC Kharkiv,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,1 - 3,Fallado
+13:00,Friendlies Clubs,Ried,First Vienna,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,0 - 0,Acertado
+14:45,Friendlies Clubs,PAOK,FK Partizan,67%,1.50,48%,2.10,81%,1.23,2.79,14,No,Registro ESPN/SofaScore,,
 09:15,Czech-Republic: 3. liga - CFL B,Neratovice-Byškovice,Velké Hamry,67%,1.50,42%,2.36,87%,1.15,3.00,10,No,Registro ESPN/SofaScore (muestra baja),3 - 1,Fallado
 09:15,Czech-Republic: 3. liga - CFL B,Horní Ředice,Sokol Zápy,67%,1.50,42%,2.36,87%,1.15,3.00,10,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
 15:00,Scotland: League Two,Stirling Albion,Elgin City,66%,1.51,45%,2.25,83%,1.20,3.05,965,Sí,Histórico 5 años,,
@@ -147,7 +165,9 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 15:00,England: League Two,Rochdale,York,66%,1.52,44%,2.29,82%,1.22,3.22,2924,Sí,Histórico 5 años,,
 12:00,Poland: III Liga - Group 1,Łomża,Warta Sieradz,66%,1.53,45%,2.21,85%,1.18,3.14,7,No,Registro ESPN/SofaScore (muestra baja),2 - 2,Fallado
 12:00,Poland: III Liga - Group 1,Ząbkovia Ząbki,Polonia Lidzbark Warm.,66%,1.53,45%,2.21,85%,1.18,3.14,7,No,Registro ESPN/SofaScore (muestra baja),,
+12:00,Poland: III Liga - Group 1,Troszyn,Olimpia Zambrów,66%,1.53,45%,2.21,85%,1.18,3.14,7,No,Registro ESPN/SofaScore (muestra baja),,
 12:00,Poland: III Liga - Group 1,Swit,Olimpia Elbląg,66%,1.53,45%,2.21,85%,1.18,3.14,7,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
+12:00,Poland: III Liga - Group 1,Mławianka Mława,Wigry Suwałki,66%,1.53,45%,2.21,85%,1.18,3.14,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Scotland: League Two,Forfar Athletic,Spartans,66%,1.53,44%,2.28,82%,1.21,3.10,965,Sí,Histórico 5 años,,
 15:00,England: National League,Southend,Aldershot Town,65%,1.53,43%,2.33,81%,1.23,3.08,2903,Sí,Histórico 5 años,,
 23:00,Mexico: Liga MX,Club Queretaro,Monterrey,65%,1.54,45%,2.21,85%,1.17,3.00,14,No,Registro ESPN/SofaScore,,
@@ -164,15 +184,6 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 12:30,Turkey: 2. Lig,Menemen FK,Isparta 32 Spor,65%,1.55,44%,2.25,79%,1.26,3.12,33,No,Registro ESPN/SofaScore,,
 15:00,England: National League,Sutton Utd,Solihull Moors,64%,1.55,42%,2.37,81%,1.24,3.15,2903,Sí,Histórico 5 años,,
 15:00,Scotland: League Two,Kelty Hearts,Stranraer,64%,1.56,43%,2.34,82%,1.23,3.19,965,Sí,Histórico 5 años,,
-10:30,Friendlies Clubs,Legia Warszawa,Pogoń Grod. Mazowiecki,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,,
-11:00,Friendlies Clubs,Widzew Łódź,Unia Skierniewice,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,1 - 0,Acertado
-11:00,Friendlies Clubs,Obolon'-Brovar,Nyva Vinnytsya,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,,
-11:00,Friendlies Clubs,CSKA Moscow,Arsenal Tula,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,4 - 1,Fallado
-12:00,Friendlies Clubs,Novi Pazar,Otrant-Olympic,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,0 - 0,Acertado
-12:00,Friendlies Clubs,BFC Dynamo,Tasmania Berlin,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,4 - 1,Fallado
-13:00,Friendlies Clubs,Zorya Luhansk,FC Kharkiv,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,1 - 3,Fallado
-13:00,Friendlies Clubs,Ried,First Vienna,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,,
-14:45,Friendlies Clubs,PAOK,FK Partizan,64%,1.56,46%,2.18,80%,1.26,3.00,13,No,Registro ESPN/SofaScore,,
 13:00,Germany: Regionalliga - Nord,VfB Lübeck,Eintracht Norderstedt,64%,1.56,46%,2.19,81%,1.24,3.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 13:00,Germany: Regionalliga - Nord,Schöningen,HSC Hannover,64%,1.56,46%,2.19,81%,1.24,3.09,11,No,Registro ESPN/SofaScore (muestra baja),,
 11:00,Latvia: Virsliga,Valmiera / BSS,Tukums,64%,1.57,40%,2.48,78%,1.28,3.45,11,No,Registro ESPN/SofaScore (muestra baja),0 - 1,Acertado
@@ -205,6 +216,7 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 12:00,Poland: III Liga - Group 4,Jarosław,Chełmianka Chełm,60%,1.67,32%,3.11,78%,1.28,3.67,9,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Poland: III Liga - Group 4,Wiślanie Jaśkowice,Pogoń-Sokół Lubaczów,60%,1.67,32%,3.11,78%,1.28,3.67,9,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Poland: III Liga - Group 4,Star Starachowice,Naprzód,60%,1.67,32%,3.11,78%,1.28,3.67,9,No,Registro ESPN/SofaScore (muestra baja),,
+17:30,Spain: Segunda División,Almeria,FC Andorra,59%,1.68,39%,2.57,76%,1.31,3.78,2450,Sí,Histórico 5 años,,
 19:00,Costa-Rica: Liga de Ascenso,Santa Ana,AD Sarchí,59%,1.69,35%,2.83,77%,1.30,3.50,10,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: National League,Eastleigh,AFC Fylde,59%,1.69,37%,2.68,76%,1.31,3.55,2903,Sí,Histórico 5 años,,
 10:15,Friendlies,Japan,Brazil,58%,1.71,38%,2.66,73%,1.37,3.60,10,No,Registro ESPN/SofaScore (muestra baja),3 - 2,Fallado
