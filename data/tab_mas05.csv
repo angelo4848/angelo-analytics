@@ -15,16 +15,17 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:45,UEFA Nations League,Romania,Poland,78%,1.28,49%,2.04,1.62,16,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Portugal,Denmark,78%,1.28,49%,2.04,1.62,16,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Austria,Rep. Of Ireland,78%,1.28,49%,2.04,1.62,16,No,Registro ESPN/SofaScore,,
+10:15,Friendlies,Japan,Brazil,78%,1.29,48%,2.09,1.60,10,No,Registro ESPN/SofaScore (muestra baja),2 - 1,3 - 2
+12:00,Friendlies,China,Malaysia,78%,1.29,48%,2.09,1.60,10,No,Registro ESPN/SofaScore (muestra baja),2 - 0,2 - 0
+15:00,Friendlies,Palestine,Iran,78%,1.29,48%,2.09,1.60,10,No,Registro ESPN/SofaScore (muestra baja),,
 15:30,Spain: Primera División RFEF - Group 2,Rayo Majadahonda,Águilas,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,Spain: Primera División RFEF - Group 2,Juventud Torremolinos,Huesca,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,Friendlies,Basque Country,Venezuela,78%,1.29,48%,2.09,1.60,10,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,Spain: Primera División RFEF - Group 2,Real Jaén,Zaragoza,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Scotland: League Two,Kelty Hearts,Stranraer,77%,1.30,48%,2.09,1.87,965,Sí,Histórico 5 años,,
 23:00,USA: USL Championship,Charleston Battery,Louisville City,77%,1.30,46%,2.17,1.67,9,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Scotland: League Two,Edinburgh City,Clyde,77%,1.31,46%,2.17,1.78,965,Sí,Histórico 5 años,,
 00:30,CONCACAF Nations League,Curaçao,Panama,76%,1.31,44%,2.25,1.88,8,No,Registro ESPN/SofaScore (muestra baja),,
-10:15,Friendlies,Japan,Brazil,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
-12:00,Friendlies,China,Malaysia,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
-15:00,Friendlies,Palestine,Iran,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Thes Sport,Mandel United,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Rochefort,Tubize,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,RWDM,Habay-la-Neuve,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
@@ -32,7 +33,6 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:00,Belgium: First Amateur Division,Lyra-Lierse Berlaar,Dessel Sport,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Heist,Hoogstraten,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Flénu,Albert Quévy-Mons,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
-19:00,Friendlies,Basque Country,Venezuela,76%,1.31,44%,2.25,1.38,8,No,Registro ESPN/SofaScore (muestra baja),,
 21:30,CONCACAF Nations League,Haiti,USA,76%,1.31,44%,2.25,1.88,8,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: National League,Carlisle,Boston United,76%,1.31,43%,2.32,1.59,2903,Sí,Histórico 5 años,,
 15:00,England: National League,AFC Hornchurch,Tamworth,76%,1.32,42%,2.36,1.54,2903,Sí,Histórico 5 años,,
@@ -49,7 +49,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,England: League Two,Rochdale,York,75%,1.34,40%,2.50,1.53,2924,Sí,Histórico 5 años,,
 15:00,England: League Two,Rotherham,Crawley Town,74%,1.34,40%,2.51,1.52,2924,Sí,Histórico 5 años,,
 15:00,Scotland: Championship,Partick,Inverness CT,74%,1.35,39%,2.54,1.48,969,Sí,Histórico 5 años,,
-12:00,Serbia: Prva Liga,Teleoptik,FK Spartak Zdrepceva KRV,73%,1.36,38%,2.63,1.20,5,No,Registro ESPN/SofaScore (muestra baja),,
+12:00,Serbia: Prva Liga,Teleoptik,FK Spartak Zdrepceva KRV,73%,1.36,38%,2.63,1.20,5,No,Registro ESPN/SofaScore (muestra baja),,2 - 0
 12:30,Bulgaria: Second League,Marek,Chernomorets 1919 Burgas,73%,1.36,38%,2.63,1.20,5,No,Registro ESPN/SofaScore (muestra baja),,
 13:30,Netherlands: Derde Divisie,ACV,ADO '20,73%,1.36,38%,2.63,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Nigeria: NPFL,Kano Pillars,Ranchers Bees,73%,1.36,38%,2.63,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,
@@ -81,7 +81,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,England: League Two,Colchester,Gillingham,68%,1.48,31%,3.22,1.11,2924,Sí,Histórico 5 años,,
 15:00,England: League One,Milton Keynes Dons,Burton Albion,68%,1.48,31%,3.28,1.03,2918,Sí,Histórico 5 años,,
 20:00,Spain: Segunda División,Oviedo,Girona,67%,1.48,31%,3.19,1.21,2450,Sí,Histórico 5 años,,
-12:30,England: League Two,Exeter City,Cheltenham,67%,1.49,30%,3.29,1.07,2924,Sí,Histórico 5 años,,
+12:30,England: League Two,Exeter City,Cheltenham,67%,1.49,30%,3.29,1.07,2924,Sí,Histórico 5 años,0 - 0,1 - 0
 15:00,Scotland: League One,Cove Rangers,Montrose,67%,1.49,30%,3.30,1.02,969,Sí,Histórico 5 años,,
 15:00,Scotland: League One,Airdrie United,Queen of the South,67%,1.50,30%,3.33,1.01,969,Sí,Histórico 5 años,,
 13:00,Slovenia: 2. SNL,Dren Vrhnika,Tabor Sežana,67%,1.50,30%,3.33,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
@@ -133,4 +133,4 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 21:30,Mexico: Primera Premier,Cordobés,Pioneros de Cancún,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 22:00,Mexico: Primera Premier,Tritons Vallarta,Tapachula,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 23:30,Brazil: Serie A,Chapecoense-sc,Vasco DA Gama,60%,1.67,27%,3.66,1.50,10,No,Registro ESPN/SofaScore (muestra baja),,
-08:30,Australia: Australian Championship,Bayswater City,Sydney Olympic,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+08:30,Australia: Australian Championship,Bayswater City,Sydney Olympic,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,2 - 1
