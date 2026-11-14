@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-14",
  "cuota": 1.61,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-14",
@@ -19,5 +19,6 @@
    "Pronóstico": "Sweden o empate + más de 1,5 goles",
    "Cuota": "1.33"
   }
- ]
+ ],
+ "estado": "ganada"
 }
