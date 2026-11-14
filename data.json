@@ -519,6 +519,40 @@
      "resultado": "7 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-14",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.61,
+   "patas": [
+    {
+     "liga": "UEFA Nations League",
+     "hora": "17:00",
+     "partido": "Norway vs Wales",
+     "mercado": "Norway o empate + más de 1,5 goles",
+     "cuota": 1.21,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 74%",
+      "Cuota aproximada 1,21 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Sweden vs Bosnia & Herzegovina",
+     "mercado": "Sweden o empate + más de 1,5 goles",
+     "cuota": 1.33,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 67%",
+      "Cuota aproximada 1,33 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [

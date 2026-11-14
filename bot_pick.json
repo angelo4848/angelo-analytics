@@ -1,24 +1,23 @@
 {
- "fecha": "2026-11-13",
- "cuota": 1.62,
- "avisado": true,
+ "fecha": "2026-11-14",
+ "cuota": 1.61,
+ "avisado": false,
  "legs": [
   {
-   "Fecha": "2026-11-13",
-   "Local": "Liechtenstein",
-   "Visitante": "Azerbaijan",
+   "Fecha": "2026-11-14",
+   "Local": "Norway",
+   "Visitante": "Wales",
    "Liga": "UEFA Nations League",
-   "Pronóstico": "Azerbaijan o empate + más de 1,5 goles",
-   "Cuota": "1.23"
+   "Pronóstico": "Norway o empate + más de 1,5 goles",
+   "Cuota": "1.21"
   },
   {
-   "Fecha": "2026-11-13",
-   "Local": "Netherlands",
-   "Visitante": "Greece",
+   "Fecha": "2026-11-14",
+   "Local": "Sweden",
+   "Visitante": "Bosnia & Herzegovina",
    "Liga": "UEFA Nations League",
-   "Pronóstico": "Netherlands o empate + más de 1,5 goles",
-   "Cuota": "1.32"
+   "Pronóstico": "Sweden o empate + más de 1,5 goles",
+   "Cuota": "1.33"
   }
- ],
- "estado": "perdida"
+ ]
 }
