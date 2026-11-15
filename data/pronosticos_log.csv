@@ -1,8 +1,8 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
-2026-11-15,19:45,UEFA Nations League,Spain,England,Spain ou empate,78%,1.28,,,,,Modelo Bet Consulting,1.21,
-2026-11-15,19:45,UEFA Nations League,France,Türkiye,"France/empate e +1,5 golos",74%,1.36,,,,,Modelo Bet Consulting,1.21,
-2026-11-15,19:45,UEFA Nations League,Croatia,Czechia,"Croatia/empate e +1,5 golos",68%,1.48,,,,,Modelo Bet Consulting,1.32,
-2026-11-15,17:00,UEFA Nations League,Finland,San Marino,"Finland vence e +1,5 golos",78%,1.29,,,,,Modelo Bet Consulting,1.15,
+2026-11-15,19:45,UEFA Nations League,Spain,England,Spain ou empate,78%,1.28,,2 - 3,Fallado,0,Modelo Bet Consulting,1.21,-10.00
+2026-11-15,19:45,UEFA Nations League,France,Türkiye,"France/empate e +1,5 golos",74%,1.36,,2 - 1,Acertado,1,Modelo Bet Consulting,1.21,2.10
+2026-11-15,19:45,UEFA Nations League,Croatia,Czechia,"Croatia/empate e +1,5 golos",68%,1.48,,2 - 1,Acertado,1,Modelo Bet Consulting,1.32,3.20
+2026-11-15,17:00,UEFA Nations League,Finland,San Marino,"Finland vence e +1,5 golos",78%,1.29,,7 - 2,Acertado,1,Modelo Bet Consulting,1.15,1.50
 2026-11-14,19:45,UEFA Nations League,Sweden,Bosnia & Herzegovina,"Sweden/empate e +1,5 golos",67%,1.49,,3 - 2,Acertado,1,Modelo Bet Consulting,1.33,3.30
 2026-11-14,19:45,UEFA Nations League,Portugal,Denmark,"Portugal/empate e +1,5 golos",67%,1.49,,1 - 4,Fallado,0,Modelo Bet Consulting,1.33,-10.00
 2026-11-14,17:00,UEFA Nations League,Norway,Wales,"Norway/empate e +1,5 golos",74%,1.36,,3 - 1,Acertado,1,Modelo Bet Consulting,1.21,2.10

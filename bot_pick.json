@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-15",
  "cuota": 1.68,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-15",
@@ -27,5 +27,6 @@
    "Pronóstico": "France o empate + más de 1,5 goles",
    "Cuota": "1.21"
   }
- ]
+ ],
+ "estado": "perdida"
 }
