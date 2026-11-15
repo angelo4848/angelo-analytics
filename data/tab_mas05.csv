@@ -1,5 +1,5 @@
 Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª parte","Cuota justa +1,5",Goles esperados 1.ª parte,Muestra liga,Datos de equipos,Fuente,Descanso,Resultado
-13:30,Netherlands: Eerste Divisie,MVV,Vitesse,80%,1.25,56%,1.78,1.43,23,No,Registro ESPN/SofaScore,,
+13:30,Netherlands: Eerste Divisie,MVV,Vitesse,80%,1.25,57%,1.75,1.42,24,No,Registro ESPN/SofaScore,1 - 0,2 - 1
 11:00,Portugal: Segunda Liga,Tondela,Farense,78%,1.28,50%,2.01,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 11:00,Portugal: Segunda Liga,Amarante,Felgueiras 1932,78%,1.28,50%,2.01,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 13:30,Italy: Serie C - Girone B,Spezia,Vado,78%,1.28,50%,2.01,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,
@@ -11,6 +11,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 18:00,Portugal: Segunda Liga,Leixoes,Chaves,78%,1.28,50%,2.01,1.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 11:00,Spain: Primera División RFEF - Group 2,Ibiza,FC Cartagena,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 15:30,Spain: Primera División RFEF - Group 2,Algeciras,Antequera,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+17:45,Spain: Primera División RFEF - Group 2,Real Murcia,Alcorcon,78%,1.29,48%,2.09,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 00:00,CONCACAF Nations League,Montserrat,Nicaragua,76%,1.31,44%,2.25,1.88,8,No,Registro ESPN/SofaScore (muestra baja),,
 02:00,CONCACAF Nations League,Guatemala,Canada,76%,1.31,44%,2.25,1.88,8,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Belgium: First Amateur Division,Zelzate,Spouwen-Mopertingen,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
@@ -61,7 +62,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:45,UEFA Nations League,France,Türkiye,72%,1.39,36%,2.76,1.36,22,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Croatia,Czechia,72%,1.39,36%,2.76,1.36,22,No,Registro ESPN/SofaScore,,
 19:45,UEFA Nations League,Belgium,Italy,72%,1.39,36%,2.76,1.36,22,No,Registro ESPN/SofaScore,,
-13:00,Spain: Segunda División,Tenerife,AD Ceuta FC,71%,1.40,36%,2.75,1.44,2450,Sí,Histórico 5 años,,
+13:00,Spain: Segunda División,Tenerife,AD Ceuta FC,71%,1.40,36%,2.75,1.44,2450,Sí,Histórico 5 años,1 - 0,2 - 0
 21:00,Guatemala: Liga Nacional,Deportivo San Pedro,Marquense,70%,1.43,34%,2.95,1.10,10,No,Registro ESPN/SofaScore (muestra baja),,
 23:05,Guatemala: Liga Nacional,Suchitepéquez,Antigua GFC,70%,1.43,34%,2.95,1.10,10,No,Registro ESPN/SofaScore (muestra baja),,
 11:30,Italy: Serie C - Girone C,Giugliano,Savoia,69%,1.45,32%,3.09,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,
@@ -132,5 +133,6 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 16:00,Spain: Segunda División RFEF - Group 1,Coruxo,Llanera,60%,1.67,27%,3.66,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Spain: Segunda División RFEF - Group 1,Compostela,Ourense CF,60%,1.67,27%,3.66,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,
 17:00,Mexico: Primera Premier,H2O Purepechas,Inter Playa del Carmen,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+20:00,Jamaica: Premier League,Molynes United,Portmore United,60%,1.67,27%,3.66,1.00,5,No,Registro ESPN/SofaScore (muestra baja),,
 04:00,Australia: Australian Championship,Sydney United,South Melbourne,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,
 04:00,Australia: Australian Championship,South Hobart,Wollongong Wolves,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,

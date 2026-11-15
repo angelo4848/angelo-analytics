@@ -5145,6 +5145,422 @@
    ],
    "tipo": "AWAY WIN",
    "inicio": "2026-11-16T16:00:00+00:00"
+  },
+  {
+   "liga": "Bolivia: Copa de la División Profesional",
+   "local": "Always Ready",
+   "visitante": "Independiente Petrolero",
+   "tendencia": "★★★ Gana Always Ready · cuota 1,27",
+   "cuotas": [
+    1.27,
+    4.75,
+    8.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T19:00:00+00:00"
+  },
+  {
+   "liga": "Bolivia: Nacional B",
+   "local": "Mineros Potosi",
+   "visitante": "San Martin de Yacuiba",
+   "tendencia": "★★★ Gana Mineros Potosi · cuota 1,42",
+   "cuotas": [
+    1.42,
+    4.33,
+    5.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T19:00:00+00:00"
+  },
+  {
+   "liga": "Bolivia: Nacional B",
+   "local": "Virginia",
+   "visitante": "CD IN San Juan FC",
+   "tendencia": "★★★ Virginia o empate · cuota ~1,39",
+   "cuotas": [
+    2.3,
+    3.5,
+    2.5
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T19:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Copa Fares Lopes",
+   "local": "Ceara B",
+   "visitante": "Vila Real",
+   "tendencia": "★★★ Vila Real o empate · cuota ~1,41",
+   "cuotas": [
+    2.5,
+    3.4,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T18:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Copa Santa Catarina",
+   "local": "Hercílio Luz",
+   "visitante": "Joinville",
+   "tendencia": "★★★ Hercílio Luz o empate · cuota ~1,33",
+   "cuotas": [
+    2.25,
+    3.25,
+    2.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T18:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Goiano - 3",
+   "local": "Novo Horizonte",
+   "visitante": "Atletico Itumbiara",
+   "tendencia": "★★★ Atletico Itumbiara o empate · cuota ~1,16",
+   "cuotas": [
+    4.0,
+    3.5,
+    1.73
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T18:30:00+00:00"
+  },
+  {
+   "liga": "Brazil: Pernambucano - 1",
+   "local": "Petrolina",
+   "visitante": "Belo Jardim",
+   "tendencia": "★★★ Gana Petrolina · cuota 1,65",
+   "cuotas": [
+    1.65,
+    3.5,
+    4.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T19:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Pernambucano - 1",
+   "local": "Central SC",
+   "visitante": "Ypiranga PE",
+   "tendencia": "★★★ Gana Central SC · cuota 1,40",
+   "cuotas": [
+    1.4,
+    4.0,
+    7.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T20:00:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "Salitas",
+   "visitante": "Maya",
+   "tendencia": "★★★ Maya o empate · cuota ~1,18",
+   "cuotas": [
+    3.75,
+    2.9,
+    2.0
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T15:30:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "SONABEL",
+   "visitante": "USFA",
+   "tendencia": "★★★ USFA o empate · cuota ~1,18",
+   "cuotas": [
+    3.8,
+    2.88,
+    2.0
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T15:30:00+00:00"
+  },
+  {
+   "liga": "Chile: Primera B",
+   "local": "Deportes Santa Cruz",
+   "visitante": "Rangers de Talca",
+   "tendencia": "★★★ Deportes Santa Cruz o empate · cuota ~1,35",
+   "cuotas": [
+    2.4,
+    3.1,
+    2.62
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T21:00:00+00:00"
+  },
+  {
+   "liga": "Greece: Gamma Ethniki - Group 1",
+   "local": "Kavala",
+   "visitante": "Aetos Orfani",
+   "tendencia": "★★★ Kavala o empate · cuota ~1,17",
+   "cuotas": [
+    1.75,
+    3.5,
+    3.8
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "liga": "Greece: Gamma Ethniki - Group 1",
+   "local": "Doxa Neo Sidirochori",
+   "visitante": "Xanthi FC",
+   "tendencia": "★★★ Gana Xanthi FC · cuota 1,22",
+   "cuotas": [
+    10.0,
+    5.0,
+    1.22
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "liga": "Greece: Gamma Ethniki - Group 3",
+   "local": "Anagennisi Artas",
+   "visitante": "Thyella Katsikas",
+   "tendencia": "★★★ Gana Anagennisi Artas · cuota 1,50",
+   "cuotas": [
+    1.5,
+    3.8,
+    5.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "liga": "Greece: Gamma Ethniki - Group 3",
+   "local": "PAS Giannina",
+   "visitante": "Eordaikos",
+   "tendencia": "★★★ PAS Giannina o empate · cuota ~1,18",
+   "cuotas": [
+    1.8,
+    3.4,
+    4.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T13:00:00+00:00"
+  },
+  {
+   "liga": "Jamaica: Premier League",
+   "local": "Molynes United",
+   "visitante": "Portmore United",
+   "tendencia": "★★★ Gana Portmore United · cuota 1,44",
+   "cuotas": [
+    5.5,
+    4.2,
+    1.44
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-15T20:00:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "Binga",
+   "visitante": "Djoliba",
+   "tendencia": "★★★ Djoliba o empate · cuota ~1,20",
+   "cuotas": [
+    3.6,
+    2.8,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Montenegro: Second League",
+   "local": "Rudar",
+   "visitante": "Grbalj",
+   "tendencia": "★★★ Gana Grbalj · cuota 1,67",
+   "cuotas": [
+    4.33,
+    3.4,
+    1.67
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-15T14:00:00+00:00"
+  },
+  {
+   "liga": "Peru: Segunda División",
+   "local": "U. San Martin",
+   "visitante": "Union Comercio",
+   "tendencia": "★★★ U. San Martin o empate · cuota ~1,35",
+   "cuotas": [
+    2.3,
+    3.25,
+    2.7
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T15:45:00+00:00"
+  },
+  {
+   "liga": "Spain: Primera División RFEF - Group 2",
+   "local": "Real Murcia",
+   "visitante": "Alcorcon",
+   "tendencia": "★★★ Alcorcon o empate · cuota ~1,33",
+   "cuotas": [
+    2.62,
+    3.0,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T17:45:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 10",
+   "local": "Conil",
+   "visitante": "Xerez Deportivo",
+   "tendencia": "★★★ Xerez Deportivo o empate · cuota ~1,24",
+   "cuotas": [
+    3.44,
+    3.09,
+    2.06
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 10",
+   "local": "Linense",
+   "visitante": "Portuense",
+   "tendencia": "★★★ Linense o empate · cuota ~1,25",
+   "cuotas": [
+    2.1,
+    3.1,
+    3.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 11",
+   "local": "Cardassar",
+   "visitante": "Llosetense",
+   "tendencia": "★★★ Cardassar o empate · cuota ~1,22",
+   "cuotas": [
+    1.96,
+    3.26,
+    3.53
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 11",
+   "local": "PE Sant Jordi",
+   "visitante": "Porreres",
+   "tendencia": "★★★ Porreres o empate · cuota ~1,26",
+   "cuotas": [
+    3.0,
+    3.3,
+    2.05
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 16",
+   "local": "Calahorra",
+   "visitante": "Varea",
+   "tendencia": "★★★ Gana Calahorra · cuota 1,55",
+   "cuotas": [
+    1.55,
+    3.68,
+    5.48
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T15:30:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 16",
+   "local": "Haro Deportivo",
+   "visitante": "Berceo",
+   "tendencia": "★★★ Gana Haro Deportivo · cuota 1,44",
+   "cuotas": [
+    1.44,
+    4.4,
+    5.63
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 16",
+   "local": "Oyonesa",
+   "visitante": "Pradejón",
+   "tendencia": "★★★ Gana Oyonesa · cuota 1,40",
+   "cuotas": [
+    1.4,
+    4.31,
+    6.68
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 17",
+   "local": "La Almunia",
+   "visitante": "Andorra CF",
+   "tendencia": "★★★ La Almunia o empate · cuota ~1,17",
+   "cuotas": [
+    1.79,
+    3.38,
+    4.09
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T15:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Tercera División RFEF - Group 18",
+   "local": "Villacañas",
+   "visitante": "Tarancón",
+   "tendencia": "★★★ Villacañas o empate · cuota ~1,22",
+   "cuotas": [
+    2.1,
+    2.93,
+    3.55
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T15:30:00+00:00"
+  },
+  {
+   "liga": "Suriname: Eerste Divisie",
+   "local": "Inter Moengotapoe",
+   "visitante": "Flora",
+   "tendencia": "★★★ Gana Inter Moengotapoe · cuota 1,25",
+   "cuotas": [
+    1.25,
+    5.5,
+    7.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-15T19:30:00+00:00"
+  },
+  {
+   "liga": "Suriname: Eerste Divisie",
+   "local": "FC Inter Wanica",
+   "visitante": "Notch",
+   "tendencia": "★★★ Gana Notch · cuota 1,33",
+   "cuotas": [
+    6.5,
+    4.75,
+    1.33
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-15T22:00:00+00:00"
+  },
+  {
+   "liga": "Switzerland: 1. Liga Classic - Group 1",
+   "local": "Stade Payerne",
+   "visitante": "Coffrane",
+   "tendencia": "★★★ Stade Payerne o empate · cuota ~1,40",
+   "cuotas": [
+    2.3,
+    3.6,
+    2.45
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-15T13:30:00+00:00"
   }
  ],
  "historial_pronosticos": [
