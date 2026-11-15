@@ -243,23 +243,23 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-15,00:00,CONCACAF Nations League,Montserrat,Nicaragua,Gana Nicaragua,Gana visitante,1.22,9.50,5.00,1.22,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,00:00,Friendlies,Ecuador,Costa Rica,Gana Ecuador,Gana local,1.20,1.20,5.50,10.00,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,00:00,Friendlies,Colombia,Chile,Gana Colombia,Gana local,1.40,1.40,4.33,7.50,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:30,Brazil: Serie A,Chapecoense-sc,Vasco DA Gama,Gana Vasco DA Gama,Gana visitante,1.45,6.50,4.75,1.45,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-14,23:30,Brazil: Serie A,Chapecoense-sc,Vasco DA Gama,Gana Vasco DA Gama,Gana visitante,1.45,6.50,4.75,1.45,69,"1,35-1,50",0 - 2,Acertado,1,4.50,0 - 1,Sí,1,1,2,No,No,36' V · 81' V,6,4,10,13,17,2,6,38.8,61.2,3,1,0,0,LLLWL,WWWLL,Arena Condá
 2026-11-14,23:30,New-Zealand: National League - National,Cashmere Technical,Wellington Olympic,Cashmere Technical o empate,Doble oport. local,1.31,1.95,4.00,2.80,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:00,Argentina: Primera Nacional,Gimnasia Jujuy,Almirante Brown,Gimnasia Jujuy o empate,Doble oport. local,1.16,1.85,3.10,4.33,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:00,Guatemala: Liga Nacional,Comunicaciones,Cobán Imperial,Gana Comunicaciones,Gana local,1.65,1.65,3.50,4.50,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:00,Mexico: Liga MX,Club Queretaro,Monterrey,Monterrey o empate,Doble oport. visitante,1.28,3.50,3.70,1.95,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:00,Uruguay: Primera División,Club Nacional,Albion FC,Gana Club Nacional,Gana local,1.48,1.48,3.90,5.75,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,23:00,USA: USL Championship,Charleston Battery,Louisville City,Charleston Battery o empate,Doble oport. local,1.32,2.15,3.40,2.88,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-14,23:00,Argentina: Primera Nacional,Gimnasia Jujuy,Almirante Brown,Gimnasia Jujuy o empate,Doble oport. local,1.16,1.85,3.10,4.33,86,"1,01-1,20",2 - 0,Acertado,1,1.60,0 - 0,No,0,2,2,No,No,55' L · 73' L,0,0,0,0,0,0,0,0,0,1,1,0,0,DLLWD,DLWDD,23 de Agosto
+2026-11-14,23:00,Guatemala: Liga Nacional,Comunicaciones,Cobán Imperial,Gana Comunicaciones,Gana local,1.65,1.65,3.50,4.50,61,"1,50+",2 - 0,Acertado,1,6.50,1 - 0,Sí,1,1,2,No,No,17' L · 65' L,,,,,,,,,,0,0,0,0,WWWLW,LLWWW,Estadio Cementos Progreso
+2026-11-14,23:00,Mexico: Liga MX,Club Queretaro,Monterrey,Monterrey o empate,Doble oport. visitante,1.28,3.50,3.70,1.95,78,"1,20-1,35",0 - 1,Acertado,1,2.80,0 - 0,No,0,1,1,No,No,48' V,4,6,10,12,16,2,5,27.5,72.5,4,2,2,0,LLLLL,WLDLW,Estadio Corregidora
+2026-11-14,23:00,Uruguay: Primera División,Club Nacional,Albion FC,Gana Club Nacional,Gana local,1.48,1.48,3.90,5.75,68,"1,35-1,50",1 - 1,Fallado,0,-10.00,1 - 0,Sí,1,1,2,No,Sí,16' L · 82' V,,,,,,,,,,0,0,0,0,DWLWW,DDWWW,Gran Parque Central
+2026-11-14,23:00,USA: USL Championship,Charleston Battery,Louisville City,Charleston Battery o empate,Doble oport. local,1.32,2.15,3.40,2.88,76,"1,20-1,35",0 - 2,Fallado,0,-10.00,0 - 1,Sí,1,1,2,No,No,9' V · 68' V,14,1,15,21,6,6,3,70.8,29.2,1,0,0,0,DWWWW,DWWDW,Ralph Lundy Field at Patriots Point
 2026-11-14,22:30,Uruguay: Segunda División,Paysandu,Uruguay Montevideo,Gana Paysandu,Gana local,1.57,1.57,3.60,4.75,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,22:30,Aruba: Division di Honor,Britannia,Bubali,Gana Britannia,Gana local,1.50,1.50,4.50,4.50,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,22:00,Mexico: Primera Premier,Tritons Vallarta,Tapachula,Tritons Vallarta o empate,Doble oport. local,1.20,1.83,3.50,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,22:00,Mexico: Liga Premier Serie A,Real Refineros,Atlético Saltillo,Real Refineros o empate,Doble oport. local,1.27,2.00,3.50,3.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,22:00,Argentina: Primera B Metropolitana,Real Pilar,Talleres Remedios,Talleres Remedios o empate,Doble oport. visitante,1.30,2.80,2.90,2.35,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-14,22:00,Argentina: Primera B Metropolitana,Real Pilar,Talleres Remedios,Talleres Remedios o empate,Doble oport. visitante,1.30,2.80,2.90,2.35,77,"1,20-1,35",2 - 1,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,Sí,53' L · 65' L · 29' V,,,,,,,,,,0,0,0,0,WDWDL,LLWLD,Estadio Municipal de Pilar Carlos Barraza
 2026-11-14,22:00,Argentina: Primera Nacional,Deportivo Madryn,Deportivo Maipu,Gana Deportivo Madryn,Gana local,1.50,1.50,3.50,7.00,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,22:00,Chile: Segunda División,Colchagua,Linares Unido,Linares Unido o empate,Doble oport. visitante,1.33,2.70,3.25,2.25,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,22:00,Argentina: Copa Argentina,Banfield,Boca Juniors,Gana Boca Juniors,Gana visitante,1.55,7.00,3.60,1.55,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-14,22:00,Argentina: Copa Argentina,Banfield,Boca Juniors,Gana Boca Juniors,Gana visitante,1.55,7.00,3.60,1.55,65,"1,50+",0 - 3,Acertado,1,5.50,0 - 1,Sí,1,2,3,Sí,No,45'+1' V · 63' V · 74' V,3,2,5,12,15,4,4,34.8,65.2,2,1,0,0,DDLDL,DWWWW,Malvinas Argentinas (Mendoza)
 2026-11-14,21:30,Mexico: Primera Premier,Zacatepec 1948,Montañeses,Zacatepec 1948 o empate,Doble oport. local,1.27,2.00,3.50,3.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-14,21:30,Brazil: Serie A,Mirassol,Atletico-MG,Mirassol o empate,Doble oport. local,1.23,1.85,3.70,4.20,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-14,21:30,Brazil: Serie A,Mirassol,Atletico-MG,Mirassol o empate,Doble oport. local,1.23,1.85,3.70,4.20,81,"1,20-1,35",0 - 0,Acertado,1,2.30,0 - 0,No,0,0,0,No,No,,4,3,7,11,16,2,1,42.5,57.5,3,1,1,0,DWLDW,DDLLL,Estadio Municipal José Maria de Campos Maia
 2026-11-14,21:30,CONCACAF Nations League,Haiti,USA,Gana USA,Gana visitante,1.30,8.00,6.00,1.30,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,21:30,Mexico: Liga Premier Serie A,Delfines Coatzacoalcos,Mineros de Fresnillo,Delfines Coatzacoalcos o empate,Doble oport. local,1.29,2.15,3.20,3.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-14,21:30,Mexico: Primera Premier,Cordobés,Pioneros de Cancún,Pioneros de Cancún o empate,Doble oport. visitante,1.27,3.00,3.50,2.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,

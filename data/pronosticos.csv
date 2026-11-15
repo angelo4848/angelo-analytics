@@ -1,4 +1,5 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
-Modelo BC,17:00,UEFA Nations League,Norway vs Wales,"Norway/empate e +1,5 golos",74%,1.36,1.21,77%,3 - 1,Acertado
-Modelo BC,19:45,UEFA Nations League,Sweden vs Bosnia & Herzegovina,"Sweden/empate e +1,5 golos",67%,1.49,1.33,63%,3 - 2,Acertado
-Modelo BC,19:45,UEFA Nations League,Portugal vs Denmark,"Portugal/empate e +1,5 golos",67%,1.49,1.33,63%,1 - 4,Fallado
+Modelo BC,17:00,UEFA Nations League,Finland vs San Marino,"Finland vence e +1,5 golos",78%,1.29,1.15,95%,,
+Modelo BC,19:45,UEFA Nations League,Spain vs England,Spain ou empate,78%,1.28,1.21,55%,,
+Modelo BC,19:45,UEFA Nations League,France vs Türkiye,"France/empate e +1,5 golos",74%,1.36,1.21,77%,,
+Modelo BC,19:45,UEFA Nations League,Croatia vs Czechia,"Croatia/empate e +1,5 golos",68%,1.48,1.32,63%,,
