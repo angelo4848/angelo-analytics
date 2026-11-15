@@ -555,6 +555,53 @@
      "resultado": "3 - 2"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-15",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.68,
+   "patas": [
+    {
+     "liga": "UEFA Nations League",
+     "hora": "17:00",
+     "partido": "Finland vs San Marino",
+     "mercado": "Victoria Finland + más de 1,5 goles",
+     "cuota": 1.15,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 78%",
+      "Cuota aproximada 1,15 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Spain vs England",
+     "mercado": "Spain o empate",
+     "cuota": 1.21,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 78%",
+      "Cuota aproximada 1,21 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "France vs Türkiye",
+     "mercado": "France o empate + más de 1,5 goles",
+     "cuota": 1.21,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 74%",
+      "Cuota aproximada 1,21 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
