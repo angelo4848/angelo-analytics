@@ -80,6 +80,11 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 17:00,Mexico: Primera Premier,H2O Purepechas,Inter Playa del Carmen,74%,1.35,50%,2.01,88%,1.14,2.57,7,No,Registro ESPN/SofaScore (muestra baja),,
 12:00,Turkey: 3. Lig - Group 2,Altay,Bursa Yıldırımspor,74%,1.36,49%,2.05,89%,1.13,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Turkey: 3. Lig - Group 2,Bucaspor 1928,Karsiyaka,74%,1.36,49%,2.05,89%,1.13,2.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+05:00,Japan: J3 League,Kitakyushu,Thespakusatsu Gunma,74%,1.36,53%,1.89,86%,1.17,2.38,13,No,Registro ESPN/SofaScore,,
+05:00,Japan: J3 League,Fukushima United,Sagamihara,74%,1.36,53%,1.89,86%,1.17,2.38,13,No,Registro ESPN/SofaScore,,
+05:00,Japan: J3 League,FC Gifu,Matsumoto Yamaga,74%,1.36,53%,1.89,86%,1.17,2.38,13,No,Registro ESPN/SofaScore,,
+07:00,Japan: J3 League,FC Ryukyu,Kochi United,74%,1.36,53%,1.89,86%,1.17,2.38,13,No,Registro ESPN/SofaScore,1 - 0,Acertado
+09:00,Japan: J3 League,Biwako Shiga,Osaka,74%,1.36,53%,1.89,86%,1.17,2.38,13,No,Registro ESPN/SofaScore,,
 10:00,Russia: Second League A - Division A Gold,Volgar Astrakhan,Dinamo Kirov,73%,1.36,51%,1.95,89%,1.12,2.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 10:00,Russia: Second League A - Division A Gold,Novosibirsk,Dinamo Vladivostok,73%,1.36,51%,1.95,89%,1.12,2.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 10:00,Russia: Second League A - Division A Gold,Kaluga,FK Sokol Saratov,73%,1.36,51%,1.95,89%,1.12,2.29,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -90,11 +95,6 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 05:00,Japan: J2 League,Fujieda MYFC,Ventforet Kofu,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
 05:00,Japan: J2 League,Albirex Niigata,Tegevajaro Miyazaki,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
 15:00,Georgia: Erovnuli Liga,Spaeri,FC Iberia 1999,73%,1.37,52%,1.94,88%,1.14,2.30,10,No,Registro ESPN/SofaScore (muestra baja),,
-05:00,Japan: J3 League,Kitakyushu,Thespakusatsu Gunma,73%,1.37,52%,1.93,85%,1.18,2.50,12,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,Fukushima United,Sagamihara,73%,1.37,52%,1.93,85%,1.18,2.50,12,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,FC Gifu,Matsumoto Yamaga,73%,1.37,52%,1.93,85%,1.18,2.50,12,No,Registro ESPN/SofaScore,,
-07:00,Japan: J3 League,FC Ryukyu,Kochi United,73%,1.37,52%,1.93,85%,1.18,2.50,12,No,Registro ESPN/SofaScore,,
-09:00,Japan: J3 League,Biwako Shiga,Osaka,73%,1.37,52%,1.93,85%,1.18,2.50,12,No,Registro ESPN/SofaScore,,
 11:00,Poland: III Liga - Group 3,Sparta Katowice,Odra Bytom Odrzański,72%,1.38,47%,2.13,88%,1.14,2.62,8,No,Registro ESPN/SofaScore (muestra baja),,
 12:00,Poland: III Liga - Group 3,Stal Brzeg,Zaglebie Sosnowiec,72%,1.38,47%,2.13,88%,1.14,2.62,8,No,Registro ESPN/SofaScore (muestra baja),,
 11:00,Belarus: 1. Division,Orsha,Volna,72%,1.39,48%,2.08,89%,1.13,2.57,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -240,3 +240,6 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 00:00,CONCACAF Nations League,Montserrat,Nicaragua,49%,2.04,29%,3.50,61%,1.63,4.50,8,No,Registro ESPN/SofaScore (muestra baja),,
 02:00,CONCACAF Nations League,Guatemala,Canada,49%,2.04,29%,3.50,61%,1.63,4.50,8,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,CONCACAF Nations League,Panama,Curaçao,49%,2.04,29%,3.50,61%,1.63,4.50,8,No,Registro ESPN/SofaScore (muestra baja),,
+06:00,Japan: J-League Cup,Kashima,Yokohama F. Marinos,48%,2.10,34%,2.97,64%,1.57,4.83,6,No,Registro ESPN/SofaScore (muestra baja),3 - 2,Fallado
+06:00,Japan: J-League Cup,Cerezo Osaka,Urawa,48%,2.10,34%,2.97,64%,1.57,4.83,6,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
+08:00,Japan: J-League Cup,Kashiwa Reysol,Kawasaki Frontale,48%,2.10,34%,2.97,64%,1.57,4.83,6,No,Registro ESPN/SofaScore (muestra baja),5 - 4,Fallado

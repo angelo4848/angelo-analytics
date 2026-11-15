@@ -2481,40 +2481,43 @@
    "liga": "Japan: J-League Cup",
    "local": "Cerezo Osaka",
    "visitante": "Urawa",
-   "tendencia": "★★★ Urawa o empate · cuota ~1,43",
+   "tendencia": "★★★ Urawa o empate · cuota ~1,43 · ✓ acertado",
    "cuotas": [
     2.6,
     3.9,
     2.25
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-15T06:00:00+00:00"
+   "inicio": "2026-11-15T06:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Japan: J-League Cup",
    "local": "Kashima",
    "visitante": "Yokohama F. Marinos",
-   "tendencia": "★★★ Gana Kashima · cuota 1,65",
+   "tendencia": "★★★ Gana Kashima · cuota 1,65 · ✓ acertado",
    "cuotas": [
     1.65,
     4.2,
     4.2
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-15T06:00:00+00:00"
+   "inicio": "2026-11-15T06:00:00+00:00",
+   "resultado": "3 - 2"
   },
   {
    "liga": "Japan: J-League Cup",
    "local": "Kashiwa Reysol",
    "visitante": "Kawasaki Frontale",
-   "tendencia": "★★★ Kashiwa Reysol o empate · cuota ~1,29",
+   "tendencia": "★★★ Kashiwa Reysol o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     1.95,
     3.8,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-15T08:00:00+00:00"
+   "inicio": "2026-11-15T08:00:00+00:00",
+   "resultado": "5 - 4"
   },
   {
    "liga": "Japan: J2 League",
@@ -2650,14 +2653,15 @@
    "liga": "Japan: J3 League",
    "local": "FC Ryukyu",
    "visitante": "Kochi United",
-   "tendencia": "★★★ FC Ryukyu o empate · cuota ~1,24",
+   "tendencia": "★★★ FC Ryukyu o empate · cuota ~1,24 · ✓ acertado",
    "cuotas": [
     1.91,
     3.5,
     3.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-15T07:00:00+00:00"
+   "inicio": "2026-11-15T07:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Japan: J3 League",
