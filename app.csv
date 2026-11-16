@@ -54,11 +54,11 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-16,00:00,El-Salvador: Primera Division,Inter,Cacahuatique,Inter o empate,Doble oport. local,1.25,1.91,3.60,3.20,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,23:30,Chile: Primera B,Recoleta,Deportes Iquique,Deportes Iquique o empate,Doble oport. visitante,1.37,2.55,3.40,2.30,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,23:30,Uruguay: Segunda División,Oriental,Colón,Colón o empate,Doble oport. visitante,1.32,2.75,3.10,2.30,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-15,23:30,Argentina: Primera Nacional,Ferro Carril Oeste,Gimnasia Y Tiro,Gana Ferro Carril Oeste,Gana local,1.57,1.57,3.30,6.50,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-15,23:30,Argentina: Primera Nacional,Ferro Carril Oeste,Gimnasia Y Tiro,Gana Ferro Carril Oeste,Gana local,1.57,1.57,3.30,6.50,64,"1,50+",0 - 1,Fallado,0,-10.00,0 - 1,Sí,1,0,1,No,No,15' V,0,0,0,0,0,0,0,0,0,2,3,1,0,LDLWD,WLLWD,Estadio Arquitecto Ricardo Etcheverri
 2026-11-15,23:05,Colombia: Primera B,Tigres FC,Real Cundinamarca,Tigres FC o empate,Doble oport. local,1.27,2.20,3.00,3.50,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-15,23:05,Guatemala: Liga Nacional,Suchitepéquez,Antigua GFC,Suchitepéquez o empate,Doble oport. local,1.30,2.15,3.30,2.90,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-15,23:00,CONCACAF Nations League,Panama,Curaçao,Gana Panama,Gana local,1.48,1.48,3.80,6.25,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-15,23:00,Uruguay: Primera División,Defensor Sporting,Penarol,Gana Penarol,Gana visitante,1.65,4.50,3.50,1.65,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-15,23:05,Guatemala: Liga Nacional,Suchitepéquez,Antigua GFC,Suchitepéquez o empate,Doble oport. local,1.30,2.15,3.30,2.90,77,"1,20-1,35",1 - 1,Acertado,1,3.00,1 - 1,Sí,2,0,2,No,Sí,12' L · 30' V,,,,,,,,,,0,0,0,0,DLWLD,DWWWL,Estadio Carlos Salazar Hijo
+2026-11-15,23:00,CONCACAF Nations League,Panama,Curaçao,Gana Panama,Gana local,1.48,1.48,3.80,6.25,68,"1,35-1,50",2 - 0,Acertado,1,4.80,1 - 0,Sí,1,1,2,No,No,45' L · 51' L,6,2,8,18,7,3,0,60,40,2,2,0,1,WDDLL,LDDWW,Estadio Rommel Fernández Gutiérrez
+2026-11-15,23:00,Uruguay: Primera División,Defensor Sporting,Penarol,Gana Penarol,Gana visitante,1.65,4.50,3.50,1.65,61,"1,50+",1 - 1,Fallado,0,-10.00,0 - 0,No,0,2,2,No,Sí,90'+4' L · 72' V,,,,,,,,,,0,0,0,0,DWDLL,DDDLD,Estadio Luis Franzini
 2026-11-15,22:00,Suriname: Eerste Divisie,FC Inter Wanica,Notch,Gana Notch,Gana visitante,1.33,6.50,4.75,1.33,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,21:30,Bolivia: Copa de la División Profesional,Real Potosí,Nacional Potosí,Real Potosí o empate,Doble oport. local,1.29,2.00,3.60,3.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-15,21:00,Chile: Primera B,Union San Felipe,Union Espanola,Union Espanola o empate,Doble oport. visitante,1.35,3.05,3.40,2.25,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
