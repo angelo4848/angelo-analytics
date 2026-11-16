@@ -605,6 +605,40 @@
      "resultado": "2 - 1"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-16",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.66,
+   "patas": [
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Greece vs Serbia",
+     "mercado": "Greece o empate + más de 1,5 goles",
+     "cuota": 1.29,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 69%",
+      "Cuota aproximada 1,29 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Nations League",
+     "hora": "19:45",
+     "partido": "Gibraltar vs Malta",
+     "mercado": "Malta o empate + más de 1,5 goles",
+     "cuota": 1.29,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 69%",
+      "Cuota aproximada 1,29 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -1842,6 +1876,32 @@
    ],
    "tipo": "HOME DC",
    "inicio": "2026-11-17T19:00:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "Diarra",
+   "visitante": "ASKO",
+   "tendencia": "★★★ Diarra o empate · cuota ~1,20",
+   "cuotas": [
+    2.05,
+    2.9,
+    3.5
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-16T16:00:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "Bakaridjan",
+   "visitante": "Derby Academie",
+   "tendencia": "★★★ Bakaridjan o empate · cuota ~1,33",
+   "cuotas": [
+    2.38,
+    3.0,
+    2.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-16T18:30:00+00:00"
   }
  ],
  "historial_pronosticos": [

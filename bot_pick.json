@@ -1,32 +1,23 @@
 {
- "fecha": "2026-11-15",
- "cuota": 1.68,
- "avisado": true,
+ "fecha": "2026-11-16",
+ "cuota": 1.66,
+ "avisado": false,
  "legs": [
   {
-   "Fecha": "2026-11-15",
-   "Local": "Finland",
-   "Visitante": "San Marino",
+   "Fecha": "2026-11-16",
+   "Local": "Greece",
+   "Visitante": "Serbia",
    "Liga": "UEFA Nations League",
-   "Pronóstico": "Victoria Finland + más de 1,5 goles",
-   "Cuota": "1.15"
+   "Pronóstico": "Greece o empate + más de 1,5 goles",
+   "Cuota": "1.29"
   },
   {
-   "Fecha": "2026-11-15",
-   "Local": "Spain",
-   "Visitante": "England",
+   "Fecha": "2026-11-16",
+   "Local": "Gibraltar",
+   "Visitante": "Malta",
    "Liga": "UEFA Nations League",
-   "Pronóstico": "Spain o empate",
-   "Cuota": "1.21"
-  },
-  {
-   "Fecha": "2026-11-15",
-   "Local": "France",
-   "Visitante": "Türkiye",
-   "Liga": "UEFA Nations League",
-   "Pronóstico": "France o empate + más de 1,5 goles",
-   "Cuota": "1.21"
+   "Pronóstico": "Malta o empate + más de 1,5 goles",
+   "Cuota": "1.29"
   }
- ],
- "estado": "perdida"
+ ]
 }
