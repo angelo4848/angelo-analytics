@@ -1903,6 +1903,32 @@
    ],
    "tipo": "HOME DC",
    "inicio": "2026-11-16T18:30:00+00:00"
+  },
+  {
+   "liga": "Italy: Serie C - Girone C",
+   "local": "Sorrento",
+   "visitante": "SS Monopoli",
+   "tendencia": "★★★ Sorrento o empate · cuota ~1,28",
+   "cuotas": [
+    2.3,
+    2.9,
+    2.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-16T19:30:00+00:00"
+  },
+  {
+   "liga": "Venezuela: Segunda División",
+   "local": "Aragua FC",
+   "visitante": "Deportivo Lara",
+   "tendencia": "★★★ Deportivo Lara o empate · cuota ~1,30",
+   "cuotas": [
+    2.9,
+    3.2,
+    2.2
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-16T19:30:00+00:00"
   }
  ],
  "historial_pronosticos": [
