@@ -1218,14 +1218,15 @@
    "liga": "Ukraine: Persha Liga",
    "local": "Inhulets",
    "visitante": "Probiy Horodenka",
-   "tendencia": "★★★ Inhulets o empate · cuota ~1,31",
+   "tendencia": "★★★ Inhulets o empate · cuota ~1,31 · ✓ acertado",
    "cuotas": [
     2.08,
     3.55,
     3.15
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-16T09:00:00+00:00"
+   "inicio": "2026-11-16T09:00:00+00:00",
+   "resultado": "1 - 0"
   },
   {
    "liga": "Ukraine: Persha Liga",
