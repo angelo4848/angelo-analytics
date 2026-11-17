@@ -1,59 +1,35 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
-11:30,Iran: Azadegan League,Mes Rafsanjan,Shahin Bandar Ameri,80%,1.26,60%,1.68,89%,1.12,1.43,14,No,Registro ESPN/SofaScore,,
-13:00,Iran: Azadegan League,Pars Jonoubi JAM,Novin Ahvaz,80%,1.26,60%,1.68,89%,1.12,1.43,14,No,Registro ESPN/SofaScore,0 - 0,Acertado
-13:00,Iran: Azadegan League,Naft Gachsaran,Niroye Zamini,80%,1.26,60%,1.68,89%,1.12,1.43,14,No,Registro ESPN/SofaScore,1 - 0,Acertado
-16:00,Mali: Première Division,Diarra,ASKO,78%,1.29,56%,1.80,90%,1.12,1.62,8,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
-18:30,Mali: Première Division,Bakaridjan,Derby Academie,78%,1.29,56%,1.80,90%,1.12,1.62,8,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
-05:00,Russia: First League,Ska-khabarovsk,Leningradets,76%,1.31,52%,1.92,89%,1.12,2.14,14,No,Registro ESPN/SofaScore,,
-04:00,Japan: J3 League,Kagoshima United,Gainare Tottori,74%,1.35,53%,1.87,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,Tochigi SC,Nara Club,74%,1.35,53%,1.87,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,Parceiro Nagano,Ehime FC,74%,1.35,53%,1.87,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,Kanazawa,Roasso Kumamoto,74%,1.35,53%,1.87,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,,
-05:00,Japan: J3 League,Kamatamare Sanuki,Renofa Yamaguchi,74%,1.35,53%,1.87,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,,
-12:00,Serbia: Prva Liga,OFK Bor 1919,Semendrija 1924,74%,1.35,53%,1.88,88%,1.14,2.45,20,No,Registro ESPN/SofaScore,0 - 2,Acertado
-12:00,Serbia: Prva Liga,Grafičar,FK Vozdovac,74%,1.35,53%,1.88,88%,1.14,2.45,20,No,Registro ESPN/SofaScore,0 - 0,Acertado
-04:00,Japan: J2 League,Vanraure Hachinohe,Iwaki,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
-04:00,Japan: J2 League,Consadole Sapporo,Sagan Tosu,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
-04:05,Japan: J2 League,Vegalta Sendai,Blaublitz Akita,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
-05:00,Japan: J2 League,Kataller Toyama,Tokushima Vortis,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
-05:00,Japan: J2 League,Imabari,Jubilo Iwata,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
-12:00,Greece: Super League 2,Marko,Zakynthos,73%,1.37,50%,2.00,85%,1.17,2.67,15,No,Registro ESPN/SofaScore,6 - 0,Fallado
-13:00,Greece: Super League 2,Niki Volos,Pyrgos 1968,73%,1.37,50%,2.00,85%,1.17,2.67,15,No,Registro ESPN/SofaScore,2 - 1,Acertado
-23:00,Uruguay: Primera División,Wanderers,Juventud,73%,1.37,49%,2.04,89%,1.12,2.50,12,No,Registro ESPN/SofaScore,,
-09:00,Ukraine: Persha Liga,Inhulets,Probiy Horodenka,71%,1.40,47%,2.11,87%,1.14,2.71,7,No,Registro ESPN/SofaScore (muestra baja),1 - 1,Acertado
-10:30,Ukraine: Persha Liga,Chernihiv,Lokomotiv Kyiv,71%,1.40,47%,2.11,87%,1.14,2.71,7,No,Registro ESPN/SofaScore (muestra baja),,
-19:30,Venezuela: Segunda División,Aragua FC,Deportivo Lara,71%,1.41,46%,2.17,84%,1.19,3.17,6,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-19:30,Italy: Serie C - Girone C,Sorrento,SS Monopoli,70%,1.42,49%,2.06,85%,1.18,2.67,21,No,Registro ESPN/SofaScore,2 - 1,Acertado
-20:30,Chile: Segunda División,Santiago Morning,Deportes Rengo,70%,1.42,45%,2.20,83%,1.20,2.85,13,No,Registro ESPN/SofaScore,,
-19:45,Italy: Serie C - Girone B,Perugia,Torres,68%,1.46,48%,2.09,87%,1.14,2.71,24,No,Registro ESPN/SofaScore,0 - 1,Acertado
-03:00,Mexico: Liga de Expansión MX,CA La Paz,Piratas,68%,1.46,46%,2.18,85%,1.18,3.00,5,No,Registro ESPN/SofaScore (muestra baja),,
-15:00,UEFA Nations League,Kazakhstan,Slovakia,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,2 - 2,Fallado
-15:00,UEFA Nations League,Faroe Islands,Moldova,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,1 - 0,Acertado
-17:00,UEFA Nations League,Lithuania,Liechtenstein,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,2 - 1,Acertado
-17:00,UEFA Nations League,Iceland,Luxembourg,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,3 - 0,Acertado
-17:00,UEFA Nations League,Estonia,Bulgaria,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,2 - 1,Acertado
-19:45,UEFA Nations League,Switzerland,Scotland,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,4 - 0,Fallado
-19:45,UEFA Nations League,Greece,Serbia,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,1 - 0,Acertado
-19:45,UEFA Nations League,Gibraltar,Malta,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,1 - 1,Acertado
-19:45,UEFA Nations League,Germany,Netherlands,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,5 - 0,Fallado
-19:45,UEFA Nations League,FYR Macedonia,Slovenia,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,0 - 3,Acertado
-13:00,Africa Cup of Nations - Qualification,Zimbabwe,Equatorial Guinea,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,3 - 0,Acertado
-13:00,Africa Cup of Nations - Qualification,Sudan,Senegal,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,2 - 4,Fallado
-13:00,Africa Cup of Nations - Qualification,Namibia,Cameroon,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,0 - 3,Acertado
-15:00,Africa Cup of Nations - Qualification,Somalia,Ghana,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,0 - 1,Acertado
-16:00,Africa Cup of Nations - Qualification,Eritrea,Guinea,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,1 - 3,Fallado
-16:00,Africa Cup of Nations - Qualification,Central African Republic,Benin,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,0 - 1,Acertado
-00:00,El-Salvador: Primera Division,Inter,Cacahuatique,63%,1.58,44%,2.29,77%,1.30,3.38,13,No,Registro ESPN/SofaScore,,
-18:00,Peru: Primera División,UTC Cajamarca,Club Deportivo Los Chankas,63%,1.60,45%,2.23,80%,1.24,3.04,25,No,Registro ESPN/SofaScore,5 - 3,Fallado
-20:15,Peru: Primera División,UCV Moquegua,Atletico Grau,63%,1.60,45%,2.23,80%,1.24,3.04,25,No,Registro ESPN/SofaScore,,
-20:15,Peru: Primera División,Cusco,ADT,63%,1.60,45%,2.23,80%,1.24,3.04,25,No,Registro ESPN/SofaScore,2 - 2,Fallado
-04:00,Australia: Australian Championship,Sutherland Sharks,Canberra FC,61%,1.63,36%,2.74,77%,1.29,3.31,13,No,Registro ESPN/SofaScore,,
-04:00,Australia: Australian Championship,Broadmeadow Magic,Avondale,61%,1.63,36%,2.74,77%,1.29,3.31,13,No,Registro ESPN/SofaScore,,
-18:00,Friendlies,Andorra,Azerbaijan,61%,1.63,42%,2.40,77%,1.29,3.31,13,No,Registro ESPN/SofaScore,1 - 3,Fallado
-00:30,Friendlies Clubs,New York Red Bulls,Club America,55%,1.82,38%,2.66,78%,1.29,3.37,19,No,Registro ESPN/SofaScore,,
-16:00,Slovakia: 2. liga,Tatran Prešov,Lokomotíva Zvolen,51%,1.95,34%,2.93,73%,1.37,3.67,18,No,Registro ESPN/SofaScore,1 - 0,Acertado
-05:00,Japan: J-League Cup,Machida Zelvia,Vissel Kobe,48%,2.10,34%,2.97,64%,1.57,4.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-01:00,CONCACAF Nations League,Jamaica,Mexico,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,,
-19:00,CONCACAF Nations League,Guyana,Puerto Rico,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,4 - 2,Fallado
-19:00,CONCACAF Nations League,Guadeloupe,Bermuda,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,4 - 1,Fallado
-19:00,CONCACAF Nations League,Cuba,Grenada,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,9 - 0,Fallado
+23:15,Argentina: Torneo Federal A,Olimpo Bahia Blanca,Kimberley Mar del Plata,79%,1.27,55%,1.82,89%,1.12,1.75,8,No,Registro ESPN/SofaScore (muestra baja),,
+01:10,Colombia: Primera B,Quindio,Real Cartagena,74%,1.34,54%,1.85,88%,1.13,2.33,6,No,Registro ESPN/SofaScore (muestra baja),,
+00:00,USA: USL Championship,New Mexico United,Sacramento Republic,71%,1.42,48%,2.09,85%,1.18,2.91,11,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
+19:45,UEFA Nations League,Wales,Portugal,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Ukraine,Georgia,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Rep. Of Ireland,Kosovo,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Poland,Sweden,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Israel,Austria,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Hungary,Northern Ireland,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Denmark,Norway,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+19:45,UEFA Nations League,Bosnia & Herzegovina,Romania,65%,1.53,41%,2.43,81%,1.24,3.07,42,No,Registro ESPN/SofaScore,,
+13:00,Africa Cup of Nations - Qualification,Tanzania,Nigeria,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+13:00,Africa Cup of Nations - Qualification,South Sudan,Angola,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+13:00,Africa Cup of Nations - Qualification,Malawi,Egypt,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+13:00,Africa Cup of Nations - Qualification,Lesotho,Gabon,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+13:00,Africa Cup of Nations - Qualification,Burundi,Zambia,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+16:00,Africa Cup of Nations - Qualification,Sierra Leone,Congo DR,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+16:00,Africa Cup of Nations - Qualification,Libya,Tunisia,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+16:00,Africa Cup of Nations - Qualification,Kenya,South Africa,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+16:00,Africa Cup of Nations - Qualification,Guinea-Bissau,Madagascar,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+16:00,Africa Cup of Nations - Qualification,Gambia,Ivory Coast,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+19:00,Africa Cup of Nations - Qualification,Mauritania,Burkina Faso,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+19:00,Africa Cup of Nations - Qualification,Congo,Comoros,65%,1.54,46%,2.19,80%,1.25,2.96,28,No,Registro ESPN/SofaScore,,
+00:00,El-Salvador: Primera Division,Inca Aruba,Águila,63%,1.58,44%,2.29,77%,1.30,3.38,13,No,Registro ESPN/SofaScore,,
+19:45,England: National League - South,Truro City,Billericay Town,61%,1.64,39%,2.58,82%,1.22,3.18,22,No,Registro ESPN/SofaScore,,
+19:45,England: National League - South,Tonbridge Angels,Chesham United,61%,1.64,39%,2.58,82%,1.22,3.18,22,No,Registro ESPN/SofaScore,,
+19:45,England: National League - North,Spennymoor Town,Chester,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: National League - North,Spalding United,Hebburn Town,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: National League - North,South Shields,Harborough Town,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: National League - North,Oxford City,Macclesfield,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: National League - North,Bedford Town,Chorley,55%,1.83,35%,2.86,75%,1.33,3.82,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,England: EFL Trophy,Luton,Peterborough,54%,1.85,30%,3.33,76%,1.32,4.00,9,No,Registro ESPN/SofaScore (muestra baja),,
+19:00,CONCACAF Nations League,St. Lucia,Barbados,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,,
+19:00,CONCACAF Nations League,Dominica,Cayman Islands,43%,2.31,26%,3.84,54%,1.84,4.83,12,No,Registro ESPN/SofaScore,,
