@@ -1,24 +1,5 @@
 {
- "fecha": "2026-11-16",
- "cuota": 1.66,
- "avisado": true,
- "legs": [
-  {
-   "Fecha": "2026-11-16",
-   "Local": "Greece",
-   "Visitante": "Serbia",
-   "Liga": "UEFA Nations League",
-   "Pronóstico": "Greece o empate + más de 1,5 goles",
-   "Cuota": "1.29"
-  },
-  {
-   "Fecha": "2026-11-16",
-   "Local": "Gibraltar",
-   "Visitante": "Malta",
-   "Liga": "UEFA Nations League",
-   "Pronóstico": "Malta o empate + más de 1,5 goles",
-   "Cuota": "1.29"
-  }
- ],
- "estado": "perdida"
+ "fecha": "2026-11-17",
+ "legs": [],
+ "avisado": true
 }
