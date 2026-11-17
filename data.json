@@ -674,14 +674,15 @@
    "liga": "USA: USL Championship",
    "local": "New Mexico United",
    "visitante": "Sacramento Republic",
-   "tendencia": "★★★ Sacramento Republic o empate · cuota ~1,34",
+   "tendencia": "★★★ Sacramento Republic o empate · cuota ~1,34 · ✓ acertado",
    "cuotas": [
     2.75,
     3.3,
     2.25
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-17T00:00:00+00:00"
+   "inicio": "2026-11-17T00:00:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "UEFA Nations League",
@@ -1259,14 +1260,15 @@
    "liga": "Friendlies",
    "local": "Singapore",
    "visitante": "Brazil",
-   "tendencia": "★★★ Gana Brazil · cuota 1,01",
+   "tendencia": "★★★ Gana Brazil · cuota 1,01 · ✓ acertado",
    "cuotas": [
     51.0,
     29.0,
     1.01
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-17T10:00:00+00:00"
+   "inicio": "2026-11-17T10:00:00+00:00",
+   "resultado": "0 - 7"
   },
   {
    "liga": "Friendlies",
