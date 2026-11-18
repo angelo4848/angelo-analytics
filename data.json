@@ -1168,14 +1168,15 @@
    "liga": "Indonesia: Liga Nusantara",
    "local": "Persinab Nabire",
    "visitante": "Perseden Denpasar",
-   "tendencia": "★★★ Perseden Denpasar o empate · cuota ~1,20",
+   "tendencia": "★★★ Perseden Denpasar o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     3.5,
     3.25,
     1.91
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-18T08:30:00+00:00"
+   "inicio": "2026-11-18T08:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Italy: Coppa Italia Serie D",
@@ -1376,79 +1377,85 @@
    "liga": "Turkey: 2. Lig",
    "local": "Adana Demirspor",
    "visitante": "Kastamonuspor",
-   "tendencia": "★★★ Adana Demirspor o empate · cuota ~1,20",
+   "tendencia": "★★★ Adana Demirspor o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     1.75,
     3.8,
     3.5
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Çorluspor 1947",
    "visitante": "Muş Sport Klübü",
-   "tendencia": "★★★ Muş Sport Klübü o empate · cuota ~1,29",
+   "tendencia": "★★★ Muş Sport Klübü o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     2.88,
     3.1,
     2.2
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "1 - 4"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Güzide Gebzespor",
    "visitante": "Ankaraspor",
-   "tendencia": "★★★ Gana Güzide Gebzespor · cuota 1,62",
+   "tendencia": "★★★ Gana Güzide Gebzespor · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.8,
     4.33
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Hatayspor",
    "visitante": "İnegöl Kafkas Gençlik",
-   "tendencia": "★★★ Gana İnegöl Kafkas Gençlik · cuota 1,28",
+   "tendencia": "★★★ Gana İnegöl Kafkas Gençlik · cuota 1,28 · ✓ acertado",
    "cuotas": [
     8.5,
     4.5,
     1.28
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "0 - 2"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "Isparta 32 Spor",
    "visitante": "Somaspor",
-   "tendencia": "★★★ Gana Isparta 32 Spor · cuota 1,67",
+   "tendencia": "★★★ Gana Isparta 32 Spor · cuota 1,67 · ✗ fallado",
    "cuotas": [
     1.67,
     3.7,
     4.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Turkey: 2. Lig",
    "local": "12 Bingölspor",
    "visitante": "Sakaryaspor",
-   "tendencia": "★★★ Sakaryaspor o empate · cuota ~1,23",
+   "tendencia": "★★★ Sakaryaspor o empate · cuota ~1,23 · ✓ acertado",
    "cuotas": [
     3.4,
     3.5,
     1.9
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-18T10:00:00+00:00"
+   "inicio": "2026-11-18T10:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Turkey: 2. Lig",
