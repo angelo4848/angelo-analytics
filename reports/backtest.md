@@ -3,14 +3,14 @@
 Stake fijo de 1 unidad · cuota de apuesta = Bet365 (cierre) · cuota justa = Pinnacle sin margen.
 ROI > 0 = la estrategia gana dinero a largo plazo.
 
-## Fútbol (35396 partidos, temporadas 2122, 2223, 2324, 2425, 2526, 2627)
+## Fútbol (35397 partidos, temporadas 2122, 2223, 2324, 2425, 2526, 2627)
 
 ### F1 · Favorito ≤ 1,50 (estrategia actual)
 | | Apuestas | Acierto | Cuota media | ROI | Beneficio (u) | Peor caída (u) | Peor racha |
 |---|---|---|---|---|---|---|---|
-| 1,21-1,35 | 1707 | 77.6% | 1.28 | **-0.52%** | -8.9 | 22.9 | 6 |
-| todos | 5572 | 74.8% | 1.34 | **-0.86%** | -47.9 | 93.3 | 5 |
-| 1,36-1,50 | 2852 | 69.1% | 1.43 | **-1.1%** | -31.3 | 72.5 | 6 |
+| 1,21-1,35 | 1707 | 77.6% | 1.28 | **-0.52%** | -8.9 | 23.3 | 6 |
+| todos | 5572 | 74.8% | 1.34 | **-0.86%** | -47.9 | 93.4 | 5 |
+| 1,36-1,50 | 2852 | 69.1% | 1.43 | **-1.1%** | -31.3 | 72.6 | 5 |
 | ≤1,20 | 1013 | 86.4% | 1.15 | **-0.76%** | -7.7 | 14.3 | 2 |
 
 ### F2 · Valor 1X2 (Bet365 > cuota justa Pinnacle + margen)
@@ -61,7 +61,7 @@ ROI > 0 = la estrategia gana dinero a largo plazo.
 ### 0-0 al descanso por liga
 | Liga | % 0-0 al descanso | Partidos |
 |---|---|---|
-| España 2 | 36.0% | 2460 |
+| España 2 | 36.0% | 2461 |
 | Francia 2 | 34.1% | 1856 |
 | España 1 | 32.8% | 2019 |
 | Inglaterra 4 | 31.4% | 2934 |
