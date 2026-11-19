@@ -1,18 +1,13 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
-18:00,Spain: Copa del Rey,Utebo,Sabadell,3.2,88%,91%,21%,16%,23,No,Registro ESPN/SofaScore,0 - 3
-18:00,Spain: Copa del Rey,Portugalete,Real Unión,3.2,88%,91%,21%,16%,23,No,Registro ESPN/SofaScore,0 - 0
-19:00,Spain: Copa del Rey,Badajoz,Tenerife,3.2,88%,91%,21%,16%,23,No,Registro ESPN/SofaScore,2 - 5
-19:00,Spain: Copa del Rey,Alcoyano,Mallorca,3.2,88%,91%,21%,16%,23,No,Registro ESPN/SofaScore,1 - 3
-19:30,Spain: Copa del Rey,Reddis,Barakaldo,3.2,88%,91%,21%,16%,23,No,Registro ESPN/SofaScore,
-16:45,Algeria: Ligue 1,Témouchent,JS El Biar,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
-16:45,Algeria: Ligue 1,CS Constantine,Ben Aknoun,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
-19:45,Northern-Ireland: Championship,Newington Youth,H&W Welders,7.7,61%,66%,51%,45%,6,No,Registro ESPN/SofaScore (muestra baja),
-00:00,CONCACAF Nations League,Trinidad and Tobago,Antigua and Barbuda,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
-00:00,CONCACAF Nations League,Martinique,Aruba,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
-01:00,CONCACAF Nations League,Canada,Guatemala,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
-14:30,Saudi-Arabia: Division 1,Al-Adalah,Al Orubah,9.6,48%,70%,89%,74%,5,No,Registro ESPN/SofaScore (muestra baja),
-20:00,Peru: Primera División,Alianza Atletico,FBC Melgar,9.8,46%,59%,78%,67%,21,No,Registro ESPN/SofaScore,
-22:30,Brazil: Serie A,Coritiba,Santos,10.0,44%,56%,78%,68%,12,No,Registro ESPN/SofaScore,
-23:00,Brazil: Serie A,Remo,Chapecoense-sc,10.0,44%,56%,78%,68%,12,No,Registro ESPN/SofaScore,
-23:30,Brazil: Serie A,Flamengo,Atletico Paranaense,10.0,44%,56%,78%,68%,12,No,Registro ESPN/SofaScore,
-15:00,Nigeria: NPFL,Ranchers Bees,Doma United,10.6,39%,49%,78%,70%,5,No,Registro ESPN/SofaScore (muestra baja),
+16:45,Algeria: Ligue 1,MC Alger,Olympique Akbou,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
+16:45,Algeria: Ligue 1,MB Rouisset,CR Belouizdad,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
+19:00,Algeria: Ligue 1,JS Kabylie,USM Alger,4.6,84%,88%,28%,22%,5,No,Registro ESPN/SofaScore (muestra baja),
+15:00,Bulgaria: Second League,Dobrudzha,Fratria,8.6,69%,85%,72%,52%,5,No,Registro ESPN/SofaScore (muestra baja),
+00:00,CONCACAF Nations League,USA,Haiti,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
+00:00,CONCACAF Nations League,French Guyana,St. Vincent / Grenadines,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
+01:00,CONCACAF Nations League,El Salvador,Saint Martin,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
+02:30,CONCACAF Nations League,Mexico,Jamaica,8.8,61%,75%,70%,55%,16,No,Registro ESPN/SofaScore,
+12:45,United-Arab-Emirates: Pro League,Al-Wasl FC,Hatta SC,9.0,55%,64%,64%,55%,5,No,Registro ESPN/SofaScore (muestra baja),
+15:25,United-Arab-Emirates: Pro League,Al Ain,Al-Dhafra,9.0,55%,64%,64%,55%,5,No,Registro ESPN/SofaScore (muestra baja),
+22:30,Brazil: Serie A,Vasco DA Gama,Internacional,9.8,46%,59%,77%,66%,14,No,Registro ESPN/SofaScore,
+15:30,Qatar: Stars League,Al Ahli Doha,Al Shamal,10.2,44%,53%,73%,65%,6,No,Registro ESPN/SofaScore (muestra baja),
