@@ -830,14 +830,15 @@
    "liga": "Australia: Australian Championship",
    "local": "Lions",
    "visitante": "Wollongong Wolves",
-   "tendencia": "★★★ Gana Lions · cuota 1,45",
+   "tendencia": "★★★ Gana Lions · cuota 1,45 · ✗ fallado",
    "cuotas": [
     1.45,
     4.5,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-19T08:30:00+00:00"
+   "inicio": "2026-11-19T08:30:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Azerbaijan: Birinci Dasta",
