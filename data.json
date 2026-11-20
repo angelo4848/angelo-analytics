@@ -9782,6 +9782,71 @@
    ],
    "tipo": "HOME DC",
    "inicio": "2026-11-21T14:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Gasogi United",
+   "visitante": "Kiyovu Sports",
+   "tendencia": "★★★ Kiyovu Sports o empate · cuota ~1,22",
+   "cuotas": [
+    3.3,
+    2.75,
+    2.2
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-20T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Amagaju",
+   "visitante": "Marines",
+   "tendencia": "★★★ Marines o empate · cuota ~1,30",
+   "cuotas": [
+    2.88,
+    3.0,
+    2.3
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-20T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Etoile de l'Est",
+   "visitante": "Bugesera",
+   "tendencia": "★★★ Bugesera o empate · cuota ~1,31",
+   "cuotas": [
+    2.8,
+    2.9,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-20T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Police",
+   "visitante": "Al Hilal Omdurman",
+   "tendencia": "★★★ Al Hilal Omdurman o empate · cuota ~1,10",
+   "cuotas": [
+    5.0,
+    3.1,
+    1.7
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-20T16:30:00+00:00"
+  },
+  {
+   "liga": "Saudi-Arabia: Division 2",
+   "local": "Al-Wajj",
+   "visitante": "Al Qalah",
+   "tendencia": "★★★ Al-Wajj o empate · cuota ~1,30",
+   "cuotas": [
+    2.2,
+    3.2,
+    2.88
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-20T12:35:00+00:00"
   }
  ],
  "historial_pronosticos": [
