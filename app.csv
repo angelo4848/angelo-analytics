@@ -500,22 +500,22 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-20,21:30,Colombia: Primera A,Independiente Medellin,Santa Fe,Independiente Medellin o empate,Doble oport. local,1.30,2.10,3.40,3.10,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,21:00,Chile: Primera B,Recoleta,Santiago Wanderers,Recoleta o empate,Doble oport. local,1.33,2.15,3.50,2.80,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,21:00,Chile: Primera División,Cobresal,A. Italiano,Cobresal o empate,Doble oport. local,1.37,2.20,3.60,2.90,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,20:45,Portugal: Taça de Portugal,FC Porto,Paredes,Gana FC Porto,Gana local,1.07,1.07,11.00,23.00,93,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,20:30,Paraguay: Division Profesional - Clausura,Sportivo Ameliano,Sportivo Luqueno,Sportivo Ameliano o empate,Doble oport. local,1.31,2.20,3.25,2.90,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,20:45,Portugal: Taça de Portugal,FC Porto,Paredes,Gana FC Porto,Gana local,1.07,1.07,11.00,23.00,93,"1,01-1,20",1 - 1,Fallado,0,-10.00,1 - 0,Sí,1,1,2,No,Sí,41' L · 57' V,,,,,,,,,,0,0,0,0,WWWWW,LWWWL,Estádio do Dragão
+2026-11-20,20:30,Paraguay: Division Profesional - Clausura,Sportivo Ameliano,Sportivo Luqueno,Sportivo Ameliano o empate,Doble oport. local,1.31,2.20,3.25,2.90,76,"1,20-1,35",1 - 0,Acertado,1,3.10,0 - 0,No,0,1,1,No,No,62' L,5,9,14,12,19,2,7,52.8,47.2,1,0,0,0,WLLLL,LWWLL,Estadio Ameliano Villeta
 2026-11-20,20:15,San-Marino: Campionato,Tre Fiori,Juvenes / Dogana,Gana Tre Fiori,Gana local,1.57,1.57,3.75,4.50,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,20:15,San-Marino: Campionato,La Fiorita,Folgore,La Fiorita o empate,Doble oport. local,1.32,2.30,3.10,2.80,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,20:00,Gibraltar: Premier Division,Europa Point,Mons Calpe,Gana Mons Calpe,Gana visitante,1.47,4.66,4.67,1.47,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,20:00,England: League One,Barnsley,Sheffield Wednesday,Sheffield Wednesday o empate,Doble oport. visitante,1.38,2.90,3.70,2.20,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,20:00,Spain: La Liga,Athletic Club,Espanyol,Gana Athletic Club,Gana local,1.45,1.45,4.10,7.50,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,20:00,England: League One,Barnsley,Sheffield Wednesday,Sheffield Wednesday o empate,Doble oport. visitante,1.38,2.90,3.70,2.20,72,"1,35-1,50",1 - 2,Acertado,1,3.80,1 - 2,Sí,3,0,3,Sí,Sí,40' L · 8' V · 14' V,4,2,6,16,10,6,2,60.9,39.1,2,3,0,0,LLWWD,WWLLD,Oakwell
+2026-11-20,20:00,Spain: La Liga,Athletic Club,Espanyol,Gana Athletic Club,Gana local,1.45,1.45,4.10,7.50,69,"1,35-1,50",0 - 1,Fallado,0,-10.00,0 - 0,No,0,1,1,No,No,66' V,9,2,11,17,6,6,3,57.8,42.2,3,1,0,0,LDWWW,WDWLL,San Mamés
 2026-11-20,19:45,Wales: Premier League,The New Saints,Trefelin,Gana The New Saints,Gana local,1.02,1.02,21.00,34.00,98,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:45,Northern-Ireland: Championship,Strabane Athletic,Dundela,Dundela o empate,Doble oport. visitante,1.39,2.55,3.40,2.35,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:45,England: National League,Southend,Boreham Wood,Boreham Wood o empate,Doble oport. visitante,1.35,3.00,3.80,2.10,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:45,England: National League,Southend,Boreham Wood,Boreham Wood o empate,Doble oport. visitante,1.35,3.00,3.80,2.10,74,"1,35-1,50",2 - 3,Acertado,1,3.50,0 - 3,Sí,3,2,5,Sí,Sí,65' L · 67' L · 19' V · 29' V · 33' V,0,0,0,0,0,0,0,0,0,6,0,0,0,LWLDD,WDLWW,Roots Hall
 2026-11-20,19:45,Wales: Premier League,Penybont,Haverfordwest County AFC,Gana Penybont,Gana local,1.44,1.44,4.20,5.50,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:45,Wales: Premier League,Llandudno,Barry Town,Barry Town o empate,Doble oport. visitante,1.40,2.50,3.60,2.30,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:45,Wales: Premier League,Flint Town United,Cambrian & Clydach,Flint Town United o empate,Doble oport. local,1.30,2.00,3.75,2.88,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:45,France: Ligue 1,Estac Troyes,Le Havre,Estac Troyes o empate,Doble oport. local,1.31,2.10,3.50,3.40,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:45,France: Ligue 1,Estac Troyes,Le Havre,Estac Troyes o empate,Doble oport. local,1.31,2.10,3.50,3.40,76,"1,20-1,35",3 - 1,Acertado,1,3.10,1 - 1,Sí,2,2,4,Sí,Sí,19' L · 69' L · 90'+8' L · 3' V,7,0,7,19,7,7,3,46.5,53.5,2,3,0,1,DLWDL,DLLLL,Stade de l'Aube
 2026-11-20,19:45,Northern-Ireland: Premiership,Cliftonville FC,Glentoran,Glentoran o empate,Doble oport. visitante,1.34,2.75,3.40,2.20,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:45,Belgium: Jupiler Pro League,Cercle Brugge,KVC Westerlo,Cercle Brugge o empate,Doble oport. local,1.28,1.95,3.75,3.20,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:45,Belgium: Jupiler Pro League,Cercle Brugge,KVC Westerlo,Cercle Brugge o empate,Doble oport. local,1.28,1.95,3.75,3.20,78,"1,20-1,35",1 - 0,Acertado,1,2.80,0 - 0,No,0,1,1,No,No,71' L,2,4,6,18,16,6,6,41.9,58.1,4,2,0,0,WWWLL,LLLDW,Jan Breydel Stadium
 2026-11-20,19:45,Wales: Premier League,Cardiff MET,Ammanford AFC,Gana Cardiff MET,Gana local,1.22,1.22,5.50,9.00,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:45,Wales: FAW Championship,Caerphilly Athletic,llanelli AFC,Gana Caerphilly Athletic,Gana local,1.30,1.30,5.25,6.50,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:45,Wales: Premier League,Caernarfon Town,GAP Connah S Quay FC,Caernarfon Town o empate,Doble oport. local,1.44,2.40,3.60,2.40,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -526,39 +526,39 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-20,19:45,Wales: Premier League,Airbus UK,Colwyn Bay,Colwyn Bay o empate,Doble oport. visitante,1.31,2.88,3.60,2.05,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Italy: Serie C - Girone A,Trento,Cittadella,Trento o empate,Doble oport. local,1.30,2.25,3.10,2.88,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Wales: FAW Championship,Swansea University,Trethomas Bluebirds,Gana Swansea University,Gana local,1.55,1.55,4.33,4.20,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:30,Uruguay: Primera División,Racing Montevideo,Central Espanol,Racing Montevideo o empate,Doble oport. local,1.16,1.73,3.50,4.33,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:30,Uruguay: Primera División,Racing Montevideo,Central Espanol,Racing Montevideo o empate,Doble oport. local,1.16,1.73,3.50,4.33,86,"1,01-1,20",1 - 0,Acertado,1,1.60,0 - 0,No,0,1,1,No,No,75' L,,,,,,,,,,0,0,0,0,DDWDW,DWWLL,Parque Osvaldo Roberto
 2026-11-20,19:30,Wales: FAW Championship,Pontypridd Town,Carmarthen Town,Gana Pontypridd Town,Gana local,1.57,1.57,4.40,4.00,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Poland: Ekstraklasa,Pogon Szczecin,Slask Wroclaw,Pogon Szczecin o empate,Doble oport. local,1.18,1.73,3.70,4.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Poland: I Liga,Miedz Legnica,ŁKS Łódź,Miedz Legnica o empate,Doble oport. local,1.34,2.25,3.30,2.62,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:30,Uruguay: Primera División,Liverpool Montevideo,Wanderers,Liverpool Montevideo o empate,Doble oport. local,1.29,2.20,3.10,3.10,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:30,Uruguay: Primera División,Liverpool Montevideo,Wanderers,Liverpool Montevideo o empate,Doble oport. local,1.29,2.20,3.10,3.10,78,"1,20-1,35",0 - 2,Fallado,0,-10.00,0 - 2,Sí,2,0,2,No,No,31' V · 45'+3' V,,,,,,,,,,0,0,0,0,LWWWW,WWDLL,Estadio Luis Franzini
 2026-11-20,19:30,Scotland: Championship,Inverness CT,Ayr Utd,Gana Inverness CT,Gana local,1.60,1.60,3.80,4.75,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Belgium: First Amateur Division,Hoogstraten,Thes Sport,Thes Sport o empate,Doble oport. visitante,1.30,3.00,3.70,2.00,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:30,Italy: Serie B,Hellas Verona,Cesena,Hellas Verona o empate,Doble oport. local,1.16,1.70,3.70,5.00,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:30,Spain: Segunda División,FC Andorra,Leganes,FC Andorra o empate,Doble oport. local,1.21,1.85,3.50,3.90,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:30,Italy: Serie B,Hellas Verona,Cesena,Hellas Verona o empate,Doble oport. local,1.16,1.70,3.70,5.00,86,"1,01-1,20",0 - 2,Fallado,0,-10.00,0 - 1,Sí,1,1,2,No,No,7' V · 65' V,11,1,12,16,5,6,4,55.9,44.1,3,4,0,0,LDWWD,WWDWL,Stadio Marcantonio Bentegodi
+2026-11-20,19:30,Spain: Segunda División,FC Andorra,Leganes,FC Andorra o empate,Doble oport. local,1.21,1.85,3.50,3.90,83,"1,20-1,35",1 - 3,Fallado,0,-10.00,1 - 2,Sí,3,1,4,Sí,Sí,31' L · 37' V · 44' V · 83' V,7,1,8,23,10,8,7,44.7,55.3,4,3,1,0,LLDWL,WWWLL,Estadi de la FAF d'Encamp
 2026-11-20,19:30,Italy: Serie C - Girone C,Casertana,Salernitana,Casertana o empate,Doble oport. local,1.34,2.25,3.30,2.70,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Germany: Bundesliga,Bayern München,1. FC Köln,Gana Bayern München,Gana local,1.07,1.07,11.00,23.00,93,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:30,Austria: 2. Liga,Austria Salzburg,Admira Wacker,Austria Salzburg o empate,Doble oport. local,1.44,2.40,3.60,2.50,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:15,Switzerland: Challenge League,Yverdon Sport,FC Winterthur,Yverdon Sport o empate,Doble oport. local,1.32,2.05,3.70,3.00,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,Vitesse,Jong AZ,Vitesse o empate,Doble oport. local,1.28,1.90,3.90,3.30,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:00,Netherlands: Eerste Divisie,Vitesse,Jong AZ,Vitesse o empate,Doble oport. local,1.28,1.90,3.90,3.30,78,"1,20-1,35",0 - 3,Fallado,0,-10.00,0 - 3,Sí,3,0,3,Sí,No,24' V · 36' V · 43' V,6,6,12,17,14,4,4,49,51,2,1,0,0,LLDWL,WLLWD,GelreDome
 2026-11-20,19:00,France: Ligue 2,Sochaux,Dunkerque,Sochaux o empate,Doble oport. local,1.27,2.15,3.10,3.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:00,France: Ligue 2,Reims,Saint Etienne,Saint Etienne o empate,Doble oport. visitante,1.23,3.20,3.20,2.00,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,France: Ligue 2,RED Star FC 93,PAU,RED Star FC 93 o empate,Doble oport. local,1.25,2.05,3.20,3.25,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:00,France: Ligue 2,RED Star FC 93,PAU,RED Star FC 93 o empate,Doble oport. local,1.25,2.05,3.20,3.25,80,"1,20-1,35",2 - 1,Acertado,1,2.50,1 - 0,Sí,1,2,3,Sí,Sí,22' L · 90'+11' L · 68' V,5,8,13,14,15,7,4,61.6,38.4,4,2,0,0,WWLLL,LWLWW,Stade Bauer
 2026-11-20,19:00,France: Ligue 2,Nantes,Grenoble,Gana Nantes,Gana local,1.44,1.44,3.70,6.50,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,France: Ligue 2,Nancy,Dijon,Nancy o empate,Doble oport. local,1.15,1.73,3.40,4.10,87,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:00,France: Ligue 2,Nancy,Dijon,Nancy o empate,Doble oport. local,1.15,1.73,3.40,4.10,87,"1,01-1,20",1 - 0,Acertado,1,1.50,0 - 0,No,0,1,1,No,No,48' L,7,4,11,6,7,2,0,40.6,59.4,1,2,0,0,DWWWW,DLWWL,Stade Marcel-Picot
 2026-11-20,19:00,Montenegro: First League,Mornar,Sutjeska,Mornar o empate,Doble oport. local,1.25,2.05,3.20,3.20,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,France: Ligue 2,Metz,Boulogne,Metz o empate,Doble oport. local,1.23,2.05,3.10,3.30,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:00,France: Ligue 2,Metz,Boulogne,Metz o empate,Doble oport. local,1.23,2.05,3.10,3.30,81,"1,20-1,35",2 - 1,Acertado,1,2.30,1 - 1,Sí,2,1,3,Sí,Sí,43' L · 88' L · 27' V,9,4,13,15,13,4,4,57.3,42.7,1,2,1,0,DLWLD,DLWLD,Stade Saint-Symphorien
 2026-11-20,19:00,Algeria: Ligue 1,MC Oran,JS Saoura,Gana MC Oran,Gana local,1.62,1.62,3.10,5.75,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:00,France: Ligue 2,Laval,Montpellier,Montpellier o empate,Doble oport. visitante,1.23,3.30,3.20,2.00,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,19:00,Belgium: Challenger Pro League,K. Lierse S.K.,Lokeren-Temse,Lokeren-Temse o empate,Doble oport. visitante,1.21,3.50,3.70,1.80,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,Jong Utrecht,Emmen,Emmen o empate,Doble oport. visitante,1.29,3.25,3.80,1.95,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,Helmond Sport,Dordrecht,Helmond Sport o empate,Doble oport. local,1.38,2.25,3.60,2.75,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,France: Ligue 2,Guingamp,Rodez,Guingamp o empate,Doble oport. local,1.25,2.00,3.30,3.25,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,FC Volendam,Jong Ajax,FC Volendam o empate,Doble oport. local,1.25,1.80,4.10,3.60,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,FC OSS,Roda,Roda o empate,Doble oport. visitante,1.21,3.80,3.70,1.80,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,Den Bosch,VVV Venlo,Den Bosch o empate,Doble oport. local,1.29,1.90,4.00,3.25,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,De Graafschap,MVV,De Graafschap o empate,Doble oport. local,1.18,1.70,3.90,4.10,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,France: Ligue 2,Annecy,Clermont Foot,Annecy o empate,Doble oport. local,1.23,2.05,3.10,3.25,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,19:00,Netherlands: Eerste Divisie,Almere City FC,NAC Breda,NAC Breda o empate,Doble oport. visitante,1.41,2.70,3.80,2.25,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,19:00,Netherlands: Eerste Divisie,Jong Utrecht,Emmen,Emmen o empate,Doble oport. visitante,1.29,3.25,3.80,1.95,78,"1,20-1,35",1 - 0,Fallado,0,-10.00,0 - 0,No,0,1,1,No,No,80' L,7,7,14,22,11,6,4,49.2,50.8,1,2,0,0,DDWLL,DLLLW,Sportcomplex Zoudenbalch
+2026-11-20,19:00,Netherlands: Eerste Divisie,Helmond Sport,Dordrecht,Helmond Sport o empate,Doble oport. local,1.38,2.25,3.60,2.75,72,"1,35-1,50",5 - 1,Acertado,1,3.80,3 - 0,Sí,3,3,6,Sí,Sí,18' L · 25' L · 27' L · 82' L · 84' L · 78' V,3,5,8,14,14,7,5,39.8,60.2,2,0,0,0,WLLWL,LLDLL,GS Staalwerken Stadion
+2026-11-20,19:00,France: Ligue 2,Guingamp,Rodez,Guingamp o empate,Doble oport. local,1.25,2.00,3.30,3.25,80,"1,20-1,35",1 - 3,Fallado,0,-10.00,1 - 1,Sí,2,2,4,Sí,Sí,24' L · 12' V · 70' V · 88' V,5,6,11,20,18,11,7,65.2,34.8,1,4,0,0,DLLWW,DLLWW,Stade Municipal de Roudourou
+2026-11-20,19:00,Netherlands: Eerste Divisie,FC Volendam,Jong Ajax,FC Volendam o empate,Doble oport. local,1.25,1.80,4.10,3.60,80,"1,20-1,35",1 - 2,Fallado,0,-10.00,1 - 0,Sí,1,2,3,Sí,Sí,22' L · 59' V · 87' V,11,6,17,18,12,5,4,57.4,42.6,2,2,0,0,LLWLL,WWDDW,Kras Stadion
+2026-11-20,19:00,Netherlands: Eerste Divisie,FC OSS,Roda,Roda o empate,Doble oport. visitante,1.21,3.80,3.70,1.80,83,"1,20-1,35",1 - 0,Fallado,0,-10.00,1 - 0,Sí,1,0,1,No,No,22' L,3,5,8,3,14,1,3,34.4,65.6,0,0,0,0,WWDLW,LWLWW,Frans Heesen Stadion
+2026-11-20,19:00,Netherlands: Eerste Divisie,Den Bosch,VVV Venlo,Den Bosch o empate,Doble oport. local,1.29,1.90,4.00,3.25,78,"1,20-1,35",1 - 0,Acertado,1,2.90,1 - 0,Sí,1,0,1,No,No,23' L,11,8,19,13,7,3,3,48.7,51.3,3,1,0,0,WLDWW,LLDWL,Stadion De Vliert
+2026-11-20,19:00,Netherlands: Eerste Divisie,De Graafschap,MVV,De Graafschap o empate,Doble oport. local,1.18,1.70,3.90,4.10,85,"1,01-1,20",3 - 0,Acertado,1,1.80,0 - 0,No,0,3,3,Sí,No,50' L · 61' L · 79' L,4,3,7,23,8,7,2,61.5,38.5,1,0,0,0,DLWLD,DWWLL,De Vijverberg
+2026-11-20,19:00,France: Ligue 2,Annecy,Clermont Foot,Annecy o empate,Doble oport. local,1.23,2.05,3.10,3.25,81,"1,20-1,35",4 - 2,Acertado,1,2.30,2 - 0,Sí,2,4,6,Sí,Sí,4' L · 21' L · 54' L · 66' L · 75' V · 86' V,8,7,15,17,11,7,2,39.3,60.7,1,3,0,0,WWLLW,LWWDL,Parc des Sports
+2026-11-20,19:00,Netherlands: Eerste Divisie,Almere City FC,NAC Breda,NAC Breda o empate,Doble oport. visitante,1.41,2.70,3.80,2.25,71,"1,35-1,50",1 - 4,Acertado,1,4.10,0 - 3,Sí,3,2,5,Sí,Sí,87' L · 7' V · 25' V · 45' V · 57' V,1,2,3,13,13,4,5,48.5,51.5,2,1,0,0,LWWWW,WWDWW,Yanmar Stadion
 2026-11-20,18:45,Germany: Oberliga - Hamburg,Teutonia Ottensen,HEBC,Teutonia Ottensen o empate,Doble oport. local,1.39,2.08,4.15,2.57,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:30,Switzerland: Challenge League,Stade Nyonnais,FC WIL 1900,FC WIL 1900 o empate,Doble oport. visitante,1.19,3.90,4.00,1.70,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:30,Switzerland: Challenge League,Stade Lausanne-Ouchy,SC Kriens,Gana Stade Lausanne-Ouchy,Gana local,1.44,1.44,4.33,5.75,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -567,7 +567,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-20,18:30,Romania: Liga I,Farul Constanta,Universitatea Cluj,Universitatea Cluj o empate,Doble oport. visitante,1.35,2.80,3.40,2.25,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:00,Spain: Primera División RFEF - Group 2,Teruel,Hércules,Hércules o empate,Doble oport. visitante,1.27,3.00,3.10,2.15,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:00,Germany: Oberliga - Bremen,OSC Bremerhaven,Geestemünde,Gana OSC Bremerhaven,Gana local,1.47,1.47,5.03,4.33,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,18:00,Norway: Eliteserien,Molde,Bodo/Glimt,Bodo/Glimt o empate,Doble oport. visitante,1.28,3.30,4.20,1.85,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,18:00,Norway: Eliteserien,Molde,Bodo/Glimt,Bodo/Glimt o empate,Doble oport. visitante,1.28,3.30,4.20,1.85,78,"1,20-1,35",2 - 4,Acertado,1,2.80,0 - 2,Sí,2,4,6,Sí,Sí,74' L · 90'+5' L · 11' V · 16' V · 51' V · 78' V,7,6,13,15,14,2,5,56.9,43.1,2,0,0,0,LDLWW,WWDWL,Aker Stadion
 2026-11-20,18:00,Germany: Regionalliga - Nordost,Lokomotive Leipzig,RSV Eintracht,Lokomotive Leipzig o empate,Doble oport. local,1.24,1.87,3.69,3.29,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:00,Denmark: 1. Division,Kolding IF,Aalborg,Aalborg o empate,Doble oport. visitante,1.42,2.62,3.50,2.40,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:00,Germany: Regionalliga - SudWest,Kickers Offenbach,VfR Mannheim,VfR Mannheim o empate,Doble oport. visitante,1.34,2.76,3.78,2.07,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -581,11 +581,11 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-20,18:00,Denmark: 1. Division,Aarhus Fremad,Hobro,Aarhus Fremad o empate,Doble oport. local,1.24,1.90,3.60,3.70,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,18:00,Denmark: Superliga,Aarhus,Lyngby,Aarhus o empate,Doble oport. local,1.21,1.73,4.00,4.20,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:30,Austria: 2. Liga,SV Kapfenberg,WSPG Wels,WSPG Wels o empate,Doble oport. visitante,1.40,2.55,3.60,2.30,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,17:30,Germany: 2. Bundesliga,SV Darmstadt 98,1. FC Heidenheim,1. FC Heidenheim o empate,Doble oport. visitante,1.28,3.40,3.70,1.95,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,17:30,Germany: 2. Bundesliga,SV Darmstadt 98,1. FC Heidenheim,1. FC Heidenheim o empate,Doble oport. visitante,1.28,3.40,3.70,1.95,78,"1,20-1,35",3 - 1,Fallado,0,-10.00,2 - 1,Sí,3,1,4,Sí,Sí,22' L · 27' L · 62' L · 5' V,5,4,9,12,21,5,7,54.1,45.9,1,4,0,0,WLDWD,LDLDL,Merck-Stadion am Böllenfalltor
 2026-11-20,17:30,Austria: 2. Liga,SKN ST. Polten,Voitsberg,SKN ST. Polten o empate,Doble oport. local,1.24,1.85,3.75,3.50,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:30,Latvia: Cup,Auda,Riga,Gana Riga,Gana visitante,1.57,4.20,4.20,1.57,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,17:30,Germany: 2. Bundesliga,Arminia Bielefeld,1. FC Magdeburg,Arminia Bielefeld o empate,Doble oport. local,1.37,2.25,3.50,2.90,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,17:30,Saudi-Arabia: Pro League,Al-Ahli Jeddah,Al-Nassr,Al-Nassr o empate,Doble oport. visitante,1.28,3.00,3.75,1.95,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,17:30,Germany: 2. Bundesliga,Arminia Bielefeld,1. FC Magdeburg,Arminia Bielefeld o empate,Doble oport. local,1.37,2.25,3.50,2.90,73,"1,35-1,50",1 - 2,Fallado,0,-10.00,0 - 2,Sí,2,1,3,Sí,Sí,62' L · 12' V · 45'+1' V,7,1,8,18,9,4,6,54.5,45.5,1,2,0,0,LWWLW,WWDLW,SchücoArena
+2026-11-20,17:30,Saudi-Arabia: Pro League,Al-Ahli Jeddah,Al-Nassr,Al-Nassr o empate,Doble oport. visitante,1.28,3.00,3.75,1.95,78,"1,20-1,35",3 - 1,Fallado,0,-10.00,1 - 1,Sí,2,2,4,Sí,Sí,45'+1' L · 71' L · 75' L · 14' V,7,6,13,11,15,7,4,48.5,51.5,6,4,0,0,WDLWW,LWWWW,King Abdullah Sports City
 2026-11-20,17:30,Albania: Superliga,AF Elbasani,Dinamo Tirana,AF Elbasani o empate,Doble oport. local,1.27,2.10,3.20,3.10,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:00,Malta: Premier League,Zabbar St. Patrick,Gzira United,Zabbar St. Patrick o empate,Doble oport. local,1.20,1.80,3.60,3.60,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:00,Poland: III Liga - Group 4,Wisłoka Dębica,Busko-Zdroj,Gana Wisłoka Dębica,Gana local,1.60,1.60,4.10,4.10,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -594,10 +594,10 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-20,17:00,Cyprus: 2. Division,PAEEK,Halkanoras,Gana PAEEK,Gana local,1.25,1.25,5.00,8.50,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:00,Poland: II Liga - East,Lechia Zielona Góra,Chojniczanka Chojnice,Chojniczanka Chojnice o empate,Doble oport. visitante,1.39,2.55,3.50,2.30,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,17:00,Turkey: 1. Lig,Iğdır FK,Ümraniyespor,Iğdır FK o empate,Doble oport. local,1.16,1.80,3.30,3.80,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,17:00,Ecuador: Liga Pro,Independiente del Valle,Macara,Gana Independiente del Valle,Gana local,1.45,1.45,4.20,6.50,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,17:00,Ecuador: Liga Pro,Independiente del Valle,Macara,Gana Independiente del Valle,Gana local,1.45,1.45,4.20,6.50,69,"1,35-1,50",0 - 1,Fallado,0,-10.00,0 - 1,Sí,1,0,1,No,No,13' V,7,5,12,26,10,9,4,67.9,32.1,1,3,0,0,LWWDL,WDWWW,Estadio Banco Guayaquil
 2026-11-20,17:00,Poland: I Liga,Chrobry Głogów,Puszcza Niepołomice,Chrobry Głogów o empate,Doble oport. local,1.30,2.20,3.20,2.80,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,16:30,Rwanda: National Soccer League,Police,Al Hilal Omdurman,Al Hilal Omdurman o empate,Doble oport. visitante,1.10,5.00,3.10,1.70,91,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-20,16:30,Russia: Premier League,FC Rostov,Krylia Sovetov,FC Rostov o empate,Doble oport. local,1.24,1.93,3.47,4.13,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-20,16:30,Russia: Premier League,FC Rostov,Krylia Sovetov,FC Rostov o empate,Doble oport. local,1.24,1.93,3.47,4.13,81,"1,20-1,35",3 - 0,Acertado,1,2.40,1 - 0,Sí,1,2,3,Sí,No,14' L · 60' L · 90'+4' L,5,5,10,13,16,5,6,41.6,58.4,1,0,0,0,WDWWD,LWLWL,Rostov Arena
 2026-11-20,16:15,Iraq: Iraqi League,Duhok,Erbil,Erbil o empate,Doble oport. visitante,1.35,2.75,3.10,2.38,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,16:00,Slovenia: 2. SNL,Triglav,Dren Vrhnika,Gana Triglav,Gana local,1.30,1.30,5.00,7.00,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-20,16:00,Ukraine: Premier League,Shakhtar Donetsk,Livyi Bereh,Gana Shakhtar Donetsk,Gana local,1.22,1.22,5.00,9.50,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
