@@ -9,10 +9,10 @@ Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resulta
 2026-11-21,15:30,Netherlands: Eredivisie,Nijmegen,PSV Eindhoven,PSV ou empate,75%,1.33,,,,,Modelo Bet Consulting,1.25,
 2026-11-21,15:00,England: Premier League,Tottenham,Ipswich,"Tottenham Hotspur/empate e +1,5 golos",70%,1.43,,,,,Modelo Bet Consulting,1.27,
 2026-11-21,14:30,Germany: Bundesliga,Union Berlin,RB Leipzig,"RB Leipzig/empate e +1,5 golos",73%,1.37,,,,,Modelo Bet Consulting,1.22,
-2026-11-21,14:30,Germany: Bundesliga,M'gladbach,Dortmund,"Borussia Dortmund/empate e +1,5 golos",71%,1.42,,,,,Modelo Bet Consulting,1.26,
-2026-11-21,14:30,Germany: Bundesliga,Leverkusen,Paderborn,"Bayer Leverkusen vence e +1,5 golos",70%,1.43,,,,,Modelo Bet Consulting,1.27,
-2026-11-21,14:00,Italy: Serie A,Como,Cagliari,"Como/empate e +1,5 golos",77%,1.30,,,,,Modelo Bet Consulting,1.15,
-2026-11-21,14:00,Italy: Serie A,Lazio,Lecce,"Lazio/empate e +1,5 golos",73%,1.36,,,,,Modelo Bet Consulting,1.21,
+2026-11-21,14:30,Germany: Bundesliga,M'gladbach,Dortmund,"Borussia Dortmund/empate e +1,5 golos",71%,1.42,,0 - 1,Fallado,0,Modelo Bet Consulting,1.26,-10.00
+2026-11-21,14:30,Germany: Bundesliga,Leverkusen,Paderborn,"Bayer Leverkusen vence e +1,5 golos",70%,1.43,,4 - 0,Acertado,1,Modelo Bet Consulting,1.27,2.70
+2026-11-21,14:00,Italy: Serie A,Como,Cagliari,"Como/empate e +1,5 golos",77%,1.30,,2 - 0,Acertado,1,Modelo Bet Consulting,1.15,1.50
+2026-11-21,14:00,Italy: Serie A,Lazio,Lecce,"Lazio/empate e +1,5 golos",73%,1.36,,3 - 0,Acertado,1,Modelo Bet Consulting,1.21,2.10
 2026-11-21,12:30,England: Premier League,Man City,Fulham,"Manchester City/empate e +1,5 golos",76%,1.32,,1 - 1,Acertado,1,Modelo Bet Consulting,1.17,1.70
 2026-11-20,20:00,Spain: La Liga,Ath Bilbao,Espanol,"Athletic Club/empate e +1,5 golos",69%,1.45,,,,,Modelo Bet Consulting,1.29,
 2026-11-17,19:45,UEFA Nations League,Wales,Portugal,"Portugal/empate e +1,5 golos",69%,1.44,,2 - 3,Acertado,1,Modelo Bet Consulting,1.28,2.80

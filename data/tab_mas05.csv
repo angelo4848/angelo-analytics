@@ -24,20 +24,21 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,Scotland: Premiership,Hibernian,Dundee Utd,77%,1.31,44%,2.30,1.54,1215,Sí,Histórico 5 años,,
 15:00,England: National League,Aldershot Town,Scunthorpe,77%,1.31,45%,2.24,1.66,2914,Sí,Histórico 5 años,,
 15:00,Scotland: League Two,Annan Athletic,Forfar Athletic,77%,1.31,46%,2.16,1.79,970,Sí,Histórico 5 años,,
+20:00,Netherlands: Eredivisie,Groningen,Heerenveen,76%,1.31,45%,2.23,1.56,1638,Sí,Histórico 5 años,,
 18:30,Belgium: First Amateur Division,Dessel Sport,Heist,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Tubize,RWDM,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Olympic Charleroi,Flénu,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Mandel United,Knokke,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 19:00,Belgium: First Amateur Division,Houtvenne,Roeselare Daisel,76%,1.31,44%,2.25,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Scotland: Premiership,Falkirk,ST Johnstone,76%,1.31,43%,2.34,1.49,1215,Sí,Histórico 5 años,,
-14:30,Germany: Bundesliga,SV Elversberg,SC Freiburg,76%,1.31,44%,2.29,1.48,1610,Sí,Histórico 5 años,,
+14:30,Germany: Bundesliga,SV Elversberg,SC Freiburg,76%,1.31,44%,2.29,1.48,1610,Sí,Histórico 5 años,0 - 0,0 - 1
 15:00,Scotland: League Two,Clyde,Stirling Albion,76%,1.31,45%,2.24,1.70,970,Sí,Histórico 5 años,,
 12:00,Germany: 2. Bundesliga,VfL Wolfsburg,Holstein Kiel,76%,1.32,44%,2.29,1.58,1629,Sí,Histórico 5 años,0 - 0,3 - 0
 17:45,Netherlands: Eredivisie,Feyenoord,Excelsior,76%,1.32,44%,2.29,1.50,1638,Sí,Histórico 5 años,,
 14:30,Germany: Bundesliga,Eintracht Frankfurt,1899 Hoffenheim,76%,1.32,43%,2.31,1.46,1610,Sí,Histórico 5 años,,
 15:00,Scotland: League Two,Edinburgh City,Kelty Hearts,76%,1.32,44%,2.25,1.68,970,Sí,Histórico 5 años,,
 17:30,Germany: Bundesliga,FC Schalke 04,VfB Stuttgart,76%,1.32,43%,2.33,1.44,1610,Sí,Histórico 5 años,,
-14:30,Germany: Bundesliga,Bayer Leverkusen,SC Paderborn 07,76%,1.32,43%,2.35,1.42,1610,Sí,Histórico 5 años,,
+14:30,Germany: Bundesliga,Bayer Leverkusen,SC Paderborn 07,76%,1.32,43%,2.35,1.42,1610,Sí,Histórico 5 años,1 - 0,4 - 0
 16:00,Austria: Bundesliga,WSG Wattens,Austria Lustenau,76%,1.32,42%,2.36,2.14,7,No,Registro ESPN/SofaScore (muestra baja),,
 16:00,Austria: Bundesliga,Lask Linz,TSV Hartberg,76%,1.32,42%,2.36,2.14,7,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,Spain: Primera División RFEF - Group 1,Pontevedra,Lugo,76%,1.32,42%,2.36,1.14,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -132,6 +133,8 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 21:00,Guatemala: Liga Nacional,Mixco,Malacateco,73%,1.38,37%,2.68,1.17,12,No,Registro ESPN/SofaScore,,
 20:00,Scotland: Premiership,Motherwell,Rangers,73%,1.38,35%,2.83,1.16,1215,Sí,Histórico 5 años,,
 15:00,England: Championship,Sheffield Utd,Watford,72%,1.38,37%,2.73,1.35,2940,Sí,Histórico 5 años,,
+11:30,India: Indian Super League,Chennaiyin,Minerva Punjab,72%,1.38,37%,2.73,1.00,8,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 1
+14:00,India: Indian Super League,NorthEast United,Goa,72%,1.38,37%,2.73,1.00,8,No,Registro ESPN/SofaScore (muestra baja),0 - 1,0 - 1
 14:30,Poland: I Liga,Ruch Chorzów,Warta Poznań,72%,1.38,37%,2.73,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 14:30,Poland: I Liga,Polonia Warszawa,Stal Mielec,72%,1.38,37%,2.73,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
 14:30,Poland: I Liga,Pogoń Grod. Mazowiecki,Arka Gdynia,72%,1.38,37%,2.73,1.12,8,No,Registro ESPN/SofaScore (muestra baja),,
@@ -144,7 +147,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,England: National League,Gateshead,Hartlepool,72%,1.39,35%,2.84,1.21,2914,Sí,Histórico 5 años,,
 15:00,Scotland: League Two,Spartans,Dumbarton,72%,1.39,37%,2.72,1.30,970,Sí,Histórico 5 años,,
 12:30,England: Championship,Southampton,Derby,72%,1.40,36%,2.80,1.31,2940,Sí,Histórico 5 años,0 - 0,2 - 0
-14:30,Germany: Bundesliga,Borussia Mönchengladbach,Borussia Dortmund,72%,1.40,36%,2.76,1.12,1610,Sí,Histórico 5 años,,
+14:30,Germany: Bundesliga,Borussia Mönchengladbach,Borussia Dortmund,72%,1.40,36%,2.76,1.12,1610,Sí,Histórico 5 años,0 - 0,0 - 1
 17:30,Scotland: League One,Montrose,Alloa Athletic,71%,1.40,35%,2.82,1.26,974,Sí,Histórico 5 años,,
 15:00,England: National League - South,Tonbridge Angels,Weston-super-Mare,71%,1.40,36%,2.81,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: National League - South,Maidstone Utd,Farnham Town,71%,1.40,36%,2.81,1.45,11,No,Registro ESPN/SofaScore (muestra baja),,
@@ -170,10 +173,8 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 03:00,USA: Major League Soccer,Seattle Sounders,Real Salt Lake,71%,1.42,35%,2.89,1.42,24,No,Registro ESPN/SofaScore,,
 07:30,South-Korea: K League 2,Seongnam FC,Yongin City,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,5 - 0
 07:30,South-Korea: K League 2,Gimpo Citizen,Suwon City FC,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,0 - 1
-11:30,India: Indian Super League,Chennaiyin,Minerva Punjab,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),1 - 1,1 - 1
 13:00,Romania: Liga I,Csikszereda,Corvinul Hunedoara,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,0 - 4
 13:45,Poland: Ekstraklasa,Cracovia Krakow,Jagiellonia,71%,1.42,35%,2.89,1.14,7,No,Registro ESPN/SofaScore (muestra baja),,
-14:00,India: Indian Super League,NorthEast United,Goa,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:30,Romania: Liga I,CFR 1907 Cluj,Oţelul,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
 16:30,Poland: Ekstraklasa,Zaglebie Lubin,Gornik Zabrze,71%,1.42,35%,2.89,1.14,7,No,Registro ESPN/SofaScore (muestra baja),,
 18:30,Romania: Liga I,Dinamo Bucuresti,Petrolul Ploiesti,71%,1.42,35%,2.89,1.00,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -215,7 +216,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 18:00,Argentina: Liga Profesional Argentina,Defensa Y Justicia,Barracas Central,69%,1.45,33%,3.06,0.95,19,No,Registro ESPN/SofaScore,,
 20:00,Argentina: Liga Profesional Argentina,Argentinos JRS,Independiente,69%,1.45,33%,3.06,0.95,19,No,Registro ESPN/SofaScore,,
 16:15,Italy: Serie B,Catanzaro,Palermo,69%,1.45,32%,3.12,1.10,2010,Sí,Histórico 5 años,,
-14:00,Italy: Serie A,Lazio,Lecce,69%,1.45,32%,3.13,1.11,2010,Sí,Histórico 5 años,,
+14:00,Italy: Serie A,Lazio,Lecce,69%,1.45,32%,3.13,1.11,2010,Sí,Histórico 5 años,1 - 0,3 - 0
 15:00,Scotland: Championship,Arbroath,Stenhousemuir,69%,1.45,32%,3.10,1.15,973,Sí,Histórico 5 años,,
 07:30,South-Korea: K League 1,Incheon United,Ulsan Hyundai FC,69%,1.45,32%,3.09,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,2 - 1
 13:30,Italy: Serie C - Girone C,SS Monopoli,Cavese,69%,1.45,32%,3.09,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
@@ -235,17 +236,17 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 20:30,Peru: Primera División,Alianza Lima,FC Cajamarca,69%,1.45,32%,3.09,1.41,22,No,Registro ESPN/SofaScore,,
 15:00,England: Premier League,Chelsea,Leeds,69%,1.46,32%,3.10,1.05,2000,Sí,Histórico 5 años,,
 15:00,England: League One,Oxford United,Wycombe,69%,1.46,32%,3.16,1.08,2923,Sí,Histórico 5 años,,
-14:00,Italy: Serie B,Ascoli,Vicenza Virtus,68%,1.46,31%,3.19,1.07,2010,Sí,Histórico 5 años,,
+14:00,Italy: Serie B,Ascoli,Vicenza Virtus,68%,1.46,31%,3.19,1.07,2010,Sí,Histórico 5 años,1 - 1,2 - 2
 17:30,Spain: La Liga,Sevilla,Real Betis,68%,1.47,32%,3.10,1.21,2019,Sí,Histórico 5 años,,
 06:00,Australia: A-League,Central Coast Mariners,Perth Glory,68%,1.47,32%,3.15,0.83,12,No,Registro ESPN/SofaScore,0 - 0,0 - 0
 16:00,Turkey: Süper Lig,Kocaelispor,Fenerbahçe,68%,1.47,31%,3.20,1.01,1818,Sí,Histórico 5 años,,
 15:00,Scotland: Championship,Raith Rovers,Partick,68%,1.47,31%,3.18,1.11,973,Sí,Histórico 5 años,,
-14:00,Italy: Serie A,Como,Cagliari,68%,1.47,31%,3.24,1.06,2010,Sí,Histórico 5 años,,
+14:00,Italy: Serie A,Como,Cagliari,68%,1.47,31%,3.24,1.06,2010,Sí,Histórico 5 años,1 - 0,2 - 0
 19:30,Germany: 2. Bundesliga,FC St. Pauli,VfL Bochum,68%,1.47,32%,3.14,1.02,1629,Sí,Histórico 5 años,,
 12:30,England: National League,Tamworth,Eastleigh,68%,1.48,30%,3.29,1.00,2914,Sí,Histórico 5 años,0 - 1,1 - 3
 17:30,England: Premier League,Newcastle,Arsenal,67%,1.48,31%,3.23,1.00,2000,Sí,Histórico 5 años,,
-14:00,Italy: Serie B,Modena,Juve Stabia,67%,1.49,30%,3.31,1.02,2010,Sí,Histórico 5 años,,
-14:00,Italy: Serie B,Sudtirol,Cremonese,67%,1.49,30%,3.31,1.02,2010,Sí,Histórico 5 años,,
+14:00,Italy: Serie B,Modena,Juve Stabia,67%,1.49,30%,3.31,1.02,2010,Sí,Histórico 5 años,0 - 0,2 - 0
+14:00,Italy: Serie B,Sudtirol,Cremonese,67%,1.49,30%,3.31,1.02,2010,Sí,Histórico 5 años,1 - 0,1 - 0
 15:00,England: League Two,Grimsby,Rotherham,67%,1.50,30%,3.33,1.06,2934,Sí,Histórico 5 años,,
 10:30,Turkey: 1. Lig,İstanbulspor,Keçiörengücü,67%,1.50,30%,3.33,0.88,8,No,Registro ESPN/SofaScore (muestra baja),,0 - 1
 10:30,Turkey: 1. Lig,Mardin 1969,Bandırmaspor,67%,1.50,30%,3.33,0.88,8,No,Registro ESPN/SofaScore (muestra baja),,1 - 2
@@ -281,6 +282,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 14:00,San-Marino: Campionato,Domagnano,Fiorentino,65%,1.55,29%,3.43,0.71,7,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,San-Marino: Campionato,Cosmos,Faetano,65%,1.55,29%,3.43,0.71,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Northern-Ireland: Championship,Warrenpoint Town,Institute,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
+15:00,Northern-Ireland: Championship,Moyola Park,Queen's University,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Northern-Ireland: Championship,H&W Welders,Annagh United,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Northern-Ireland: Championship,Glenavon FC,Newry City AFC,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,Northern-Ireland: Championship,Armagh City,Rathfriland,65%,1.55,29%,3.43,1.29,7,No,Registro ESPN/SofaScore (muestra baja),,
@@ -294,7 +296,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:00,Bolivia: Primera División,Real Tomayapo,Nacional Potosí,62%,1.60,28%,3.54,0.93,14,No,Registro ESPN/SofaScore,,
 21:15,Bolivia: Primera División,ABB,Aurora,62%,1.60,28%,3.54,0.93,14,No,Registro ESPN/SofaScore,,
 23:30,Bolivia: Primera División,Oriente Petrolero,Independiente Petrolero,62%,1.60,28%,3.54,0.93,14,No,Registro ESPN/SofaScore,,
-14:00,Italy: Serie B,Carrarese,Virtus Entella,62%,1.61,28%,3.55,0.81,2010,Sí,Histórico 5 años,,
+14:00,Italy: Serie B,Carrarese,Virtus Entella,62%,1.61,28%,3.55,0.81,2010,Sí,Histórico 5 años,1 - 0,1 - 0
 19:45,France: Ligue 1,Lille,Lyon,62%,1.61,28%,3.53,0.81,1768,Sí,Histórico 5 años,,
 15:00,England: League One,Notts County,Stevenage,61%,1.63,28%,3.59,0.77,2923,Sí,Histórico 5 años,,
 13:30,Italy: Serie C - Girone A,Treviso,Pergolettese,61%,1.64,28%,3.60,0.88,8,No,Registro ESPN/SofaScore (muestra baja),,1 - 0
@@ -307,11 +309,14 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 17:00,Spain: Segunda División RFEF - Group 1,Gimnástica Torrelavega,Portugalete,60%,1.67,27%,3.66,0.80,5,No,Registro ESPN/SofaScore (muestra baja),,
 19:30,Brazil: Serie A,Palmeiras,Flamengo,60%,1.67,27%,3.66,1.27,15,No,Registro ESPN/SofaScore,,
 20:30,Brazil: Serie A,Bahia,Coritiba,60%,1.67,27%,3.66,1.27,15,No,Registro ESPN/SofaScore,,
+21:30,Mexico: Primera Premier,Racing de Veracruz,Tritons Vallarta,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+22:00,Mexico: Primera Premier,Pioneros de Cancún,Lobos ULMX,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+23:00,Mexico: Primera Premier,Tapachula,Irapuato,60%,1.67,27%,3.66,0.40,5,No,Registro ESPN/SofaScore (muestra baja),,
 15:00,England: League Two,Oldham,Exeter City,59%,1.69,27%,3.67,0.75,2934,Sí,Histórico 5 años,,
 16:00,Portugal: Liga 3,SC Covilha,Lusitano Évora 1911,59%,1.70,27%,3.72,0.57,7,No,Registro ESPN/SofaScore (muestra baja),,
 23:30,Costa-Rica: Primera División,Puntarenas FC,CS Herediano,58%,1.73,27%,3.76,0.78,9,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,Spain: Segunda División,Tenerife,Mallorca,57%,1.75,27%,3.75,0.75,2461,Sí,Histórico 5 años,,
-12:00,Sweden: Allsvenskan,Ostersunds FK,Varbergs BoIS FC,56%,1.80,26%,3.88,0.59,17,No,Registro ESPN/SofaScore,0 - 1,0 - 2
-14:00,Sweden: Allsvenskan,Mjallby AIF,Malmo FF,56%,1.80,26%,3.88,0.59,17,No,Registro ESPN/SofaScore,,
-14:00,Sweden: Allsvenskan,AIK Stockholm,Degerfors IF,56%,1.80,26%,3.88,0.59,17,No,Registro ESPN/SofaScore,,
-16:30,Sweden: Allsvenskan,Gais,Vasteras SK FK,56%,1.80,26%,3.88,0.59,17,No,Registro ESPN/SofaScore,,
+12:00,Sweden: Allsvenskan,Ostersunds FK,Varbergs BoIS FC,55%,1.81,26%,3.89,0.58,19,No,Registro ESPN/SofaScore,0 - 1,0 - 2
+14:00,Sweden: Allsvenskan,Mjallby AIF,Malmo FF,55%,1.81,26%,3.89,0.58,19,No,Registro ESPN/SofaScore,1 - 0,1 - 1
+14:00,Sweden: Allsvenskan,AIK Stockholm,Degerfors IF,55%,1.81,26%,3.89,0.58,19,No,Registro ESPN/SofaScore,0 - 0,0 - 0
+16:30,Sweden: Allsvenskan,Gais,Vasteras SK FK,55%,1.81,26%,3.89,0.58,19,No,Registro ESPN/SofaScore,,
