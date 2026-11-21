@@ -1,5 +1,23 @@
 {
- "fecha": "2026-11-20",
- "legs": [],
- "avisado": true
+ "fecha": "2026-11-21",
+ "cuota": 1.61,
+ "avisado": false,
+ "legs": [
+  {
+   "Fecha": "2026-11-21",
+   "Local": "NEC Nijmegen",
+   "Visitante": "PSV",
+   "Liga": "Netherlands: Eredivisie",
+   "Pronóstico": "PSV o empate",
+   "Cuota": "1.25"
+  },
+  {
+   "Fecha": "2026-11-21",
+   "Local": "Napoli",
+   "Visitante": "Torino",
+   "Liga": "Italy: Serie A",
+   "Pronóstico": "Napoli o empate + más de 1,5 goles",
+   "Cuota": "1.29"
+  }
+ ]
 }
