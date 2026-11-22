@@ -677,6 +677,40 @@
      "resultado": "1 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-22",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.6,
+   "patas": [
+    {
+     "liga": "England: Premier League",
+     "hora": "14:00",
+     "partido": "Hull vs Brighton",
+     "mercado": "Brighton o empate + más de 1,5 goles",
+     "cuota": 1.28,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 69%",
+      "Cuota aproximada 1,28 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "Italy: Serie A",
+     "hora": "19:45",
+     "partido": "Atalanta vs Inter Milan",
+     "mercado": "Inter Milan o empate + más de 1,5 goles",
+     "cuota": 1.25,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 71%",
+      "Cuota aproximada 1,25 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
