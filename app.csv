@@ -27,7 +27,7 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-22,22:00,Costa-Rica: Primera División,Inter San Carlos,Sporting San Jose,Sporting San Jose o empate,Doble oport. visitante,1.36,2.80,3.30,2.30,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,21:30,Ecuador: Liga Pro,LDU de Quito,Aucas,LDU de Quito o empate,Doble oport. local,1.18,1.83,3.30,4.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,21:30,Brazil: Serie A,Fluminense,Mirassol,Gana Fluminense,Gana local,1.62,1.62,3.80,5.25,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-22,21:30,Venezuela: Primera División,Carabobo FC,Portuguesa FC,Gana Carabobo FC,Gana local,1.40,1.40,4.00,6.50,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-22,21:30,Venezuela: Primera División,Carabobo FC,Portuguesa FC,Gana Carabobo FC,Gana local,1.40,1.40,4.00,6.50,71,"1,35-1,50",1 - 1,Fallado,0,-10.00,1 - 1,Sí,2,0,2,No,Sí,7' L · 17' V,5,4,9,18,6,5,2,50.6,49.4,3,3,0,0,DDWDW,DDLDD,Estadio Misael Delgado
 2026-11-22,21:30,Brazil: Serie B,Atletico Goianiense,Vila Nova,Atletico Goianiense o empate,Doble oport. local,1.25,2.00,3.30,3.75,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,21:15,Bolivia: Primera División,The Strongest,Blooming,Gana The Strongest,Gana local,1.25,1.25,5.50,10.00,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,21:00,Chile: Segunda División,Santiago City,Provincial Osorno,Santiago City o empate,Doble oport. local,1.25,1.95,3.50,3.10,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -393,17 +393,17 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-22,07:00,Hong-Kong: Premier League,Shatin,Eastern,Eastern o empate,Doble oport. visitante,1.30,2.88,3.90,1.95,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,06:00,Japan: J3 League,Osaka,Kamatamare Sanuki,Gana Osaka,Gana local,1.60,1.60,3.70,4.75,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J2 League,Yokohama FC,Consadole Sapporo,Gana Yokohama FC,Gana local,1.65,1.65,3.80,4.50,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-22,05:00,Japan: J1 League,Tokyo Verdy,Nagoya Grampus,Nagoya Grampus o empate,Doble oport. visitante,1.32,3.30,3.40,2.15,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-22,05:00,Japan: J1 League,Tokyo Verdy,Nagoya Grampus,Nagoya Grampus o empate,Doble oport. visitante,1.32,3.30,3.40,2.15,76,"1,20-1,35",0 - 0,Acertado,1,3.20,0 - 0,No,0,0,0,No,No,,3,6,9,8,12,4,4,34.6,65.4,1,1,0,0,DWWWD,DLLDD,Tokyo Stadium
 2026-11-22,05:00,Japan: J2 League,Tochigi City,Albirex Niigata,Albirex Niigata o empate,Doble oport. visitante,1.37,2.75,3.50,2.25,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J3 League,Thespakusatsu Gunma,Tochigi SC,Tochigi SC o empate,Doble oport. visitante,1.22,3.30,3.40,1.90,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J2 League,Tegevajaro Miyazaki,Iwaki,Tegevajaro Miyazaki o empate,Doble oport. local,1.20,1.85,3.40,3.80,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,South-Korea: K League 2,Suwon Bluewings,Gyeongnam FC,Gana Suwon Bluewings,Gana local,1.33,1.33,4.50,6.50,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-22,05:00,Japan: J1 League,Sanfrecce Hiroshima,Yokohama F. Marinos,Gana Sanfrecce Hiroshima,Gana local,1.44,1.44,4.50,7.00,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-22,05:00,Japan: J1 League,Sanfrecce Hiroshima,Yokohama F. Marinos,Gana Sanfrecce Hiroshima,Gana local,1.44,1.44,4.50,7.00,69,"1,35-1,50",2 - 2,Fallado,0,-10.00,1 - 0,Sí,1,3,4,Sí,Sí,28' L · 72' L · 66' V · 90'+3' V,5,0,5,18,19,7,9,37.4,62.6,1,1,0,0,DDWWL,DDWDD,Edion Peace Wing Hiroshima
 2026-11-22,05:00,South-Korea: K League 1,Pohang Steelers,FC Anyang,Pohang Steelers o empate,Doble oport. local,1.35,2.40,3.10,2.80,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J3 League,Nara Club,Sagamihara,Sagamihara o empate,Doble oport. visitante,1.41,2.45,3.40,2.40,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J3 League,Matsumoto Yamaga,FC Ryukyu,Matsumoto Yamaga o empate,Doble oport. local,1.21,1.85,3.50,3.40,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-22,05:00,Japan: J1 League,Machida Zelvia,V-varen Nagasaki,Gana Machida Zelvia,Gana local,1.53,1.53,4.00,5.75,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-22,05:00,Japan: J1 League,Kyoto Sanga,Urawa,Urawa o empate,Doble oport. visitante,1.33,3.20,3.50,2.15,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-22,05:00,Japan: J1 League,Machida Zelvia,V-varen Nagasaki,Gana Machida Zelvia,Gana local,1.53,1.53,4.00,5.75,65,"1,50+",0 - 0,Fallado,0,-10.00,0 - 0,No,0,0,0,No,No,,9,2,11,19,11,2,2,64.1,35.9,0,4,0,0,DDWDW,DDLLW,Machida Gion Stadium
+2026-11-22,05:00,Japan: J1 League,Kyoto Sanga,Urawa,Urawa o empate,Doble oport. visitante,1.33,3.20,3.50,2.15,75,"1,20-1,35",2 - 1,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,Sí,75' L · 86' L · 35' V,6,4,10,13,14,4,4,49.9,50.1,4,0,0,0,DWDWW,DDLWW,Sanga Stadium by Kyocera
 2026-11-22,05:00,Japan: J3 League,Kochi United,Fukushima United,Fukushima United o empate,Doble oport. visitante,1.30,2.90,3.40,2.10,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J2 League,Kataller Toyama,Oita Trinita,Gana Kataller Toyama,Gana local,1.67,1.67,3.70,4.50,60,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,05:00,Japan: J3 League,Kanazawa,Kagoshima United,Kagoshima United o empate,Doble oport. visitante,1.32,2.80,3.40,2.15,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -420,58 +420,58 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-22,01:00,Mexico: Liga MX,Puebla,Atletico San Luis,Puebla o empate,Doble oport. local,1.40,2.30,3.60,2.88,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,00:00,Nicaragua: Primera Division,Rancho Santana,Jalapa,Jalapa o empate,Doble oport. visitante,1.27,3.00,3.50,2.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-22,00:00,Mexico: Liga Premier Serie A,FC Santiago,Dragones de Oaxaca,FC Santiago o empate,Doble oport. local,1.25,1.91,3.60,3.25,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,23:30,Costa-Rica: Primera División,Puntarenas FC,CS Herediano,CS Herediano o empate,Doble oport. visitante,1.36,2.70,3.30,2.30,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,23:30,Bolivia: Primera División,Oriente Petrolero,Independiente Petrolero,Gana Oriente Petrolero,Gana local,1.48,1.48,4.33,5.75,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,23:15,Honduras: Liga Nacional,Estrella Roja,Lobos Upnfm,Estrella Roja o empate,Doble oport. local,1.26,2.05,3.30,3.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,23:30,Costa-Rica: Primera División,Puntarenas FC,CS Herediano,CS Herediano o empate,Doble oport. visitante,1.36,2.70,3.30,2.30,74,"1,35-1,50",2 - 1,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,Sí,49' L · 68' L · 44' V,,,,,,,,,,0,0,0,0,WLLDW,LDLLW,Estadio Lito Pérez
+2026-11-21,23:30,Bolivia: Primera División,Oriente Petrolero,Independiente Petrolero,Gana Oriente Petrolero,Gana local,1.48,1.48,4.33,5.75,68,"1,35-1,50",2 - 2,Fallado,0,-10.00,1 - 1,Sí,2,2,4,Sí,Sí,26' L · 57' L · 41' V · 73' V,10,3,13,21,12,7,4,49.8,50.2,2,3,1,0,DWLDW,DLDLL,Estadio Ramón Tahuichi
+2026-11-21,23:15,Honduras: Liga Nacional,Estrella Roja,Lobos Upnfm,Estrella Roja o empate,Doble oport. local,1.26,2.05,3.30,3.00,79,"1,20-1,35",1 - 0,Acertado,1,2.60,1 - 0,Sí,1,0,1,No,No,19' L,,,,,,,,,,0,0,0,0,WWLWD,LWDWL,Estadio Marcelo Tinoco
 2026-11-21,23:00,Nicaragua: Primera Division,UNAN Managua,Matagalpa,UNAN Managua o empate,Doble oport. local,1.25,1.95,3.50,3.30,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,23:00,Mexico: Primera Premier,Tapachula,Irapuato,Gana Irapuato,Gana visitante,1.20,8.00,6.50,1.20,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,23:00,Mexico: Liga MX,Santos Laguna,Leon,Santos Laguna o empate,Doble oport. local,1.46,2.40,3.70,2.70,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,23:00,USA: Major League Soccer,Inter Miami,Columbus Crew,Gana Inter Miami,Gana local,1.57,1.57,5.00,4.50,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,22:50,Mexico: Liga MX,CF Pachuca,Toluca,Toluca o empate,Doble oport. visitante,1.46,2.70,4.00,2.30,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,22:30,CONMEBOL Sudamericana,Atletico-MG,Boca Juniors,Boca Juniors o empate,Doble oport. visitante,1.30,3.50,3.10,2.25,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,23:00,Mexico: Liga MX,Santos Laguna,Leon,Santos Laguna o empate,Doble oport. local,1.46,2.40,3.70,2.70,68,"1,35-1,50",1 - 2,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,Sí,50' L · 37' V · 90' V,4,5,9,6,20,2,5,36.4,63.6,0,2,1,0,LWWLW,WDLDW,Estadio Corona
+2026-11-21,23:00,USA: Major League Soccer,Inter Miami,Columbus Crew,Gana Inter Miami,Gana local,1.57,1.57,5.00,4.50,64,"1,50+",0 - 3,Fallado,0,-10.00,0 - 1,Sí,1,2,3,Sí,No,9' V · 52' V · 58' V,3,3,6,8,9,4,6,38.4,61.6,5,3,1,0,LDWDL,WWWWW,Nu Stadium
+2026-11-21,22:50,Mexico: Liga MX,CF Pachuca,Toluca,Toluca o empate,Doble oport. visitante,1.46,2.70,4.00,2.30,68,"1,35-1,50",2 - 0,Fallado,0,-10.00,0 - 0,No,0,2,2,No,No,47' L · 89' L,5,2,7,20,9,6,3,41.4,58.6,3,2,0,1,WWWWL,LWDDD,Estadio Hidalgo
+2026-11-21,22:30,CONMEBOL Sudamericana,Atletico-MG,Boca Juniors,Boca Juniors o empate,Doble oport. visitante,1.30,3.50,3.10,2.25,77,"1,20-1,35",0 - 2,Acertado,1,3.00,0 - 1,Sí,1,1,2,No,No,16' V · 48' V,4,4,8,9,16,2,7,43.3,56.7,3,1,0,0,LDDLL,WWWWW,Metropolitano Roberto Meléndez
 2026-11-21,22:00,Mexico: Primera Premier,Pioneros de Cancún,Lobos ULMX,Gana Pioneros de Cancún,Gana local,1.57,1.57,3.75,4.75,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,22:00,Venezuela: Segunda División,Fundación Lara Deportiva,Urena SC,Fundación Lara Deportiva o empate,Doble oport. local,1.20,1.83,3.50,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,22:00,Mexico: Liga Premier Serie A,Atlético Saltillo,Halcones Negros,Halcones Negros o empate,Doble oport. visitante,1.33,2.75,3.25,2.25,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:30,Ecuador: Liga Pro,Universidad Catolica,Barcelona SC,Gana Universidad Catolica,Gana local,1.57,1.57,3.70,5.25,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:30,Ecuador: Liga Pro,Universidad Catolica,Barcelona SC,Gana Universidad Catolica,Gana local,1.57,1.57,3.70,5.25,64,"1,50+",0 - 1,Fallado,0,-10.00,0 - 0,No,0,1,1,No,No,55' V,7,2,9,18,5,2,1,75.4,24.6,4,5,0,0,LDLDD,WDLWD,Estadio Banco Guayaquil
 2026-11-21,21:30,Mexico: Primera Premier,Racing de Veracruz,Tritons Vallarta,Gana Racing de Veracruz,Gana local,1.20,1.20,5.75,9.00,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:30,Venezuela: Primera División,Deportivo Tachira FC,Caracas FC,Gana Deportivo Tachira FC,Gana local,1.50,1.50,4.00,5.00,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:30,Venezuela: Primera División,Deportivo Tachira FC,Caracas FC,Gana Deportivo Tachira FC,Gana local,1.50,1.50,4.00,5.00,67,"1,50+",2 - 1,Acertado,1,5.00,1 - 0,Sí,1,2,3,Sí,Sí,45'+1' L · 57' L · 84' V,5,4,9,12,16,8,8,42.1,57.9,3,2,1,2,WWWWW,LLWLW,Estadio Pueblo Nuevo
 2026-11-21,21:30,Chile: Primera B,Cobreloa,San Luis,Cobreloa o empate,Doble oport. local,1.21,1.80,3.70,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:15,Bolivia: Primera División,ABB,Aurora,Aurora o empate,Doble oport. visitante,1.23,3.70,3.90,1.80,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,El-Salvador: Primera Division,Águila,Platense,Gana Águila,Gana local,1.62,1.62,3.70,4.33,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:15,Bolivia: Primera División,ABB,Aurora,Aurora o empate,Doble oport. visitante,1.23,3.70,3.90,1.80,81,"1,20-1,35",1 - 2,Acertado,1,2.30,1 - 1,Sí,2,1,3,Sí,Sí,39' L · 6' V · 70' V,3,2,5,18,16,6,4,51.2,48.8,2,1,0,0,LLLLL,WDWDW,Municipal Villa Ingenio
+2026-11-21,21:00,El-Salvador: Primera Division,Águila,Platense,Gana Águila,Gana local,1.62,1.62,3.70,4.33,62,"1,50+",0 - 0,Fallado,0,-10.00,0 - 0,No,0,0,0,No,No,,,,,,,,,,,,,,,DWDLW,DLLLD,Estadio Juan Francisco Barraza
 2026-11-21,21:00,Chile: Segunda División,Provincial Ovalle,Lota Schwager,Provincial Ovalle o empate,Doble oport. local,1.20,1.80,3.60,3.70,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,Chile: Primera División,O'Higgins,Universidad de Chile,Universidad de Chile o empate,Doble oport. visitante,1.22,3.70,3.60,1.85,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,El-Salvador: Primera Division,Municipal Limeño,Alianza,Municipal Limeño o empate,Doble oport. local,1.31,2.20,3.25,2.88,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,Guatemala: Liga Nacional,Mixco,Malacateco,Gana Mixco,Gana local,1.38,1.38,4.00,7.00,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:00,Chile: Primera División,O'Higgins,Universidad de Chile,Universidad de Chile o empate,Doble oport. visitante,1.22,3.70,3.60,1.85,82,"1,20-1,35",0 - 1,Acertado,1,2.20,0 - 0,No,0,1,1,No,No,76' V,2,9,11,12,10,2,4,48.8,51.2,3,2,0,1,LLWDL,WWWLW,Estadio El Teniente
+2026-11-21,21:00,El-Salvador: Primera Division,Municipal Limeño,Alianza,Municipal Limeño o empate,Doble oport. local,1.31,2.20,3.25,2.88,76,"1,20-1,35",3 - 2,Acertado,1,3.10,2 - 0,Sí,2,3,5,Sí,Sí,17' L · 34' L · 63' L · 86' V · 90'+4' V,,,,,,,,,,0,0,0,0,WDLDD,LDLWL,Estadio Doctor José Ramón Flores Berríos
+2026-11-21,21:00,Guatemala: Liga Nacional,Mixco,Malacateco,Gana Mixco,Gana local,1.38,1.38,4.00,7.00,72,"1,35-1,50",2 - 0,Acertado,1,3.80,1 - 0,Sí,1,1,2,No,No,28' L · 83' L,,,,,,,,,,0,0,0,0,WWWLD,DLLLL,Estadio Santo Domingo de Guzmán
 2026-11-21,21:00,El-Salvador: Primera Division,Isidro Metapán,Inter,Isidro Metapán o empate,Doble oport. local,1.20,1.91,3.20,3.40,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,21:00,Honduras: Liga Nacional,Génesis,Atletico Independiente,Gana Génesis,Gana local,1.62,1.62,3.70,4.33,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,21:00,Chile: Segunda División,General Velásquez,Santiago Morning,General Velásquez o empate,Doble oport. local,1.38,2.40,3.25,2.55,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,USA: Major League Soccer,FC Dallas,Portland Timbers,FC Dallas o empate,Doble oport. local,1.29,1.90,4.00,3.60,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,El-Salvador: Primera Division,FAS,Cacahuatique,Gana FAS,Gana local,1.48,1.48,3.90,5.25,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:00,USA: Major League Soccer,FC Dallas,Portland Timbers,FC Dallas o empate,Doble oport. local,1.29,1.90,4.00,3.60,78,"1,20-1,35",3 - 0,Acertado,1,2.90,0 - 0,No,0,3,3,Sí,No,53' L · 55' L · 90'+4' L,7,5,12,15,12,8,5,40.8,59.2,2,0,0,0,WWDLW,LWWWW,Toyota Stadium
+2026-11-21,21:00,El-Salvador: Primera Division,FAS,Cacahuatique,Gana FAS,Gana local,1.48,1.48,3.90,5.25,68,"1,35-1,50",1 - 1,Fallado,0,-10.00,0 - 0,No,0,2,2,No,Sí,67' L · 90'+5' V,,,,,,,,,,0,0,0,0,DDDDD,DLDWW,Estadio Óscar Alberto Quiteño
 2026-11-21,21:00,Chile: Segunda División,Colchagua,Concón National,Colchagua o empate,Doble oport. local,1.21,1.85,3.50,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,21:00,El-Salvador: Primera Division,Atletico Balboa,Firpo,Firpo o empate,Doble oport. visitante,1.29,2.90,3.50,2.05,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:30,Portugal: Taça de Portugal,Vitória SC,SC Braga,SC Braga o empate,Doble oport. visitante,1.27,3.20,3.20,2.10,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,21:00,El-Salvador: Primera Division,Atletico Balboa,Firpo,Firpo o empate,Doble oport. visitante,1.29,2.90,3.50,2.05,78,"1,20-1,35",1 - 1,Acertado,1,2.90,0 - 1,Sí,1,1,2,No,Sí,88' L · 40' V,,,,,,,,,,0,0,0,0,DWWWW,DLDWW,Estadio Marcelino Imbers
+2026-11-21,20:30,Portugal: Taça de Portugal,Vitória SC,SC Braga,SC Braga o empate,Doble oport. visitante,1.27,3.20,3.20,2.10,79,"1,20-1,35",0 - 2,Acertado,1,2.70,0 - 1,Sí,1,1,2,No,No,26' V · 60' V,,,,,,,,,,0,0,0,0,LLDWW,WWDWL,Estádio D. Afonso Henriques
 2026-11-21,20:30,Argentina: Primera Nacional,Deportivo Moron,Colon Santa Fe,Colon Santa Fe o empate,Doble oport. visitante,1.12,4.75,3.00,1.80,89,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:30,Brazil: Serie A,Bahia,Coritiba,Gana Bahia,Gana local,1.48,1.48,4.50,6.50,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:30,Peru: Primera División,Alianza Lima,FC Cajamarca,Gana Alianza Lima,Gana local,1.22,1.22,6.50,10.00,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:00,Spain: Segunda División,Tenerife,Mallorca,Mallorca o empate,Doble oport. visitante,1.30,3.40,3.20,2.20,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:00,Netherlands: Eredivisie,Telstar,PEC Zwolle,Telstar o empate,Doble oport. local,1.29,2.05,3.50,3.60,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:00,Spain: La Liga,Real Madrid,Celta Vigo,Gana Real Madrid,Gana local,1.17,1.17,8.00,15.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:00,Scotland: Premiership,Motherwell,Rangers,Gana Rangers,Gana visitante,1.53,5.50,4.33,1.53,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,20:00,Netherlands: Eredivisie,Groningen,Heerenveen,Heerenveen o empate,Doble oport. visitante,1.43,2.80,3.80,2.30,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,20:30,Brazil: Serie A,Bahia,Coritiba,Gana Bahia,Gana local,1.48,1.48,4.50,6.50,68,"1,35-1,50",0 - 1,Fallado,0,-10.00,0 - 0,No,0,1,1,No,No,74' V,8,9,17,14,11,4,5,59.1,40.9,2,2,1,0,LDLWD,WLLWL,Arena Fonte Nova
+2026-11-21,20:30,Peru: Primera División,Alianza Lima,FC Cajamarca,Gana Alianza Lima,Gana local,1.22,1.22,6.50,10.00,82,"1,20-1,35",5 - 0,Acertado,1,2.20,1 - 0,Sí,1,4,5,Sí,No,20' L · 64' L · 76' L · 82' L · 84' L,8,3,11,20,8,12,1,57.7,42.3,1,2,0,0,WDWLW,LWLLL,Estadio Alejandro Villanueva
+2026-11-21,20:00,Spain: Segunda División,Tenerife,Mallorca,Mallorca o empate,Doble oport. visitante,1.30,3.40,3.20,2.20,77,"1,20-1,35",0 - 0,Acertado,1,3.00,0 - 0,No,0,0,0,No,No,,8,5,13,10,10,2,2,45.5,54.5,2,3,0,0,DWWDD,DWDWD,Estadio Heliodoro Rodríguez López
+2026-11-21,20:00,Netherlands: Eredivisie,Telstar,PEC Zwolle,Telstar o empate,Doble oport. local,1.29,2.05,3.50,3.60,78,"1,20-1,35",1 - 3,Fallado,0,-10.00,1 - 2,Sí,3,1,4,Sí,Sí,16' L · 22' V · 31' V · 54' V,11,7,18,20,12,6,4,61.7,38.3,0,1,0,0,LDWLL,WDWLD,711 Stadion
+2026-11-21,20:00,Spain: La Liga,Real Madrid,Celta Vigo,Gana Real Madrid,Gana local,1.17,1.17,8.00,15.00,85,"1,01-1,20",2 - 1,Acertado,1,1.70,0 - 1,Sí,1,2,3,Sí,Sí,66' L · 85' L · 6' V,8,3,11,24,8,7,4,63.5,36.5,1,2,0,0,WWWWW,LWDLL,Santiago Bernabéu
+2026-11-21,20:00,Scotland: Premiership,Motherwell,Rangers,Gana Rangers,Gana visitante,1.53,5.50,4.33,1.53,65,"1,50+",1 - 2,Acertado,1,5.30,1 - 1,Sí,2,1,3,Sí,Sí,21' L · 8' V · 88' V,4,13,17,5,29,4,11,40.9,59.1,1,1,0,0,LDWDL,WWWDW,Fir Park
+2026-11-21,20:00,Netherlands: Eredivisie,Groningen,Heerenveen,Heerenveen o empate,Doble oport. visitante,1.43,2.80,3.80,2.30,70,"1,35-1,50",1 - 3,Acertado,1,4.30,0 - 1,Sí,1,3,4,Sí,Sí,57' L · 41' V · 73' V · 80' V,4,4,8,19,11,8,5,46.3,53.7,1,2,0,0,LLLLD,WWWWW,Euroborg
 2026-11-21,20:00,Brazil: Pernambucano - 1,Central SC,Íbis,Central SC o empate,Doble oport. local,1.16,1.80,3.25,4.00,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,20:00,Canada: Canadian Premier League,Cavalry FC,Atlético Ottawa,Gana Cavalry FC,Gana local,1.44,1.44,4.00,5.75,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,20:00,Argentina: Primera Nacional,Atlanta,Ciudad de Bolívar,Ciudad de Bolívar o empate,Doble oport. visitante,1.29,3.40,3.00,2.25,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,20:00,Argentina: Liga Profesional Argentina,Argentinos JRS,Independiente,Argentinos JRS o empate,Doble oport. local,1.22,2.00,3.10,4.33,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,Belgium: Jupiler Pro League,Zulte Waregem,Antwerp,Zulte Waregem o empate,Doble oport. local,1.30,2.10,3.40,3.10,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,19:45,Belgium: Jupiler Pro League,Zulte Waregem,Antwerp,Zulte Waregem o empate,Doble oport. local,1.30,2.10,3.40,3.10,77,"1,20-1,35",2 - 2,Acertado,1,3.00,0 - 2,Sí,2,2,4,Sí,Sí,54' L · 64' L · 8' V · 45'+1' V,8,3,11,24,9,10,3,52.1,47.9,2,4,0,1,DLLLL,DDLWL,Elindus Arena
 2026-11-21,19:45,France: Ligue 1,Strasbourg,Stade Brestois 29,Strasbourg o empate,Doble oport. local,1.39,2.20,3.80,3.00,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,Italy: Serie A,Napoli,Torino,Gana Napoli,Gana local,1.48,1.48,4.50,6.50,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,France: Ligue 1,Monaco,Auxerre,Gana Monaco,Gana local,1.40,1.40,5.00,7.00,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,France: Ligue 1,Lille,Lyon,Lille o empate,Doble oport. local,1.34,2.25,3.30,3.30,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,France: Ligue 1,Lens,Toulouse,Lens o empate,Doble oport. local,1.25,1.85,3.90,3.80,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:45,Belgium: Jupiler Pro League,KV Mechelen,Club Brugge KV,Gana Club Brugge KV,Gana visitante,1.38,6.25,4.75,1.38,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,19:45,Italy: Serie A,Napoli,Torino,Gana Napoli,Gana local,1.48,1.48,4.50,6.50,68,"1,35-1,50",1 - 0,Acertado,1,4.80,0 - 0,No,0,1,1,No,No,73' L,8,5,13,22,12,10,2,52.5,47.5,2,1,0,0,DDLLW,DDLLW,Stadio Diego Armando Maradona
+2026-11-21,19:45,France: Ligue 1,Monaco,Auxerre,Gana Monaco,Gana local,1.40,1.40,5.00,7.00,71,"1,35-1,50",1 - 1,Fallado,0,-10.00,0 - 1,Sí,1,1,2,No,Sí,82' L · 29' V,3,0,3,15,6,4,2,65.6,34.4,1,1,0,0,DDWLD,DLLDW,Stade Louis II
+2026-11-21,19:45,France: Ligue 1,Lille,Lyon,Lille o empate,Doble oport. local,1.34,2.25,3.30,3.30,75,"1,20-1,35",0 - 1,Fallado,0,-10.00,0 - 1,Sí,1,0,1,No,No,40' V,7,7,14,14,9,5,6,48.3,51.7,0,1,0,0,LWDWD,WLDWL,Decathlon Arena - Stade Pierre-Mauroy
+2026-11-21,19:45,France: Ligue 1,Lens,Toulouse,Lens o empate,Doble oport. local,1.25,1.85,3.90,3.80,80,"1,20-1,35",1 - 1,Acertado,1,2.50,0 - 1,Sí,1,1,2,No,Sí,47' L · 39' V,9,5,14,22,9,8,5,59.6,40.4,2,2,0,0,DLLLW,DWLDW,Stade Bollaert-Delelis
+2026-11-21,19:45,Belgium: Jupiler Pro League,KV Mechelen,Club Brugge KV,Gana Club Brugge KV,Gana visitante,1.38,6.25,4.75,1.38,72,"1,35-1,50",1 - 5,Acertado,1,3.80,0 - 2,Sí,2,4,6,Sí,Sí,84' L · 31' V · 36' V · 61' V · 76' V · 83' V,5,7,12,11,18,4,9,35.2,64.8,2,0,0,0,LLWWW,WDWWW,AFAS Stadion
 2026-11-21,19:30,Lebanon: Premier League,Safa,Al Ansar,Al Ansar o empate,Doble oport. visitante,1.21,3.50,3.30,1.90,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:30,Brazil: Serie A,Palmeiras,Flamengo,Flamengo o empate,Doble oport. visitante,1.24,3.80,3.80,1.85,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-21,19:30,Germany: 2. Bundesliga,FC St. Pauli,VfL Bochum,FC St. Pauli o empate,Doble oport. local,1.29,2.05,3.50,3.20,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-21,19:30,Brazil: Serie A,Palmeiras,Flamengo,Flamengo o empate,Doble oport. visitante,1.24,3.80,3.80,1.85,81,"1,20-1,35",1 - 1,Acertado,1,2.40,1 - 0,Sí,1,1,2,No,Sí,12' L · 76' V,2,10,12,13,17,6,7,48.2,51.8,4,2,0,0,DLLWW,DWWWW,Allianz Parque
+2026-11-21,19:30,Germany: 2. Bundesliga,FC St. Pauli,VfL Bochum,FC St. Pauli o empate,Doble oport. local,1.29,2.05,3.50,3.20,78,"1,20-1,35",2 - 0,Acertado,1,2.90,1 - 0,Sí,1,1,2,No,No,3' L · 47' L,10,1,11,18,14,8,4,46.2,53.8,3,2,0,0,WLLDD,LWWWD,Millerntor-Stadion
 2026-11-21,19:30,Switzerland: Super League,FC Sion,Servette FC,FC Sion o empate,Doble oport. local,1.21,1.70,4.20,4.33,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,19:30,Andorra: 1a Divisió,Esperança d'Andorra,Carroi,Gana Esperança d'Andorra,Gana local,1.44,1.44,4.33,5.25,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-21,19:15,Poland: Ekstraklasa,Radomiak Radom,Wisla Krakow,Wisla Krakow o empate,Doble oport. visitante,1.29,3.20,3.60,2.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,

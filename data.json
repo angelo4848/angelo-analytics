@@ -645,7 +645,7 @@
   {
    "fecha": "2026-11-21",
    "titulo": "Combinada del día",
-   "estado": "pendiente",
+   "estado": "perdida",
    "cuota_total": 1.61,
    "patas": [
     {
@@ -668,12 +668,13 @@
      "partido": "Napoli vs Torino",
      "mercado": "Napoli o empate + más de 1,5 goles",
      "cuota": 1.29,
-     "estado": "pendiente",
+     "estado": "perdida",
      "analisis": [
       "Favorito claro de liga grande · probabilidad estimada 69%",
       "Cuota aproximada 1,29 · revisa la cuota en tu casa",
       "Elegido por el pick automático: la combinación más segura del día"
-     ]
+     ],
+     "resultado": "1 - 0"
     }
    ]
   }
