@@ -4371,14 +4371,15 @@
    "liga": "Japan: J3 League",
    "local": "Osaka",
    "visitante": "Kamatamare Sanuki",
-   "tendencia": "★★★ Gana Osaka · cuota 1,60",
+   "tendencia": "★★★ Gana Osaka · cuota 1,60 · ✓ acertado",
    "cuotas": [
     1.6,
     3.7,
     4.75
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-22T06:00:00+00:00"
+   "inicio": "2026-11-22T06:00:00+00:00",
+   "resultado": "3 - 0"
   },
   {
    "liga": "Malta: Challenge League",
