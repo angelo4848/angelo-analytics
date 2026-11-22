@@ -1,11 +1,11 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
 Modelo BC,11:15,Netherlands: Eredivisie,FC Twente vs Willem II,"+2,5 golos",78%,1.28,1.21,89%,,
-Modelo BC,11:30,Italy: Serie A,Juventus vs Venezia,"Juventus/empate e +1,5 golos",73%,1.36,1.21,71%,,
-Modelo BC,13:00,Spain: La Liga,Barcelona vs Villarreal,"Barcelona vence e +1,5 golos",77%,1.29,1.15,81%,,
-Modelo BC,13:30,Netherlands: Eredivisie,Ajax vs Den Haag,"Ajax vence e +1,5 golos",75%,1.33,1.19,81%,,
-Modelo BC,14:00,Italy: Serie A,Bologna vs Udinese,Bologna ou empate,80%,1.25,1.18,56%,,
-Modelo BC,14:00,France: Ligue 1,Paris FC vs Angers,"Paris FC/empate e +1,5 golos",74%,1.34,1.20,73%,,
-Modelo BC,14:00,England: Premier League,Hull vs Brighton,"Brighton/empate e +1,5 golos",69%,1.44,1.28,64%,,
+Modelo BC,11:30,Italy: Serie A,Juventus vs Venezia,"Juventus/empate e +1,5 golos",73%,1.36,1.21,71%,4 - 0,Acertado
+Modelo BC,13:00,Spain: La Liga,Barcelona vs Villarreal,"Barcelona vence e +1,5 golos",77%,1.29,1.15,81%,3 - 2,Acertado
+Modelo BC,13:30,Netherlands: Eredivisie,Ajax vs Den Haag,"Ajax vence e +1,5 golos",75%,1.33,1.19,81%,3 - 0,Acertado
+Modelo BC,14:00,Italy: Serie A,Bologna vs Udinese,Bologna ou empate,80%,1.25,1.18,56%,1 - 1,Acertado
+Modelo BC,14:00,France: Ligue 1,Paris FC vs Angers,"Paris FC/empate e +1,5 golos",74%,1.34,1.20,73%,4 - 0,Acertado
+Modelo BC,14:00,England: Premier League,Hull vs Brighton,"Brighton/empate e +1,5 golos",69%,1.44,1.28,64%,2 - 0,Fallado
 Modelo BC,15:45,Netherlands: Eredivisie,Go Ahead Eagles vs Fortuna Sittard,Go Ahead Eagles ou empate,81%,1.24,1.16,58%,,
 Modelo BC,16:30,Germany: Bundesliga,Werder Bremen vs Hamburger SV,Werder Bremen ou empate,79%,1.26,1.19,58%,,
 Modelo BC,17:00,Italy: Serie A,AC Milan vs Frosinone,"AC Milan/empate e +1,5 golos",73%,1.37,1.22,63%,,
