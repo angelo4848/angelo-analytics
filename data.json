@@ -1239,27 +1239,29 @@
    "liga": "Ukraine: Premier League",
    "local": "LNZ Cherkasy",
    "visitante": "Polessya",
-   "tendencia": "★★★ Polessya o empate · cuota ~1,20",
+   "tendencia": "★★★ Polessya o empate · cuota ~1,20 · ✓ acertado",
    "cuotas": [
     3.5,
     3.0,
     2.0
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-23T11:00:00+00:00"
+   "inicio": "2026-11-23T11:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Ukraine: Premier League",
    "local": "Chornomorets",
    "visitante": "Epitsentr Dunayivtsi",
-   "tendencia": "★★★ Epitsentr Dunayivtsi o empate · cuota ~1,32",
+   "tendencia": "★★★ Epitsentr Dunayivtsi o empate · cuota ~1,32 · ✓ acertado",
    "cuotas": [
     2.8,
     3.1,
     2.3
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-23T11:00:00+00:00"
+   "inicio": "2026-11-23T11:00:00+00:00",
+   "resultado": "0 - 1"
   },
   {
    "liga": "Uruguay: Primera División",
@@ -1525,40 +1527,43 @@
    "liga": "Iran: Azadegan League",
    "local": "Mes Kerman",
    "visitante": "Be'sat Kermanshah",
-   "tendencia": "★★★ Mes Kerman o empate · cuota ~1,14",
+   "tendencia": "★★★ Mes Kerman o empate · cuota ~1,14 · ✓ acertado",
    "cuotas": [
     1.88,
     2.89,
     4.3
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-23T11:00:00+00:00"
+   "inicio": "2026-11-23T11:00:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
    "local": "Mes Soongoun",
    "visitante": "Ario Eslamshahr",
-   "tendencia": "★★★ Mes Soongoun o empate · cuota ~1,14",
+   "tendencia": "★★★ Mes Soongoun o empate · cuota ~1,14 · ✓ acertado",
    "cuotas": [
     1.77,
     3.22,
     4.27
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-23T11:30:00+00:00"
+   "inicio": "2026-11-23T11:30:00+00:00",
+   "resultado": "2 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
    "local": "Saipa",
    "visitante": "Naft Bandar Abbas",
-   "tendencia": "★★★ Gana Saipa · cuota 1,63",
+   "tendencia": "★★★ Gana Saipa · cuota 1,63 · ✗ fallado",
    "cuotas": [
     1.63,
     3.2,
     5.38
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-23T11:30:00+00:00"
+   "inicio": "2026-11-23T11:30:00+00:00",
+   "resultado": "0 - 0"
   },
   {
    "liga": "Iran: Azadegan League",
@@ -1603,14 +1608,15 @@
    "liga": "Kenya: Super League",
    "local": "Talanta",
    "visitante": "Kibera Soccer",
-   "tendencia": "★★★ Talanta o empate · cuota ~1,29",
+   "tendencia": "★★★ Talanta o empate · cuota ~1,29 · ✓ acertado",
    "cuotas": [
     2.2,
     3.1,
     3.1
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-23T10:00:00+00:00"
+   "inicio": "2026-11-23T10:00:00+00:00",
+   "resultado": "2 - 2"
   },
   {
    "liga": "Netherlands: Eerste Divisie",
