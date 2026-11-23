@@ -1,0 +1,38 @@
+A. ANALYTICS – BOT DE TENIS EN LINUX (Scan + Resultados)
+=========================================================
+
+QUÉ HACE
+  🔍 Scan        Partidos por empezar (próximos 20 min) o en el 1.er set hasta 1-1, con
+                 favorito ≥ 80 % en SofaScore y en TNNS -> te manda "Gana el 1.er set X"
+                 y lo apunta en el Google Sheet (pestaña "Scan 1.er set").
+                 Si no hay nada bueno, te lo dice y no manda picks.
+  📊 Resultados  Revisa los picks de hoy, pone Ganado / Perdido / Anulado en el Sheet
+                 y te manda el resumen con el % de acierto.
+  Todos los torneos individuales (sin dobles). No repite un partido ya enviado ese día.
+
+INSTALAR (una vez)
+  1. Abre una terminal:
+       git clone https://github.com/angelo4848/angelo-analytics.git
+       cd angelo-analytics
+       bash tools/instalar_linux.sh
+  2. Google Sheet: abre tools/sheet_webhook.gs y sigue los 4 pasos que tiene arriba.
+  3. Edita tools/bot_config.txt: TELEGRAM_TOKEN, SHEET_WEBHOOK y SHEET_SECRET.
+  4. Prueba TNNS:
+       ~/aa-venv/bin/python tools/tnns.py diagnostico
+     Crea tools/tnns_debug/ (foto + texto de TNNS). Mándaselos a Claude para ajustar
+     la lectura de TNNS si hiciera falta.
+  5. Arranca:
+       ~/aa-venv/bin/python tools/tennis_bot.py
+     Escribe "hola" al bot en Telegram y salen los botones.
+
+ARRANQUE AUTOMÁTICO AL ENCENDER
+  systemctl --user enable --now aa-tenis
+  sudo loginctl enable-linger $USER
+  Ver lo que hace:  journalctl --user -u aa-tenis -f
+
+IMPORTANTE
+  · Un token de Telegram solo puede escucharlo UN programa. Si en Linux usas este bot,
+    no abras a la vez pc_bot.py con el mismo token (o crea otro bot en @BotFather).
+  · Si TNNS falla y quieres que el scan siga solo con SofaScore: TNNS_OBLIGATORIO=0
+    (los picks salen marcados "TNNS sin dato").
+  · El % de SofaScore sale de sus cuotas de partido, quitando el margen de la casa.

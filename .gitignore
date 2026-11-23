@@ -5,3 +5,5 @@ bot_state.json
 tools/tennis_state.json
 tools/corners_state.json
 tools/corners_log.csv
+tools/tennis_scan_picks.json
+tools/tnns_debug/
