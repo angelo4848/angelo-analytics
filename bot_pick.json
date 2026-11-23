@@ -1,24 +1,5 @@
 {
- "fecha": "2026-11-22",
- "cuota": 1.6,
- "avisado": true,
- "legs": [
-  {
-   "Fecha": "2026-11-22",
-   "Local": "Hull",
-   "Visitante": "Brighton",
-   "Liga": "England: Premier League",
-   "Pronóstico": "Brighton o empate + más de 1,5 goles",
-   "Cuota": "1.28"
-  },
-  {
-   "Fecha": "2026-11-22",
-   "Local": "Atalanta",
-   "Visitante": "Inter Milan",
-   "Liga": "Italy: Serie A",
-   "Pronóstico": "Inter Milan o empate + más de 1,5 goles",
-   "Cuota": "1.25"
-  }
- ],
- "estado": "perdida"
+ "fecha": "2026-11-23",
+ "legs": [],
+ "avisado": true
 }
