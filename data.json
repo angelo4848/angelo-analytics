@@ -1234,14 +1234,15 @@
    "liga": "AFC Champions League Elite",
    "local": "Newcastle Jets",
    "visitante": "Kashiwa Reysol",
-   "tendencia": "★★★ Gana Kashiwa Reysol · cuota 1,33",
+   "tendencia": "★★★ Gana Kashiwa Reysol · cuota 1,33 · ✓ acertado",
    "cuotas": [
     6.0,
     5.0,
     1.33
    ],
    "tipo": "AWAY WIN",
-   "inicio": "2026-11-24T07:45:00+00:00"
+   "inicio": "2026-11-24T07:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "AFC Champions League Elite",
