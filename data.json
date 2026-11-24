@@ -712,6 +712,40 @@
      ]
     }
    ]
+  },
+  {
+   "fecha": "2026-11-24",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.6,
+   "patas": [
+    {
+     "liga": "UEFA Champions League",
+     "hora": "20:00",
+     "partido": "Arsenal vs Borussia Dortmund",
+     "mercado": "Arsenal o empate + más de 1,5 goles",
+     "cuota": 1.26,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 71%",
+      "Cuota aproximada 1,26 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Champions League",
+     "hora": "20:00",
+     "partido": "RB Leipzig vs Lens",
+     "mercado": "RB Leipzig o empate + más de 1,5 goles",
+     "cuota": 1.27,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 70%",
+      "Cuota aproximada 1,27 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -3158,6 +3192,45 @@
    ],
    "tipo": "AWAY DC",
    "inicio": "2026-11-25T21:00:00+00:00"
+  },
+  {
+   "liga": "Kenya: FKF Premier League",
+   "local": "Bandari",
+   "visitante": "Mathare United",
+   "tendencia": "★★★ Bandari o empate · cuota ~1,25",
+   "cuotas": [
+    2.25,
+    2.8,
+    3.2
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-24T12:00:00+00:00"
+  },
+  {
+   "liga": "Switzerland: 1. Liga Classic - Group 3",
+   "local": "Dietikon",
+   "visitante": "Eschen / Mauren",
+   "tendencia": "★★★ Dietikon o empate · cuota ~1,29",
+   "cuotas": [
+    1.95,
+    3.8,
+    3.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-24T19:00:00+00:00"
+  },
+  {
+   "liga": "AGCFF Gulf Champions League",
+   "local": "Ajman",
+   "visitante": "Al-Ettifaq",
+   "tendencia": "★★★ Ajman o empate · cuota ~1,28",
+   "cuotas": [
+    2.05,
+    3.4,
+    3.3
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-24T17:00:00+00:00"
   }
  ],
  "historial_pronosticos": [

@@ -1,5 +1,23 @@
 {
- "fecha": "2026-11-23",
- "legs": [],
- "avisado": true
+ "fecha": "2026-11-24",
+ "cuota": 1.6,
+ "avisado": false,
+ "legs": [
+  {
+   "Fecha": "2026-11-24",
+   "Local": "Arsenal",
+   "Visitante": "Borussia Dortmund",
+   "Liga": "UEFA Champions League",
+   "Pronóstico": "Arsenal o empate + más de 1,5 goles",
+   "Cuota": "1.26"
+  },
+  {
+   "Fecha": "2026-11-24",
+   "Local": "RB Leipzig",
+   "Visitante": "Lens",
+   "Liga": "UEFA Champions League",
+   "Pronóstico": "RB Leipzig o empate + más de 1,5 goles",
+   "Cuota": "1.27"
+  }
+ ]
 }
