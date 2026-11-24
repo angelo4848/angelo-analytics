@@ -173,7 +173,7 @@ def scan(cid):
         return
     picks = jload(PICKS, [])
     ya = {p['id'] for p in picks if p['fecha'] == today()}
-    enviados, sin_tnns, revisados = 0, 0, 0
+    enviados, sin_tnns, revisados, a_tnns, tnns_no = 0, 0, 0, 0, 0
     for kind, e in cands:
         if e['id'] in ya:
             continue
@@ -189,6 +189,7 @@ def scan(cid):
         if p_sofa < MIN_PROB:
             continue
         h, a = e['homeTeam']['name'], e['awayTeam']['name']
+        a_tnns += 1
         p_tnns = tnns.prob(h, a) if tnns else None
         if p_tnns is None:
             sin_tnns += 1
@@ -196,6 +197,7 @@ def scan(cid):
                 print('  TNNS sin dato:', h, '-', a)
                 continue
         elif p_tnns[fav] < MIN_PROB:
+            tnns_no += 1
             continue
         favn, rival = (h, a) if fav == 0 else (a, h)
         k = '1' if fav == 0 else '2'
@@ -229,9 +231,12 @@ def scan(cid):
     cut = (datetime.now(TZ) - timedelta(days=30)).strftime('%Y-%m-%d')
     jsave(PICKS, [p for p in picks if p['fecha'] >= cut])
     if not enviados:
-        txt = f'😴 Ahora no hay partidos que valgan la pena ({revisados} revisados por empezar o en el 1.er set, ninguno con favorito ≥ {100 * MIN_PROB:.0f}%).'
-        if sin_tnns and TNNS_REQ:
-            txt += f'\n⚠️ {sin_tnns} pasaban en SofaScore pero TNNS no dio dato.'
+        pct = f'{100 * MIN_PROB:.0f}%'
+        txt = (f'😴 Ahora no hay partidos que valgan la pena.\n\n'
+               f'📡 SofaScore: {len(cands)} partidos por empezar o en el 1.er set\n'
+               f'💰 Con cuotas: {revisados}\n'
+               f'⭐ Favorito ≥ {pct} en SofaScore: {a_tnns}\n'
+               f'🎾 TNNS: {a_tnns - sin_tnns - tnns_no} pasan · {tnns_no} no llegan al {pct} · {sin_tnns} sin dato')
         base.send(cid, txt, KB)
     else:
         base.send(cid, f'✅ Scan terminado: {enviados} pick(s) enviados y apuntados.', KB)
