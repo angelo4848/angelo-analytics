@@ -1,24 +1,23 @@
 {
- "fecha": "2026-11-24",
- "cuota": 1.6,
- "avisado": true,
+ "fecha": "2026-11-25",
+ "cuota": 1.65,
+ "avisado": false,
  "legs": [
   {
-   "Fecha": "2026-11-24",
-   "Local": "Arsenal",
-   "Visitante": "Borussia Dortmund",
+   "Fecha": "2026-11-25",
+   "Local": "Inter",
+   "Visitante": "VfB Stuttgart",
    "Liga": "UEFA Champions League",
-   "Pronóstico": "Arsenal o empate + más de 1,5 goles",
-   "Cuota": "1.26"
+   "Pronóstico": "Inter o empate + más de 1,5 goles",
+   "Cuota": "1.28"
   },
   {
-   "Fecha": "2026-11-24",
-   "Local": "RB Leipzig",
-   "Visitante": "Lens",
+   "Fecha": "2026-11-25",
+   "Local": "Paris Saint Germain",
+   "Visitante": "AS Roma",
    "Liga": "UEFA Champions League",
-   "Pronóstico": "RB Leipzig o empate + más de 1,5 goles",
-   "Cuota": "1.27"
+   "Pronóstico": "Paris Saint Germain o empate + más de 1,5 goles",
+   "Cuota": "1.29"
   }
- ],
- "estado": "ganada"
+ ]
 }
