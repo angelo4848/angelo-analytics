@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-24",
  "cuota": 1.6,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-24",
@@ -19,5 +19,6 @@
    "Pronóstico": "RB Leipzig o empate + más de 1,5 goles",
    "Cuota": "1.27"
   }
- ]
+ ],
+ "estado": "ganada"
 }

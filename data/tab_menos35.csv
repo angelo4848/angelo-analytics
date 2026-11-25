@@ -1,108 +1,57 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
-11:30,Iran: Azadegan League,Fard Alborz,Pars Jonoubi JAM,79%,1.26,59%,1.70,89%,1.12,1.53,19,No,Registro ESPN/SofaScore,1 - 3,Fallado
-13:15,Iran: Azadegan League,Shahin Bandar Ameri,Naft Masjed Soleyman,79%,1.26,59%,1.70,89%,1.12,1.53,19,No,Registro ESPN/SofaScore,2 - 1,Acertado
-15:00,Egypt: Premier League,Masr,Abu Qair Semad,77%,1.29,50%,1.99,89%,1.12,2.14,7,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
-18:00,Egypt: Premier League,El Mokawloon,Olympic El Qanah,77%,1.29,50%,1.99,89%,1.12,2.14,7,No,Registro ESPN/SofaScore (muestra baja),2 - 1,Acertado
-18:00,Egypt: Premier League,AL Masry,Asyut Petrol,77%,1.29,50%,1.99,89%,1.12,2.14,7,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-12:00,Kenya: FKF Premier League,Bandari,Mathare United,76%,1.31,51%,1.95,89%,1.12,2.18,28,No,Registro ESPN/SofaScore,1 - 0,Acertado
-14:00,India: Indian Super League,NorthEast United,SC Delhi,76%,1.32,51%,1.97,89%,1.13,2.42,12,No,Registro ESPN/SofaScore,1 - 1,Acertado
-01:10,Guatemala: Liga Nacional,Marquense,Aurora,75%,1.33,56%,1.79,90%,1.12,2.00,18,No,Registro ESPN/SofaScore,,
-13:00,Tunisia: Ligue 2,Stade Gabesien,AS Kasserine,75%,1.33,56%,1.79,89%,1.12,2.09,23,No,Registro ESPN/SofaScore,,
-13:00,Tunisia: Ligue 2,Kalaâ Sport,Korba,75%,1.33,56%,1.79,89%,1.12,2.09,23,No,Registro ESPN/SofaScore,2 - 1,Acertado
-13:00,Tunisia: Ligue 2,Jendouba Sport,Ksour Essef,75%,1.33,56%,1.79,89%,1.12,2.09,23,No,Registro ESPN/SofaScore,1 - 1,Acertado
-13:00,Tunisia: Ligue 2,Ariana,JS Kairouanaise,75%,1.33,56%,1.79,89%,1.12,2.09,23,No,Registro ESPN/SofaScore,3 - 1,Fallado
-19:45,England: League One,Stevenage,Sheffield Wednesday,75%,1.34,52%,1.93,89%,1.13,2.14,2923,Sí,Histórico 5 años,,
-23:20,Colombia: Primera A,Millonarios,Bucaramanga,75%,1.34,53%,1.89,89%,1.13,2.30,30,No,Registro ESPN/SofaScore,,
-19:45,England: League Two,Port Vale,Northampton,74%,1.35,52%,1.94,89%,1.13,2.23,2934,Sí,Histórico 5 años,,
-12:15,Saudi-Arabia: Division 1,Al-Raed,Al Okhdood,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,1 - 1,Acertado
-12:20,Saudi-Arabia: Division 1,Al Orubah,Al Najma,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,0 - 0,Acertado
-12:20,Saudi-Arabia: Division 1,Al Jabalain,Al Zulfi,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,2 - 1,Acertado
-14:30,Saudi-Arabia: Division 1,Hajer,Al Taee,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,2 - 1,Acertado
-19:00,Italy: Serie B,Virtus Entella,Hellas Verona,74%,1.36,51%,1.97,88%,1.13,2.37,2010,Sí,Histórico 5 años,2 - 1,Acertado
-19:45,England: League One,Bradford,Barnsley,73%,1.36,50%,2.00,88%,1.13,2.35,2923,Sí,Histórico 5 años,,
-18:00,Italy: Serie B,Juve Stabia,Catanzaro,73%,1.37,50%,2.00,88%,1.13,2.48,2010,Sí,Histórico 5 años,1 - 3,Fallado
-13:00,Rwanda: National Soccer League,Bugesera,Rayon Sports,73%,1.37,48%,2.09,87%,1.15,2.60,5,No,Registro ESPN/SofaScore (muestra baja),0 - 2,Acertado
-16:30,Rwanda: National Soccer League,Kiyovu Sports,Al Hilal Omdurman,73%,1.37,48%,2.09,87%,1.15,2.60,5,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
-13:00,Uganda: Premier League,UPDF,Mbarara City,73%,1.37,49%,2.03,88%,1.13,2.50,8,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-13:00,Uganda: Premier League,Blacks Power,Entebbe UPPC,73%,1.37,49%,2.03,88%,1.13,2.50,8,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-19:45,England: Championship,Bristol City,Wrexham,73%,1.37,49%,2.03,88%,1.13,2.49,2940,Sí,Histórico 5 años,,
-13:00,Montenegro: First League,Arsenal Tivat,Dečić,73%,1.37,52%,1.91,86%,1.16,2.36,14,No,Registro ESPN/SofaScore,0 - 6,Fallado
-15:00,Georgia: Erovnuli Liga,Gagra,Dinamo Tbilisi,72%,1.38,49%,2.03,88%,1.14,2.43,14,No,Registro ESPN/SofaScore,1 - 2,Acertado
-19:45,Scotland: Premiership,Hibernian,Dundee,72%,1.39,49%,2.05,88%,1.13,2.41,1215,Sí,Histórico 5 años,,
-19:45,England: Championship,Norwich,QPR,72%,1.39,48%,2.07,88%,1.14,2.60,2940,Sí,Histórico 5 años,,
-17:30,South-Africa: Premier Soccer League,Orlando Pirates,Golden Arrows,72%,1.39,50%,1.99,88%,1.13,2.44,9,No,Registro ESPN/SofaScore (muestra baja),2 - 0,Acertado
-17:30,South-Africa: Premier Soccer League,Durban City,Polokwane City,72%,1.39,50%,1.99,88%,1.13,2.44,9,No,Registro ESPN/SofaScore (muestra baja),3 - 1,Fallado
-19:45,England: Championship,Middlesbrough,Swansea,72%,1.39,48%,2.08,88%,1.14,2.64,2940,Sí,Histórico 5 años,,
-19:45,England: League Two,Crawley Town,Barnet,72%,1.40,48%,2.07,88%,1.14,2.64,2934,Sí,Histórico 5 años,,
-01:00,Argentina: Liga Profesional Argentina,Instituto Cordoba,Huracan,72%,1.40,50%,2.00,89%,1.13,2.52,23,No,Registro ESPN/SofaScore,,
-17:45,UEFA Champions League,Galatasaray,Aston Villa,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-17:45,UEFA Champions League,Bodo/Glimt,Lask Linz,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-20:00,UEFA Champions League,Slovan Bratislava,Real Betis,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,Real Madrid,PSV Eindhoven,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,RB Leipzig,Lens,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,Manchester City,Napoli,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,Feyenoord,FC Porto,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,Como,AEK Athens FC,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-20:00,UEFA Champions League,Arsenal,Borussia Dortmund,71%,1.40,50%,2.01,86%,1.16,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-19:00,Italy: Serie B,Palermo,Sudtirol,71%,1.40,48%,2.09,87%,1.15,2.75,2010,Sí,Histórico 5 años,4 - 1,Fallado
-14:00,Russia: Cup,Akron,CSKA Moscow,71%,1.40,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),0 - 1,Acertado
-16:30,Russia: Cup,Zenit,Krylia Sovetov,71%,1.40,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),1 - 0,Acertado
-19:00,Italy: Serie B,Benevento,Empoli,71%,1.41,48%,2.10,87%,1.15,2.79,2010,Sí,Histórico 5 años,5 - 0,Fallado
-19:45,England: League One,Bromley,Wycombe,70%,1.42,47%,2.15,86%,1.17,2.81,2923,Sí,Histórico 5 años,,
-01:30,Honduras: Liga Nacional,Juticalpa,Olancho,70%,1.42,51%,1.98,86%,1.16,2.75,12,No,Registro ESPN/SofaScore,,
-01:10,Mexico: Liga MX,Club Queretaro,Necaxa,70%,1.42,48%,2.09,88%,1.14,2.72,18,No,Registro ESPN/SofaScore,,
-21:00,Brazil: Serie A,Chapecoense-sc,Palmeiras,70%,1.44,48%,2.08,79%,1.27,2.91,23,No,Registro ESPN/SofaScore,,
-19:45,England: National League,AFC Fylde,FC Halifax Town,70%,1.44,46%,2.16,85%,1.18,2.76,2914,Sí,Histórico 5 años,,
-20:00,Scotland: Premiership,Rangers,Aberdeen,69%,1.45,46%,2.19,85%,1.18,2.82,1215,Sí,Histórico 5 años,,
-19:00,Italy: Serie B,Vicenza Virtus,Carrarese,69%,1.46,46%,2.18,84%,1.18,3.04,2010,Sí,Histórico 5 años,0 - 1,Acertado
-20:00,England: Championship,Wolves,Derby,69%,1.46,45%,2.20,84%,1.18,3.01,2940,Sí,Histórico 5 años,,
-19:45,England: National League,Boston United,Barrow,68%,1.46,46%,2.19,84%,1.19,2.85,2914,Sí,Histórico 5 años,,
-19:45,England: Championship,Portsmouth,West Ham,68%,1.47,45%,2.21,84%,1.19,3.04,2940,Sí,Histórico 5 años,,
-19:45,England: National League,Altrincham,Wealdstone,68%,1.47,45%,2.20,84%,1.20,2.86,2914,Sí,Histórico 5 años,,
-19:45,England: National League,Eastleigh,Yeovil Town,68%,1.47,45%,2.21,83%,1.20,2.89,2914,Sí,Histórico 5 años,,
-19:45,England: League One,Blackpool,Leicester,67%,1.48,45%,2.24,83%,1.20,3.07,2923,Sí,Histórico 5 años,,
-11:00,Thailand: Thai League 2,Chanthaburi,Esan Pattaya,65%,1.54,42%,2.36,80%,1.25,3.10,30,No,Registro ESPN/SofaScore,2 - 0,Acertado
-12:00,Thailand: Thai League 2,Nakhon Pathom,Chainat,65%,1.54,42%,2.36,80%,1.25,3.10,30,No,Registro ESPN/SofaScore,0 - 1,Acertado
-19:45,England: National League,Woking,Worthing,64%,1.56,42%,2.38,81%,1.24,3.16,2914,Sí,Histórico 5 años,,
-19:45,England: National League - South,Weston-super-Mare,Walton & Hersham,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Torquay,Chesham United,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Slough Town,Farnborough,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Salisbury,AFC Totton,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Horsham,Truro City,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Hampton & Richmond,Dover,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Farnham Town,Maidenhead,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Ebbsfleet United,Billericay Town,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,England: National League - South,Dagenham & Redbridge,Tonbridge Angels,64%,1.56,44%,2.27,83%,1.20,2.94,34,No,Registro ESPN/SofaScore,,
-19:45,Wales: Premier League,Holywell,Penybont,64%,1.56,40%,2.48,77%,1.30,3.20,15,No,Registro ESPN/SofaScore,,
-19:45,England: National League,Scunthorpe,Gateshead,63%,1.60,41%,2.47,79%,1.26,3.27,2914,Sí,Histórico 5 años,,
-19:45,England: Championship,Cardiff,Preston,63%,1.60,40%,2.48,80%,1.26,3.46,2940,Sí,Histórico 5 años,,
-19:45,Scotland: Challenge Cup,Ross County,Stenhousemuir,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Livingston,Peterhead,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Hamilton Academical,Cove Rangers,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,East Kilbride,Partick,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Dunfermline,Kelty Hearts,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Clydebank,Queen's Park,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Ayr Utd,Inverness CT,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-19:45,Scotland: Challenge Cup,Arbroath,Airdrie United,62%,1.61,42%,2.36,75%,1.33,3.83,6,No,Registro ESPN/SofaScore (muestra baja),,
-01:30,USA: Major League Soccer,Vancouver Whitecaps,Real Salt Lake,62%,1.61,39%,2.58,82%,1.21,3.12,41,No,Registro ESPN/SofaScore,,
-16:00,Bulgaria: Second League,Fratria,Yantra 2019,62%,1.63,41%,2.43,79%,1.26,3.30,27,No,Registro ESPN/SofaScore,2 - 0,Acertado
-07:45,AFC Champions League Elite,Newcastle Jets,Kashiwa Reysol,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,1 - 2,Acertado
-10:00,AFC Champions League Elite,Kyoto Sanga,Pohang Steelers,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,1 - 0,Acertado
-10:00,AFC Champions League Elite,Daejeon Citizen,Beijing Guoan,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,3 - 2,Fallado
-12:15,AFC Champions League Elite,SHANGHAI SIPG,Buriram United,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,3 - 1,Fallado
-12:15,AFC Champions League Elite,Ratchaburi,Johor Darul Takzim FC,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,1 - 1,Acertado
-12:15,AFC Champions League Elite,Công An Nhân Dân,Vissel Kobe,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,3 - 1,Fallado
-16:00,AFC Champions League Elite,Shabab Al Ahli Dubai,Al-Qadisiyah FC,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,1 - 5,Fallado
-18:15,AFC Champions League Elite,Al-Nassr,Al Sadd,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,2 - 1,Acertado
-19:45,England: National League,Forest Green,Southend,60%,1.66,38%,2.62,77%,1.29,3.47,2914,Sí,Histórico 5 años,,
-19:45,England: National League - North,Merthyr Town,Bedford Town,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Marine,Spennymoor Town,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Macclesfield,Morecambe,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,King's Lynn Town,Radcliffe,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Hednesford Town,Oxford City,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Harborough Town,Chester,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Darlington 1883,Southport,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Chorley,Hebburn Town,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,Brackley Town,Hereford,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League - North,AFC Telford United,Buxton,54%,1.87,33%,3.03,74%,1.35,3.68,25,No,Registro ESPN/SofaScore,,
-19:45,England: National League,Carlisle,Tamworth,53%,1.89,33%,3.07,71%,1.41,4.04,2914,Sí,Histórico 5 años,,
+18:00,Egypt: Premier League,Enppi,Ceramica Cleopatra,77%,1.29,50%,1.99,89%,1.12,2.14,7,No,Registro ESPN/SofaScore (muestra baja),,
+21:00,Uruguay: Segunda División,Colón,Atenas,77%,1.30,58%,1.73,89%,1.12,1.71,7,No,Registro ESPN/SofaScore (muestra baja),,
+11:00,Ukraine: Premier League,Kryvbas KR,FC Kharkiv,76%,1.32,53%,1.87,89%,1.12,2.20,20,No,Registro ESPN/SofaScore,,
+12:00,Russia: First League,FK Neftekhimik,Rotor Volgograd,75%,1.33,50%,1.99,89%,1.12,2.32,19,No,Registro ESPN/SofaScore,,
+15:00,Russia: First League,KAMAZ,Enisey,75%,1.33,50%,1.99,89%,1.12,2.32,19,No,Registro ESPN/SofaScore,,
+18:00,Italy: Serie B,Cremonese,Avellino,74%,1.34,52%,1.94,89%,1.13,2.27,2010,Sí,Histórico 5 años,,
+12:10,Saudi-Arabia: Division 1,Al Bukayriyah,Al Wehda Club,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,,
+12:10,Saudi-Arabia: Division 1,Al Anwar,Al Jandal,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,,
+15:10,Saudi-Arabia: Division 1,Al Ula,Al-Adalah,74%,1.35,50%,2.01,88%,1.13,2.43,21,No,Registro ESPN/SofaScore,,
+02:05,Mexico: Primera Premier,Deportiva Venados,Reboceros La Piedad,74%,1.35,48%,2.10,88%,1.14,2.67,9,No,Registro ESPN/SofaScore (muestra baja),,
+23:20,Colombia: Primera A,Santa Fe,Once Caldas,74%,1.36,52%,1.93,88%,1.13,2.39,31,No,Registro ESPN/SofaScore,,
+09:30,Japan: J2 League,Imabari,Tegevajaro Miyazaki,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Yokohama FC,Vegalta Sendai,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Tochigi City,Blaublitz Akita,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Shonan Bellmare,Ventforet Kofu,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Sagan Tosu,Oita Trinita,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Omiya Ardija,Tokushima Vortis,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Montedio Yamagata,Jubilo Iwata,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Iwaki,Kataller Toyama,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+10:00,Japan: J2 League,Consadole Sapporo,Fujieda MYFC,73%,1.37,47%,2.14,88%,1.13,2.63,19,No,Registro ESPN/SofaScore,,
+02:00,Costa-Rica: Primera División,LD Alajuelense,CS Cartagines,73%,1.37,49%,2.05,86%,1.17,2.73,11,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: National League,Hartlepool,Solihull Moors,72%,1.39,49%,2.05,87%,1.14,2.43,2914,Sí,Histórico 5 años,,
+10:00,Japan: J1 League,V-varen Nagasaki,Kawasaki Frontale,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+10:00,Japan: J1 League,JEF United Chiba,Nagoya Grampus,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+10:00,Japan: J1 League,Fagiano Okayama,Shimizu S-pulse,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+10:00,Japan: J1 League,FC Tokyo,Sanfrecce Hiroshima,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+10:00,Japan: J1 League,Avispa Fukuoka,Yokohama F. Marinos,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+10:30,Japan: J1 League,Urawa,Cerezo Osaka,72%,1.39,48%,2.08,88%,1.13,2.50,28,No,Registro ESPN/SofaScore,,
+20:00,England: Championship,Stoke City,Millwall,72%,1.40,48%,2.09,88%,1.14,2.68,2940,Sí,Histórico 5 años,,
+21:00,Paraguay: Division Profesional - Clausura,Sportivo Trinidense,Deportivo Recoleta,71%,1.40,45%,2.22,87%,1.15,2.81,16,No,Registro ESPN/SofaScore,,
+21:00,Paraguay: Division Profesional - Clausura,Sportivo Luqueno,Olimpia,71%,1.40,45%,2.22,87%,1.15,2.81,16,No,Registro ESPN/SofaScore,,
+15:00,Russia: Cup,Dinamo Makhachkala,Baltika,71%,1.40,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),,
+17:30,Russia: Cup,Rubin,Rodina Moskva,71%,1.40,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),,
+17:30,Russia: Cup,Lokomotiv,FC Rostov,71%,1.40,48%,2.08,86%,1.17,2.70,10,No,Registro ESPN/SofaScore (muestra baja),,
+19:45,England: Championship,Bolton,West Brom,71%,1.41,47%,2.11,87%,1.15,2.74,2940,Sí,Histórico 5 años,,
+19:00,Italy: Serie B,Mantova,Arezzo,71%,1.41,48%,2.10,87%,1.15,2.80,2010,Sí,Histórico 5 años,,
+19:00,Italy: Serie B,Pisa,Modena,71%,1.41,47%,2.11,87%,1.15,2.81,2010,Sí,Histórico 5 años,,
+00:00,Brazil: Serie A,Santos,Gremio,70%,1.43,48%,2.10,79%,1.27,2.92,24,No,Registro ESPN/SofaScore,,
+23:00,Brazil: Serie A,Atletico-MG,Corinthians,70%,1.43,48%,2.10,79%,1.27,2.92,24,No,Registro ESPN/SofaScore,,
+17:45,UEFA Champions League,Slavia Praha,Villarreal,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+17:45,UEFA Champions League,Sabah FA,Barcelona,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+20:00,UEFA Champions League,Paris Saint Germain,AS Roma,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+20:00,UEFA Champions League,Lille,Bayern München,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+20:00,UEFA Champions League,Inter,VfB Stuttgart,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+20:00,UEFA Champions League,Club Brugge KV,Liverpool,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+20:00,UEFA Champions League,Atletico Madrid,Viking,69%,1.44,49%,2.03,85%,1.17,2.69,16,No,Registro ESPN/SofaScore,,
+12:00,Serbia: Super Liga,Radnicki NIS,Železničar Pančevo,69%,1.45,45%,2.21,85%,1.18,2.95,19,No,Registro ESPN/SofaScore,,
+16:30,Poland: II Liga - East,Resovia Rzeszów,Świt Skolwin,68%,1.46,42%,2.41,84%,1.19,2.92,24,No,Registro ESPN/SofaScore,,
+19:45,England: National League,Harrogate Town,Kidderminster Harriers,64%,1.56,42%,2.40,80%,1.24,3.18,2914,Sí,Histórico 5 años,,
+01:00,USA: Major League Soccer,St. Louis City,Los Angeles FC,62%,1.61,39%,2.58,82%,1.21,3.12,41,No,Registro ESPN/SofaScore,,
+10:00,AFC Champions League Elite,Kashima,Jeonbuk Motors,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,,
+10:00,AFC Champions League Elite,Gamba Osaka,Port FC,61%,1.64,37%,2.72,78%,1.29,3.40,25,No,Registro ESPN/SofaScore,,
+00:00,Costa-Rica: Liga de Ascenso,Pitbulls Santa Barbara FC,ADR Jicaral,61%,1.65,36%,2.79,79%,1.26,3.38,13,No,Registro ESPN/SofaScore,,
+19:00,Netherlands: Derde Divisie,Roosendaal,Gemert,60%,1.65,41%,2.42,81%,1.23,3.21,14,No,Registro ESPN/SofaScore,,
+19:00,England: National League,Boreham Wood,Aldershot Town,59%,1.68,38%,2.66,77%,1.30,3.53,2914,Sí,Histórico 5 años,,
+18:30,Spain: Segunda División RFEF - Group 5,CF Talavera,Conquense,54%,1.84,33%,3.07,78%,1.29,3.50,22,No,Registro ESPN/SofaScore,,

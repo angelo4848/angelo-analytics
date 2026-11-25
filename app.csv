@@ -60,73 +60,73 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-25,01:00,USA: Major League Soccer,St. Louis City,Los Angeles FC,St. Louis City o empate,Doble oport. local,1.41,2.35,3.50,2.88,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-25,00:00,Brazil: Serie A,Santos,Gremio,Gana Santos,Gana local,1.65,1.65,4.10,4.75,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-25,00:00,Costa-Rica: Liga de Ascenso,Pitbulls Santa Barbara FC,ADR Jicaral,ADR Jicaral o empate,Doble oport. visitante,1.25,3.10,3.10,2.10,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,23:20,Colombia: Primera A,Millonarios,Bucaramanga,Gana Millonarios,Gana local,1.50,1.50,4.05,6.57,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,22:00,Chile: Copa Chile,Coquimbo Unido,Union La Calera,Coquimbo Unido o empate,Doble oport. local,1.21,1.70,4.20,3.90,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,21:00,Brazil: Serie A,Chapecoense-sc,Palmeiras,Gana Palmeiras,Gana visitante,1.67,4.50,3.90,1.67,60,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,23:20,Colombia: Primera A,Millonarios,Bucaramanga,Gana Millonarios,Gana local,1.50,1.50,4.05,6.57,67,"1,50+",4 - 1,Acertado,1,5.00,2 - 1,Sí,3,2,5,Sí,Sí,14' L · 19' L · 49' L · 70' L · 28' V,3,7,10,9,15,6,3,49.8,50.2,2,3,0,0,WDWLD,LDWWD,Estadio Nemesio Camacho El Campín
+2026-11-24,22:00,Chile: Copa Chile,Coquimbo Unido,Union La Calera,Coquimbo Unido o empate,Doble oport. local,1.21,1.70,4.20,3.90,83,"1,20-1,35",1 - 1,Acertado,1,2.10,0 - 1,Sí,1,1,2,No,Sí,71' L · 40' V,6,2,8,20,7,6,2,59.6,40.4,1,1,0,0,DWWWW,DWWLL,Estadio Francisco Sánchez Rumoroso
+2026-11-24,21:00,Brazil: Serie A,Chapecoense-sc,Palmeiras,Gana Palmeiras,Gana visitante,1.67,4.50,3.90,1.67,60,"1,50+",3 - 0,Fallado,0,-10.00,2 - 0,Sí,2,1,3,Sí,No,5' L · 32' L · 90' L,5,10,15,10,26,8,6,43.5,56.5,3,1,0,0,WLLLL,LDLLW,Arena Condá
 2026-11-24,20:00,England: Championship,Wolves,Derby,Gana Wolves,Gana local,1.28,1.28,5.00,11.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Slovan Bratislava,Real Betis,Gana Real Betis,Gana visitante,1.25,11.00,6.50,1.25,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Real Madrid,PSV Eindhoven,Gana Real Madrid,Gana local,1.12,1.12,10.00,15.00,89,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,Scotland: Premiership,Rangers,Aberdeen,Gana Rangers,Gana local,1.25,1.25,6.00,9.50,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,RB Leipzig,Lens,Gana RB Leipzig,Gana local,1.38,1.38,5.00,7.00,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Manchester City,Napoli,Gana Manchester City,Gana local,1.27,1.27,6.50,9.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Feyenoord,FC Porto,FC Porto o empate,Doble oport. visitante,1.44,2.80,3.75,2.35,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Como,AEK Athens FC,Gana Como,Gana local,1.27,1.27,6.00,10.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,20:00,UEFA Champions League,Arsenal,Borussia Dortmund,Gana Arsenal,Gana local,1.36,1.36,5.00,8.00,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Woking,Worthing,Woking o empate,Doble oport. local,1.38,2.20,3.70,2.75,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,20:00,UEFA Champions League,Slovan Bratislava,Real Betis,Gana Real Betis,Gana visitante,1.25,11.00,6.50,1.25,80,"1,20-1,35",0 - 2,Acertado,1,2.50,0 - 1,Sí,1,1,2,No,No,43' V · 57' V,1,4,5,12,18,2,6,31.6,68.4,1,1,0,0,LLLLL,WDWWL,Národny Futbalovy Stadión
+2026-11-24,20:00,UEFA Champions League,Real Madrid,PSV Eindhoven,Gana Real Madrid,Gana local,1.12,1.12,10.00,15.00,89,"1,01-1,20",5 - 1,Acertado,1,1.20,0 - 1,Sí,1,5,6,Sí,Sí,50' L · 60' L · 64' L · 84' L · 87' L · 32' V,4,1,5,24,10,9,1,61.5,38.5,3,1,0,0,WWWWW,LWWLW,Santiago Bernabéu
+2026-11-24,20:00,Scotland: Premiership,Rangers,Aberdeen,Gana Rangers,Gana local,1.25,1.25,6.00,9.50,80,"1,20-1,35",3 - 2,Acertado,1,2.50,0 - 1,Sí,1,4,5,Sí,Sí,46' L · 47' L · 56' L · 30' V · 57' V,3,3,6,20,11,5,6,61,39,2,5,0,0,DWWWD,DWLLL,Ibrox Stadium
+2026-11-24,20:00,UEFA Champions League,RB Leipzig,Lens,Gana RB Leipzig,Gana local,1.38,1.38,5.00,7.00,72,"1,35-1,50",3 - 1,Acertado,1,3.80,2 - 0,Sí,2,2,4,Sí,Sí,6' L · 9' L · 90'+4' L · 58' V,10,4,14,16,11,7,3,58.6,41.4,2,4,0,0,DWWLW,DDLLL,Red Bull Arena
+2026-11-24,20:00,UEFA Champions League,Manchester City,Napoli,Gana Manchester City,Gana local,1.27,1.27,6.50,9.00,79,"1,20-1,35",2 - 2,Fallado,0,-10.00,0 - 0,No,0,4,4,Sí,Sí,67' L · 86' L · 55' V · 76' V,9,3,12,18,9,7,3,62.7,37.3,1,0,0,0,DDLWL,DWDLL,Etihad Stadium
+2026-11-24,20:00,UEFA Champions League,Feyenoord,FC Porto,FC Porto o empate,Doble oport. visitante,1.44,2.80,3.75,2.35,69,"1,35-1,50",0 - 1,Acertado,1,4.40,0 - 1,Sí,1,0,1,No,No,2' V,8,4,12,21,9,7,3,56.6,43.4,2,4,0,0,LLLLD,WWWWW,De Kuip
+2026-11-24,20:00,UEFA Champions League,Como,AEK Athens FC,Gana Como,Gana local,1.27,1.27,6.00,10.00,79,"1,20-1,35",1 - 0,Acertado,1,2.70,0 - 0,No,0,1,1,No,No,57' L,2,1,3,19,7,4,3,60.9,39.1,2,3,0,0,WWLWW,LWWLL,Giuseppe Sinigaglia
+2026-11-24,20:00,UEFA Champions League,Arsenal,Borussia Dortmund,Gana Arsenal,Gana local,1.36,1.36,5.00,8.00,74,"1,35-1,50",1 - 1,Fallado,0,-10.00,1 - 0,Sí,1,1,2,No,Sí,10' L · 55' V,8,5,13,30,13,4,4,63.2,36.8,0,0,0,0,DDWWW,DWWWD,Emirates Stadium
+2026-11-24,19:45,England: National League,Woking,Worthing,Woking o empate,Doble oport. local,1.38,2.20,3.70,2.75,72,"1,35-1,50",4 - 3,Acertado,1,3.80,1 - 1,Sí,2,5,7,Sí,Sí,41' L · 47' L · 48' L · 50' L · 44' V · 63' V · 76' V,0,0,0,0,0,0,0,0,0,2,1,0,0,DLWLW,DWDLD,The Laithwaite Community Stadium
 2026-11-24,19:45,England: National League - South,Weston-super-Mare,Walton & Hersham,Gana Weston-super-Mare,Gana local,1.36,1.36,4.50,6.25,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - South,Torquay,Chesham United,Gana Torquay,Gana local,1.50,1.50,4.10,4.75,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League One,Stevenage,Sheffield Wednesday,Sheffield Wednesday o empate,Doble oport. visitante,1.37,2.88,3.40,2.30,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: League One,Stevenage,Sheffield Wednesday,Sheffield Wednesday o empate,Doble oport. visitante,1.37,2.88,3.40,2.30,73,"1,35-1,50",0 - 0,Acertado,1,3.70,0 - 0,No,0,0,0,No,No,,5,7,12,11,15,2,6,44.7,55.3,1,2,0,0,DWWWD,DWWLL,Lamex Stadium
 2026-11-24,19:45,England: National League - South,Slough Town,Farnborough,Slough Town o empate,Doble oport. local,1.40,2.30,3.60,2.45,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Scunthorpe,Gateshead,Gana Scunthorpe,Gana local,1.40,1.40,4.50,6.00,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Scunthorpe,Gateshead,Gana Scunthorpe,Gana local,1.40,1.40,4.50,6.00,71,"1,35-1,50",1 - 2,Fallado,0,-10.00,1 - 1,Sí,2,1,3,Sí,Sí,7' L · 21' V · 89' V,0,0,0,0,0,0,0,0,0,0,2,0,0,DLDLL,DLLLL,Attis Arena
 2026-11-24,19:45,England: National League - South,Salisbury,AFC Totton,Gana Salisbury,Gana local,1.42,1.42,4.20,5.75,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,Ross County,Stenhousemuir,Ross County o empate,Doble oport. local,1.31,2.10,3.50,3.00,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: Championship,Portsmouth,West Ham,West Ham o empate,Doble oport. visitante,1.22,4.00,3.60,1.85,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League Two,Port Vale,Northampton,Port Vale o empate,Doble oport. local,1.26,2.05,3.25,3.60,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,Scotland: Challenge Cup,Ross County,Stenhousemuir,Ross County o empate,Doble oport. local,1.31,2.10,3.50,3.00,76,"1,20-1,35",1 - 1,Acertado,1,3.10,1 - 0,Sí,1,1,2,No,Sí,4' L · 53' V,9,3,12,13,6,0,0,62,38,2,5,0,0,LWWWW,WLWLW,Global Energy Stadium
+2026-11-24,19:45,England: Championship,Portsmouth,West Ham,West Ham o empate,Doble oport. visitante,1.22,4.00,3.60,1.85,82,"1,20-1,35",1 - 0,Fallado,0,-10.00,1 - 0,Sí,1,0,1,No,No,31' L,4,5,9,9,19,1,6,36.8,63.2,2,0,0,0,DDLWD,DDLDL,Fratton Park
+2026-11-24,19:45,England: League Two,Port Vale,Northampton,Port Vale o empate,Doble oport. local,1.26,2.05,3.25,3.60,79,"1,20-1,35",1 - 1,Acertado,1,2.60,0 - 0,No,0,2,2,No,Sí,54' L · 50' V,7,3,10,14,6,4,2,62.4,37.6,1,1,0,0,DLWWW,DWDLL,Vale Park
 2026-11-24,19:45,England: Championship,Norwich,QPR,Norwich o empate,Doble oport. local,1.29,2.00,3.60,3.50,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Northern-Ireland: League Cup,Moyola Park,Ballymena United,Gana Ballymena United,Gana visitante,1.42,6.00,4.20,1.42,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: Championship,Middlesbrough,Swansea,Gana Middlesbrough,Gana local,1.44,1.44,4.33,7.00,69,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: Championship,Middlesbrough,Swansea,Gana Middlesbrough,Gana local,1.44,1.44,4.33,7.00,69,"1,35-1,50",2 - 1,Acertado,1,4.40,1 - 1,Sí,2,1,3,Sí,Sí,9' L · 54' L · 22' V,3,2,5,18,7,7,3,55.7,44.3,2,2,0,0,DWDLW,DDLLW,Riverside Stadium
 2026-11-24,19:45,England: National League - North,Merthyr Town,Bedford Town,Merthyr Town o empate,Doble oport. local,1.22,1.80,3.75,3.40,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - North,Marine,Spennymoor Town,Marine o empate,Doble oport. local,1.16,1.70,3.70,3.90,86,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - North,Macclesfield,Morecambe,Macclesfield o empate,Doble oport. local,1.25,1.91,3.60,3.10,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Northern-Ireland: League Cup,Loughgall,Queen's University,Loughgall o empate,Doble oport. local,1.47,2.35,3.90,2.35,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,Livingston,Peterhead,Gana Livingston,Gana local,1.42,1.42,4.33,6.50,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,Scotland: Challenge Cup,Livingston,Peterhead,Gana Livingston,Gana local,1.42,1.42,4.33,6.50,70,"1,35-1,50",3 - 0,Acertado,1,4.20,1 - 0,Sí,1,2,3,Sí,No,6' L · 53' L · 55' L,8,1,9,16,4,0,0,48,52,0,4,0,0,DWWDW,DWWLW,Tony Macaroni Arena
 2026-11-24,19:45,Northern-Ireland: League Cup,Limavady United,Rathfriland,Gana Limavady United,Gana local,1.40,1.40,4.50,5.75,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - North,King's Lynn Town,Radcliffe,Gana King's Lynn Town,Gana local,1.65,1.65,3.75,4.20,61,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - South,Horsham,Truro City,Truro City o empate,Doble oport. visitante,1.24,3.20,3.40,1.95,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Wales: Premier League,Holywell,Penybont,Gana Penybont,Gana visitante,1.28,7.50,5.50,1.28,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Premiership,Hibernian,Dundee,Gana Hibernian,Gana local,1.62,1.62,4.20,4.75,62,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,Scotland: Premiership,Hibernian,Dundee,Gana Hibernian,Gana local,1.62,1.62,4.20,4.75,62,"1,50+",2 - 1,Acertado,1,6.20,2 - 0,Sí,2,1,3,Sí,Sí,40' L · 42' L · 67' V,5,3,8,12,12,3,3,61.4,38.6,2,2,0,0,WLWWD,LLLWL,Easter Road
 2026-11-24,19:45,England: National League - North,Hednesford Town,Oxford City,Hednesford Town o empate,Doble oport. local,1.39,2.35,3.40,2.55,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - North,Harborough Town,Chester,Chester o empate,Doble oport. visitante,1.30,2.90,3.40,2.10,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - South,Hampton & Richmond,Dover,Hampton & Richmond o empate,Doble oport. local,1.37,2.25,3.50,2.60,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,Hamilton Academical,Cove Rangers,Gana Hamilton Academical,Gana local,1.57,1.57,3.80,5.25,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,Scotland: Challenge Cup,Hamilton Academical,Cove Rangers,Gana Hamilton Academical,Gana local,1.57,1.57,3.80,5.25,64,"1,50+",1 - 1,Fallado,0,-10.00,0 - 1,Sí,1,1,2,No,Sí,88' L · 23' V,8,3,11,14,8,0,0,62,38,3,2,0,0,DWWWW,DWWWW,New Douglas Park
 2026-11-24,19:45,Northern-Ireland: League Cup,H&W Welders,Linfield,Gana Linfield,Gana visitante,1.25,8.50,5.75,1.25,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Northern-Ireland: League Cup,Glentoran,Larne,Larne o empate,Doble oport. visitante,1.40,2.50,3.60,2.30,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Forest Green,Southend,Forest Green o empate,Doble oport. local,1.43,2.30,3.80,2.50,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Forest Green,Southend,Forest Green o empate,Doble oport. local,1.43,2.30,3.80,2.50,70,"1,35-1,50",0 - 2,Fallado,0,-10.00,0 - 0,No,0,2,2,No,No,54' V · 74' V,0,0,0,0,0,0,0,0,0,1,4,0,0,LLLDW,WLWLD,The Bolt New Lawn
 2026-11-24,19:45,England: National League - South,Farnham Town,Maidenhead,Farnham Town o empate,Doble oport. local,1.31,2.05,3.60,2.80,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - South,Ebbsfleet United,Billericay Town,Gana Ebbsfleet United,Gana local,1.53,1.53,4.00,4.50,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Eastleigh,Yeovil Town,Yeovil Town o empate,Doble oport. visitante,1.35,2.80,3.60,2.15,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,East Kilbride,Partick,Partick o empate,Doble oport. visitante,1.19,3.90,4.00,1.70,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Eastleigh,Yeovil Town,Yeovil Town o empate,Doble oport. visitante,1.35,2.80,3.60,2.15,74,"1,35-1,50",1 - 3,Acertado,1,3.50,0 - 1,Sí,1,3,4,Sí,Sí,73' L · 29' V · 75' V · 78' V,0,0,0,0,0,0,0,0,0,4,1,0,0,DWLLD,DWDLL,Silverlake Stadium
+2026-11-24,19:45,Scotland: Challenge Cup,East Kilbride,Partick,Partick o empate,Doble oport. visitante,1.19,3.90,4.00,1.70,84,"1,01-1,20",3 - 3,Acertado,1,1.90,2 - 2,Sí,4,2,6,Sí,Sí,37' L · 43' L · 78' L · 11' V · 26' V · 50' V,9,3,12,14,9,0,0,43,57,4,1,0,0,DWWLD,DWWWW,K-Park Training Academy
 2026-11-24,19:45,Northern-Ireland: League Cup,Dungannon Swifts,Coleraine FC,Coleraine FC o empate,Doble oport. visitante,1.27,3.20,3.80,1.90,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,Dunfermline,Kelty Hearts,Gana Dunfermline,Gana local,1.11,1.11,8.00,19.00,90,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,Scotland: Challenge Cup,Dunfermline,Kelty Hearts,Gana Dunfermline,Gana local,1.11,1.11,8.00,19.00,90,"1,01-1,20",3 - 0,Acertado,1,1.10,0 - 0,No,0,3,3,Sí,No,50' L · 58' L · 87' L,4,4,8,14,5,0,0,67,33,0,1,0,0,WDWWW,LWLLW,KDM Group East End Park
 2026-11-24,19:45,England: National League - North,Darlington 1883,Southport,Darlington 1883 o empate,Doble oport. local,1.21,1.83,3.60,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,England: National League - South,Dagenham & Redbridge,Tonbridge Angels,Dagenham & Redbridge o empate,Doble oport. local,1.22,1.91,3.40,3.25,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League Two,Crawley Town,Barnet,Barnet o empate,Doble oport. visitante,1.24,3.75,3.75,1.85,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,Scotland: Challenge Cup,Clydebank,Queen's Park,Clydebank o empate,Doble oport. local,1.39,2.30,3.50,2.88,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: League Two,Crawley Town,Barnet,Barnet o empate,Doble oport. visitante,1.24,3.75,3.75,1.85,81,"1,20-1,35",0 - 0,Acertado,1,2.40,0 - 0,No,0,0,0,No,No,,2,7,9,7,20,3,5,41.6,58.4,3,1,0,0,DWLLW,DWWWD,Broadfield Stadium
+2026-11-24,19:45,Scotland: Challenge Cup,Clydebank,Queen's Park,Clydebank o empate,Doble oport. local,1.39,2.30,3.50,2.88,72,"1,35-1,50",3 - 3,Acertado,1,3.90,2 - 1,Sí,3,3,6,Sí,Sí,5' L · 10' L · 87' L · 44' V · 63' V · 75' V,6,2,8,14,4,0,0,49,51,2,2,0,1,DWWWW,DLLLW,Holm Park
 2026-11-24,19:45,England: National League - North,Chorley,Hebburn Town,Chorley o empate,Doble oport. local,1.20,1.83,3.50,3.50,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Northern-Ireland: League Cup,Carrick Rangers,Glenavon FC,Carrick Rangers o empate,Doble oport. local,1.28,2.05,3.40,3.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Carlisle,Tamworth,Gana Carlisle,Gana local,1.40,1.40,4.75,6.00,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: Championship,Cardiff,Preston,Gana Cardiff,Gana local,1.50,1.50,4.50,5.75,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League One,Bromley,Wycombe,Wycombe o empate,Doble oport. visitante,1.27,3.50,3.50,2.00,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: Championship,Bristol City,Wrexham,Bristol City o empate,Doble oport. local,1.37,2.40,3.20,3.00,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League One,Bradford,Barnsley,Gana Bradford,Gana local,1.57,1.57,4.10,5.25,64,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Carlisle,Tamworth,Gana Carlisle,Gana local,1.40,1.40,4.75,6.00,71,"1,35-1,50",1 - 2,Fallado,0,-10.00,0 - 0,No,0,3,3,Sí,Sí,51' L · 71' V · 88' V,0,0,0,0,0,0,0,0,0,0,1,0,0,DWWWW,DLLLW,Brunton Park
+2026-11-24,19:45,England: Championship,Cardiff,Preston,Gana Cardiff,Gana local,1.50,1.50,4.50,5.75,67,"1,50+",0 - 4,Fallado,0,-10.00,0 - 2,Sí,2,2,4,Sí,No,27' V · 32' V · 63' V · 69' V,8,8,16,15,15,5,6,72.9,27.1,2,0,0,0,LLWDL,WDWLL,Cardiff City Stadium
+2026-11-24,19:45,England: League One,Bromley,Wycombe,Wycombe o empate,Doble oport. visitante,1.27,3.50,3.50,2.00,79,"1,20-1,35",1 - 1,Acertado,1,2.70,0 - 0,No,0,2,2,No,Sí,58' L · 70' V,6,4,10,17,14,3,3,39.8,60.2,0,2,0,0,DWLLL,DLWWD,RELOC8 EM Community Stadium
+2026-11-24,19:45,England: Championship,Bristol City,Wrexham,Bristol City o empate,Doble oport. local,1.37,2.40,3.20,3.00,73,"1,35-1,50",1 - 1,Acertado,1,3.70,0 - 1,Sí,1,1,2,No,Sí,51' L · 7' V,4,9,13,11,10,4,2,55.7,44.3,3,2,0,0,DLLLW,DWDWL,Ashton Gate
+2026-11-24,19:45,England: League One,Bradford,Barnsley,Gana Bradford,Gana local,1.57,1.57,4.10,5.25,64,"1,50+",3 - 0,Acertado,1,5.70,1 - 0,Sí,1,2,3,Sí,No,7' L · 67' L · 90'+6' L,5,5,10,10,23,4,6,36.9,63.1,3,3,0,0,WDWWL,LLLWW,Valley Parade
 2026-11-24,19:45,England: National League - North,Brackley Town,Hereford,Hereford o empate,Doble oport. visitante,1.36,2.62,3.30,2.30,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Boston United,Barrow,Barrow o empate,Doble oport. visitante,1.35,2.88,3.60,2.15,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: League One,Blackpool,Leicester,Leicester o empate,Doble oport. visitante,1.22,4.00,4.00,1.75,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Boston United,Barrow,Barrow o empate,Doble oport. visitante,1.35,2.88,3.60,2.15,74,"1,35-1,50",0 - 1,Acertado,1,3.50,0 - 0,No,0,1,1,No,No,73' V,0,0,0,0,0,0,0,0,0,0,3,0,0,DLLWW,DLWWD,Jakemans Community Stadium
+2026-11-24,19:45,England: League One,Blackpool,Leicester,Leicester o empate,Doble oport. visitante,1.22,4.00,4.00,1.75,82,"1,20-1,35",1 - 1,Acertado,1,2.20,0 - 0,No,0,2,2,No,Sí,84' L · 66' V,1,12,13,5,30,3,9,22.6,77.4,1,0,0,0,DLLWD,DWWWD,Bloomfield Road
 2026-11-24,19:45,Scotland: Challenge Cup,Ayr Utd,Inverness CT,Inverness CT o empate,Doble oport. visitante,1.24,3.50,3.40,1.95,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-24,19:45,Scotland: Challenge Cup,Arbroath,Airdrie United,Arbroath o empate,Doble oport. local,1.37,2.20,3.60,2.70,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,Altrincham,Wealdstone,Altrincham o empate,Doble oport. local,1.22,1.80,3.80,3.60,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,Altrincham,Wealdstone,Altrincham o empate,Doble oport. local,1.22,1.80,3.80,3.60,82,"1,20-1,35",3 - 0,Acertado,1,2.20,0 - 0,No,0,3,3,Sí,No,52' L · 62' L · 71' L,0,0,0,0,0,0,0,0,0,2,2,0,0,DLLLL,DWDLW,J. Davidson Stadium
 2026-11-24,19:45,England: National League - North,AFC Telford United,Buxton,AFC Telford United o empate,Doble oport. local,1.33,2.15,3.50,2.80,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-24,19:45,England: National League,AFC Fylde,FC Halifax Town,AFC Fylde o empate,Doble oport. local,1.25,1.85,3.90,3.30,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-24,19:45,England: National League,AFC Fylde,FC Halifax Town,AFC Fylde o empate,Doble oport. local,1.25,1.85,3.90,3.30,80,"1,20-1,35",0 - 2,Fallado,0,-10.00,0 - 0,No,0,2,2,No,No,62' V · 90' V,0,0,0,0,0,0,0,0,0,0,0,0,0,DDWWW,DWDLW,Mill Farm Sports Village
 2026-11-24,19:00,Italy: Serie B,Virtus Entella,Hellas Verona,Hellas Verona o empate,Doble oport. visitante,1.30,3.20,3.10,2.25,77,"1,20-1,35",2 - 1,Fallado,0,-10.00,1 - 1,Sí,2,1,3,Sí,Sí,33' L · 66' L · 18' V,7,5,12,11,14,6,5,44.9,55.1,3,2,0,0,DLLLD,DLDWW,Comunale Aldo Gastaldi
 2026-11-24,19:00,Italy: Serie B,Vicenza Virtus,Carrarese,Carrarese o empate,Doble oport. visitante,1.34,3.10,3.10,2.35,75,"1,20-1,35",0 - 1,Acertado,1,3.40,0 - 1,Sí,1,0,1,No,No,7' V,8,3,11,12,10,2,2,59.1,40.9,1,2,0,0,DDLLL,DWLLW,Romeo Menti di Vicenza
 2026-11-24,19:00,Italy: Serie B,Palermo,Sudtirol,Gana Palermo,Gana local,1.45,1.45,4.33,6.25,69,"1,35-1,50",4 - 1,Acertado,1,4.50,3 - 0,Sí,3,2,5,Sí,Sí,8' L · 14' L · 45'+1' L · 68' L · 52' V,4,3,7,12,10,4,7,37.8,62.2,0,2,0,0,WLDWD,LWDDL,Stadio Renzo Barbera

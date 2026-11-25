@@ -1,10 +1,16 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
-2026-11-24,20:00,UEFA Champions League,Real Madrid,PSV Eindhoven,"Real Madrid vence e -5,5 golos",76%,1.32,,,,,Modelo Bet Consulting,1.17,
-2026-11-24,20:00,UEFA Champions League,Slovan Bratislava,Real Betis,"Real Betis/empate e +1,5 golos",74%,1.36,,,,,Modelo Bet Consulting,1.21,
-2026-11-24,20:00,UEFA Champions League,Manchester City,Napoli,"Manchester City/empate e +1,5 golos",73%,1.37,,,,,Modelo Bet Consulting,1.22,
-2026-11-24,20:00,UEFA Champions League,Como,AEK Athens FC,"Como/empate e +1,5 golos",73%,1.37,,,,,Modelo Bet Consulting,1.22,
-2026-11-24,20:00,UEFA Champions League,Arsenal,Borussia Dortmund,"Arsenal/empate e +1,5 golos",71%,1.42,,,,,Modelo Bet Consulting,1.26,
-2026-11-24,20:00,UEFA Champions League,RB Leipzig,Lens,"RB Leipzig/empate e +1,5 golos",70%,1.43,,,,,Modelo Bet Consulting,1.27,
+2026-11-25,20:00,UEFA Champions League,Lille,Bayern München,Bayern München ou empate,82%,1.23,,,,,Modelo Bet Consulting,1.15,
+2026-11-25,20:00,UEFA Champions League,Club Brugge KV,Liverpool,Liverpool ou empate,80%,1.26,,,,,Modelo Bet Consulting,1.18,
+2026-11-25,20:00,UEFA Champions League,Atletico Madrid,Viking,"Atletico Madrid/empate e +1,5 golos",77%,1.30,,,,,Modelo Bet Consulting,1.16,
+2026-11-25,20:00,UEFA Champions League,Inter,VfB Stuttgart,"Inter/empate e +1,5 golos",69%,1.44,,,,,Modelo Bet Consulting,1.28,
+2026-11-25,20:00,UEFA Champions League,Paris Saint Germain,AS Roma,"Paris Saint Germain/empate e +1,5 golos",69%,1.45,,,,,Modelo Bet Consulting,1.29,
+2026-11-25,17:45,UEFA Champions League,Sabah FA,Barcelona,"Barcelona/empate e +1,5 golos",77%,1.30,,,,,Modelo Bet Consulting,1.16,
+2026-11-24,20:00,UEFA Champions League,Real Madrid,PSV Eindhoven,"Real Madrid vence e -5,5 golos",76%,1.32,,5 - 1,Fallado,0,Modelo Bet Consulting,1.17,-10.00
+2026-11-24,20:00,UEFA Champions League,Slovan Bratislava,Real Betis,"Real Betis/empate e +1,5 golos",74%,1.36,,0 - 2,Acertado,1,Modelo Bet Consulting,1.21,2.10
+2026-11-24,20:00,UEFA Champions League,Manchester City,Napoli,"Manchester City/empate e +1,5 golos",73%,1.37,,2 - 2,Acertado,1,Modelo Bet Consulting,1.22,2.20
+2026-11-24,20:00,UEFA Champions League,Como,AEK Athens FC,"Como/empate e +1,5 golos",73%,1.37,,1 - 0,Fallado,0,Modelo Bet Consulting,1.22,-10.00
+2026-11-24,20:00,UEFA Champions League,Arsenal,Borussia Dortmund,"Arsenal/empate e +1,5 golos",71%,1.42,,1 - 1,Acertado,1,Modelo Bet Consulting,1.26,2.60
+2026-11-24,20:00,UEFA Champions League,RB Leipzig,Lens,"RB Leipzig/empate e +1,5 golos",70%,1.43,,3 - 1,Acertado,1,Modelo Bet Consulting,1.27,2.70
 2026-11-22,19:45,France: Ligue 1,Marseille,Le Mans,"Marseille/empate e +1,5 golos",73%,1.38,,2 - 3,Fallado,0,Modelo Bet Consulting,1.23,-10.00
 2026-11-22,19:45,Italy: Serie A,Atalanta,Inter,"Inter Milan/empate e +1,5 golos",71%,1.41,,4 - 4,Acertado,1,Modelo Bet Consulting,1.25,2.50
 2026-11-22,17:00,Italy: Serie A,Milan,Frosinone,"AC Milan/empate e +1,5 golos",73%,1.37,,5 - 1,Acertado,1,Modelo Bet Consulting,1.22,2.20
