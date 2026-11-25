@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-25",
  "cuota": 1.65,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-25",
@@ -19,5 +19,6 @@
    "Pronóstico": "Paris Saint Germain o empate + más de 1,5 goles",
    "Cuota": "1.29"
   }
- ]
+ ],
+ "estado": "ganada"
 }

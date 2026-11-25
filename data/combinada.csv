@@ -1,10 +1,10 @@
 Hora,Liga,Partido,Pronóstico,Prob.,Cuota aprox. 22Bet,Resultado,Acierto
-17:45,UEFA Champions League,Sabah FA vs Barcelona,"Barcelona/empate e +1,5 golos",77%,1.16,,
-20:00,UEFA Champions League,Lille vs Bayern München,Bayern München ou empate,82%,1.15,,
-20:00,UEFA Champions League,Club Brugge KV vs Liverpool,Liverpool ou empate,80%,1.18,,
-20:00,UEFA Champions League,Atletico Madrid vs Viking,"Atletico Madrid/empate e +1,5 golos",77%,1.16,,
-20:00,UEFA Champions League,Inter vs VfB Stuttgart,"Inter/empate e +1,5 golos",69%,1.28,,
-20:00,UEFA Champions League,Paris Saint Germain vs AS Roma,"Paris Saint Germain/empate e +1,5 golos",69%,1.29,,
+17:45,UEFA Champions League,Sabah FA vs Barcelona,"Barcelona/empate e +1,5 golos",77%,1.16,1 - 4,Acertado
+20:00,UEFA Champions League,Lille vs Bayern München,Bayern München ou empate,82%,1.15,2 - 1,Fallado
+20:00,UEFA Champions League,Club Brugge KV vs Liverpool,Liverpool ou empate,80%,1.18,0 - 3,Acertado
+20:00,UEFA Champions League,Atletico Madrid vs Viking,"Atletico Madrid/empate e +1,5 golos",77%,1.16,2 - 0,Acertado
+20:00,UEFA Champions League,Inter vs VfB Stuttgart,"Inter/empate e +1,5 golos",69%,1.28,2 - 0,Fallado
+20:00,UEFA Champions League,Paris Saint Germain vs AS Roma,"Paris Saint Germain/empate e +1,5 golos",69%,1.29,2 - 2,Acertado
 ,,,,,,,
 ,,CUOTA TOTAL aprox.,6 partidos,,3.01,,
 ,,Probabilidad de que salga TODA,,18%,,,
