@@ -784,6 +784,53 @@
      "resultado": "2 - 2"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-26",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.66,
+   "patas": [
+    {
+     "liga": "UEFA Europa League",
+     "hora": "17:45",
+     "partido": "Dinamo Zagreb vs Bayer Leverkusen",
+     "mercado": "Bayer Leverkusen o empate",
+     "cuota": 1.2,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 79%",
+      "Cuota aproximada 1,20 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Europa Conference League",
+     "hora": "20:00",
+     "partido": "SC Braga vs KuPS",
+     "mercado": "Victoria SC Braga + menos de 5,5 goles",
+     "cuota": 1.17,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 76%",
+      "Cuota aproximada 1,17 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "UEFA Europa League",
+     "hora": "20:00",
+     "partido": "Lyon vs Lillestrom",
+     "mercado": "Lyon o empate + más de 1,5 goles",
+     "cuota": 1.18,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 75%",
+      "Cuota aproximada 1,18 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [

@@ -1,24 +1,31 @@
 {
- "fecha": "2026-11-25",
- "cuota": 1.65,
- "avisado": true,
+ "fecha": "2026-11-26",
+ "cuota": 1.66,
+ "avisado": false,
  "legs": [
   {
-   "Fecha": "2026-11-25",
-   "Local": "Inter",
-   "Visitante": "VfB Stuttgart",
-   "Liga": "UEFA Champions League",
-   "Pronóstico": "Inter o empate + más de 1,5 goles",
-   "Cuota": "1.28"
+   "Fecha": "2026-11-26",
+   "Local": "Dinamo Zagreb",
+   "Visitante": "Bayer Leverkusen",
+   "Liga": "UEFA Europa League",
+   "Pronóstico": "Bayer Leverkusen o empate",
+   "Cuota": "1.20"
   },
   {
-   "Fecha": "2026-11-25",
-   "Local": "Paris Saint Germain",
-   "Visitante": "AS Roma",
-   "Liga": "UEFA Champions League",
-   "Pronóstico": "Paris Saint Germain o empate + más de 1,5 goles",
-   "Cuota": "1.29"
+   "Fecha": "2026-11-26",
+   "Local": "SC Braga",
+   "Visitante": "KuPS",
+   "Liga": "UEFA Europa Conference League",
+   "Pronóstico": "Victoria SC Braga + menos de 5,5 goles",
+   "Cuota": "1.17"
+  },
+  {
+   "Fecha": "2026-11-26",
+   "Local": "Lyon",
+   "Visitante": "Lillestrom",
+   "Liga": "UEFA Europa League",
+   "Pronóstico": "Lyon o empate + más de 1,5 goles",
+   "Cuota": "1.18"
   }
- ],
- "estado": "ganada"
+ ]
 }
