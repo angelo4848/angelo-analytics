@@ -1,11 +1,5 @@
 Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5","Prob más 7,5","Prob más 8,5",Muestra liga,Datos de equipos,Fuente,Resultado
 20:00,Jamaica: Premier League,Cavalier,Portmore United,8.0,77%,89%,60%,40%,5,No,Registro ESPN/SofaScore (muestra baja),
-10:00,AFC Champions League Two,Tampines Rovers,Shanghai Shenhua,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
-10:00,AFC Champions League Two,Kuching FA,Phnom Penh Crown,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
-10:00,AFC Champions League Two,Gangwon FC,Kitchee,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
-12:15,AFC Champions League Two,Wofoo Tai Po,Adelaide United,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
-12:15,AFC Champions League Two,Svay Rieng,Machida Zelvia,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
-12:15,AFC Champions League Two,BG Pathum United,Home United,8.5,65%,77%,63%,49%,11,No,Registro ESPN/SofaScore (muestra baja),
 17:45,UEFA Europa Conference League,Egnatia Rrogozhinë,Lincoln Red Imps FC,8.7,67%,84%,75%,54%,10,No,Registro ESPN/SofaScore (muestra baja),
 17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,8.7,67%,84%,75%,54%,10,No,Registro ESPN/SofaScore (muestra baja),
 17:45,UEFA Europa Conference League,Brann,Aarhus,8.7,67%,84%,75%,54%,10,No,Registro ESPN/SofaScore (muestra baja),
@@ -26,9 +20,15 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 20:00,UEFA Europa League,Ferencvarosi TC,Celje,8.9,61%,78%,74%,57%,8,No,Registro ESPN/SofaScore (muestra baja),
 20:00,UEFA Europa League,Crystal Palace,Real Sociedad,8.9,61%,78%,74%,57%,8,No,Registro ESPN/SofaScore (muestra baja),
 20:00,UEFA Europa League,1899 Hoffenheim,Sturm Graz,8.9,61%,78%,74%,57%,8,No,Registro ESPN/SofaScore (muestra baja),
+10:00,AFC Champions League Two,Tampines Rovers,Shanghai Shenhua,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,1 - 7
+10:00,AFC Champions League Two,Kuching FA,Phnom Penh Crown,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,3 - 0
+10:00,AFC Champions League Two,Gangwon FC,Kitchee,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,3 - 2
+12:15,AFC Champions League Two,Wofoo Tai Po,Adelaide United,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,1 - 7
+12:15,AFC Champions League Two,Svay Rieng,Machida Zelvia,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,2 - 0
+12:15,AFC Champions League Two,BG Pathum United,Home United,9.5,50%,63%,73%,62%,15,No,Registro ESPN/SofaScore,0 - 3
 14:25,Saudi-Arabia: Pro League,Al-Fateh,Al Riyadh,9.6,49%,57%,66%,58%,7,No,Registro ESPN/SofaScore (muestra baja),
 15:05,Saudi-Arabia: Pro League,Abha,Al Shabab,9.6,49%,57%,66%,58%,7,No,Registro ESPN/SofaScore (muestra baja),
-20:00,England: League One,Doncaster,Huddersfield,9.9,45%,56%,76%,66%,2923,Sí,Histórico 5 años,
+20:00,England: League One,Doncaster,Huddersfield,9.9,45%,57%,77%,66%,2939,Sí,Histórico 5 años,
 03:00,USA: Major League Soccer,San Jose Earthquakes,Houston Dynamo,10.0,43%,58%,81%,70%,29,No,Registro ESPN/SofaScore,
 16:00,Israel: Liga Alef,Hapoel Nazareth Illit,Maccabi K. Ata Bialik,10.2,42%,54%,80%,70%,6,No,Registro ESPN/SofaScore (muestra baja),
 17:45,Israel: Liga Alef,Hapoel Mahane Yehuda,Hapoel Marmorek,10.2,42%,54%,80%,70%,6,No,Registro ESPN/SofaScore (muestra baja),

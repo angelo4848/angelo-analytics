@@ -1,13 +1,15 @@
 Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 goles","Cuota justa −2,5","Prob −4,5 goles","Cuota justa −4,5",Goles esperados,Muestra liga,Datos de equipos,Fuente,Resultado,"Acierto −3,5"
-13:00,Zambia: Super League,Red Arrows,Green Buffaloes,81%,1.23,60%,1.67,90%,1.11,1.31,13,No,Registro ESPN/SofaScore,,
-13:00,Zambia: Super League,Mutondo Stars,Green Eagles,81%,1.23,60%,1.67,90%,1.11,1.31,13,No,Registro ESPN/SofaScore,,
-13:00,Zambia: Super League,Makeni All Stars,Power Dynamos,81%,1.23,60%,1.67,90%,1.11,1.31,13,No,Registro ESPN/SofaScore,,
-13:00,Zambia: Super League,Chirundu Utd,ZESCO United,81%,1.23,60%,1.67,90%,1.11,1.31,13,No,Registro ESPN/SofaScore,,
-12:30,Egypt: Second League,El Seka El Hadid,Proxy,80%,1.26,54%,1.86,90%,1.12,2.00,18,No,Registro ESPN/SofaScore,,
-12:30,Egypt: Second League,El Entag EL Harby,Kahraba Ismailia,80%,1.26,54%,1.86,90%,1.12,2.00,18,No,Registro ESPN/SofaScore,,
-12:30,Egypt: Second League,Dayrout,El Dakhleya,80%,1.26,54%,1.86,90%,1.12,2.00,18,No,Registro ESPN/SofaScore,,
-12:30,Egypt: Second League,AL Nasr SC,Tersana,80%,1.26,54%,1.86,90%,1.12,2.00,18,No,Registro ESPN/SofaScore,,
+13:00,Zambia: Super League,Red Arrows,Green Buffaloes,80%,1.25,60%,1.67,90%,1.11,1.31,16,No,Registro ESPN/SofaScore,,
+13:00,Zambia: Super League,Mutondo Stars,Green Eagles,80%,1.25,60%,1.67,90%,1.11,1.31,16,No,Registro ESPN/SofaScore,2 - 2,Fallado
+13:00,Zambia: Super League,Makeni All Stars,Power Dynamos,80%,1.25,60%,1.67,90%,1.11,1.31,16,No,Registro ESPN/SofaScore,0 - 0,Acertado
+13:00,Zambia: Super League,Chirundu Utd,ZESCO United,80%,1.25,60%,1.67,90%,1.11,1.31,16,No,Registro ESPN/SofaScore,0 - 0,Acertado
 22:00,Chile: Primera B,Santiago Wanderers,Recoleta,79%,1.26,60%,1.66,89%,1.12,1.40,5,No,Registro ESPN/SofaScore (muestra baja),,
+12:30,Egypt: Second League,El Seka El Hadid,Proxy,79%,1.27,54%,1.84,90%,1.12,2.00,22,No,Registro ESPN/SofaScore,0 - 0,Acertado
+12:30,Egypt: Second League,El Entag EL Harby,Kahraba Ismailia,79%,1.27,54%,1.84,90%,1.12,2.00,22,No,Registro ESPN/SofaScore,1 - 1,Acertado
+12:30,Egypt: Second League,Dayrout,El Dakhleya,79%,1.27,54%,1.84,90%,1.12,2.00,22,No,Registro ESPN/SofaScore,1 - 3,Fallado
+12:30,Egypt: Second League,AL Nasr SC,Tersana,79%,1.27,54%,1.84,90%,1.12,2.00,22,No,Registro ESPN/SofaScore,0 - 2,Acertado
+10:30,Azerbaijan: Birinci Dasta,Baku Sportinq,Şahdağ,77%,1.31,57%,1.75,89%,1.13,1.60,5,No,Registro ESPN/SofaScore (muestra baja),0 - 1,Acertado
+15:00,Azerbaijan: Birinci Dasta,Cəbrayıl,MOIK,77%,1.31,57%,1.75,89%,1.13,1.60,5,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,UEFA Europa Conference League,Egnatia Rrogozhinë,Lincoln Red Imps FC,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,UEFA Europa Conference League,Brann,Aarhus,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
@@ -18,13 +20,14 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 20:00,UEFA Europa Conference League,Gent,FK Crvena Zvezda,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,UEFA Europa Conference League,CSKA Sofia,Trabzonspor,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,UEFA Europa Conference League,Borac Banja Luka,Atalanta,76%,1.31,52%,1.92,89%,1.13,2.20,10,No,Registro ESPN/SofaScore (muestra baja),,
-12:00,Kenya: FKF Premier League,Murang'a SEAL,KCB,76%,1.32,51%,1.96,89%,1.12,2.22,32,No,Registro ESPN/SofaScore,,
-16:00,Kenya: FKF Premier League,GOR Mahia,Mombasa Elite,76%,1.32,51%,1.96,89%,1.12,2.22,32,No,Registro ESPN/SofaScore,,
+12:00,Kenya: FKF Premier League,Murang'a SEAL,KCB,76%,1.31,50%,1.98,89%,1.12,2.24,33,No,Registro ESPN/SofaScore,0 - 3,Acertado
+16:00,Kenya: FKF Premier League,GOR Mahia,Mombasa Elite,76%,1.31,50%,1.98,89%,1.12,2.24,33,No,Registro ESPN/SofaScore,,
 15:00,Jordan: League,Al Buqa'a,Al Jazeera,76%,1.32,54%,1.85,89%,1.12,1.80,5,No,Registro ESPN/SofaScore (muestra baja),,
+13:00,Uganda: Premier League,KCCA,BUL,74%,1.34,50%,1.99,89%,1.13,2.30,10,No,Registro ESPN/SofaScore (muestra baja),0 - 0,Acertado
+16:00,Uganda: Premier League,URA,Kigezi HomeBoyz,74%,1.34,50%,1.99,89%,1.13,2.30,10,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Russia: First League,Ural,Arsenal Tula,74%,1.35,49%,2.05,89%,1.12,2.43,21,No,Registro ESPN/SofaScore,,
 16:00,Russia: First League,Nizhny Novgorod,Tekstilshchik,74%,1.35,49%,2.05,89%,1.12,2.43,21,No,Registro ESPN/SofaScore,,
 01:30,Colombia: Primera A,America de Cali,Deportivo Cali,74%,1.35,51%,1.95,88%,1.13,2.41,32,No,Registro ESPN/SofaScore,,
-08:30,Indonesia: Liga 1,Pusamania Borneo,Persita,74%,1.36,48%,2.10,89%,1.12,2.48,29,No,Registro ESPN/SofaScore,,
 17:45,UEFA Europa League,Marseille,Levski Sofia,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
 17:45,UEFA Europa League,Celta Vigo,Bournemouth,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
@@ -35,34 +38,33 @@ Hora,Liga,Local,Visitante,"Prob −3,5 goles","Cuota justa −3,5","Prob −2,5 
 20:00,UEFA Europa League,Ferencvarosi TC,Celje,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,UEFA Europa League,Crystal Palace,Real Sociedad,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
 20:00,UEFA Europa League,1899 Hoffenheim,Sturm Graz,74%,1.36,51%,1.98,88%,1.13,2.50,10,No,Registro ESPN/SofaScore (muestra baja),,
-10:00,AFC Champions League Two,Tampines Rovers,Shanghai Shenhua,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
-10:00,AFC Champions League Two,Kuching FA,Phnom Penh Crown,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
-10:00,AFC Champions League Two,Gangwon FC,Kitchee,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
-12:15,AFC Champions League Two,Wofoo Tai Po,Adelaide United,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
-12:15,AFC Champions League Two,Svay Rieng,Machida Zelvia,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
-12:15,AFC Champions League Two,BG Pathum United,Home United,73%,1.36,53%,1.88,87%,1.15,2.27,15,No,Registro ESPN/SofaScore,,
 18:00,Denmark: 1. Division,Aalborg,Esbjerg,73%,1.37,50%,2.00,88%,1.13,2.57,14,No,Registro ESPN/SofaScore,,
-13:00,Uganda: Premier League,KCCA,BUL,73%,1.37,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-16:00,Uganda: Premier League,URA,Kigezi HomeBoyz,73%,1.37,48%,2.08,88%,1.13,2.56,9,No,Registro ESPN/SofaScore (muestra baja),,
-12:45,Iran: Persian Gulf Pro League,Chadormalu SC,Mes Shahr-e Babak,72%,1.38,48%,2.08,89%,1.12,2.43,14,No,Registro ESPN/SofaScore,,
-10:00,Uzbekistan: Pro League A,Shortan,Olimpik-Mobiuz,72%,1.38,43%,2.33,88%,1.13,2.83,6,No,Registro ESPN/SofaScore (muestra baja),,
+08:30,Indonesia: Liga 1,Pusamania Borneo,Persita,73%,1.37,47%,2.13,89%,1.13,2.57,30,No,Registro ESPN/SofaScore,2 - 3,Fallado
+10:00,Uzbekistan: Pro League A,Shortan,Olimpik-Mobiuz,73%,1.38,41%,2.43,88%,1.13,2.86,7,No,Registro ESPN/SofaScore (muestra baja),1 - 2,Acertado
 14:00,Russia: Cup,FC Orenburg,Spartak Moscow,72%,1.38,47%,2.11,87%,1.15,2.69,13,No,Registro ESPN/SofaScore,,
 16:30,Russia: Cup,Dynamo,Fakel,72%,1.38,47%,2.11,87%,1.15,2.69,13,No,Registro ESPN/SofaScore,,
-20:00,England: League One,Doncaster,Huddersfield,71%,1.40,47%,2.11,87%,1.15,2.70,2923,Sí,Histórico 5 años,,
+20:00,England: League One,Doncaster,Huddersfield,71%,1.40,47%,2.11,87%,1.15,2.70,2939,Sí,Histórico 5 años,,
+12:45,Iran: Persian Gulf Pro League,Chadormalu SC,Mes Shahr-e Babak,71%,1.41,47%,2.13,89%,1.12,2.53,15,No,Registro ESPN/SofaScore,2 - 2,Fallado
 20:00,Jamaica: Premier League,Cavalier,Portmore United,70%,1.42,48%,2.10,86%,1.16,2.83,6,No,Registro ESPN/SofaScore (muestra baja),,
 22:00,Brazil: Copa Fares Lopes,Tirol/CEFAT,Guarani De Juazeiro,70%,1.42,50%,2.02,86%,1.16,2.83,6,No,Registro ESPN/SofaScore (muestra baja),,
 23:00,Brazil: Serie A,Sao Paulo,Remo,70%,1.42,48%,2.07,80%,1.25,2.88,25,No,Registro ESPN/SofaScore,,
 21:00,Chile: Segunda División,Colina,General Velásquez,70%,1.42,45%,2.20,83%,1.20,2.85,13,No,Registro ESPN/SofaScore,,
-09:30,Georgia: Erovnuli Liga 2,Odishi 1919,Shturmi,70%,1.43,45%,2.23,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),,
-09:30,Georgia: Erovnuli Liga 2,Gareji,Samtredia,70%,1.43,45%,2.23,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),,
-09:30,Georgia: Erovnuli Liga 2,Aragvi Dusheti,Merani Martvili,70%,1.43,45%,2.23,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),,
-11:00,Georgia: Erovnuli Liga 2,Telavi,Gori,70%,1.43,45%,2.23,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),,
-12:00,Georgia: Erovnuli Liga 2,Kolkheti Poti,Sioni,70%,1.43,45%,2.23,84%,1.19,2.89,9,No,Registro ESPN/SofaScore (muestra baja),,
+09:30,Georgia: Erovnuli Liga 2,Odishi 1919,Shturmi,70%,1.43,42%,2.36,85%,1.17,2.92,13,No,Registro ESPN/SofaScore,,
+09:30,Georgia: Erovnuli Liga 2,Gareji,Samtredia,70%,1.43,42%,2.36,85%,1.17,2.92,13,No,Registro ESPN/SofaScore,1 - 1,Acertado
+09:30,Georgia: Erovnuli Liga 2,Aragvi Dusheti,Merani Martvili,70%,1.43,42%,2.36,85%,1.17,2.92,13,No,Registro ESPN/SofaScore,1 - 3,Fallado
+11:00,Georgia: Erovnuli Liga 2,Telavi,Gori,70%,1.43,42%,2.36,85%,1.17,2.92,13,No,Registro ESPN/SofaScore,1 - 2,Acertado
+12:00,Georgia: Erovnuli Liga 2,Kolkheti Poti,Sioni,70%,1.43,42%,2.36,85%,1.17,2.92,13,No,Registro ESPN/SofaScore,2 - 1,Acertado
+10:00,AFC Champions League Two,Tampines Rovers,Shanghai Shenhua,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,1 - 7,Fallado
+10:00,AFC Champions League Two,Kuching FA,Phnom Penh Crown,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,3 - 0,Acertado
+10:00,AFC Champions League Two,Gangwon FC,Kitchee,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,3 - 2,Fallado
+12:15,AFC Champions League Two,Wofoo Tai Po,Adelaide United,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,1 - 7,Fallado
+12:15,AFC Champions League Two,Svay Rieng,Machida Zelvia,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,2 - 0,Acertado
+12:15,AFC Champions League Two,BG Pathum United,Home United,68%,1.48,47%,2.13,79%,1.26,3.00,21,No,Registro ESPN/SofaScore,0 - 3,Acertado
 14:45,Romania: Liga II,Gloria Bistriţa,Slatina,67%,1.49,44%,2.28,79%,1.26,3.07,28,No,Registro ESPN/SofaScore,,
-11:00,Thailand: Thai League 2,Uttaradit,Songkhla,65%,1.54,42%,2.36,80%,1.25,3.06,35,No,Registro ESPN/SofaScore,,
-12:00,Thailand: Thai League 2,Nong Bua Pitchaya,Muang Loei United,65%,1.54,42%,2.36,80%,1.25,3.06,35,No,Registro ESPN/SofaScore,,
+11:00,Thailand: Thai League 2,Uttaradit,Songkhla,66%,1.52,43%,2.33,81%,1.24,3.03,37,No,Registro ESPN/SofaScore,0 - 2,Acertado
+12:00,Thailand: Thai League 2,Nong Bua Pitchaya,Muang Loei United,66%,1.52,43%,2.33,81%,1.24,3.03,37,No,Registro ESPN/SofaScore,2 - 1,Acertado
 03:00,USA: Major League Soccer,San Jose Earthquakes,Houston Dynamo,62%,1.61,39%,2.58,82%,1.21,3.12,41,No,Registro ESPN/SofaScore,,
-08:30,Australia: Australian Championship,South Melbourne,Oakleigh Cannons,61%,1.64,38%,2.63,76%,1.31,3.38,16,No,Registro ESPN/SofaScore,,
+08:30,Australia: Australian Championship,South Melbourne,Oakleigh Cannons,58%,1.72,36%,2.78,73%,1.37,3.53,17,No,Registro ESPN/SofaScore,3 - 3,Fallado
 16:00,Israel: Liga Alef,Hapoel Nazareth Illit,Maccabi K. Ata Bialik,57%,1.75,39%,2.58,75%,1.33,3.52,21,No,Registro ESPN/SofaScore,,
 17:45,Israel: Liga Alef,Hapoel Mahane Yehuda,Hapoel Marmorek,57%,1.75,39%,2.58,75%,1.33,3.52,21,No,Registro ESPN/SofaScore,,
 14:25,Saudi-Arabia: Pro League,Al-Fateh,Al Riyadh,51%,1.94,35%,2.89,67%,1.50,4.33,9,No,Registro ESPN/SofaScore (muestra baja),,

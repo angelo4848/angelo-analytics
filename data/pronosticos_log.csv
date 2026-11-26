@@ -32,7 +32,7 @@ Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resulta
 2026-11-22,13:30,Netherlands: Eredivisie,Ajax,Den Haag,"Ajax vence e +1,5 golos",75%,1.33,,3 - 0,Acertado,1,Modelo Bet Consulting,1.19,1.90
 2026-11-22,13:00,Spain: La Liga,Barcelona,Villarreal,"Barcelona vence e +1,5 golos",77%,1.29,,3 - 2,Acertado,1,Modelo Bet Consulting,1.15,1.50
 2026-11-22,11:30,Italy: Serie A,Juventus,Venezia,"Juventus/empate e +1,5 golos",73%,1.36,,4 - 0,Acertado,1,Modelo Bet Consulting,1.21,2.10
-2026-11-22,11:15,Netherlands: Eredivisie,Twente,Willem II,"+2,5 golos",78%,1.28,,,,,Modelo Bet Consulting,1.21,
+2026-11-22,11:15,Netherlands: Eredivisie,Twente,Willem II,"+2,5 golos",78%,1.28,,2 - 1,Acertado,1,Modelo Bet Consulting,1.21,2.10
 2026-11-21,20:00,Spain: La Liga,Real Madrid,Celta,"Real Madrid vence e +1,5 golos",76%,1.31,,2 - 1,Acertado,1,Modelo Bet Consulting,1.16,1.60
 2026-11-21,19:45,France: Ligue 1,Monaco,Auxerre,"Monaco/empate e +1,5 golos",74%,1.35,,1 - 1,Acertado,1,Modelo Bet Consulting,1.21,2.10
 2026-11-21,19:45,Italy: Serie A,Napoli,Torino,"Napoli/empate e +1,5 golos",69%,1.45,,1 - 0,Fallado,0,Modelo Bet Consulting,1.29,-10.00
@@ -48,7 +48,7 @@ Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resulta
 2026-11-21,14:00,Italy: Serie A,Como,Cagliari,"Como/empate e +1,5 golos",77%,1.30,,2 - 0,Acertado,1,Modelo Bet Consulting,1.15,1.50
 2026-11-21,14:00,Italy: Serie A,Lazio,Lecce,"Lazio/empate e +1,5 golos",73%,1.36,,3 - 0,Acertado,1,Modelo Bet Consulting,1.21,2.10
 2026-11-21,12:30,England: Premier League,Man City,Fulham,"Manchester City/empate e +1,5 golos",76%,1.32,,1 - 1,Acertado,1,Modelo Bet Consulting,1.17,1.70
-2026-11-20,20:00,Spain: La Liga,Ath Bilbao,Espanol,"Athletic Club/empate e +1,5 golos",69%,1.45,,,,,Modelo Bet Consulting,1.29,
+2026-11-20,20:00,Spain: La Liga,Ath Bilbao,Espanol,"Athletic Club/empate e +1,5 golos",69%,1.45,,0 - 1,Fallado,0,Modelo Bet Consulting,1.29,-10.00
 2026-11-17,19:45,UEFA Nations League,Wales,Portugal,"Portugal/empate e +1,5 golos",69%,1.44,,2 - 3,Acertado,1,Modelo Bet Consulting,1.28,2.80
 2026-11-16,19:45,UEFA Nations League,Switzerland,Scotland,Switzerland ou empate,79%,1.26,,4 - 0,Acertado,1,Modelo Bet Consulting,1.18,1.80
 2026-11-16,19:45,UEFA Nations League,Greece,Serbia,"Greece/empate e +1,5 golos",69%,1.45,,1 - 0,Fallado,0,Modelo Bet Consulting,1.29,-10.00
