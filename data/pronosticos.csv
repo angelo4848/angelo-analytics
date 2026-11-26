@@ -1,7 +1,11 @@
 Tipo,Hora,Liga,Partido,Pronóstico,Prob.,Cuota justa,Cuota aprox. 22Bet,Favorito gana,Resultado,Acierto
-Modelo BC,17:45,UEFA Champions League,Sabah FA vs Barcelona,"Barcelona/empate e +1,5 golos",77%,1.30,1.16,86%,1 - 4,Acertado
-Modelo BC,20:00,UEFA Champions League,Lille vs Bayern München,Bayern München ou empate,82%,1.23,1.15,59%,2 - 1,Fallado
-Modelo BC,20:00,UEFA Champions League,Club Brugge KV vs Liverpool,Liverpool ou empate,80%,1.26,1.18,58%,0 - 3,Acertado
-Modelo BC,20:00,UEFA Champions League,Atletico Madrid vs Viking,"Atletico Madrid/empate e +1,5 golos",77%,1.30,1.16,85%,2 - 0,Acertado
-Modelo BC,20:00,UEFA Champions League,Inter vs VfB Stuttgart,"Inter/empate e +1,5 golos",69%,1.44,1.28,68%,2 - 0,Fallado
-Modelo BC,20:00,UEFA Champions League,Paris Saint Germain vs AS Roma,"Paris Saint Germain/empate e +1,5 golos",69%,1.45,1.29,67%,2 - 2,Acertado
+Modelo BC,17:45,UEFA Europa League,Dinamo Zagreb vs Bayer Leverkusen,Bayer Leverkusen ou empate,79%,1.27,1.20,57%,,
+Modelo BC,17:45,UEFA Europa Conference League,Ajax vs FC Thun,"Ajax/empate e +1,5 golos",75%,1.33,1.19,80%,,
+Modelo BC,17:45,UEFA Europa League,Beşiktaş vs Hapoel Beer Sheva,"Beşiktaş/empate e +1,5 golos",74%,1.35,1.20,78%,,
+Modelo BC,17:45,UEFA Europa Conference League,Brighton vs Universitatea Craiova,"Brighton vence e -5,5 golos",74%,1.35,1.20,81%,,
+Modelo BC,17:45,UEFA Europa League,Marseille vs Levski Sofia,"Marseille/empate e +1,5 golos",71%,1.42,1.26,69%,,
+Modelo BC,20:00,UEFA Europa Conference League,SC Braga vs KuPS,"SC Braga vence e -5,5 golos",76%,1.32,1.17,84%,,
+Modelo BC,20:00,UEFA Europa League,Lyon vs Lillestrom,"Lyon/empate e +1,5 golos",75%,1.33,1.18,80%,,
+Modelo BC,20:00,UEFA Europa League,Juventus vs Omonia Nicosia,"Juventus/empate e +1,5 golos",75%,1.33,1.18,80%,,
+Modelo BC,20:00,UEFA Europa League,1899 Hoffenheim vs Sturm Graz,"1899 Hoffenheim/empate e +1,5 golos",71%,1.40,1.25,71%,,
+Modelo BC,20:00,UEFA Europa League,Ferencvarosi TC vs Celje,"Ferencvarosi TC/empate e +1,5 golos",71%,1.42,1.26,69%,,
