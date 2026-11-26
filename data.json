@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25",
+ "actualizado": "2026-11-26",
  "telegram": "",
  "stake": 10,
  "picks": [
@@ -788,336 +788,6 @@
  ],
  "partidos": [
   {
-   "liga": "Brazil: Serie A",
-   "local": "Santos",
-   "visitante": "Gremio",
-   "tendencia": "★★★ Gana Santos · cuota 1,65",
-   "cuotas": [
-    1.65,
-    4.1,
-    4.75
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T00:00:00+00:00"
-  },
-  {
-   "liga": "Costa-Rica: Primera División",
-   "local": "LD Alajuelense",
-   "visitante": "CS Cartagines",
-   "tendencia": "★★★ Gana LD Alajuelense · cuota 1,62",
-   "cuotas": [
-    1.62,
-    3.7,
-    4.75
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T02:00:00+00:00"
-  },
-  {
-   "liga": "USA: Major League Soccer",
-   "local": "St. Louis City",
-   "visitante": "Los Angeles FC",
-   "tendencia": "★★★ St. Louis City o empate · cuota ~1,41",
-   "cuotas": [
-    2.35,
-    3.5,
-    2.88
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T01:00:00+00:00"
-  },
-  {
-   "liga": "Costa-Rica: Liga de Ascenso",
-   "local": "Pitbulls Santa Barbara FC",
-   "visitante": "ADR Jicaral",
-   "tendencia": "★★★ ADR Jicaral o empate · cuota ~1,25",
-   "cuotas": [
-    3.1,
-    3.1,
-    2.1
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T00:00:00+00:00"
-  },
-  {
-   "liga": "Mexico: Primera Premier",
-   "local": "Deportiva Venados",
-   "visitante": "Reboceros La Piedad",
-   "tendencia": "★★★ Deportiva Venados o empate · cuota ~1,23",
-   "cuotas": [
-    1.85,
-    3.7,
-    3.5
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T02:05:00+00:00"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Slavia Praha",
-   "visitante": "Villarreal",
-   "tendencia": "★★★ Villarreal o empate · cuota ~1,36 · ✓ acertado",
-   "cuotas": [
-    3.1,
-    3.9,
-    2.1
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T17:45:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Sabah FA",
-   "visitante": "Barcelona",
-   "tendencia": "★★★ Gana Barcelona · cuota 1,09 · ✓ acertado",
-   "cuotas": [
-    21.0,
-    10.0,
-    1.09
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T17:45:00+00:00",
-   "resultado": "1 - 4"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Atletico Madrid",
-   "visitante": "Viking",
-   "tendencia": "★★★ Gana Atletico Madrid · cuota 1,11 · ✓ acertado",
-   "cuotas": [
-    1.11,
-    9.0,
-    21.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Lille",
-   "visitante": "Bayern München",
-   "tendencia": "★★★ Gana Bayern München · cuota 1,60 · ✗ fallado",
-   "cuotas": [
-    5.25,
-    4.2,
-    1.6
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Club Brugge KV",
-   "visitante": "Liverpool",
-   "tendencia": "★★★ Gana Liverpool · cuota 1,62 · ✓ acertado",
-   "cuotas": [
-    4.33,
-    4.75,
-    1.62
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "0 - 3"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Paris Saint Germain",
-   "visitante": "AS Roma",
-   "tendencia": "★★★ Gana Paris Saint Germain · cuota 1,42 · ✗ fallado",
-   "cuotas": [
-    1.42,
-    4.75,
-    7.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Inter",
-   "visitante": "VfB Stuttgart",
-   "tendencia": "★★★ Gana Inter · cuota 1,40 · ✓ acertado",
-   "cuotas": [
-    1.4,
-    5.5,
-    6.25
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "Brazil: Serie A",
-   "local": "Atletico-MG",
-   "visitante": "Corinthians",
-   "tendencia": "★★★ Atletico-MG o empate · cuota ~1,38",
-   "cuotas": [
-    2.38,
-    3.3,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T23:00:00+00:00"
-  },
-  {
-   "liga": "Egypt: Premier League",
-   "local": "Enppi",
-   "visitante": "Ceramica Cleopatra",
-   "tendencia": "★★★ Ceramica Cleopatra o empate · cuota ~1,20 · ✗ fallado",
-   "cuotas": [
-    3.6,
-    3.1,
-    1.95
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T18:00:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "England: Championship",
-   "local": "Bolton",
-   "visitante": "West Brom",
-   "tendencia": "★★★ West Brom o empate · cuota ~1,26 · ✓ acertado",
-   "cuotas": [
-    3.7,
-    3.6,
-    1.95
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "1 - 3"
-  },
-  {
-   "liga": "England: Championship",
-   "local": "Stoke City",
-   "visitante": "Millwall",
-   "tendencia": "★★★ Stoke City o empate · cuota ~1,34 · ✓ acertado",
-   "cuotas": [
-    2.25,
-    3.3,
-    3.2
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "JEF United Chiba",
-   "visitante": "Nagoya Grampus",
-   "tendencia": "★★★ Nagoya Grampus o empate · cuota ~1,35 · ✓ acertado",
-   "cuotas": [
-    3.2,
-    3.6,
-    2.15
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "Fagiano Okayama",
-   "visitante": "Shimizu S-pulse",
-   "tendencia": "★★★ Fagiano Okayama o empate · cuota ~1,26 · ✓ acertado",
-   "cuotas": [
-    2.05,
-    3.3,
-    3.75
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "FC Tokyo",
-   "visitante": "Sanfrecce Hiroshima",
-   "tendencia": "★★★ FC Tokyo o empate · cuota ~1,41 · ✓ acertado",
-   "cuotas": [
-    2.35,
-    3.5,
-    2.88
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "V-varen Nagasaki",
-   "visitante": "Kawasaki Frontale",
-   "tendencia": "★★★ Kawasaki Frontale o empate · cuota ~1,25 · ✓ acertado",
-   "cuotas": [
-    3.7,
-    3.9,
-    1.85
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "Avispa Fukuoka",
-   "visitante": "Yokohama F. Marinos",
-   "tendencia": "★★★ Yokohama F. Marinos o empate · cuota ~1,39 · ✓ acertado",
-   "cuotas": [
-    2.8,
-    3.3,
-    2.4
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J1 League",
-   "local": "Urawa",
-   "visitante": "Cerezo Osaka",
-   "tendencia": "★★★ Urawa o empate · cuota ~1,22 · ✓ acertado",
-   "cuotas": [
-    1.8,
-    3.8,
-    4.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:30:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Serbia: Super Liga",
-   "local": "Radnicki NIS",
-   "visitante": "Železničar Pančevo",
-   "tendencia": "★★★ Železničar Pančevo o empate · cuota ~1,19 · ✓ acertado",
-   "cuotas": [
-    4.2,
-    3.5,
-    1.8
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "0 - 2"
-  },
-  {
-   "liga": "Ukraine: Premier League",
-   "local": "Kryvbas KR",
-   "visitante": "FC Kharkiv",
-   "tendencia": "★★★ Gana FC Kharkiv · cuota 1,50 · ✓ acertado",
-   "cuotas": [
-    4.75,
-    4.0,
-    1.5
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T11:00:00+00:00",
-   "resultado": "0 - 2"
-  },
-  {
    "liga": "USA: Major League Soccer",
    "local": "San Jose Earthquakes",
    "visitante": "Houston Dynamo",
@@ -1131,34 +801,6 @@
    "inicio": "2026-11-26T03:00:00+00:00"
   },
   {
-   "liga": "AFC Champions League Elite",
-   "local": "Kashima",
-   "visitante": "Jeonbuk Motors",
-   "tendencia": "★★★ Gana Kashima · cuota 1,53 · ✓ acertado",
-   "cuotas": [
-    1.53,
-    4.2,
-    5.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "3 - 0"
-  },
-  {
-   "liga": "AFC Champions League Elite",
-   "local": "Gamba Osaka",
-   "visitante": "Port FC",
-   "tendencia": "★★★ Gana Gamba Osaka · cuota 1,33 · ✓ acertado",
-   "cuotas": [
-    1.33,
-    5.25,
-    6.25
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
    "liga": "Colombia: Primera A",
    "local": "America de Cali",
    "visitante": "Deportivo Cali",
@@ -1170,1255 +812,6 @@
    ],
    "tipo": "HOME DC",
    "inicio": "2026-11-26T01:30:00+00:00"
-  },
-  {
-   "liga": "Colombia: Primera A",
-   "local": "Santa Fe",
-   "visitante": "Once Caldas",
-   "tendencia": "★★★ Santa Fe o empate · cuota ~1,30",
-   "cuotas": [
-    2.15,
-    3.3,
-    3.4
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T23:20:00+00:00"
-  },
-  {
-   "liga": "England: National League",
-   "local": "Boreham Wood",
-   "visitante": "Aldershot Town",
-   "tendencia": "★★★ Gana Boreham Wood · cuota 1,18 · ✓ acertado",
-   "cuotas": [
-    1.18,
-    6.5,
-    12.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "4 - 1"
-  },
-  {
-   "liga": "England: National League",
-   "local": "Harrogate Town",
-   "visitante": "Kidderminster Harriers",
-   "tendencia": "★★★ Gana Harrogate Town · cuota 1,62 · ✓ acertado",
-   "cuotas": [
-    1.62,
-    3.9,
-    4.6
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "3 - 1"
-  },
-  {
-   "liga": "England: National League",
-   "local": "Hartlepool",
-   "visitante": "Solihull Moors",
-   "tendencia": "★★★ Hartlepool o empate · cuota ~1,33 · ✓ acertado",
-   "cuotas": [
-    2.1,
-    3.6,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "Italy: Serie B",
-   "local": "Cremonese",
-   "visitante": "Avellino",
-   "tendencia": "★★★ Cremonese o empate · cuota ~1,20 · ✗ fallado",
-   "cuotas": [
-    1.95,
-    3.1,
-    4.33
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T18:00:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Italy: Serie B",
-   "local": "Mantova",
-   "visitante": "Arezzo",
-   "tendencia": "★★★ Gana Mantova · cuota 1,67 · ✓ acertado",
-   "cuotas": [
-    1.67,
-    3.75,
-    5.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "3 - 0"
-  },
-  {
-   "liga": "Italy: Serie B",
-   "local": "Pisa",
-   "visitante": "Modena",
-   "tendencia": "★★★ Pisa o empate · cuota ~1,35 · ✓ acertado",
-   "cuotas": [
-    2.4,
-    3.1,
-    3.1
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Imabari",
-   "visitante": "Tegevajaro Miyazaki",
-   "tendencia": "★★★ Gana Tegevajaro Miyazaki · cuota 1,65 · ✗ fallado",
-   "cuotas": [
-    5.0,
-    3.75,
-    1.65
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T09:30:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Montedio Yamagata",
-   "visitante": "Jubilo Iwata",
-   "tendencia": "★★★ Jubilo Iwata o empate · cuota ~1,22 · ✗ fallado",
-   "cuotas": [
-    4.0,
-    3.7,
-    1.83
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Iwaki",
-   "visitante": "Kataller Toyama",
-   "tendencia": "★★★ Iwaki o empate · cuota ~1,44 · ✗ fallado",
-   "cuotas": [
-    2.4,
-    3.6,
-    2.6
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Shonan Bellmare",
-   "visitante": "Ventforet Kofu",
-   "tendencia": "★★★ Gana Shonan Bellmare · cuota 1,60 · ✓ acertado",
-   "cuotas": [
-    1.6,
-    3.9,
-    5.25
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Tochigi City",
-   "visitante": "Blaublitz Akita",
-   "tendencia": "★★★ Tochigi City o empate · cuota ~1,35 · ✓ acertado",
-   "cuotas": [
-    2.2,
-    3.5,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Omiya Ardija",
-   "visitante": "Tokushima Vortis",
-   "tendencia": "★★★ Omiya Ardija o empate · cuota ~1,19 · ✗ fallado",
-   "cuotas": [
-    1.75,
-    3.7,
-    4.5
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Consadole Sapporo",
-   "visitante": "Fujieda MYFC",
-   "tendencia": "★★★ Consadole Sapporo o empate · cuota ~1,30 · ✓ acertado",
-   "cuotas": [
-    2.1,
-    3.4,
-    3.3
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Yokohama FC",
-   "visitante": "Vegalta Sendai",
-   "tendencia": "★★★ Vegalta Sendai o empate · cuota ~1,42",
-   "cuotas": [
-    2.7,
-    3.5,
-    2.4
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00"
-  },
-  {
-   "liga": "Japan: J2 League",
-   "local": "Sagan Tosu",
-   "visitante": "Oita Trinita",
-   "tendencia": "★★★ Gana Sagan Tosu · cuota 1,62 · ✓ acertado",
-   "cuotas": [
-    1.62,
-    3.6,
-    5.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "4 - 0"
-  },
-  {
-   "liga": "Mexico: Liga Premier Serie A",
-   "local": "Vaqueros Reynosa",
-   "visitante": "Ciervos",
-   "tendencia": "★★★ Gana Ciervos · cuota 1,14",
-   "cuotas": [
-    12.0,
-    7.5,
-    1.14
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T21:30:00+00:00"
-  },
-  {
-   "liga": "Netherlands: Derde Divisie",
-   "local": "Roosendaal",
-   "visitante": "Gemert",
-   "tendencia": "★★★ Roosendaal o empate · cuota ~1,43 · ✓ acertado",
-   "cuotas": [
-    2.2,
-    4.1,
-    2.45
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Paraguay: Division Profesional - Clausura",
-   "local": "Sportivo Trinidense",
-   "visitante": "Deportivo Recoleta",
-   "tendencia": "★★★ Gana Sportivo Trinidense · cuota 1,48",
-   "cuotas": [
-    1.48,
-    3.8,
-    5.75
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T21:00:00+00:00"
-  },
-  {
-   "liga": "Paraguay: Division Profesional - Clausura",
-   "local": "Sportivo Luqueno",
-   "visitante": "Olimpia",
-   "tendencia": "★★★ Gana Olimpia · cuota 1,53",
-   "cuotas": [
-    5.0,
-    3.8,
-    1.53
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T21:00:00+00:00"
-  },
-  {
-   "liga": "Poland: II Liga - East",
-   "local": "Resovia Rzeszów",
-   "visitante": "Świt Skolwin",
-   "tendencia": "★★★ Resovia Rzeszów o empate · cuota ~1,29 · ✓ acertado",
-   "cuotas": [
-    2.0,
-    3.6,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T16:30:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "Russia: Cup",
-   "local": "Dinamo Makhachkala",
-   "visitante": "Baltika",
-   "tendencia": "★★★ Baltika o empate · cuota ~1,22 · ✗ fallado",
-   "cuotas": [
-    4.02,
-    3.24,
-    1.96
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "3 - 0"
-  },
-  {
-   "liga": "Russia: Cup",
-   "local": "Lokomotiv",
-   "visitante": "FC Rostov",
-   "tendencia": "★★★ Lokomotiv o empate · cuota ~1,37",
-   "cuotas": [
-    2.25,
-    3.53,
-    2.98
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T17:30:00+00:00"
-  },
-  {
-   "liga": "Russia: Cup",
-   "local": "Rubin",
-   "visitante": "Rodina Moskva",
-   "tendencia": "★★★ Rubin o empate · cuota ~1,24 · ✓ acertado",
-   "cuotas": [
-    1.88,
-    3.6,
-    4.09
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T17:30:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "Russia: First League",
-   "local": "FK Neftekhimik",
-   "visitante": "Rotor Volgograd",
-   "tendencia": "★★★ Rotor Volgograd o empate · cuota ~1,28 · ✗ fallado",
-   "cuotas": [
-    3.58,
-    3.29,
-    2.09
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Russia: First League",
-   "local": "KAMAZ",
-   "visitante": "Enisey",
-   "tendencia": "★★★ KAMAZ o empate · cuota ~1,31 · ✓ acertado",
-   "cuotas": [
-    2.14,
-    3.38,
-    3.35
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Saudi-Arabia: Division 1",
-   "local": "Al Anwar",
-   "visitante": "Al Jandal",
-   "tendencia": "★★★ Al Anwar o empate · cuota ~1,14 · ✓ acertado",
-   "cuotas": [
-    1.7,
-    3.5,
-    4.2
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T12:10:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Saudi-Arabia: Division 1",
-   "local": "Al Bukayriyah",
-   "visitante": "Al Wehda Club",
-   "tendencia": "★★★ Gana Al Wehda Club · cuota 1,50 · ✓ acertado",
-   "cuotas": [
-    5.0,
-    4.0,
-    1.5
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T12:10:00+00:00",
-   "resultado": "2 - 4"
-  },
-  {
-   "liga": "Saudi-Arabia: Division 1",
-   "local": "Al Ula",
-   "visitante": "Al-Adalah",
-   "tendencia": "★★★ Gana Al Ula · cuota 1,30 · ✓ acertado",
-   "cuotas": [
-    1.3,
-    5.5,
-    7.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T15:10:00+00:00",
-   "resultado": "3 - 0"
-  },
-  {
-   "liga": "Slovenia: Cup",
-   "local": "Tabor Sežana",
-   "visitante": "Fužinar",
-   "tendencia": "★★★ Gana Tabor Sežana · cuota 1,22 · ✓ acertado",
-   "cuotas": [
-    1.22,
-    6.0,
-    8.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "6 - 1"
-  },
-  {
-   "liga": "Spain: Segunda División RFEF - Group 5",
-   "local": "CF Talavera",
-   "visitante": "Conquense",
-   "tendencia": "★★★ CF Talavera o empate · cuota ~1,25 · ✓ acertado",
-   "cuotas": [
-    2.15,
-    3.0,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T18:30:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "Switzerland: 1. Liga Promotion",
-   "local": "Bavois",
-   "visitante": "FC Schaffhausen",
-   "tendencia": "★★★ Gana FC Schaffhausen · cuota 1,53",
-   "cuotas": [
-    4.8,
-    3.9,
-    1.53
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T18:30:00+00:00"
-  },
-  {
-   "liga": "Uruguay: Segunda División",
-   "local": "Colón",
-   "visitante": "Atenas",
-   "tendencia": "★★★ Atenas o empate · cuota ~1,35 · ✓ acertado",
-   "cuotas": [
-    2.62,
-    3.1,
-    2.4
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T21:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "UEFA Champions League",
-   "local": "Shakhtar Donetsk",
-   "visitante": "Fenerbahçe",
-   "tendencia": "★★★ Fenerbahçe o empate · cuota ~1,41 · ✗ fallado",
-   "cuotas": [
-    3.0,
-    3.5,
-    2.35
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T20:00:00+00:00",
-   "resultado": "6 - 0"
-  },
-  {
-   "liga": "Georgia: Erovnuli Liga",
-   "local": "Rustavi",
-   "visitante": "Meshakhte",
-   "tendencia": "★★★ Gana Rustavi · cuota 1,45 · ✓ acertado",
-   "cuotas": [
-    1.45,
-    3.93,
-    5.69
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Kenya: FKF Premier League",
-   "local": "Homeboyz",
-   "visitante": "Shabana",
-   "tendencia": "★★★ Gana Homeboyz · cuota 1,60 · ✓ acertado",
-   "cuotas": [
-    1.6,
-    3.1,
-    5.75
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:30:00+00:00",
-   "resultado": "3 - 2"
-  },
-  {
-   "liga": "Kenya: FKF Premier League",
-   "local": "3K",
-   "visitante": "Nairobi United",
-   "tendencia": "★★★ Nairobi United o empate · cuota ~1,27 · ✓ acertado",
-   "cuotas": [
-    3.1,
-    3.0,
-    2.2
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "0 - 2"
-  },
-  {
-   "liga": "Kenya: FKF Premier League",
-   "local": "APS Bomet",
-   "visitante": "Migori Youth",
-   "tendencia": "★★★ APS Bomet o empate · cuota ~1,29",
-   "cuotas": [
-    2.4,
-    2.8,
-    2.88
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T12:00:00+00:00"
-  },
-  {
-   "liga": "Kenya: FKF Premier League",
-   "local": "Tusker",
-   "visitante": "Posta Rangers FC",
-   "tendencia": "★★★ Tusker o empate · cuota ~1,12 · ✓ acertado",
-   "cuotas": [
-    1.75,
-    3.1,
-    4.75
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Kenya: FKF Premier League",
-   "local": "Ulinzi Stars",
-   "visitante": "AFC Leopards",
-   "tendencia": "★★★ AFC Leopards o empate · cuota ~1,17 · ✓ acertado",
-   "cuotas": [
-    3.7,
-    2.9,
-    1.95
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T12:30:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Angola: Girabola",
-   "local": "1º de Agosto",
-   "visitante": "Kabuscorp",
-   "tendencia": "★★★ Gana 1º de Agosto · cuota 1,57 · ✗ fallado",
-   "cuotas": [
-    1.57,
-    3.4,
-    5.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T14:30:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Brazil: Copa Fares Lopes",
-   "local": "Fortaleza B",
-   "visitante": "Ceara B",
-   "tendencia": "★★★ Fortaleza B o empate · cuota ~1,29",
-   "cuotas": [
-    2.15,
-    3.2,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T22:00:00+00:00"
-  },
-  {
-   "liga": "Brazil: Pernambucano - 1",
-   "local": "América PE",
-   "visitante": "Central SC",
-   "tendencia": "★★★ Central SC o empate · cuota ~1,37 · ✗ fallado",
-   "cuotas": [
-    2.62,
-    3.2,
-    2.4
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "3 - 2"
-  },
-  {
-   "liga": "Brazil: Pernambucano - 1",
-   "local": "Petrolina",
-   "visitante": "Íbis",
-   "tendencia": "★★★ Petrolina o empate · cuota ~1,16 · ✓ acertado",
-   "cuotas": [
-    1.8,
-    3.25,
-    4.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Cameroon: Elite One",
-   "local": "Victoria United",
-   "visitante": "Aigle Royal",
-   "tendencia": "★★★ Victoria United o empate · cuota ~1,31 · ✓ acertado",
-   "cuotas": [
-    2.1,
-    3.5,
-    2.88
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T14:30:00+00:00",
-   "resultado": "3 - 1"
-  },
-  {
-   "liga": "Indonesia: League Cup Indonesia",
-   "local": "Deltras",
-   "visitante": "Persik Kediri",
-   "tendencia": "★★★ Gana Persik Kediri · cuota 1,40 · ✓ acertado",
-   "cuotas": [
-    6.0,
-    4.33,
-    1.4
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "0 - 3"
-  },
-  {
-   "liga": "Indonesia: League Cup Indonesia",
-   "local": "Arema FC",
-   "visitante": "Isenmulang Kalteng",
-   "tendencia": "★★★ Gana Arema FC · cuota 1,27 · ✓ acertado",
-   "cuotas": [
-    1.27,
-    5.0,
-    8.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "4 - 1"
-  },
-  {
-   "liga": "Indonesia: League Cup Indonesia",
-   "local": "Bali United",
-   "visitante": "Barito Putera",
-   "tendencia": "★★★ Gana Bali United · cuota 1,18 · ✗ fallado",
-   "cuotas": [
-    1.18,
-    6.0,
-    10.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "Indonesia: League Cup Indonesia",
-   "local": "PSM Makassar",
-   "visitante": "Persipura Jayapura",
-   "tendencia": "★★★ Gana PSM Makassar · cuota 1,28 · ✓ acertado",
-   "cuotas": [
-    1.28,
-    5.25,
-    7.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "3 - 2"
-  },
-  {
-   "liga": "Italy: Coppa Italia Serie D",
-   "local": "Sanremese",
-   "visitante": "Pro Patria",
-   "tendencia": "★★★ Sanremese o empate · cuota ~1,13 · ✓ acertado",
-   "cuotas": [
-    1.75,
-    3.2,
-    4.33
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Italy: Serie B",
-   "local": "Padova",
-   "visitante": "Sampdoria",
-   "tendencia": "★★★ Sampdoria o empate · cuota ~1,35 · ✓ acertado",
-   "cuotas": [
-    3.1,
-    3.1,
-    2.38
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T19:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "Parceiro Nagano",
-   "visitante": "Kagoshima United",
-   "tendencia": "★★★ Kagoshima United o empate · cuota ~1,14 · ✓ acertado",
-   "cuotas": [
-    4.0,
-    3.5,
-    1.7
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "0 - 2"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "Renofa Yamaguchi",
-   "visitante": "Fukushima United",
-   "tendencia": "★★★ Gana Renofa Yamaguchi · cuota 1,60 · ✗ fallado",
-   "cuotas": [
-    1.6,
-    3.9,
-    4.2
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "FC Gifu",
-   "visitante": "Thespakusatsu Gunma",
-   "tendencia": "★★★ Gana FC Gifu · cuota 1,40 · ✗ fallado",
-   "cuotas": [
-    1.4,
-    4.2,
-    6.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "Nara Club",
-   "visitante": "Matsumoto Yamaga",
-   "tendencia": "★★★ Matsumoto Yamaga o empate · cuota ~1,37 · ✗ fallado",
-   "cuotas": [
-    2.55,
-    3.4,
-    2.3
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "Kamatamare Sanuki",
-   "visitante": "Gainare Tottori",
-   "tendencia": "★★★ Kamatamare Sanuki o empate · cuota ~1,39 · ✓ acertado",
-   "cuotas": [
-    2.4,
-    3.3,
-    2.5
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "Japan: J3 League",
-   "local": "Osaka",
-   "visitante": "Tochigi SC",
-   "tendencia": "★★★ Osaka o empate · cuota ~1,24 · ✓ acertado",
-   "cuotas": [
-    2.0,
-    3.25,
-    3.2
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T10:00:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "Lebanon: Premier League",
-   "local": "Shabab Al Sahel",
-   "visitante": "Al Ansar",
-   "tendencia": "★★★ Gana Al Ansar · cuota 1,44 · ✓ acertado",
-   "cuotas": [
-    5.75,
-    4.1,
-    1.44
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T12:15:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Lebanon: Premier League",
-   "local": "Safa",
-   "visitante": "Al Nejmeh",
-   "tendencia": "★★★ Al Nejmeh o empate · cuota ~1,20 · ✓ acertado",
-   "cuotas": [
-    3.6,
-    3.25,
-    1.91
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T19:30:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Macedonia: Cup",
-   "local": "Akademija Pandev",
-   "visitante": "Aresimi",
-   "tendencia": "★★★ Aresimi o empate · cuota ~1,16 · ✓ acertado",
-   "cuotas": [
-    3.75,
-    3.7,
-    1.7
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "1 - 3"
-  },
-  {
-   "liga": "Nicaragua: Primera Division",
-   "local": "UNAN Managua",
-   "visitante": "H&H Export",
-   "tendencia": "★★★ UNAN Managua o empate · cuota ~1,28",
-   "cuotas": [
-    2.05,
-    3.4,
-    3.0
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T22:00:00+00:00"
-  },
-  {
-   "liga": "Poland: Cup",
-   "local": "Polonia Środa",
-   "visitante": "Sokół Kleczew",
-   "tendencia": "★★★ Polonia Środa o empate · cuota ~1,30 · ✓ acertado",
-   "cuotas": [
-    2.2,
-    3.2,
-    2.9
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T11:00:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "Qatar: Second Division",
-   "local": "Al Kharaitiyat",
-   "visitante": "Al-Gharafa B",
-   "tendencia": "★★★ Gana Al Kharaitiyat · cuota 1,18 · ✗ fallado",
-   "cuotas": [
-    1.18,
-    6.25,
-    10.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T14:15:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Qatar: Second Division",
-   "local": "Al Bidda SC",
-   "visitante": "Al-Markhiya",
-   "tendencia": "★★★ Gana Al-Markhiya · cuota 1,53 · ✗ fallado",
-   "cuotas": [
-    4.75,
-    4.1,
-    1.53
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T16:30:00+00:00",
-   "resultado": "3 - 2"
-  },
-  {
-   "liga": "Russia: Cup",
-   "local": "Akhmat",
-   "visitante": "FC Krasnodar",
-   "tendencia": "★★★ Akhmat o empate · cuota ~1,39 · ✗ fallado",
-   "cuotas": [
-    2.23,
-    3.69,
-    3.05
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "0 - 3"
-  },
-  {
-   "liga": "Rwanda: National Soccer League",
-   "local": "Al Merreikh",
-   "visitante": "AS Kigali",
-   "tendencia": "★★★ Gana Al Merreikh · cuota 1,45 · ✓ acertado",
-   "cuotas": [
-    1.45,
-    3.6,
-    6.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "Rwanda: National Soccer League",
-   "local": "APR",
-   "visitante": "Musanze",
-   "tendencia": "★★★ Gana APR · cuota 1,42 · ✓ acertado",
-   "cuotas": [
-    1.42,
-    3.9,
-    6.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T16:30:00+00:00",
-   "resultado": "3 - 0"
-  },
-  {
-   "liga": "San-Marino: Coppa Titano",
-   "local": "La Fiorita",
-   "visitante": "Cosmos",
-   "tendencia": "★★★ La Fiorita o empate · cuota ~1,20 · ✓ acertado",
-   "cuotas": [
-    2.0,
-    3.0,
-    3.6
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "San-Marino: Coppa Titano",
-   "local": "Tre Penne",
-   "visitante": "Pennarossa",
-   "tendencia": "★★★ Gana Tre Penne · cuota 1,17 · ✓ acertado",
-   "cuotas": [
-    1.17,
-    6.5,
-    11.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "San-Marino: Coppa Titano",
-   "local": "Folgore",
-   "visitante": "Virtus",
-   "tendencia": "★★★ Virtus o empate · cuota ~1,24 · ✓ acertado",
-   "cuotas": [
-    3.25,
-    3.0,
-    2.1
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T19:45:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Slovenia: Cup",
-   "local": "Bravo",
-   "visitante": "Odranci",
-   "tendencia": "★★★ Gana Bravo · cuota 1,06 · ✓ acertado",
-   "cuotas": [
-    1.06,
-    11.0,
-    26.0
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T17:00:00+00:00",
-   "resultado": "6 - 1"
-  },
-  {
-   "liga": "Spain: Segunda División RFEF - Group 4",
-   "local": "Sevilla Atletico",
-   "visitante": "Recreativo Huelva",
-   "tendencia": "★★★ Recreativo Huelva o empate · cuota ~1,25 · ✓ acertado",
-   "cuotas": [
-    3.1,
-    3.5,
-    1.95
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T17:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Thailand: Thai League 2",
-   "local": "Kasetsart FC",
-   "visitante": "Phrae United",
-   "tendencia": "★★★ Phrae United o empate · cuota ~1,32 · ✓ acertado",
-   "cuotas": [
-    2.8,
-    3.4,
-    2.15
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T11:00:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "Thailand: Thai League 2",
-   "local": "Chiangmai United",
-   "visitante": "Mahasarakham United",
-   "tendencia": "★★★ Chiangmai United o empate · cuota ~1,37 · ✓ acertado",
-   "cuotas": [
-    2.35,
-    3.3,
-    2.55
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T11:00:00+00:00",
-   "resultado": "1 - 2"
-  },
-  {
-   "liga": "Thailand: Thai League 2",
-   "local": "Muangthong United",
-   "visitante": "Nakhon Ratchasima FC",
-   "tendencia": "★★★ Gana Muangthong United · cuota 1,67 · ✓ acertado",
-   "cuotas": [
-    1.67,
-    3.6,
-    4.1
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T11:30:00+00:00",
-   "resultado": "3 - 2"
-  },
-  {
-   "liga": "Thailand: Thai League 2",
-   "local": "Satun",
-   "visitante": "Police Tero",
-   "tendencia": "★★★ Gana Satun · cuota 1,40 · ✗ fallado",
-   "cuotas": [
-    1.4,
-    4.1,
-    6.5
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T11:30:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Thailand: Thai League 2",
-   "local": "Khon Kaen United",
-   "visitante": "Kanchanaburi",
-   "tendencia": "★★★ Khon Kaen United o empate · cuota ~1,32 · ✓ acertado",
-   "cuotas": [
-    2.05,
-    3.7,
-    2.8
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T12:00:00+00:00",
-   "resultado": "2 - 2"
-  },
-  {
-   "liga": "Uganda: Premier League",
-   "local": "Maroons",
-   "visitante": "SC Villa",
-   "tendencia": "★★★ Gana SC Villa · cuota 1,57 · ✓ acertado",
-   "cuotas": [
-    5.5,
-    3.4,
-    1.57
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "0 - 3"
-  },
-  {
-   "liga": "Venezuela: Copa Venezuela",
-   "local": "Deportivo Tachira FC",
-   "visitante": "Carabobo FC",
-   "tendencia": "★★★ Deportivo Tachira FC o empate · cuota ~1,18",
-   "cuotas": [
-    1.9,
-    3.1,
-    3.7
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T22:30:00+00:00"
-  },
-  {
-   "liga": "AFC Champions League Two",
-   "local": "Persib Bandung",
-   "visitante": "FC Seoul",
-   "tendencia": "★★★ Gana FC Seoul · cuota 1,65 · ✗ fallado",
-   "cuotas": [
-    3.7,
-    4.2,
-    1.65
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T12:15:00+00:00",
-   "resultado": "3 - 1"
-  },
-  {
-   "liga": "AFC Champions League Two",
-   "local": "Nasaf",
-   "visitante": "Khalidiya",
-   "tendencia": "★★★ Nasaf o empate · cuota ~1,20 · ✓ acertado",
-   "cuotas": [
-    1.83,
-    3.5,
-    3.5
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T13:45:00+00:00",
-   "resultado": "1 - 0"
-  },
-  {
-   "liga": "AFC Champions League Two",
-   "local": "Al Faisaly",
-   "visitante": "Al-Rayyan SC",
-   "tendencia": "★★★ Al-Rayyan SC o empate · cuota ~1,23 · ✓ acertado",
-   "cuotas": [
-    3.25,
-    3.5,
-    1.9
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T16:00:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "AFC Champions League Two",
-   "local": "Al Taawon",
-   "visitante": "Al-Nahda",
-   "tendencia": "★★★ Gana Al Taawon · cuota 1,57 · ✗ fallado",
-   "cuotas": [
-    1.57,
-    4.75,
-    4.33
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T18:15:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "AGCFF Gulf Champions League",
-   "local": "Kazma",
-   "visitante": "Erbil",
-   "tendencia": "★★★ Gana Erbil · cuota 1,57 · ✗ fallado",
-   "cuotas": [
-    4.5,
-    4.0,
-    1.57
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T15:00:00+00:00",
-   "resultado": "1 - 1"
-  },
-  {
-   "liga": "AGCFF Gulf Champions League",
-   "local": "Al Sha'ab Hadhramaut",
-   "visitante": "Al-Shabab",
-   "tendencia": "★★★ Gana Al-Shabab · cuota 1,50 · ✗ fallado",
-   "cuotas": [
-    5.0,
-    4.0,
-    1.5
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T16:30:00+00:00",
-   "resultado": "2 - 1"
-  },
-  {
-   "liga": "AGCFF Gulf Champions League",
-   "local": "Qatar SC",
-   "visitante": "Al Nasr",
-   "tendencia": "★★★ Al Nasr o empate · cuota ~1,19 · ✗ fallado",
-   "cuotas": [
-    3.8,
-    3.8,
-    1.73
-   ],
-   "tipo": "AWAY DC",
-   "inicio": "2026-11-25T18:00:00+00:00",
-   "resultado": "2 - 0"
-  },
-  {
-   "liga": "Zambia: Super League",
-   "local": "Trident",
-   "visitante": "Man Utd Zambia Academy",
-   "tendencia": "★★★ Gana Man Utd Zambia Academy · cuota 1,53 · ✗ fallado",
-   "cuotas": [
-    5.45,
-    3.65,
-    1.53
-   ],
-   "tipo": "AWAY WIN",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Zambia: Super League",
-   "local": "Nchanga Rangers",
-   "visitante": "Kansanshi Dynamos",
-   "tendencia": "★★★ Gana Nchanga Rangers · cuota 1,59 · ✗ fallado",
-   "cuotas": [
-    1.59,
-    3.38,
-    5.38
-   ],
-   "tipo": "HOME WIN",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "0 - 0"
-  },
-  {
-   "liga": "Zambia: Super League",
-   "local": "Zanaco",
-   "visitante": "Nkana",
-   "tendencia": "★★★ Zanaco o empate · cuota ~1,27 · ✗ fallado",
-   "cuotas": [
-    2.06,
-    3.31,
-    3.11
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "0 - 1"
-  },
-  {
-   "liga": "Zambia: Super League",
-   "local": "Kabwe Warriors",
-   "visitante": "Nkwazi",
-   "tendencia": "★★★ Kabwe Warriors o empate · cuota ~1,19 · ✓ acertado",
-   "cuotas": [
-    1.99,
-    2.94,
-    3.72
-   ],
-   "tipo": "HOME DC",
-   "inicio": "2026-11-25T13:00:00+00:00",
-   "resultado": "1 - 1"
   },
   {
    "liga": "UEFA Europa Conference League",
@@ -3160,9 +1553,1730 @@
    ],
    "tipo": "AWAY DC",
    "inicio": "2026-11-26T12:15:00+00:00"
+  },
+  {
+   "liga": "Brazil: Copa Fares Lopes",
+   "local": "Tirol/CEFAT",
+   "visitante": "Guarani De Juazeiro",
+   "tendencia": "★★★ Gana Tirol/CEFAT · cuota 1,19",
+   "cuotas": [
+    1.19,
+    5.6,
+    10.9
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T22:00:00+00:00"
+  },
+  {
+   "liga": "Chile: Segunda División",
+   "local": "Colina",
+   "visitante": "General Velásquez",
+   "tendencia": "★★★ Colina o empate · cuota ~1,22",
+   "cuotas": [
+    1.9,
+    3.4,
+    3.48
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T21:00:00+00:00"
+  },
+  {
+   "liga": "Chinese-Taipei: Taiwan Football Premier League",
+   "local": "AC Taipei",
+   "visitante": "Hang Yuen",
+   "tendencia": "★★★ Hang Yuen o empate · cuota ~1,21",
+   "cuotas": [
+    3.57,
+    3.28,
+    1.91
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T07:00:00+00:00"
+  },
+  {
+   "liga": "Egypt: Second League",
+   "local": "AL Nasr SC",
+   "visitante": "Tersana",
+   "tendencia": "★★★ AL Nasr SC o empate · cuota ~1,30",
+   "cuotas": [
+    2.36,
+    2.9,
+    2.94
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T12:30:00+00:00"
+  },
+  {
+   "liga": "Indonesia: Liga Nusantara",
+   "local": "Persika Karanganyar",
+   "visitante": "Persipa Pati",
+   "tendencia": "★★★ Gana Persika Karanganyar · cuota 1,58",
+   "cuotas": [
+    1.58,
+    3.62,
+    5.02
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T12:00:00+00:00"
+  },
+  {
+   "liga": "Israel: Liga Alef",
+   "local": "Hapoel Nazareth Illit",
+   "visitante": "Maccabi K. Ata Bialik",
+   "tendencia": "★★★ Hapoel Nazareth Illit o empate · cuota ~1,20",
+   "cuotas": [
+    1.82,
+    3.55,
+    3.6
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "liga": "Israel: Liga Alef",
+   "local": "Hapoel Mahane Yehuda",
+   "visitante": "Hapoel Marmorek",
+   "tendencia": "★★★ Hapoel Marmorek o empate · cuota ~1,28",
+   "cuotas": [
+    3.02,
+    3.3,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T17:45:00+00:00"
+  },
+  {
+   "liga": "Jamaica: Premier League",
+   "local": "Cavalier",
+   "visitante": "Portmore United",
+   "tendencia": "★★★ Portmore United o empate · cuota ~1,21",
+   "cuotas": [
+    3.52,
+    3.24,
+    1.94
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T20:00:00+00:00"
+  },
+  {
+   "liga": "Jordan: League",
+   "local": "Al Buqa'a",
+   "visitante": "Al Jazeera",
+   "tendencia": "★★★ Al Buqa'a o empate · cuota ~1,34",
+   "cuotas": [
+    2.43,
+    3.0,
+    2.65
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T15:00:00+00:00"
+  },
+  {
+   "liga": "Kuwait: Emir Cup",
+   "local": "Al Salmiyah",
+   "visitante": "Al Tadhamon",
+   "tendencia": "★★★ Gana Al Salmiyah · cuota 1,53",
+   "cuotas": [
+    1.53,
+    3.7,
+    5.3
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T14:20:00+00:00"
+  },
+  {
+   "liga": "Nicaragua: Primera Division",
+   "local": "Jalapa",
+   "visitante": "San Marcos",
+   "tendencia": "★★★ Jalapa o empate · cuota ~1,23",
+   "cuotas": [
+    1.9,
+    3.5,
+    3.6
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T22:00:00+00:00"
+  },
+  {
+   "liga": "Paraguay: Copa Paraguay",
+   "local": "Cerro Porteno",
+   "visitante": "Libertad Asuncion",
+   "tendencia": "★★★ Cerro Porteno o empate · cuota ~1,30",
+   "cuotas": [
+    2.25,
+    3.1,
+    3.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T22:30:00+00:00"
+  },
+  {
+   "liga": "Qatar: Second Division",
+   "local": "Muaither SC",
+   "visitante": "Al Waab",
+   "tendencia": "★★★ Muaither SC o empate · cuota ~1,25",
+   "cuotas": [
+    2.01,
+    3.28,
+    3.26
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T14:15:00+00:00"
+  },
+  {
+   "liga": "Qatar: Second Division",
+   "local": "UMM Salal",
+   "visitante": "Al Rayyan SC B",
+   "tendencia": "★★★ Gana UMM Salal · cuota 1,29",
+   "cuotas": [
+    1.29,
+    4.9,
+    8.75
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T16:30:00+00:00"
+  },
+  {
+   "liga": "Uganda: Premier League",
+   "local": "KCCA",
+   "visitante": "BUL",
+   "tendencia": "★★★ KCCA o empate · cuota ~1,14",
+   "cuotas": [
+    1.8,
+    3.08,
+    4.38
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T13:00:00+00:00"
+  },
+  {
+   "liga": "Uganda: Premier League",
+   "local": "URA",
+   "visitante": "Kigezi HomeBoyz",
+   "tendencia": "★★★ Gana URA · cuota 1,25",
+   "cuotas": [
+    1.25,
+    4.75,
+    10.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T16:00:00+00:00"
+  },
+  {
+   "liga": "Uzbekistan: Pro League A",
+   "local": "Shortan",
+   "visitante": "Olimpik-Mobiuz",
+   "tendencia": "★★★ Shortan o empate · cuota ~1,22",
+   "cuotas": [
+    1.8,
+    3.8,
+    3.4
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-26T10:00:00+00:00"
+  },
+  {
+   "liga": "AFC Champions League Two",
+   "local": "Kuching FA",
+   "visitante": "Phnom Penh Crown",
+   "tendencia": "★★★ Gana Kuching FA · cuota 1,51",
+   "cuotas": [
+    1.51,
+    4.31,
+    5.56
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T10:00:00+00:00"
+  },
+  {
+   "liga": "AFC Champions League Two",
+   "local": "Gangwon FC",
+   "visitante": "Kitchee",
+   "tendencia": "★★★ Gana Gangwon FC · cuota 1,48",
+   "cuotas": [
+    1.48,
+    4.0,
+    5.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T10:00:00+00:00"
+  },
+  {
+   "liga": "AFC Champions League Two",
+   "local": "Svay Rieng",
+   "visitante": "Machida Zelvia",
+   "tendencia": "★★★ Machida Zelvia o empate · cuota ~1,22",
+   "cuotas": [
+    3.9,
+    3.66,
+    1.83
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T12:15:00+00:00"
+  },
+  {
+   "liga": "Zambia: Super League",
+   "local": "Red Arrows",
+   "visitante": "Green Buffaloes",
+   "tendencia": "★★★ Gana Red Arrows · cuota 1,51",
+   "cuotas": [
+    1.51,
+    3.3,
+    6.92
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-26T13:00:00+00:00"
+  },
+  {
+   "liga": "Zambia: Super League",
+   "local": "Mutondo Stars",
+   "visitante": "Green Eagles",
+   "tendencia": "★★★ Green Eagles o empate · cuota ~1,22",
+   "cuotas": [
+    3.4,
+    2.9,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T13:00:00+00:00"
+  },
+  {
+   "liga": "Zambia: Super League",
+   "local": "Chirundu Utd",
+   "visitante": "ZESCO United",
+   "tendencia": "★★★ ZESCO United o empate · cuota ~1,15",
+   "cuotas": [
+    4.11,
+    2.99,
+    1.88
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-26T13:00:00+00:00"
+  },
+  {
+   "liga": "Zambia: Super League",
+   "local": "Makeni All Stars",
+   "visitante": "Power Dynamos",
+   "tendencia": "★★★ Gana Power Dynamos · cuota 1,40",
+   "cuotas": [
+    7.3,
+    3.8,
+    1.4
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-26T13:00:00+00:00"
+  },
+  {
+   "liga": "France: Ligue 1",
+   "local": "Stade Brestois 29",
+   "visitante": "Paris FC",
+   "tendencia": "★★★ Paris FC o empate · cuota ~1,34",
+   "cuotas": [
+    3.3,
+    3.45,
+    2.2
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Germany: Bundesliga",
+   "local": "Werder Bremen",
+   "visitante": "Borussia Mönchengladbach",
+   "tendencia": "★★★ Werder Bremen o empate · cuota ~1,23",
+   "cuotas": [
+    1.72,
+    4.3,
+    4.25
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Italy: Serie A",
+   "local": "Venezia",
+   "visitante": "Bologna",
+   "tendencia": "★★★ Bologna o empate · cuota ~1,37",
+   "cuotas": [
+    3.48,
+    3.58,
+    2.23
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Spain: La Liga",
+   "local": "Levante",
+   "visitante": "Racing Santander",
+   "tendencia": "★★★ Levante o empate · cuota ~1,32",
+   "cuotas": [
+    2.05,
+    3.7,
+    3.25
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T20:00:00+00:00"
+  },
+  {
+   "liga": "Albania: Superliga",
+   "local": "Tirana",
+   "visitante": "Skenderbeu Korce",
+   "tendencia": "★★★ Tirana o empate · cuota ~1,26",
+   "cuotas": [
+    2.1,
+    3.15,
+    3.2
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Albania: Superliga",
+   "local": "Dinamo Tirana",
+   "visitante": "Partizani",
+   "tendencia": "★★★ Dinamo Tirana o empate · cuota ~1,18",
+   "cuotas": [
+    1.85,
+    3.25,
+    3.8
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Australia: A-League",
+   "local": "Macarthur",
+   "visitante": "Melbourne City",
+   "tendencia": "★★★ Melbourne City o empate · cuota ~1,32",
+   "cuotas": [
+    3.25,
+    3.7,
+    2.05
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T08:40:00+00:00"
+  },
+  {
+   "liga": "Austria: Bundesliga",
+   "local": "Grazer AK",
+   "visitante": "SCR Altach",
+   "tendencia": "★★★ SCR Altach o empate · cuota ~1,33",
+   "cuotas": [
+    3.15,
+    3.3,
+    2.22
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T18:30:00+00:00"
+  },
+  {
+   "liga": "Azerbaijan: Premyer Liqa",
+   "local": "Imisli FK",
+   "visitante": "Safa Baku",
+   "tendencia": "★★★ Imisli FK o empate · cuota ~1,25",
+   "cuotas": [
+    2.11,
+    3.06,
+    3.24
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T10:30:00+00:00"
+  },
+  {
+   "liga": "Azerbaijan: Premyer Liqa",
+   "local": "Neftchi Baku",
+   "visitante": "Zira",
+   "tendencia": "★★★ Gana Neftchi Baku · cuota 1,65",
+   "cuotas": [
+    1.65,
+    3.65,
+    4.8
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T15:00:00+00:00"
+  },
+  {
+   "liga": "Belgium: Jupiler Pro League",
+   "local": "OH Leuven",
+   "visitante": "Kortrijk",
+   "tendencia": "★★★ OH Leuven o empate · cuota ~1,28",
+   "cuotas": [
+    1.95,
+    3.7,
+    3.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Bosnia: Premijer Liga",
+   "local": "Čelik",
+   "visitante": "BSK Banja Luka",
+   "tendencia": "★★★ Čelik o empate · cuota ~1,25",
+   "cuotas": [
+    2.0,
+    3.3,
+    3.2
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Serie A",
+   "local": "Fluminense",
+   "visitante": "Cruzeiro",
+   "tendencia": "★★★ Fluminense o empate · cuota ~1,35",
+   "cuotas": [
+    2.12,
+    3.68,
+    3.36
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T23:00:00+00:00"
+  },
+  {
+   "liga": "Bulgaria: First League",
+   "local": "Lokomotiv Sofia",
+   "visitante": "Slavia Sofia",
+   "tendencia": "★★★ Lokomotiv Sofia o empate · cuota ~1,25",
+   "cuotas": [
+    1.95,
+    3.5,
+    3.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T16:30:00+00:00"
+  },
+  {
+   "liga": "Croatia: HNL",
+   "local": "Istra 1961",
+   "visitante": "NK Varazdin",
+   "tendencia": "★★★ Istra 1961 o empate · cuota ~1,41",
+   "cuotas": [
+    2.41,
+    3.4,
+    2.65
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Cyprus: 1. Division",
+   "local": "AEK Larnaca",
+   "visitante": "Apollon Limassol",
+   "tendencia": "★★★ AEK Larnaca o empate · cuota ~1,38",
+   "cuotas": [
+    2.36,
+    3.34,
+    2.81
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Cyprus: 1. Division",
+   "local": "AEL",
+   "visitante": "Olympiakos",
+   "tendencia": "★★★ AEL o empate · cuota ~1,18",
+   "cuotas": [
+    1.75,
+    3.65,
+    4.4
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Cyprus: 1. Division",
+   "local": "Omonia 29is Maiou",
+   "visitante": "Omonia Aradippou",
+   "tendencia": "★★★ Omonia Aradippou o empate · cuota ~1,32",
+   "cuotas": [
+    3.0,
+    3.4,
+    2.15
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Czech-Republic: Czech Liga",
+   "local": "Artis",
+   "visitante": "Slovácko",
+   "tendencia": "★★★ Artis o empate · cuota ~1,37",
+   "cuotas": [
+    2.35,
+    3.3,
+    2.85
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Denmark: Superliga",
+   "local": "Sonderjyske",
+   "visitante": "Brondby",
+   "tendencia": "★★★ Gana Brondby · cuota 1,67",
+   "cuotas": [
+    4.5,
+    4.1,
+    1.67
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "England: Championship",
+   "local": "Southampton",
+   "visitante": "Middlesbrough",
+   "tendencia": "★★★ Middlesbrough o empate · cuota ~1,44",
+   "cuotas": [
+    2.8,
+    3.75,
+    2.35
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T20:00:00+00:00"
+  },
+  {
+   "liga": "Georgia: Erovnuli Liga",
+   "local": "Dinamo Batumi",
+   "visitante": "Dila",
+   "tendencia": "★★★ Dinamo Batumi o empate · cuota ~1,19",
+   "cuotas": [
+    1.74,
+    3.8,
+    3.94
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T16:00:00+00:00"
+  },
+  {
+   "liga": "Hungary: NB I",
+   "local": "Gyori ETO FC",
+   "visitante": "Debreceni VSC",
+   "tendencia": "★★★ Gyori ETO FC o empate · cuota ~1,42",
+   "cuotas": [
+    2.35,
+    3.6,
+    2.45
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T18:30:00+00:00"
+  },
+  {
+   "liga": "Iran: Persian Gulf Pro League",
+   "local": "Aluminium Arak",
+   "visitante": "Persepolis FC",
+   "tendencia": "★★★ Persepolis FC o empate · cuota ~1,12",
+   "cuotas": [
+    4.6,
+    3.29,
+    1.7
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T12:45:00+00:00"
+  },
+  {
+   "liga": "Iran: Persian Gulf Pro League",
+   "local": "Esteghlal Khuzestan",
+   "visitante": "Malavan",
+   "tendencia": "★★★ Esteghlal Khuzestan o empate · cuota ~1,27",
+   "cuotas": [
+    2.26,
+    2.88,
+    3.11
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T13:00:00+00:00"
+  },
+  {
+   "liga": "Israel: Ligat Ha'al",
+   "local": "Maccabi Petah Tikva",
+   "visitante": "Hapoel Tel Aviv",
+   "tendencia": "★★★ Gana Hapoel Tel Aviv · cuota 1,40",
+   "cuotas": [
+    5.75,
+    4.2,
+    1.4
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T12:00:00+00:00"
+  },
+  {
+   "liga": "Mexico: Liga MX",
+   "local": "Leon",
+   "visitante": "Cruz Azul",
+   "tendencia": "★★★ Cruz Azul o empate · cuota ~1,32",
+   "cuotas": [
+    3.12,
+    3.45,
+    2.13
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T03:10:00+00:00"
+  },
+  {
+   "liga": "Northern-Ireland: Premiership",
+   "local": "Coleraine FC",
+   "visitante": "Dungannon Swifts",
+   "tendencia": "★★★ Gana Coleraine FC · cuota 1,44",
+   "cuotas": [
+    1.44,
+    4.5,
+    5.7
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Northern-Ireland: Premiership",
+   "local": "Glentoran",
+   "visitante": "Larne",
+   "tendencia": "★★★ Larne o empate · cuota ~1,35",
+   "cuotas": [
+    2.65,
+    3.3,
+    2.28
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Poland: Ekstraklasa",
+   "local": "Raków Częstochowa",
+   "visitante": "Piast Gliwice",
+   "tendencia": "★★★ Raków Częstochowa o empate · cuota ~1,26",
+   "cuotas": [
+    1.88,
+    3.8,
+    3.65
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Poland: Ekstraklasa",
+   "local": "Gornik Zabrze",
+   "visitante": "Wisla Plock",
+   "tendencia": "★★★ Gana Gornik Zabrze · cuota 1,44",
+   "cuotas": [
+    1.44,
+    4.0,
+    7.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Portugal: Primeira Liga",
+   "local": "Maritimo",
+   "visitante": "Nacional",
+   "tendencia": "★★★ Maritimo o empate · cuota ~1,33",
+   "cuotas": [
+    2.17,
+    3.42,
+    3.6
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T20:15:00+00:00"
+  },
+  {
+   "liga": "Romania: Liga I",
+   "local": "Universitatea Cluj",
+   "visitante": "Sepsi OSK Sfantu Gheorghe",
+   "tendencia": "★★★ Gana Universitatea Cluj · cuota 1,57",
+   "cuotas": [
+    1.57,
+    3.7,
+    5.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T15:30:00+00:00"
+  },
+  {
+   "liga": "Romania: Liga I",
+   "local": "Petrolul Ploiesti",
+   "visitante": "Arges Pitesti",
+   "tendencia": "★★★ Petrolul Ploiesti o empate · cuota ~1,28",
+   "cuotas": [
+    2.1,
+    3.25,
+    3.35
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T18:30:00+00:00"
+  },
+  {
+   "liga": "Serbia: Super Liga",
+   "local": "IMT Novi Beograd",
+   "visitante": "Macva",
+   "tendencia": "★★★ Gana IMT Novi Beograd · cuota 1,47",
+   "cuotas": [
+    1.47,
+    4.39,
+    6.89
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T16:00:00+00:00"
+  },
+  {
+   "liga": "South-Africa: Premier Soccer League",
+   "local": "Stellenbosch",
+   "visitante": "TS Galaxy",
+   "tendencia": "★★★ Stellenbosch o empate · cuota ~1,16",
+   "cuotas": [
+    1.84,
+    3.15,
+    4.08
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Thailand: Thai League 1",
+   "local": "Uthai Thani",
+   "visitante": "Sisaket United",
+   "tendencia": "★★★ Gana Uthai Thani · cuota 1,62",
+   "cuotas": [
+    1.62,
+    4.1,
+    4.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T12:00:00+00:00"
+  },
+  {
+   "liga": "Turkey: Süper Lig",
+   "local": "Rizespor",
+   "visitante": "Kasımpaşa",
+   "tendencia": "★★★ Rizespor o empate · cuota ~1,29",
+   "cuotas": [
+    1.91,
+    3.94,
+    3.94
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Ukraine: Premier League",
+   "local": "Livyi Bereh",
+   "visitante": "Kolos Kovalivka",
+   "tendencia": "★★★ Livyi Bereh o empate · cuota ~1,30",
+   "cuotas": [
+    2.25,
+    3.1,
+    2.8
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T11:00:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Cambrian & Clydach",
+   "visitante": "Trefelin",
+   "tendencia": "★★★ Gana Cambrian & Clydach · cuota 1,46",
+   "cuotas": [
+    1.46,
+    4.15,
+    5.57
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Flint Town United",
+   "visitante": "The New Saints",
+   "tendencia": "★★★ Gana The New Saints · cuota 1,07",
+   "cuotas": [
+    16.5,
+    8.2,
+    1.07
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Cardiff MET",
+   "visitante": "Airbus UK",
+   "tendencia": "★★★ Cardiff MET o empate · cuota ~1,30",
+   "cuotas": [
+    2.07,
+    3.5,
+    3.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Haverfordwest County AFC",
+   "visitante": "GAP Connah S Quay FC",
+   "tendencia": "★★★ Gana GAP Connah S Quay FC · cuota 1,72",
+   "cuotas": [
+    4.2,
+    3.55,
+    1.72
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Briton Ferry",
+   "visitante": "Penybont",
+   "tendencia": "★★★ Gana Penybont · cuota 1,50",
+   "cuotas": [
+    5.0,
+    4.1,
+    1.5
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Wales: Premier League",
+   "local": "Colwyn Bay",
+   "visitante": "Ammanford AFC",
+   "tendencia": "★★★ Gana Colwyn Bay · cuota 1,12",
+   "cuotas": [
+    1.12,
+    8.5,
+    13.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Albania: 1st Division",
+   "local": "Pogradeci",
+   "visitante": "Iliria Fushë-Krujë",
+   "tendencia": "★★★ Gana Pogradeci · cuota 1,53",
+   "cuotas": [
+    1.53,
+    3.6,
+    5.6
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Albania: 1st Division",
+   "local": "Flamurtari",
+   "visitante": "Besa Kavajë",
+   "tendencia": "★★★ Flamurtari o empate · cuota ~1,23",
+   "cuotas": [
+    1.97,
+    3.28,
+    3.36
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T15:00:00+00:00"
+  },
+  {
+   "liga": "Argentina: Primera Nacional",
+   "local": "Atlanta",
+   "visitante": "Ciudad de Bolívar",
+   "tendencia": "★★★ Atlanta o empate · cuota ~1,22",
+   "cuotas": [
+    2.0,
+    3.1,
+    4.2
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T22:00:00+00:00"
+  },
+  {
+   "liga": "Australia: Australian Championship",
+   "local": "Broadmeadow Magic",
+   "visitante": "Lions",
+   "tendencia": "★★★ Lions o empate · cuota ~1,18",
+   "cuotas": [
+    3.6,
+    3.9,
+    1.7
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T08:30:00+00:00"
+  },
+  {
+   "liga": "Austria: 2. Liga",
+   "local": "SKU Amstetten",
+   "visitante": "SKN ST. Polten",
+   "tendencia": "★★★ SKU Amstetten o empate · cuota ~1,44",
+   "cuotas": [
+    2.42,
+    3.55,
+    2.57
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Austria: 2. Liga",
+   "local": "Wacker Innsbruck",
+   "visitante": "First Vienna",
+   "tendencia": "★★★ First Vienna o empate · cuota ~1,28",
+   "cuotas": [
+    3.35,
+    3.4,
+    2.05
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Belgium: Challenger Pro League",
+   "local": "Francs Borains",
+   "visitante": "AS Eupen",
+   "tendencia": "★★★ AS Eupen o empate · cuota ~1,31",
+   "cuotas": [
+    3.2,
+    3.45,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Bolivia: Primera División",
+   "local": "ABB",
+   "visitante": "Real Tomayapo",
+   "tendencia": "★★★ ABB o empate · cuota ~1,19",
+   "cuotas": [
+    1.75,
+    3.72,
+    3.8
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Brazil: Serie B",
+   "local": "Vila Nova",
+   "visitante": "Atletico Goianiense",
+   "tendencia": "★★★ Vila Nova o empate · cuota ~1,34",
+   "cuotas": [
+    2.3,
+    3.2,
+    2.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T23:00:00+00:00"
+  },
+  {
+   "liga": "Chile: Primera B",
+   "local": "Antofagasta",
+   "visitante": "Deportes Copiapo",
+   "tendencia": "★★★ Gana Antofagasta · cuota 1,65",
+   "cuotas": [
+    1.65,
+    3.8,
+    3.9
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T23:00:00+00:00"
+  },
+  {
+   "liga": "Colombia: Primera A",
+   "local": "Deportivo Cali",
+   "visitante": "Bucaramanga",
+   "tendencia": "★★★ Deportivo Cali o empate · cuota ~1,16",
+   "cuotas": [
+    1.77,
+    3.4,
+    4.56
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T23:35:00+00:00"
+  },
+  {
+   "liga": "Croatia: First NL",
+   "local": "Mladost Ždralovi",
+   "visitante": "Bsk Bijelo Brdo",
+   "tendencia": "★★★ Gana Mladost Ždralovi · cuota 1,64",
+   "cuotas": [
+    1.64,
+    3.4,
+    4.93
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Croatia: First NL",
+   "local": "Sesvete",
+   "visitante": "Vukovar",
+   "tendencia": "★★★ Sesvete o empate · cuota ~1,15",
+   "cuotas": [
+    1.72,
+    3.44,
+    4.21
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Czech-Republic: FNL",
+   "local": "Vysočina Jihlava",
+   "visitante": "Třinec",
+   "tendencia": "★★★ Gana Vysočina Jihlava · cuota 1,48",
+   "cuotas": [
+    1.48,
+    4.0,
+    5.25
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T15:00:00+00:00"
+  },
+  {
+   "liga": "Czech-Republic: FNL",
+   "local": "Dukla Praha",
+   "visitante": "Táborsko",
+   "tendencia": "★★★ Dukla Praha o empate · cuota ~1,22",
+   "cuotas": [
+    1.85,
+    3.55,
+    3.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Czech-Republic: FNL",
+   "local": "Ústí nad Labem",
+   "visitante": "Hanácká",
+   "tendencia": "★★★ Gana Ústí nad Labem · cuota 1,67",
+   "cuotas": [
+    1.67,
+    3.9,
+    4.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Denmark: 1. Division",
+   "local": "Hvidovre",
+   "visitante": "Kolding IF",
+   "tendencia": "★★★ Hvidovre o empate · cuota ~1,26",
+   "cuotas": [
+    1.9,
+    3.75,
+    3.65
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Denmark: 1. Division",
+   "local": "AB Copenhagen",
+   "visitante": "Vejle",
+   "tendencia": "★★★ Vejle o empate · cuota ~1,32",
+   "cuotas": [
+    3.2,
+    3.7,
+    2.05
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Ecuador: Liga Pro",
+   "local": "Delfin SC",
+   "visitante": "Orense SC",
+   "tendencia": "★★★ Delfin SC o empate · cuota ~1,36",
+   "cuotas": [
+    2.42,
+    3.1,
+    3.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Ecuador: Liga Pro",
+   "local": "Deportivo Cuenca",
+   "visitante": "Manta FC",
+   "tendencia": "★★★ Deportivo Cuenca o empate · cuota ~1,18",
+   "cuotas": [
+    1.8,
+    3.4,
+    4.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T21:30:00+00:00"
+  },
+  {
+   "liga": "Egypt: Second League",
+   "local": "Masar",
+   "visitante": "Maleyet Kafr El Zayiat",
+   "tendencia": "★★★ Masar o empate · cuota ~1,11",
+   "cuotas": [
+    1.74,
+    3.05,
+    4.85
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Egypt: Second League",
+   "local": "Ismaily SC",
+   "visitante": "Baladiyyat Al Mehalla",
+   "tendencia": "★★★ Ismaily SC o empate · cuota ~1,26",
+   "cuotas": [
+    2.37,
+    2.67,
+    3.15
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Egypt: Second League",
+   "local": "Haras El Hodood",
+   "visitante": "Pharco",
+   "tendencia": "★★★ Haras El Hodood o empate · cuota ~1,26",
+   "cuotas": [
+    2.3,
+    2.8,
+    3.2
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "Egypt: Second League",
+   "local": "Itesalat",
+   "visitante": "Team",
+   "tendencia": "★★★ Gana Itesalat · cuota 1,60",
+   "cuotas": [
+    1.6,
+    3.4,
+    5.25
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T12:30:00+00:00"
+  },
+  {
+   "liga": "England: National League",
+   "local": "Scunthorpe",
+   "visitante": "Wealdstone",
+   "tendencia": "★★★ Scunthorpe o empate · cuota ~1,39",
+   "cuotas": [
+    2.22,
+    3.7,
+    2.85
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Germany: 2. Bundesliga",
+   "local": "1. FC Heidenheim",
+   "visitante": "1. FC Nürnberg",
+   "tendencia": "★★★ 1. FC Heidenheim o empate · cuota ~1,41",
+   "cuotas": [
+    2.2,
+    3.95,
+    2.92
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Germany: 2. Bundesliga",
+   "local": "VfL Bochum",
+   "visitante": "SV Darmstadt 98",
+   "tendencia": "★★★ VfL Bochum o empate · cuota ~1,24",
+   "cuotas": [
+    1.8,
+    3.95,
+    4.15
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Germany: 3. Liga",
+   "local": "Hansa Rostock",
+   "visitante": "Havelse",
+   "tendencia": "★★★ Gana Hansa Rostock · cuota 1,28",
+   "cuotas": [
+    1.28,
+    4.75,
+    8.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Germany: Regionalliga - Bayern",
+   "local": "TSV 1860 München",
+   "visitante": "FC Schweinfurt 05",
+   "tendencia": "★★★ Gana TSV 1860 München · cuota 1,64",
+   "cuotas": [
+    1.64,
+    4.01,
+    3.98
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Italy: Serie C - Girone C",
+   "local": "Cavese",
+   "visitante": "Scafatese",
+   "tendencia": "★★★ Cavese o empate · cuota ~1,34",
+   "cuotas": [
+    2.28,
+    3.24,
+    2.76
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Jordan: League",
+   "local": "Shabab Al Ordon",
+   "visitante": "Al Salt",
+   "tendencia": "★★★ Al Salt o empate · cuota ~1,32",
+   "cuotas": [
+    3.0,
+    2.95,
+    2.4
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T14:00:00+00:00"
+  },
+  {
+   "liga": "Jordan: League",
+   "local": "Al Wihdat",
+   "visitante": "Doqarah",
+   "tendencia": "★★★ Gana Al Wihdat · cuota 1,45",
+   "cuotas": [
+    1.45,
+    3.9,
+    6.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T16:30:00+00:00"
+  },
+  {
+   "liga": "Netherlands: Eerste Divisie",
+   "local": "Jong AZ",
+   "visitante": "FC OSS",
+   "tendencia": "★★★ Gana Jong AZ · cuota 1,56",
+   "cuotas": [
+    1.56,
+    4.45,
+    4.67
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Netherlands: Eerste Divisie",
+   "local": "NAC Breda",
+   "visitante": "Den Bosch",
+   "tendencia": "★★★ Gana NAC Breda · cuota 1,35",
+   "cuotas": [
+    1.35,
+    5.45,
+    6.45
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Netherlands: Eerste Divisie",
+   "local": "Dordrecht",
+   "visitante": "Vitesse",
+   "tendencia": "★★★ Vitesse o empate · cuota ~1,31",
+   "cuotas": [
+    3.3,
+    3.45,
+    2.1
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Netherlands: Eerste Divisie",
+   "local": "Jong Utrecht",
+   "visitante": "Almere City FC",
+   "tendencia": "★★★ Almere City FC o empate · cuota ~1,32",
+   "cuotas": [
+    3.2,
+    4.05,
+    1.95
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Netherlands: Eerste Divisie",
+   "local": "Jong Ajax",
+   "visitante": "Heracles",
+   "tendencia": "★★★ Gana Heracles · cuota 1,40",
+   "cuotas": [
+    6.25,
+    5.25,
+    1.4
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Nicaragua: Primera Division",
+   "local": "Diriangén",
+   "visitante": "Matagalpa",
+   "tendencia": "★★★ Gana Diriangén · cuota 1,20",
+   "cuotas": [
+    1.2,
+    6.0,
+    9.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T00:00:00+00:00"
+  },
+  {
+   "liga": "Northern-Ireland: Championship",
+   "local": "Newry City AFC",
+   "visitante": "Ballinamallard United",
+   "tendencia": "★★★ Newry City AFC o empate · cuota ~1,28",
+   "cuotas": [
+    2.01,
+    3.5,
+    3.24
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:45:00+00:00"
+  },
+  {
+   "liga": "Paraguay: Division Profesional - Clausura",
+   "local": "Nacional Asuncion",
+   "visitante": "Rubio NU",
+   "tendencia": "★★★ Nacional Asuncion o empate · cuota ~1,15",
+   "cuotas": [
+    1.7,
+    3.6,
+    4.5
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T20:30:00+00:00"
+  },
+  {
+   "liga": "Paraguay: Division Profesional - Clausura",
+   "local": "Sportivo Luqueno",
+   "visitante": "Olimpia",
+   "tendencia": "★★★ Gana Olimpia · cuota 1,60",
+   "cuotas": [
+    5.1,
+    4.05,
+    1.6
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T23:00:00+00:00"
+  },
+  {
+   "liga": "Poland: I Liga",
+   "local": "Warta Poznań",
+   "visitante": "Pogoń Siedlce",
+   "tendencia": "★★★ Warta Poznań o empate · cuota ~1,21",
+   "cuotas": [
+    1.87,
+    3.42,
+    3.58
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Poland: I Liga",
+   "local": "Chrobry Głogów",
+   "visitante": "Unia Skierniewice",
+   "tendencia": "★★★ Chrobry Głogów o empate · cuota ~1,31",
+   "cuotas": [
+    2.14,
+    3.4,
+    2.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Poland: II Liga - East",
+   "local": "Tychy 71",
+   "visitante": "Chojniczanka Chojnice",
+   "tendencia": "★★★ Gana Tychy 71 · cuota 1,67",
+   "cuotas": [
+    1.67,
+    3.8,
+    4.45
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Portugal: Segunda Liga",
+   "local": "Feirense",
+   "visitante": "Portimonense",
+   "tendencia": "★★★ Portimonense o empate · cuota ~1,37",
+   "cuotas": [
+    2.95,
+    3.1,
+    2.45
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T18:00:00+00:00"
+  },
+  {
+   "liga": "Qatar: Stars League",
+   "local": "Al-Sailiya",
+   "visitante": "Al-Gharafa",
+   "tendencia": "★★★ Gana Al-Gharafa · cuota 1,53",
+   "cuotas": [
+    4.5,
+    4.1,
+    1.53
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T13:00:00+00:00"
+  },
+  {
+   "liga": "Qatar: Stars League",
+   "local": "Lusail City",
+   "visitante": "Al-Arabi SC",
+   "tendencia": "★★★ Al-Arabi SC o empate · cuota ~1,28",
+   "cuotas": [
+    3.35,
+    3.7,
+    1.95
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T15:30:00+00:00"
+  },
+  {
+   "liga": "Russia: First League",
+   "local": "Torpedo Moskva",
+   "visitante": "Ska-khabarovsk",
+   "tendencia": "★★★ Gana Torpedo Moskva · cuota 1,46",
+   "cuotas": [
+    1.46,
+    4.57,
+    6.9
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T16:30:00+00:00"
+  },
+  {
+   "liga": "Saudi-Arabia: Pro League",
+   "local": "Al Kholood",
+   "visitante": "Al Khaleej Saihat",
+   "tendencia": "★★★ Al Kholood o empate · cuota ~1,27",
+   "cuotas": [
+    2.0,
+    3.5,
+    3.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T12:15:00+00:00"
+  },
+  {
+   "liga": "Saudi-Arabia: Pro League",
+   "local": "Al-Qadisiyah FC",
+   "visitante": "Al-Fayha",
+   "tendencia": "★★★ Gana Al-Qadisiyah FC · cuota 1,16",
+   "cuotas": [
+    1.16,
+    7.9,
+    12.1
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T14:20:00+00:00"
+  },
+  {
+   "liga": "Saudi-Arabia: Pro League",
+   "local": "Al-Ittihad FC",
+   "visitante": "NEOM",
+   "tendencia": "★★★ Al-Ittihad FC o empate · cuota ~1,28",
+   "cuotas": [
+    1.95,
+    3.75,
+    3.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:30:00+00:00"
+  },
+  {
+   "liga": "Singapore: Premier League",
+   "local": "Geylang International",
+   "visitante": "Tanjong Pagar",
+   "tendencia": "★★★ Gana Geylang International · cuota 1,45",
+   "cuotas": [
+    1.45,
+    4.33,
+    5.41
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T11:30:00+00:00"
+  },
+  {
+   "liga": "Slovenia: Cup",
+   "local": "Brežice",
+   "visitante": "Triglav",
+   "tendencia": "★★★ Gana Triglav · cuota 1,33",
+   "cuotas": [
+    6.5,
+    4.75,
+    1.33
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-27T16:00:00+00:00"
+  },
+  {
+   "liga": "Spain: Primera División RFEF - Group 2",
+   "local": "Hércules",
+   "visitante": "Antequera",
+   "tendencia": "★★★ Hércules o empate · cuota ~1,16",
+   "cuotas": [
+    1.8,
+    3.3,
+    3.9
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T20:15:00+00:00"
+  },
+  {
+   "liga": "Spain: Segunda División",
+   "local": "Leganes",
+   "visitante": "Sabadell",
+   "tendencia": "★★★ Leganes o empate · cuota ~1,38",
+   "cuotas": [
+    2.44,
+    3.16,
+    3.18
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T19:30:00+00:00"
+  },
+  {
+   "liga": "Switzerland: Challenge League",
+   "local": "SC Kriens",
+   "visitante": "FC Aarau",
+   "tendencia": "★★★ FC Aarau o empate · cuota ~1,27",
+   "cuotas": [
+    3.12,
+    3.64,
+    1.96
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T18:30:00+00:00"
+  },
+  {
+   "liga": "Switzerland: Challenge League",
+   "local": "FC Winterthur",
+   "visitante": "Rapperswil",
+   "tendencia": "★★★ Gana FC Winterthur · cuota 1,44",
+   "cuotas": [
+    1.44,
+    4.5,
+    5.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:15:00+00:00"
+  },
+  {
+   "liga": "Switzerland: Challenge League",
+   "local": "Étoile Carouge",
+   "visitante": "Stade Lausanne-Ouchy",
+   "tendencia": "★★★ Stade Lausanne-Ouchy o empate · cuota ~1,19",
+   "cuotas": [
+    3.7,
+    3.75,
+    1.75
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T19:15:00+00:00"
+  },
+  {
+   "liga": "Turkey: 1. Lig",
+   "local": "Sarıyer",
+   "visitante": "İstanbulspor",
+   "tendencia": "★★★ Sarıyer o empate · cuota ~1,19",
+   "cuotas": [
+    1.8,
+    3.55,
+    4.15
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "Turkey: 1. Lig",
+   "local": "Ümraniyespor",
+   "visitante": "Manisa F.K.",
+   "tendencia": "★★★ Ümraniyespor o empate · cuota ~1,28",
+   "cuotas": [
+    2.04,
+    3.42,
+    3.09
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T17:00:00+00:00"
+  },
+  {
+   "liga": "CAF Confederation Cup",
+   "local": "Azam",
+   "visitante": "Al Ahli Tripoli",
+   "tendencia": "★★★ Al Ahli Tripoli o empate · cuota ~1,28",
+   "cuotas": [
+    3.06,
+    3.14,
+    2.15
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-27T13:00:00+00:00"
+  },
+  {
+   "liga": "CAF Confederation Cup",
+   "local": "CR Belouizdad",
+   "visitante": "AC Douane",
+   "tendencia": "★★★ Gana CR Belouizdad · cuota 1,07",
+   "cuotas": [
+    1.07,
+    7.03,
+    17.0
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-27T19:00:00+00:00"
+  },
+  {
+   "liga": "Friendlies Clubs",
+   "local": "Ilves",
+   "visitante": "Turku PS",
+   "tendencia": "★★★ Ilves o empate · cuota ~1,24",
+   "cuotas": [
+    1.83,
+    3.89,
+    3.26
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-27T11:30:00+00:00"
   }
  ],
  "historial_pronosticos": [
+  {
+   "fecha": "2026-11-25",
+   "ok": 70,
+   "ko": 29
+  },
   {
    "fecha": "2026-11-24",
    "ok": 42,
