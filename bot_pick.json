@@ -1,32 +1,5 @@
 {
- "fecha": "2026-11-26",
- "cuota": 1.66,
- "avisado": true,
- "legs": [
-  {
-   "Fecha": "2026-11-26",
-   "Local": "Dinamo Zagreb",
-   "Visitante": "Bayer Leverkusen",
-   "Liga": "UEFA Europa League",
-   "Pronóstico": "Bayer Leverkusen o empate",
-   "Cuota": "1.20"
-  },
-  {
-   "Fecha": "2026-11-26",
-   "Local": "SC Braga",
-   "Visitante": "KuPS",
-   "Liga": "UEFA Europa Conference League",
-   "Pronóstico": "Victoria SC Braga + menos de 5,5 goles",
-   "Cuota": "1.17"
-  },
-  {
-   "Fecha": "2026-11-26",
-   "Local": "Lyon",
-   "Visitante": "Lillestrom",
-   "Liga": "UEFA Europa League",
-   "Pronóstico": "Lyon o empate + más de 1,5 goles",
-   "Cuota": "1.18"
-  }
- ],
- "estado": "perdida"
+ "fecha": "2026-11-27",
+ "legs": [],
+ "avisado": true
 }
