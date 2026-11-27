@@ -118,41 +118,41 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-26,22:00,Chile: Primera B,Santiago Wanderers,Recoleta,Santiago Wanderers o empate,Doble oport. local,1.28,2.10,3.25,3.50,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,22:00,Nicaragua: Primera Division,Jalapa,San Marcos,Jalapa o empate,Doble oport. local,1.23,1.90,3.50,3.60,81,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,21:00,Chile: Segunda División,Colina,General Velásquez,Colina o empate,Doble oport. local,1.22,1.90,3.40,3.48,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa Conference League,SC Freiburg,Twente,SC Freiburg o empate,Doble oport. local,1.33,2.05,3.80,3.00,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa Conference League,SC Braga,KuPS,Gana SC Braga,Gana local,1.11,1.11,8.00,19.00,90,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,20:00,UEFA Europa Conference League,SC Freiburg,Twente,SC Freiburg o empate,Doble oport. local,1.33,2.05,3.80,3.00,75,"1,20-1,35",2 - 1,Acertado,1,3.30,1 - 0,Sí,1,2,3,Sí,Sí,11' L · 90'+3' L · 62' V,2,2,4,15,10,4,5,42.5,57.5,4,3,0,0,WWWWW,LWDWW,Europa-Park Stadion
+2026-11-26,20:00,UEFA Europa Conference League,SC Braga,KuPS,Gana SC Braga,Gana local,1.11,1.11,8.00,19.00,90,"1,01-1,20",4 - 0,Acertado,1,1.10,2 - 0,Sí,2,2,4,Sí,No,18' L · 31' L · 71' L · 82' L,7,3,10,23,4,10,2,59.5,40.5,1,2,0,0,WWWDW,LDLLW,Estádio Municipal de Braga
 2026-11-26,20:00,UEFA Europa League,NEC Nijmegen,Rennes,Rennes o empate,Doble oport. visitante,1.37,3.10,3.80,2.15,73,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa League,Lyon,Lillestrom,Gana Lyon,Gana local,1.18,1.18,8.00,12.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa League,Juventus,Omonia Nicosia,Gana Juventus,Gana local,1.18,1.18,7.50,13.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,20:00,UEFA Europa League,Lyon,Lillestrom,Gana Lyon,Gana local,1.18,1.18,8.00,12.00,85,"1,01-1,20",0 - 0,Fallado,0,-10.00,0 - 0,No,0,0,0,No,No,,9,6,15,22,10,7,1,63.5,36.5,2,2,0,0,DWLDW,DWWLW,Groupama Stadium
+2026-11-26,20:00,UEFA Europa League,Juventus,Omonia Nicosia,Gana Juventus,Gana local,1.18,1.18,7.50,13.00,85,"1,01-1,20",4 - 1,Acertado,1,1.80,2 - 1,Sí,3,2,5,Sí,Sí,37' L · 43' L · 68' L · 73' L · 15' V,5,3,8,23,13,9,5,60.1,39.9,1,2,0,0,DWDWW,DLLWW,Allianz Stadium
 2026-11-26,20:00,UEFA Europa Conference League,HNK Hajduk Split,St. Truiden,HNK Hajduk Split o empate,Doble oport. local,1.33,2.10,3.60,3.10,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,20:00,UEFA Europa Conference League,Gent,FK Crvena Zvezda,Gent o empate,Doble oport. local,1.28,2.05,3.40,3.30,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,20:00,UEFA Europa League,Ferencvarosi TC,Celje,Gana Ferencvarosi TC,Gana local,1.36,1.36,5.00,8.00,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,England: League One,Doncaster,Huddersfield,Huddersfield o empate,Doble oport. visitante,1.19,4.50,3.80,1.73,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa League,Crystal Palace,Real Sociedad,Crystal Palace o empate,Doble oport. local,1.32,2.00,3.90,3.30,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,20:00,England: League One,Doncaster,Huddersfield,Huddersfield o empate,Doble oport. visitante,1.19,4.50,3.80,1.73,84,"1,01-1,20",2 - 3,Acertado,1,1.90,1 - 2,Sí,3,2,5,Sí,Sí,34' L · 90' L · 5' V · 21' V · 59' V,5,6,11,18,9,3,4,60,40,1,3,0,1,DDLWL,DLWLD,Eco-Power Stadium
+2026-11-26,20:00,UEFA Europa League,Crystal Palace,Real Sociedad,Crystal Palace o empate,Doble oport. local,1.32,2.00,3.90,3.30,76,"1,20-1,35",2 - 1,Acertado,1,3.20,0 - 0,No,0,3,3,Sí,Sí,73' L · 81' L · 66' V,2,7,9,16,19,4,7,43.4,56.6,2,5,0,1,WLLDL,LLWDL,Selhurst Park
 2026-11-26,20:00,Jamaica: Premier League,Cavalier,Portmore United,Portmore United o empate,Doble oport. visitante,1.21,3.52,3.24,1.94,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa Conference League,CSKA Sofia,Trabzonspor,Trabzonspor o empate,Doble oport. visitante,1.21,4.10,3.70,1.80,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,20:00,UEFA Europa Conference League,Borac Banja Luka,Atalanta,Gana Atalanta,Gana visitante,1.50,5.50,4.33,1.50,67,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,20:00,UEFA Europa Conference League,CSKA Sofia,Trabzonspor,Trabzonspor o empate,Doble oport. visitante,1.21,4.10,3.70,1.80,83,"1,20-1,35",1 - 2,Acertado,1,2.10,1 - 0,Sí,1,2,3,Sí,Sí,32' L · 69' V · 90'+3' V,4,1,5,17,10,4,6,50,50,3,5,0,0,LLDLL,WWWLW,Balgarska Armia Stadium
+2026-11-26,20:00,UEFA Europa Conference League,Borac Banja Luka,Atalanta,Gana Atalanta,Gana visitante,1.50,5.50,4.33,1.50,67,"1,50+",2 - 3,Acertado,1,5.00,2 - 0,Sí,2,3,5,Sí,Sí,22' L · 29' L · 86' V · 90' V · 90'+3' V,4,6,10,13,22,2,7,35.3,64.7,2,3,2,0,LLWLW,WDWDL,Gradski Stadion Banja Luka
 2026-11-26,20:00,UEFA Europa League,1899 Hoffenheim,Sturm Graz,Gana 1899 Hoffenheim,Gana local,1.33,1.33,5.50,8.00,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,18:00,Denmark: 1. Division,Aalborg,Esbjerg,Aalborg o empate,Doble oport. local,1.21,1.73,4.00,4.20,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa League,Marseille,Levski Sofia,Gana Marseille,Gana local,1.38,1.38,5.00,8.00,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,17:45,UEFA Europa League,Marseille,Levski Sofia,Gana Marseille,Gana local,1.38,1.38,5.00,8.00,72,"1,35-1,50",1 - 0,Acertado,1,3.80,1 - 0,Sí,1,0,1,No,No,28' L,3,2,5,12,8,5,1,51.8,48.2,1,2,0,0,DLWWW,DWWDL,Stade Vélodrome
 2026-11-26,17:45,Israel: Liga Alef,Hapoel Mahane Yehuda,Hapoel Marmorek,Hapoel Marmorek o empate,Doble oport. visitante,1.28,3.02,3.30,2.10,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa Conference League,Egnatia Rrogozhinë,Lincoln Red Imps FC,Gana Egnatia Rrogozhinë,Gana local,1.53,1.53,4.20,5.50,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,Gana Bayer Leverkusen,Gana visitante,1.67,4.20,4.50,1.67,60,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa League,Celta Vigo,Bournemouth,Bournemouth o empate,Doble oport. visitante,1.29,3.70,3.60,2.00,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,Gana Brighton,Gana local,1.14,1.14,7.50,15.00,88,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,17:45,UEFA Europa Conference League,Egnatia Rrogozhinë,Lincoln Red Imps FC,Gana Egnatia Rrogozhinë,Gana local,1.53,1.53,4.20,5.50,65,"1,50+",2 - 1,Acertado,1,5.30,0 - 0,No,0,3,3,Sí,Sí,47' L · 81' L · 79' V,10,0,10,19,6,9,3,63.8,36.2,3,2,0,0,WLDDL,LWLLW,Air Albania Stadium
+2026-11-26,17:45,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,Gana Bayer Leverkusen,Gana visitante,1.67,4.20,4.50,1.67,60,"1,50+",0 - 2,Acertado,1,6.70,0 - 2,Sí,2,0,2,No,No,10' V · 45' V,6,6,12,14,9,3,2,37.8,62.2,3,1,0,0,LWLWD,WWWLL,Maksimir Stadium
+2026-11-26,17:45,UEFA Europa League,Celta Vigo,Bournemouth,Bournemouth o empate,Doble oport. visitante,1.29,3.70,3.60,2.00,78,"1,20-1,35",1 - 2,Acertado,1,2.90,1 - 0,Sí,1,2,3,Sí,Sí,19' L · 47' V · 78' V,6,5,11,20,10,5,6,64.5,35.5,3,2,0,1,LLWDL,WWWWW,Balaidos
+2026-11-26,17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,Gana Brighton,Gana local,1.14,1.14,7.50,15.00,88,"1,01-1,20",4 - 0,Acertado,1,1.40,2 - 0,Sí,2,2,4,Sí,No,3' L · 33' L · 61' L · 63' L,9,0,9,27,4,10,2,74.9,25.1,2,2,0,1,WLWWW,LWWDL,American Express Stadium
 2026-11-26,17:45,UEFA Europa Conference League,Brann,Aarhus,Brann o empate,Doble oport. local,1.34,2.10,3.70,3.10,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,17:45,UEFA Europa League,Beşiktaş,Hapoel Beer Sheva,Gana Beşiktaş,Gana local,1.22,1.22,7.50,10.00,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,17:45,UEFA Europa Conference League,Ajax,FC Thun,Gana Ajax,Gana local,1.17,1.17,7.00,13.00,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,17:45,UEFA Europa Conference League,Ajax,FC Thun,Gana Ajax,Gana local,1.17,1.17,7.00,13.00,85,"1,01-1,20",4 - 0,Acertado,1,1.70,2 - 0,Sí,2,2,4,Sí,No,6' L · 41' L · 70' L · 89' L,6,5,11,21,11,9,4,64.8,35.2,1,3,0,0,WWDWW,LWLLD,Johan Cruijff Arena
 2026-11-26,16:30,Qatar: Second Division,UMM Salal,Al Rayyan SC B,Gana UMM Salal,Gana local,1.29,1.29,4.90,8.75,78,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,16:30,Russia: Cup,Dynamo,Fakel,Gana Dynamo,Gana local,1.42,1.42,4.67,7.02,70,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,16:00,Uganda: Premier League,URA,Kigezi HomeBoyz,Gana URA,Gana local,1.25,1.25,4.75,10.00,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,16:00,Russia: First League,Nizhny Novgorod,Tekstilshchik,Gana Nizhny Novgorod,Gana local,1.17,1.17,7.47,12.51,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,16:00,Israel: Liga Alef,Hapoel Nazareth Illit,Maccabi K. Ata Bialik,Hapoel Nazareth Illit o empate,Doble oport. local,1.20,1.82,3.55,3.60,83,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,16:00,Kenya: FKF Premier League,GOR Mahia,Mombasa Elite,Gana GOR Mahia,Gana local,1.38,1.38,3.90,7.00,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,15:05,Saudi-Arabia: Pro League,Abha,Al Shabab,Al Shabab o empate,Doble oport. visitante,1.18,3.70,3.70,1.73,85,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,15:05,Saudi-Arabia: Pro League,Abha,Al Shabab,Al Shabab o empate,Doble oport. visitante,1.18,3.70,3.70,1.73,85,"1,01-1,20",0 - 1,Acertado,1,1.80,0 - 1,Sí,1,0,1,No,No,39' V,3,4,7,11,12,1,4,50.3,49.7,1,2,0,1,LDLLL,WWWDW,Prince Sultan bin Abdulaziz Sports City Stadium
 2026-11-26,15:00,Azerbaijan: Birinci Dasta,Cəbrayıl,MOIK,Cəbrayıl o empate,Doble oport. local,1.35,2.25,3.40,2.70,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,15:00,Jordan: League,Al Buqa'a,Al Jazeera,Al Buqa'a o empate,Doble oport. local,1.34,2.43,3.00,2.65,75,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,14:45,Romania: Liga II,Gloria Bistriţa,Slatina,Slatina o empate,Doble oport. visitante,1.35,2.92,3.20,2.35,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-26,14:25,Saudi-Arabia: Pro League,Al-Fateh,Al Riyadh,Al-Fateh o empate,Doble oport. local,1.31,2.10,3.50,3.00,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2026-11-26,14:25,Saudi-Arabia: Pro League,Al-Fateh,Al Riyadh,Al-Fateh o empate,Doble oport. local,1.31,2.10,3.50,3.00,76,"1,20-1,35",1 - 0,Acertado,1,3.10,0 - 0,No,0,1,1,No,No,70' L,8,5,13,14,14,5,5,50.3,49.7,4,3,0,0,WLLLW,LLWLD,Prince Abdullah bin Jalawi Stadium
 2026-11-26,14:20,Kuwait: Emir Cup,Al Salmiyah,Al Tadhamon,Gana Al Salmiyah,Gana local,1.53,1.53,3.70,5.30,65,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,14:15,Qatar: Second Division,Muaither SC,Al Waab,Muaither SC o empate,Doble oport. local,1.25,2.01,3.28,3.26,80,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-26,14:00,Russia: First League,Ural,Arsenal Tula,Gana Ural,Gana local,1.40,1.40,4.59,7.41,71,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,

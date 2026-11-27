@@ -1,14 +1,14 @@
 Fecha,Hora,Liga,Local,Visitante,Mercado,Probabilidad,Cuota justa,Muestra,Resultado,Acierto,Ganado (1/0),Tipo,Cuota casa,Beneficio 10€
-2026-11-26,20:00,UEFA Europa Conference League,SC Braga,KuPS,"SC Braga vence e -5,5 golos",76%,1.32,,,,,Modelo Bet Consulting,1.17,
-2026-11-26,20:00,UEFA Europa League,Lyon,Lillestrom,"Lyon/empate e +1,5 golos",75%,1.33,,,,,Modelo Bet Consulting,1.18,
-2026-11-26,20:00,UEFA Europa League,Juventus,Omonia Nicosia,"Juventus/empate e +1,5 golos",75%,1.33,,,,,Modelo Bet Consulting,1.18,
+2026-11-26,20:00,UEFA Europa Conference League,SC Braga,KuPS,"SC Braga vence e -5,5 golos",76%,1.32,,4 - 0,Acertado,1,Modelo Bet Consulting,1.17,1.70
+2026-11-26,20:00,UEFA Europa League,Lyon,Lillestrom,"Lyon/empate e +1,5 golos",75%,1.33,,0 - 0,Fallado,0,Modelo Bet Consulting,1.18,-10.00
+2026-11-26,20:00,UEFA Europa League,Juventus,Omonia Nicosia,"Juventus/empate e +1,5 golos",75%,1.33,,4 - 1,Acertado,1,Modelo Bet Consulting,1.18,1.80
 2026-11-26,20:00,UEFA Europa League,1899 Hoffenheim,Sturm Graz,"1899 Hoffenheim/empate e +1,5 golos",71%,1.40,,,,,Modelo Bet Consulting,1.25,
 2026-11-26,20:00,UEFA Europa League,Ferencvarosi TC,Celje,"Ferencvarosi TC/empate e +1,5 golos",71%,1.42,,,,,Modelo Bet Consulting,1.26,
-2026-11-26,17:45,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,Bayer Leverkusen ou empate,79%,1.27,,,,,Modelo Bet Consulting,1.20,
-2026-11-26,17:45,UEFA Europa Conference League,Ajax,FC Thun,"Ajax/empate e +1,5 golos",75%,1.33,,,,,Modelo Bet Consulting,1.19,
+2026-11-26,17:45,UEFA Europa League,Dinamo Zagreb,Bayer Leverkusen,Bayer Leverkusen ou empate,79%,1.27,,0 - 2,Acertado,1,Modelo Bet Consulting,1.20,2.00
+2026-11-26,17:45,UEFA Europa Conference League,Ajax,FC Thun,"Ajax/empate e +1,5 golos",75%,1.33,,4 - 0,Acertado,1,Modelo Bet Consulting,1.19,1.90
 2026-11-26,17:45,UEFA Europa League,Beşiktaş,Hapoel Beer Sheva,"Beşiktaş/empate e +1,5 golos",74%,1.35,,,,,Modelo Bet Consulting,1.20,
-2026-11-26,17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,"Brighton vence e -5,5 golos",74%,1.35,,,,,Modelo Bet Consulting,1.20,
-2026-11-26,17:45,UEFA Europa League,Marseille,Levski Sofia,"Marseille/empate e +1,5 golos",71%,1.42,,,,,Modelo Bet Consulting,1.26,
+2026-11-26,17:45,UEFA Europa Conference League,Brighton,Universitatea Craiova,"Brighton vence e -5,5 golos",74%,1.35,,4 - 0,Acertado,1,Modelo Bet Consulting,1.20,2.00
+2026-11-26,17:45,UEFA Europa League,Marseille,Levski Sofia,"Marseille/empate e +1,5 golos",71%,1.42,,1 - 0,Fallado,0,Modelo Bet Consulting,1.26,-10.00
 2026-11-25,20:00,UEFA Champions League,Lille,Bayern München,Bayern München ou empate,82%,1.23,,2 - 1,Fallado,0,Modelo Bet Consulting,1.15,-10.00
 2026-11-25,20:00,UEFA Champions League,Club Brugge KV,Liverpool,Liverpool ou empate,80%,1.26,,0 - 3,Acertado,1,Modelo Bet Consulting,1.18,1.80
 2026-11-25,20:00,UEFA Champions League,Atletico Madrid,Viking,"Atletico Madrid/empate e +1,5 golos",77%,1.30,,2 - 0,Acertado,1,Modelo Bet Consulting,1.16,1.60

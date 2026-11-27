@@ -1,7 +1,7 @@
 {
  "fecha": "2026-11-26",
  "cuota": 1.66,
- "avisado": false,
+ "avisado": true,
  "legs": [
   {
    "Fecha": "2026-11-26",
@@ -27,5 +27,6 @@
    "Pronóstico": "Lyon o empate + más de 1,5 goles",
    "Cuota": "1.18"
   }
- ]
+ ],
+ "estado": "perdida"
 }
