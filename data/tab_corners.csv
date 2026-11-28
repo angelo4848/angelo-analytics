@@ -52,9 +52,6 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 13:30,South-Africa: Premier Soccer League,Chippa United,Kaizer Chiefs,9.1,56%,71%,74%,60%,10,No,Registro ESPN/SofaScore (muestra baja),
 13:30,South-Africa: Premier Soccer League,Amazulu,Milford FC,9.1,56%,71%,74%,60%,10,No,Registro ESPN/SofaScore (muestra baja),
 16:00,South-Africa: Premier Soccer League,Kruger United,Mamelodi Sundowns,9.1,56%,71%,74%,60%,10,No,Registro ESPN/SofaScore (muestra baja),
-06:00,Japan: J1 League,Vissel Kobe,JEF United Chiba,9.1,55%,67%,70%,58%,36,No,Registro ESPN/SofaScore,3 - 1
-06:00,Japan: J1 League,Kashima,Fagiano Okayama,9.1,55%,67%,70%,58%,36,No,Registro ESPN/SofaScore,1 - 1
-07:00,Japan: J1 League,Kashiwa Reysol,Sanfrecce Hiroshima,9.1,55%,67%,70%,58%,36,No,Registro ESPN/SofaScore,
 15:00,England: National League,Carlisle,Sutton Utd,9.2,51%,62%,71%,61%,224,Sí,Histórico 5 años,
 19:45,France: Ligue 1,Le Mans,Lille,9.2,54%,66%,70%,58%,1777,Sí,Histórico 5 años,
 14:00,India: Indian Super League,Chennaiyin,Mumbai City,9.2,54%,68%,73%,60%,10,No,Registro ESPN/SofaScore (muestra baja),
@@ -62,6 +59,9 @@ Hora,Liga,Local,Visitante,Córners esperados,"Prob menos 9,5","Prob menos 10,5",
 17:00,Switzerland: Challenge League,FC WIL 1900,Yverdon Sport,9.2,53%,65%,69%,58%,5,No,Registro ESPN/SofaScore (muestra baja),
 15:00,England: League Two,Shrewsbury,Cheltenham,9.2,51%,64%,72%,61%,2948,Sí,Histórico 5 años,
 17:30,Spain: La Liga,Elche,Atletico Madrid,9.2,53%,65%,71%,59%,2029,Sí,Histórico 5 años,
+06:00,Japan: J1 League,Vissel Kobe,JEF United Chiba,9.2,54%,66%,71%,59%,37,No,Registro ESPN/SofaScore,3 - 1
+06:00,Japan: J1 League,Kashima,Fagiano Okayama,9.2,54%,66%,71%,59%,37,No,Registro ESPN/SofaScore,1 - 1
+07:00,Japan: J1 League,Kashiwa Reysol,Sanfrecce Hiroshima,9.2,54%,66%,71%,59%,37,No,Registro ESPN/SofaScore,3 - 1
 15:30,Netherlands: Eredivisie,Excelsior,Telstar,9.2,50%,61%,74%,63%,1647,Sí,Histórico 5 años,
 13:00,Turkey: Süper Lig,Samsunspor,Gençlerbirliği S.K.,9.2,53%,65%,71%,59%,1827,Sí,Histórico 5 años,
 15:00,England: National League,Eastleigh,FC Halifax Town,9.3,50%,62%,72%,61%,224,Sí,Histórico 5 años,

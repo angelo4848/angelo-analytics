@@ -1,5 +1,23 @@
 {
- "fecha": "2026-11-27",
- "legs": [],
- "avisado": true
+ "fecha": "2026-11-28",
+ "cuota": 1.6,
+ "avisado": false,
+ "legs": [
+  {
+   "Fecha": "2026-11-28",
+   "Local": "Hamburger SV",
+   "Visitante": "Bayern Munich",
+   "Liga": "Germany: Bundesliga",
+   "Pronóstico": "Victoria Bayern Munich + más de 1,5 goles",
+   "Cuota": "1.25"
+  },
+  {
+   "Fecha": "2026-11-28",
+   "Local": "Leeds United",
+   "Visitante": "Coventry",
+   "Liga": "England: Premier League",
+   "Pronóstico": "Leeds United o empate + más de 1,5 goles",
+   "Cuota": "1.28"
+  }
+ ]
 }

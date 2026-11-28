@@ -834,6 +834,40 @@
      "resultado": "0 - 0"
     }
    ]
+  },
+  {
+   "fecha": "2026-11-28",
+   "titulo": "Combinada del día",
+   "estado": "pendiente",
+   "cuota_total": 1.6,
+   "patas": [
+    {
+     "liga": "Germany: Bundesliga",
+     "hora": "14:30",
+     "partido": "Hamburger SV vs Bayern Munich",
+     "mercado": "Victoria Bayern Munich + más de 1,5 goles",
+     "cuota": 1.25,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 71%",
+      "Cuota aproximada 1,25 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    },
+    {
+     "liga": "England: Premier League",
+     "hora": "15:00",
+     "partido": "Leeds United vs Coventry",
+     "mercado": "Leeds United o empate + más de 1,5 goles",
+     "cuota": 1.28,
+     "estado": "pendiente",
+     "analisis": [
+      "Favorito claro de liga grande · probabilidad estimada 70%",
+      "Cuota aproximada 1,28 · revisa la cuota en tu casa",
+      "Elegido por el pick automático: la combinación más segura del día"
+     ]
+    }
+   ]
   }
  ],
  "partidos": [
@@ -13745,6 +13779,318 @@
    ],
    "tipo": "HOME WIN",
    "inicio": "2026-11-29T19:00:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "Majestic",
+   "visitante": "Rahimo",
+   "tendencia": "★★★ Gana Rahimo · cuota 1,72",
+   "cuotas": [
+    4.55,
+    3.2,
+    1.72
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "ASFA-Yennenga",
+   "visitante": "Maya",
+   "tendencia": "★★★ ASFA-Yennenga o empate · cuota ~1,14",
+   "cuotas": [
+    1.83,
+    3.0,
+    4.33
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "ASFB",
+   "visitante": "Douanes",
+   "tendencia": "★★★ Douanes o empate · cuota ~1,16",
+   "cuotas": [
+    4.01,
+    2.71,
+    2.04
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "liga": "Burkina-Faso: Ligue 1",
+   "local": "Comoé",
+   "visitante": "Sporting Cascades",
+   "tendencia": "★★★ Comoé o empate · cuota ~1,45",
+   "cuotas": [
+    2.95,
+    2.85,
+    2.37
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "liga": "France: Coupe de France",
+   "local": "La Roche VF",
+   "visitante": "Châteaubriant",
+   "tendencia": "★★★ Gana La Roche VF · cuota 1,28",
+   "cuotas": [
+    1.28,
+    5.0,
+    7.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T16:00:00+00:00"
+  },
+  {
+   "liga": "Ivory-Coast: Ligue 1",
+   "local": "ASEC Mimosas",
+   "visitante": "Adiake",
+   "tendencia": "★★★ Gana ASEC Mimosas · cuota 1,48",
+   "cuotas": [
+    1.48,
+    3.5,
+    6.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T15:30:00+00:00"
+  },
+  {
+   "liga": "Libya: Premier League",
+   "local": "Al-Sharara",
+   "visitante": "Military Union SC",
+   "tendencia": "★★★ Gana Military Union SC · cuota 1,04",
+   "cuotas": [
+    17.0,
+    10.0,
+    1.04
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-28T13:30:00+00:00"
+  },
+  {
+   "liga": "Mali: Première Division",
+   "local": "CS Bamako",
+   "visitante": "Stade Malien Bamako",
+   "tendencia": "★★★ Stade Malien Bamako o empate · cuota ~1,17",
+   "cuotas": [
+    3.94,
+    2.88,
+    1.97
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T16:00:00+00:00"
+  },
+  {
+   "liga": "Morocco: Botola 2",
+   "local": "KAC Kenitra",
+   "visitante": "Chabab Atl. Khenifra",
+   "tendencia": "★★★ KAC Kenitra o empate · cuota ~1,11",
+   "cuotas": [
+    1.76,
+    2.99,
+    4.85
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T15:00:00+00:00"
+  },
+  {
+   "liga": "Poland: III Liga - Group 1",
+   "local": "Olimpia Zambrów",
+   "visitante": "Swit",
+   "tendencia": "★★★ Swit o empate · cuota ~1,33",
+   "cuotas": [
+    2.82,
+    3.44,
+    2.16
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T11:00:00+00:00"
+  },
+  {
+   "liga": "Poland: III Liga - Group 2",
+   "local": "Kotwica Kórnik",
+   "visitante": "Flota Świnoujście",
+   "tendencia": "★★★ Gana Flota Świnoujście · cuota 1,64",
+   "cuotas": [
+    4.25,
+    3.82,
+    1.64
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-28T12:00:00+00:00"
+  },
+  {
+   "liga": "Poland: III Liga - Group 4",
+   "local": "KSZO 1929",
+   "visitante": "Star Starachowice",
+   "tendencia": "★★★ Gana KSZO 1929 · cuota 1,47",
+   "cuotas": [
+    1.47,
+    4.05,
+    5.4
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T14:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Bugesera",
+   "visitante": "Gicumbi",
+   "tendencia": "★★★ Bugesera o empate · cuota ~1,23",
+   "cuotas": [
+    2.09,
+    2.99,
+    3.38
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Police",
+   "visitante": "APR",
+   "tendencia": "★★★ APR o empate · cuota ~1,09",
+   "cuotas": [
+    5.21,
+    3.04,
+    1.7
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Etincelles",
+   "visitante": "Gasogi United",
+   "tendencia": "★★★ Etincelles o empate · cuota ~1,28",
+   "cuotas": [
+    2.3,
+    2.87,
+    3.1
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T13:00:00+00:00"
+  },
+  {
+   "liga": "Rwanda: National Soccer League",
+   "local": "Musanze",
+   "visitante": "Al Merreikh",
+   "tendencia": "★★★ Al Merreikh o empate · cuota ~1,14",
+   "cuotas": [
+    4.25,
+    3.1,
+    1.8
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T13:00:00+00:00"
+  },
+  {
+   "liga": "Scotland: FA Cup",
+   "local": "Ross County",
+   "visitante": "Brora Rangers",
+   "tendencia": "★★★ Gana Ross County · cuota 1,12",
+   "cuotas": [
+    1.12,
+    7.4,
+    12.5
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T15:00:00+00:00"
+  },
+  {
+   "liga": "Scotland: FA Cup",
+   "local": "Troon FC",
+   "visitante": "Raith Rovers",
+   "tendencia": "★★★ Gana Raith Rovers · cuota 1,09",
+   "cuotas": [
+    18.0,
+    7.2,
+    1.09
+   ],
+   "tipo": "AWAY WIN",
+   "inicio": "2026-11-28T15:00:00+00:00"
+  },
+  {
+   "liga": "Scotland: FA Cup",
+   "local": "East Kilbride",
+   "visitante": "Clyde",
+   "tendencia": "★★★ Gana East Kilbride · cuota 1,42",
+   "cuotas": [
+    1.42,
+    4.4,
+    6.73
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T15:00:00+00:00"
+  },
+  {
+   "liga": "Scotland: FA Cup",
+   "local": "Stranraer",
+   "visitante": "Clachnacuddin",
+   "tendencia": "★★★ Gana Stranraer · cuota 1,29",
+   "cuotas": [
+    1.29,
+    5.2,
+    8.95
+   ],
+   "tipo": "HOME WIN",
+   "inicio": "2026-11-28T15:00:00+00:00"
+  },
+  {
+   "liga": "Senegal: Ligue 1",
+   "local": "AJEL",
+   "visitante": "Ouakam",
+   "tendencia": "★★★ AJEL o empate · cuota ~1,09",
+   "cuotas": [
+    1.83,
+    2.7,
+    5.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T16:30:00+00:00"
+  },
+  {
+   "liga": "Senegal: Ligue 1",
+   "local": "Pikine",
+   "visitante": "Stade de Mbour",
+   "tendencia": "★★★ Pikine o empate · cuota ~1,19",
+   "cuotas": [
+    2.1,
+    2.72,
+    3.75
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T17:00:00+00:00"
+  },
+  {
+   "liga": "Tanzania: Ligi kuu Bara",
+   "local": "Mashujaa",
+   "visitante": "Tabora United",
+   "tendencia": "★★★ Mashujaa o empate · cuota ~1,28",
+   "cuotas": [
+    2.3,
+    2.9,
+    3.0
+   ],
+   "tipo": "HOME DC",
+   "inicio": "2026-11-28T13:00:00+00:00"
+  },
+  {
+   "liga": "Ukraine: Persha Liga",
+   "local": "Prykarpattia",
+   "visitante": "Kulykiv",
+   "tendencia": "★★★ Kulykiv o empate · cuota ~1,31",
+   "cuotas": [
+    2.94,
+    3.37,
+    2.15
+   ],
+   "tipo": "AWAY DC",
+   "inicio": "2026-11-28T10:30:00+00:00"
   }
  ],
  "historial_pronosticos": [
