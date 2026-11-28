@@ -145,6 +145,7 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 12:30,England: National League,AFC Fylde,Aldershot Town,71%,1.41,34%,2.92,1.17,2938,Sí,Histórico 5 años,,
 12:30,England: League One,Milton Keynes Dons,Notts County,71%,1.41,34%,2.90,1.21,2939,Sí,Histórico 5 años,,
 23:00,Argentina: Liga Profesional Argentina,Velez Sarsfield,Independiente,71%,1.41,35%,2.85,1.00,21,No,Registro ESPN/SofaScore,,
+08:40,Australia: A-League,Central Coast Mariners,Auckland,71%,1.41,35%,2.87,1.14,14,No,Registro ESPN/SofaScore,2 - 2,2 - 3
 19:45,Belgium: Jupiler Pro League,Lommel United,Zulte Waregem,71%,1.41,34%,2.92,1.13,1650,Sí,Histórico 5 años,,
 14:30,Germany: Bundesliga,1. FC Köln,SV Elversberg,71%,1.41,35%,2.83,1.09,1619,Sí,Histórico 5 años,,
 20:00,Spain: La Liga,Real Madrid,Alaves,71%,1.41,35%,2.82,1.36,2029,Sí,Histórico 5 años,,
@@ -165,7 +166,6 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 19:00,Bolivia: Primera División,Gualberto Villarroel SJ,Real Potosí,70%,1.43,34%,2.98,1.17,23,No,Registro ESPN/SofaScore,,
 21:15,Bolivia: Primera División,Guabirá,Universitario de Vinto,70%,1.43,34%,2.98,1.17,23,No,Registro ESPN/SofaScore,,
 23:30,Bolivia: Primera División,Nacional Potosí,Oriente Petrolero,70%,1.43,34%,2.98,1.17,23,No,Registro ESPN/SofaScore,,
-08:40,Australia: A-League,Central Coast Mariners,Auckland,70%,1.44,33%,3.00,0.92,13,No,Registro ESPN/SofaScore,,
 14:00,Wales: FAW Championship,Llantwit Major,Treowen Stars,70%,1.44,33%,3.00,1.31,13,No,Registro ESPN/SofaScore,,
 14:30,Wales: FAW Championship,Trethomas Bluebirds,Ynyshir Albions,70%,1.44,33%,3.00,1.31,13,No,Registro ESPN/SofaScore,,
 14:30,Wales: FAW Championship,Aberystwyth Town,Pontypridd Town,70%,1.44,33%,3.00,1.31,13,No,Registro ESPN/SofaScore,,
@@ -182,8 +182,8 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 15:00,Greece: Super League 1,Iraklis 1908,Panetolikos,69%,1.45,32%,3.10,1.12,1264,Sí,Histórico 5 años,,
 15:00,England: National League,Boston United,Kidderminster Harriers,69%,1.45,32%,3.16,1.05,2938,Sí,Histórico 5 años,,
 14:00,Italy: Serie A,Frosinone,Parma,69%,1.45,32%,3.14,1.10,2020,Sí,Histórico 5 años,,
-07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,69%,1.45,32%,3.09,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,
-07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,69%,1.45,32%,3.09,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,
+07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,69%,1.45,32%,3.09,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,2 - 4
+07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,69%,1.45,32%,3.09,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,1 - 2
 13:30,Italy: Serie C - Girone C,Giugliano,Team Altamura,69%,1.45,32%,3.09,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Czech-Republic: Czech Liga,Teplice,Slovan Liberec,69%,1.45,32%,3.09,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Czech-Republic: Czech Liga,Mlada Boleslav,Sigma Olomouc,69%,1.45,32%,3.09,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,
@@ -275,5 +275,5 @@ Hora,Liga,Local,Visitante,Prob gol 1.ª parte,"Cuota justa +0,5","Prob +1,5 1.ª
 21:00,Chile: Primera División,Coquimbo Unido,Deportes Limache,58%,1.71,27%,3.74,1.14,14,No,Registro ESPN/SofaScore,,
 23:30,Chile: Primera División,Colo Colo,D. La Serena,58%,1.71,27%,3.74,1.14,14,No,Registro ESPN/SofaScore,,
 23:00,Brazil: Serie B,Fortaleza EC,Criciuma,57%,1.75,26%,3.80,0.91,32,No,Registro ESPN/SofaScore,,
-08:30,Australia: Australian Championship,Bayswater City,Sydney United,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+08:30,Australia: Australian Championship,Bayswater City,Sydney United,56%,1.78,26%,3.84,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,0 - 3
 15:00,England: League One,Stevenage,Blackpool,56%,1.80,26%,3.80,0.59,2939,Sí,Histórico 5 años,,

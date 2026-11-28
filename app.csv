@@ -1002,16 +1002,16 @@ Fecha,Hora,Liga,Local,Visitante,Pronóstico,Tipo,Cuota,Cuota 1,Cuota X,Cuota 2,P
 2026-11-28,09:00,Romania: Liga II,CS Dinamo București,Dumbrăviţa,Dumbrăviţa o empate,Doble oport. visitante,1.31,2.91,3.45,2.10,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-28,09:00,Romania: Liga II,CS Afumati,CSM Reşiţa,CSM Reşiţa o empate,Doble oport. visitante,1.32,2.84,3.18,2.26,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
 2026-11-28,09:00,Romania: Liga II,ASA Targu Mures,CSM Satu Mare,ASA Targu Mures o empate,Doble oport. local,1.19,1.82,3.40,3.76,84,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:45,Malaysia: Super League,Negeri Sembilan,Terengganu,Negeri Sembilan o empate,Doble oport. local,1.35,2.23,3.44,2.73,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:40,Australia: A-League,Central Coast Mariners,Auckland,Auckland o empate,Doble oport. visitante,1.30,3.71,3.86,1.97,77,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:30,Indonesia: Liga 1,PSM Makassar,Dewa United,Dewa United o empate,Doble oport. visitante,1.22,3.40,3.40,1.90,82,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:30,Indonesia: Liga 1,PSIM Yogyakarta,Persijap,Gana PSIM Yogyakarta,Gana local,1.72,1.72,3.65,4.25,58,"1,50+",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:30,Indonesia: Liga 1,Isenmulang Kalteng,PSS Sleman,PSS Sleman o empate,Doble oport. visitante,1.47,2.45,3.40,2.60,68,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:30,Australia: Australian Championship,Bayswater City,Sydney United,Sydney United o empate,Doble oport. visitante,1.35,3.00,3.60,2.15,74,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,08:30,Indonesia: Liga 1,Bali United,Bhayangkara FC,Bali United o empate,Doble oport. local,1.15,1.68,3.64,4.20,87,"1,01-1,20",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,Pohang Steelers o empate,Doble oport. local,1.26,1.95,3.54,3.64,79,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,Gimcheon Sangmu FC o empate,Doble oport. visitante,1.38,2.70,3.30,2.38,72,"1,35-1,50",,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2026-11-28,07:00,Japan: J1 League,Kashiwa Reysol,Sanfrecce Hiroshima,Sanfrecce Hiroshima o empate,Doble oport. visitante,1.39,3.08,3.74,2.20,72,"1,35-1,50",3 - 1,Fallado,0,-10.00,2 - 1,Sí,3,1,4,Sí,Sí,24' L · 28' L · 57' L · 19' V,4,8,12,20,13,12,2,35.8,64.2,2,0,0,0,WWLWW,LDDDW,Sankyo Frontier Kashiwa Stadium
+2026-11-28,08:45,Malaysia: Super League,Negeri Sembilan,Terengganu,Negeri Sembilan o empate,Doble oport. local,1.35,2.23,3.44,2.73,74,"1,35-1,50",1 - 2,Fallado,0,-10.00,,,,,3,Sí,Sí,,,,,,,,,,,,,,,,,
+2026-11-28,08:40,Australia: A-League,Central Coast Mariners,Auckland,Auckland o empate,Doble oport. visitante,1.30,3.71,3.86,1.97,77,"1,20-1,35",2 - 3,Acertado,1,3.00,2 - 2,Sí,4,1,5,Sí,Sí,19' L · 45'+1' L · 13' V · 34' V · 90'+4' V,4,3,7,17,22,3,8,63.2,36.8,1,2,0,0,LDLDL,WDDDL,Central Coast Stadium
+2026-11-28,08:30,Indonesia: Liga 1,PSM Makassar,Dewa United,Dewa United o empate,Doble oport. visitante,1.22,3.40,3.40,1.90,82,"1,20-1,35",0 - 3,Acertado,1,2.20,,,,,3,Sí,No,,,,,,,,,,,,,,,,,
+2026-11-28,08:30,Indonesia: Liga 1,PSIM Yogyakarta,Persijap,Gana PSIM Yogyakarta,Gana local,1.72,1.72,3.65,4.25,58,"1,50+",2 - 1,Acertado,1,7.20,,,,,3,Sí,Sí,,,,,,,,,,,,,,,,,
+2026-11-28,08:30,Indonesia: Liga 1,Isenmulang Kalteng,PSS Sleman,PSS Sleman o empate,Doble oport. visitante,1.47,2.45,3.40,2.60,68,"1,35-1,50",4 - 2,Acertado,1,4.70,,,,,6,Sí,Sí,,,,,,,,,,,,,,,,,
+2026-11-28,08:30,Australia: Australian Championship,Bayswater City,Sydney United,Sydney United o empate,Doble oport. visitante,1.35,3.00,3.60,2.15,74,"1,35-1,50",0 - 3,Acertado,1,3.50,,,,,3,Sí,No,,,,,,,,,,,,,,,,,
+2026-11-28,08:30,Indonesia: Liga 1,Bali United,Bhayangkara FC,Bali United o empate,Doble oport. local,1.15,1.68,3.64,4.20,87,"1,01-1,20",4 - 0,Acertado,1,1.50,,,,,4,Sí,No,,,,,,,,,,,,,,,,,
+2026-11-28,07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,Pohang Steelers o empate,Doble oport. local,1.26,1.95,3.54,3.64,79,"1,20-1,35",2 - 4,Fallado,0,-10.00,,,,,6,Sí,Sí,,,,,,,,,,,,,,,,,
+2026-11-28,07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,Gimcheon Sangmu FC o empate,Doble oport. visitante,1.38,2.70,3.30,2.38,72,"1,35-1,50",1 - 2,Acertado,1,3.80,,,,,3,Sí,Sí,,,,,,,,,,,,,,,,,
+2026-11-28,07:00,Japan: J1 League,Kashiwa Reysol,Sanfrecce Hiroshima,Sanfrecce Hiroshima o empate,Doble oport. visitante,1.39,3.08,3.74,2.20,72,"1,35-1,50",3 - 1,Acertado,1,3.90,2 - 1,Sí,3,1,4,Sí,Sí,24' L · 28' L · 57' L · 19' V,4,8,12,20,13,12,2,35.8,64.2,2,0,0,0,WWLWW,LDDDW,Sankyo Frontier Kashiwa Stadium
 2026-11-28,06:00,Japan: J1 League,Vissel Kobe,JEF United Chiba,Gana Vissel Kobe,Gana local,1.62,1.62,3.95,5.00,62,"1,50+",3 - 1,Acertado,1,6.20,1 - 0,Sí,1,3,4,Sí,Sí,21' L · 74' L · 90'+8' L · 56' V,3,3,6,18,13,6,4,59.7,40.3,0,2,0,0,WLLDW,LLWWW,Kobe Wing Stadium
 2026-11-28,06:00,Japan: J1 League,Kashima,Fagiano Okayama,Kashima o empate,Doble oport. local,1.21,1.80,3.70,4.33,83,"1,20-1,35",1 - 1,Acertado,1,2.10,0 - 0,No,0,2,2,No,Sí,65' L · 90'+1' V,10,2,12,16,7,4,0,68.8,31.2,1,3,0,0,DWDLD,DWWDL,Kashima Soccer Stadium
 2026-11-28,03:10,Mexico: Liga MX,Leon,Cruz Azul,Cruz Azul o empate,Doble oport. visitante,1.32,3.12,3.45,2.13,76,"1,20-1,35",,,,,,,,,,,,,,,,,,,,,,,,,,,,

@@ -1,6 +1,6 @@
 Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.ª parte","Cuota justa −1,5",Goles esperados 1.ª parte,Muestra liga,Datos de equipos,Fuente,Descanso,Resultado
 15:00,England: League One,Stevenage,Blackpool,44%,2.26,74%,1.36,0.59,2939,Sí,Histórico 5 años,,
-08:30,Australia: Australian Championship,Bayswater City,Sydney United,44%,2.29,74%,1.35,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,
+08:30,Australia: Australian Championship,Bayswater City,Sydney United,44%,2.29,74%,1.35,0.50,6,No,Registro ESPN/SofaScore (muestra baja),,0 - 3
 23:00,Brazil: Serie B,Fortaleza EC,Criciuma,43%,2.33,74%,1.36,0.91,32,No,Registro ESPN/SofaScore,,
 21:00,Chile: Primera División,Coquimbo Unido,Deportes Limache,42%,2.40,73%,1.37,1.14,14,No,Registro ESPN/SofaScore,,
 23:30,Chile: Primera División,Colo Colo,D. La Serena,42%,2.40,73%,1.37,1.14,14,No,Registro ESPN/SofaScore,,
@@ -79,8 +79,8 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 13:00,Spain: Segunda División,Las Palmas,FC Andorra,32%,3.16,68%,1.48,1.26,2472,Sí,Histórico 5 años,,
 18:00,Greece: Super League 1,Kifisia,Kalamata,32%,3.16,68%,1.46,1.09,1264,Sí,Histórico 5 años,,
 13:00,Turkey: Süper Lig,Samsunspor,Gençlerbirliği S.K.,31%,3.20,68%,1.47,1.03,1827,Sí,Histórico 5 años,,
-07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,
-07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,
+07:30,South-Korea: K League 1,Pohang Steelers,Gwangju FC,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,2 - 4
+07:30,South-Korea: K League 1,Bucheon FC 1995,Gimcheon Sangmu FC,31%,3.20,68%,1.48,1.17,6,No,Registro ESPN/SofaScore (muestra baja),,1 - 2
 13:30,Italy: Serie C - Girone C,Giugliano,Team Altamura,31%,3.20,68%,1.48,1.33,6,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Czech-Republic: Czech Liga,Teplice,Slovan Liberec,31%,3.20,68%,1.48,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,
 14:00,Czech-Republic: Czech Liga,Mlada Boleslav,Sigma Olomouc,31%,3.20,68%,1.48,1.00,6,No,Registro ESPN/SofaScore (muestra baja),,
@@ -107,7 +107,6 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 21:30,USA: Major League Soccer,Philadelphia Union,New England Revolution,31%,3.25,67%,1.49,1.28,29,No,Registro ESPN/SofaScore,,
 23:30,USA: Major League Soccer,FC Cincinnati,Nashville SC,31%,3.25,67%,1.49,1.28,29,No,Registro ESPN/SofaScore,,
 19:45,France: Ligue 1,Le Mans,Lille,31%,3.26,67%,1.49,1.12,1777,Sí,Histórico 5 años,,
-08:40,Australia: A-League,Central Coast Mariners,Auckland,30%,3.29,67%,1.50,0.92,13,No,Registro ESPN/SofaScore,,
 14:00,Wales: FAW Championship,Llantwit Major,Treowen Stars,30%,3.29,67%,1.50,1.31,13,No,Registro ESPN/SofaScore,,
 14:30,Wales: FAW Championship,Trethomas Bluebirds,Ynyshir Albions,30%,3.29,67%,1.50,1.31,13,No,Registro ESPN/SofaScore,,
 14:30,Wales: FAW Championship,Aberystwyth Town,Pontypridd Town,30%,3.29,67%,1.50,1.31,13,No,Registro ESPN/SofaScore,,
@@ -131,6 +130,7 @@ Hora,Liga,Local,Visitante,Prob 0-0 descanso,"Cuota justa −0,5","Prob −1,5 1.
 20:00,Spain: La Liga,Real Madrid,Alaves,29%,3.42,65%,1.55,1.36,2029,Sí,Histórico 5 años,,
 14:30,Germany: Bundesliga,1. FC Köln,SV Elversberg,29%,3.42,65%,1.55,1.09,1619,Sí,Histórico 5 años,,
 19:45,Belgium: Jupiler Pro League,Lommel United,Zulte Waregem,29%,3.42,66%,1.52,1.13,1650,Sí,Histórico 5 años,,
+08:40,Australia: A-League,Central Coast Mariners,Auckland,29%,3.43,65%,1.54,1.14,14,No,Registro ESPN/SofaScore,2 - 2,2 - 3
 23:00,Argentina: Liga Profesional Argentina,Velez Sarsfield,Independiente,29%,3.44,65%,1.54,1.00,21,No,Registro ESPN/SofaScore,,
 12:30,England: League One,Milton Keynes Dons,Notts County,29%,3.45,66%,1.53,1.21,2939,Sí,Histórico 5 años,,
 12:30,England: National League,AFC Fylde,Aldershot Town,29%,3.45,66%,1.52,1.17,2938,Sí,Histórico 5 años,,

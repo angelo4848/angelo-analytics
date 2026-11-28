@@ -1187,14 +1187,15 @@
    "liga": "Australia: A-League",
    "local": "Central Coast Mariners",
    "visitante": "Auckland",
-   "tendencia": "★★★ Auckland o empate · cuota ~1,30",
+   "tendencia": "★★★ Auckland o empate · cuota ~1,30 · ✓ acertado",
    "cuotas": [
     3.71,
     3.86,
     1.97
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T08:40:00+00:00"
+   "inicio": "2026-11-28T08:40:00+00:00",
+   "resultado": "2 - 3"
   },
   {
    "liga": "Austria: Bundesliga",
@@ -1980,53 +1981,57 @@
    "liga": "Indonesia: Liga 1",
    "local": "PSIM Yogyakarta",
    "visitante": "Persijap",
-   "tendencia": "★★★ Gana PSIM Yogyakarta · cuota 1,72",
+   "tendencia": "★★★ Gana PSIM Yogyakarta · cuota 1,72 · ✓ acertado",
    "cuotas": [
     1.72,
     3.65,
     4.25
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-28T08:30:00+00:00"
+   "inicio": "2026-11-28T08:30:00+00:00",
+   "resultado": "2 - 1"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "Isenmulang Kalteng",
    "visitante": "PSS Sleman",
-   "tendencia": "★★★ PSS Sleman o empate · cuota ~1,47",
+   "tendencia": "★★★ PSS Sleman o empate · cuota ~1,47 · ✓ acertado",
    "cuotas": [
     2.45,
     3.4,
     2.6
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T08:30:00+00:00"
+   "inicio": "2026-11-28T08:30:00+00:00",
+   "resultado": "4 - 2"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "PSM Makassar",
    "visitante": "Dewa United",
-   "tendencia": "★★★ Dewa United o empate · cuota ~1,22",
+   "tendencia": "★★★ Dewa United o empate · cuota ~1,22 · ✓ acertado",
    "cuotas": [
     3.4,
     3.4,
     1.9
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T08:30:00+00:00"
+   "inicio": "2026-11-28T08:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Indonesia: Liga 1",
    "local": "Bali United",
    "visitante": "Bhayangkara FC",
-   "tendencia": "★★★ Bali United o empate · cuota ~1,15",
+   "tendencia": "★★★ Bali United o empate · cuota ~1,15 · ✓ acertado",
    "cuotas": [
     1.68,
     3.64,
     4.2
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-28T08:30:00+00:00"
+   "inicio": "2026-11-28T08:30:00+00:00",
+   "resultado": "4 - 0"
   },
   {
    "liga": "Indonesia: Liga 1",
@@ -2188,40 +2193,43 @@
    "liga": "Japan: J1 League",
    "local": "Vissel Kobe",
    "visitante": "JEF United Chiba",
-   "tendencia": "★★★ Gana Vissel Kobe · cuota 1,62",
+   "tendencia": "★★★ Gana Vissel Kobe · cuota 1,62 · ✓ acertado",
    "cuotas": [
     1.62,
     3.95,
     5.0
    ],
    "tipo": "HOME WIN",
-   "inicio": "2026-11-28T06:00:00+00:00"
+   "inicio": "2026-11-28T06:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Japan: J1 League",
    "local": "Kashima",
    "visitante": "Fagiano Okayama",
-   "tendencia": "★★★ Kashima o empate · cuota ~1,21",
+   "tendencia": "★★★ Kashima o empate · cuota ~1,21 · ✓ acertado",
    "cuotas": [
     1.8,
     3.7,
     4.33
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-28T06:00:00+00:00"
+   "inicio": "2026-11-28T06:00:00+00:00",
+   "resultado": "1 - 1"
   },
   {
    "liga": "Japan: J1 League",
    "local": "Kashiwa Reysol",
    "visitante": "Sanfrecce Hiroshima",
-   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,39",
+   "tendencia": "★★★ Sanfrecce Hiroshima o empate · cuota ~1,39 · ✓ acertado",
    "cuotas": [
     3.08,
     3.74,
     2.2
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T07:00:00+00:00"
+   "inicio": "2026-11-28T07:00:00+00:00",
+   "resultado": "3 - 1"
   },
   {
    "liga": "Macedonia: First League",
@@ -2266,14 +2274,15 @@
    "liga": "Malaysia: Super League",
    "local": "Negeri Sembilan",
    "visitante": "Terengganu",
-   "tendencia": "★★★ Negeri Sembilan o empate · cuota ~1,35",
+   "tendencia": "★★★ Negeri Sembilan o empate · cuota ~1,35 · ✗ fallado",
    "cuotas": [
     2.23,
     3.44,
     2.73
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-28T08:45:00+00:00"
+   "inicio": "2026-11-28T08:45:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "Malaysia: Super League",
@@ -2838,27 +2847,29 @@
    "liga": "South-Korea: K League 1",
    "local": "Bucheon FC 1995",
    "visitante": "Gimcheon Sangmu FC",
-   "tendencia": "★★★ Gimcheon Sangmu FC o empate · cuota ~1,38",
+   "tendencia": "★★★ Gimcheon Sangmu FC o empate · cuota ~1,38 · ✓ acertado",
    "cuotas": [
     2.7,
     3.3,
     2.38
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T07:30:00+00:00"
+   "inicio": "2026-11-28T07:30:00+00:00",
+   "resultado": "1 - 2"
   },
   {
    "liga": "South-Korea: K League 1",
    "local": "Pohang Steelers",
    "visitante": "Gwangju FC",
-   "tendencia": "★★★ Pohang Steelers o empate · cuota ~1,26",
+   "tendencia": "★★★ Pohang Steelers o empate · cuota ~1,26 · ✗ fallado",
    "cuotas": [
     1.95,
     3.54,
     3.64
    ],
    "tipo": "HOME DC",
-   "inicio": "2026-11-28T07:30:00+00:00"
+   "inicio": "2026-11-28T07:30:00+00:00",
+   "resultado": "2 - 4"
   },
   {
    "liga": "Sweden: Superettan",
@@ -3319,14 +3330,15 @@
    "liga": "Australia: Australian Championship",
    "local": "Bayswater City",
    "visitante": "Sydney United",
-   "tendencia": "★★★ Sydney United o empate · cuota ~1,35",
+   "tendencia": "★★★ Sydney United o empate · cuota ~1,35 · ✓ acertado",
    "cuotas": [
     3.0,
     3.6,
     2.15
    ],
    "tipo": "AWAY DC",
-   "inicio": "2026-11-28T08:30:00+00:00"
+   "inicio": "2026-11-28T08:30:00+00:00",
+   "resultado": "0 - 3"
   },
   {
    "liga": "Austria: 2. Liga",
